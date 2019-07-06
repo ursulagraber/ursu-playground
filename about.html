@@ -4,9 +4,21 @@ title: About
 <div class="editable">
 	<h1>About</h1>
 
+	<style type="text/css" media="screen">
+		#boids { display:block; margin: 0px auto; }
+    #credits {margin: 10px; font-size: 10pt; text-align: right; width: 600px; margin: 0 auto;}
+    #credits a, #credits a:visited {color: #777; text-decoration: none;}
+    #credits a:hover, #credits a:hover { text-decoration: underline; color: #333;}
+	</style>
+
 	<script src="/js/boidtanz.js"></script>
 
 	<p>I'm Jane Doe and welcome to my food blog. Each week I try out a new recipe and post it here to share it with the world. If you enjoy any of the recipes I post feel free to leave a comment.</p>
+
+	<script src="/js/boidtanz.js" type="text/javascript" charset="utf-8"></script>
+
+	<body onload="init()">
+	<canvas id="boids" width="600" height="450"></canvas>
 
 	<p>I grew up in Denver, Colorado and learned to bake from my mother. After finishing highschool I started baking full time and selling baked goods at local markets. Now I work full-time at a bakery in San Francisco.</p>
 	<img src="https://source.unsplash.com/e05_q5pyMDs" alt="Jane Doe">

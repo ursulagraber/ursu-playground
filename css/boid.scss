@@ -1,0 +1,29 @@
+---
+---
+
+body {
+   background-color: #e6e2df;
+}
+
+#boids {
+  display: block;
+  margin: 0px auto;
+}
+
+#credits {
+  margin: 10px;
+  font-size: 10pt;
+  text-align: right;
+  width: 600px;
+  margin: 0 auto;
+}
+
+#credits a, #credits a:visited {
+  color: #777;
+  text-decoration: none;
+}
+
+#credits a:hover {
+  text-decoration: underline;
+  color: #333;
+}

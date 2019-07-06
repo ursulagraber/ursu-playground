@@ -2,7 +2,7 @@
 # Site
 
 title: Treat Template
-url: "https://spring-bat.cloudvent.net/"
+url: "https://hearty-stone.cloudvent.net/"
 baseurl:
 google_analytics_key:
 newsletter_action:
@@ -11,8 +11,8 @@ disqus_shortname:
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
 description: Food blog template for Jekyll.
-author:
-  name:
+author: Ursula Graber
+  name: Ursula Graber
   email:
   twitter: # twitter username without the @ symbol
 social:
@@ -82,6 +82,7 @@ social_icons:
   - Tumblr
   - Twitter
   - YouTube
+  - Vimeo
   - RSS
 
 _options:

@@ -2,7 +2,11 @@
   link: /
 - name: About
   link: /about/
-- name: Recipes
-  link: /recipes/
+- name: News
+  link: /news/
+- name: Video
+  link: /video/
+- name: Projects
+  link: /projects/
 - name: Contact
   link: /contact/
