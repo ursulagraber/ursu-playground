@@ -1,7 +1,7 @@
 # ----
 # Site
 
-title: Treat Template
+title: Ursula Graber
 url: "https://hearty-stone.cloudvent.net/"
 baseurl:
 google_analytics_key:
@@ -16,9 +16,9 @@ author:
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name: Treat Template
+  name: Ursula Graber
   links:
-    - https://github.com/CloudCannon/treat-jekyll-template
+    - https://ursulagraber.github.io/ursu-playground
 
 # -----
 # Build
