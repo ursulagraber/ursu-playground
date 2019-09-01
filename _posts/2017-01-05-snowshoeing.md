@@ -15,12 +15,15 @@ cast:
   other: "Artistic consultant: Grégory Stauffer, Natacha Koutchoumov, Philippe Saire. Anthropological consultant: Claire de Ribaupierre"
 ---
 
-<center><iframe title="vimeo-player" src="https://player.vimeo.com/video/330582854" width="640" height="360" frameborder="0" allowfullscreen></iframe></center>
+<!-- explore this: https://vimeo.com/api/oembed.json?url=http%3A//vimeo.com/330582854 -->
 
+<center><iframe title="vimeo-player" src="https://player.vimeo.com/video/330582854" width="640" height="360" frameborder="0" allowfullscreen></iframe></center>
 
 A solo by Ursula Graber.
 
 This is the second collaboration with composer Diego Jiménez Tamame. The investigation tackles two extreme emotional states: on the one hand, lifestyle-diseases like burn-out and depression, on the other hand, balancing activities like snowshoeing and in general spending time in nature.
+
+<!--[![Snowshoeing / Geile Scheiße](https://i.vimeocdn.com/video/775684724_640.jpg)](https://player.vimeo.com/video/330582854)-->
 
 ![](https://ursulagraber.files.wordpress.com/2019/04/28471217_1661689367230218_2812298809659359232_o.jpg)
 ![](https://ursulagraber.files.wordpress.com/2019/04/28471451_1661689190563569_3129949634479259648_o.jpg)
