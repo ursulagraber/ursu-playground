@@ -10,7 +10,7 @@ disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Food blog template for Jekyll.
+description: Dance blog for Jekyll.
 author:
   name: Ursula Graber
   email:
@@ -33,9 +33,9 @@ defaults:
   -
     scope:
       path: ""
-      type: "posts"
+      type: "projects"
     values:
-      layout: "post"
+      layout: "project"
       push_sidebar_down: true
       print_stylesheet: true
       comments: true

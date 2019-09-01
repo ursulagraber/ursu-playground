@@ -1,12 +1,12 @@
 - name: Home
   link: /
-- name: About
+- name: About Ursula
   link: /about/
-- name: News
-  link: /news/
-- name: Video
-  link: /video/
 - name: Projects
   link: /projects/
+- name: Video
+  link: /video/
 - name: Contact
   link: /contact/
+- name: Teachers
+  link: /teachers/
