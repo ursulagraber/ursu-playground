@@ -43,25 +43,31 @@
     display: block;
     max-width: 100%;
     border-radius: 50%;
-    filter: grayscale(80%);
+    filter: contrast(100%);
     border: solid 5px tomato;
     transition: .15s;
 
     &:hover {
-      filter: grayscale(0);
+      filter: contrast(200%);
     }
   }
 }
 
+a.highlight:hover *{
+    filter: contrast(200%);
+    text-shadow: -1.5px 0 $underline-color, 0 1.5px $underline-color, 1.5px 0 $underline-color, 0 -1.5px $underline-color;
+}
+
 .centered {
-  background-color: brown;
-  font-size: 500%;
-  color: white;
+  //background-color: brown;
+  font-family: $menu-font, Helvetica, Arial, Times, serif;
+  font-size: 300%;
+  color: black;
   position: absolute;
-  top: 50%;
+  top: 90%;
   left: 50%;
   transform: translate(-50%, -50%);
-  text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+  text-shadow: -1px 0 $underline-color, 0 1px $underline-color, 1px 0 $underline-color, 0 -1px $underline-color;
 }
 
 .current {

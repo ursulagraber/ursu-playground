@@ -4,3 +4,15 @@ $mid-point: "(min-width: 620px)";
 $desktop: "(min-width: 900px)";
 
 $light-grey: #515151;
+
+// Google Fonts
+@import url(http://fonts.googleapis.com/css?family=Reenie+Beanie|Open+Sans:400italic,700italic,400,700);
+
+// Font Variables
+$roboto-slab: 'Roboto Slab', serif;
+$reenie-beanie: 'Reenie Beanie', serif;
+$open-sans: 'Open Sans', sans-serif;
+
+$menu-font: $reenie-beanie;
+
+$underline-color: tomato;
