@@ -1,0 +1,15 @@
+---
+title:
+categories:
+date:
+featured_image:
+brief:
+cast:
+  date:
+  concept:
+  music:
+  sound_light:
+  location:
+  vimeo:
+  other:
+---

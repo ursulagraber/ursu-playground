@@ -1,0 +1,19 @@
+---
+title: Workshops
+image_view: true
+---
+<h1>Workshops</h1>
+
+{% if page.image_view %}
+
+	<h2>Workshops</h2>
+
+	<div class="workshops">
+		{% for workshop in site.categories.workshops %}
+			<div class="workshop" style="background-image: url('{{ workshop.featured_image }}')">
+				<a href="{{ workshop.url }}"><span>{{ workshop.title }}</span></a>
+			</div>
+		{% endfor %}
+	</div>
+
+{% endif %}

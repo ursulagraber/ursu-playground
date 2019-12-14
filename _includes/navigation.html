@@ -1,5 +1,5 @@
 <nav>
-	<a class="editor-link btn" href="cloudcannon:collections/_data/navigation.yml" class="btn"><strong>&#9998;</strong> Edit navigation</a>
+	<menu>
 	{% for link in site.data.navigation %}
 	{% assign class = "" %}
 
@@ -8,4 +8,6 @@
 		{% endif %}
 		<a href="{% include relative-src.html src=link.link %}" class="{{ class }}">{{ link.name }}</a>
 	{% endfor %}
+	</menu>
+	<hr>
 </nav>
