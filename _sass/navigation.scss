@@ -1,10 +1,18 @@
 .navmenu {
+  box-sizing: border-box;
+	padding: 10px 15px;
 	display: table;
 	width: 100%;
 	table-layout: fixed;
+	height: 70px;
 
 	div {
 	    display: table-cell;
+	}
+
+	.container {
+		vertical-align: middle;
+		width: 70%;
 	}
 
   nav {
@@ -15,7 +23,7 @@
 
 	  .menu {
 	    width: 90%;
-			height: 10px;
+			height: 50px;
 	    display: flex;
 	    justify-content: center;
 			padding: 0px 3px;
@@ -39,12 +47,11 @@
 				color: #000;
 			}
 		}
-
 	}
 
 	.logo {
-			width: 100px;
-			height: 50px;
+			width: 50px;
+			vertical-align: middle;
 	}
 
 	hr {
@@ -60,14 +67,15 @@
 		width: 70%;
 		margin: 1em;
 		padding: 1em;
+		vertical-align: middle;
 	}
 
 	.social-icons {
-		width: 100px;
+		width: 150px;
 		height: 50px;
 		display: flex;
-		justify-content: center;
 		margin: 10px 0 0 0;
+
 		a {
 			padding: 3px;
 			text-decoration: none;
