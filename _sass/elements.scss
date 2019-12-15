@@ -1,9 +1,24 @@
+html {
+	height:100%;
+}
+
 html , body {
 	padding: 0;
 	margin: 0;
 	line-height: 1.8em;
 	background-color: #FFFFFF;
 	overflow-x: hidden;
+}
+
+body {
+	position: relative;
+	min-height:100%;
+}
+
+body::after {
+	content:'';
+	display:block;
+	height:150px;
 }
 
 body, input, textarea {
@@ -21,9 +36,9 @@ h1 {
 
 .full-width-tinted {
 	position: relative; /* child absolute */
-	margin: 0 -9600rem;
+	margin: 0 0rem 2.25rem -9600rem;
 	/* add back section padding value */
-	padding: 2.25rem 9600rem;
+	padding: 2.25rem 0rem 2.25rem 9600rem;
 	background: #39d3cb;
 	//background: rgba(0, 0, 0,  0.25);
 	color: white;
@@ -31,17 +46,17 @@ h1 {
 	z-index: 0;
 }
 
-.full-width-tinted:before {
-  content: "";
-  position: absolute;
-  z-index: -1; /* behind parent */
-  top: 0;
-  bottom: 0;
-  /* subtract h1 padding (1.5rem) */
-  left: 598.5rem;
-  right: 598.5rem;
-  background: #39d3cb;
-}
+// .full-width-tinted:before {
+//   content: "";
+//   position: absolute;
+//   z-index: -1; /* behind parent */
+//   top: 0;
+//   bottom: 0;
+//   /* subtract h1 padding (1.5rem) */
+//   left: 598.5rem;
+//   right: 598.5rem;
+//   background: #39d3cb;
+// }
 
 h2 {
 	font-size: 1.4em;
@@ -69,7 +84,13 @@ footer {
 	text-align: center;
 	padding: 20px 0;
 	font-size: .8em;
+
+	position: absolute;
+  bottom:0;
+  width:100%;
+  height:100px;
 }
+
 
 hr {
 	 border: 0;

@@ -50,8 +50,14 @@
 	}
 
 	.logo {
-			width: 50px;
+			width: 150px;
 			vertical-align: middle;
+	}
+
+  .logo-bottom {
+			width: 120px;
+      height: 100px;
+      vertical-align: middle;
 	}
 
 	hr {
@@ -74,7 +80,9 @@
 		width: 150px;
 		height: 50px;
 		display: flex;
-		margin: 10px 0 0 0;
+		margin: -5px 0 0 0;
+
+    vertical-align: top;
 
 		a {
 			padding: 3px;
