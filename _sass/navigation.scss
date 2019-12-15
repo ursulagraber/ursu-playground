@@ -29,6 +29,7 @@
 			padding: 0px 3px;
 	  }
 
+
 		a {
 			display: inline-block;
 			text-decoration: none;
@@ -66,13 +67,14 @@
 			margin: 0px;
 			margin-left: 0px;
 			background: rgba(57, 211, 203, .9);
-			width: 90%;
+			width: 100%;
 	}
 
 	.fullmenu {
-		width: 70%;
+		width: 100%;
 		margin: 1em;
 		padding: 1em;
+    padding-right: 155px;
 		vertical-align: middle;
 	}
 
@@ -80,7 +82,7 @@
 		width: 150px;
 		height: 50px;
 		display: flex;
-		margin: -5px 0 0 0;
+		margin: -5px 0 0 -150px;
 
     vertical-align: top;
 
