@@ -1,0 +1,57 @@
+<!doctype html>
+
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		{% seo %}
+		{% feed_meta %}
+
+		<link href="//fonts.googleapis.com/css?family=Antic+Slab|Fira+Sans" rel="stylesheet">
+		<link rel="stylesheet" media="screen" href="{{ site.baseurl }}/css/screen.css">
+		{% if page.print_stylesheet %}
+			<link rel="stylesheet" media="print" href="{{ site.baseurl }}/css/print.css">
+		{% endif %}
+		<link rel="icon" type="image/png" href="{{ site.baseurl }}/images/favicon.png">
+
+		{% if jekyll.environment == 'production' and site.google_analytics_key != '' %}
+			<script>
+				window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+				ga('create', '{{ site.google_analytics_key }}', 'auto');
+				ga('send', 'pageview');
+			</script>
+			<script async src='https://www.google-analytics.com/analytics.js'></script>
+		{% endif %}
+	</head>
+	<body>
+		{% include navigation.html %}
+
+		<div class="container page">
+			<section class="content">{{ content }}</section>
+			<!-- {% include sidebar.html %} -->
+		</div>
+		<footer>
+			<div class="navmenu">
+				<div class="logo-bottom">
+					<a href="{{ site.baseurl }}/">
+						<img src="{{ site.baseurl }}/images/logo_bottom.svg" width="100" alt="logo">
+					</a>
+				</div>
+				<div class="container">
+					&copy; {{ site.title }} {{ site.time | date: "%Y" }}. All rights reserved.
+					<br><a href="{{ site.baseurl }}/">Impressum</a> | <a href="{{ site.baseurl }}">Datenschutz</a>
+				</div>
+				<div class="social-icons">
+					{% if site.data.sidebar.facebook and site.data.sidebar.facebook != "" %}<a target="_blank" href="https://facebook.com/{{ site.data.sidebar.facebook }}">{% include social-icon.html icon="Facebook" %}</a>{% endif %}
+					{% if site.data.sidebar.twitter and site.data.sidebar.twitter != "" %}<a target="_blank" href="https://twitter.com/{{ site.data.sidebar.twitter }}">{% include social-icon.html icon="Twitter" %}</a>{% endif %}
+					{% if site.data.sidebar.youtube and site.data.sidebar.youtube != "" %}<a target="_blank" href="https://youtube.com/channel/{{ site.data.sidebar.youtube }}">{% include social-icon.html icon="YouTube" %}</a>{% endif %}
+					{% if site.data.sidebar.vimeo and site.data.sidebar.vimeo != "" %}<a target="_blank" href="https://vimeo.com/{{ site.data.sidebar.vimeo }}">{% include social-icon.html icon="Vimeo" %}</a>{% endif %}
+					{% if site.data.sidebar.pinterest and site.data.sidebar.pinterest != "" %}<a target="_blank" href="https://pinterest.com/{{ site.data.sidebar.pinterest }}">{% include social-icon.html icon="Pinterest" %}</a>{% endif %}
+					{% if site.data.sidebar.instagram and site.data.sidebar.instagram != "" %}<a target="_blank" href="https://www.instagram.com/{{ site.data.sidebar.instagram }}">{% include social-icon.html icon="Instagram" %}</a>{% endif %}
+					<a target="_blank" href="{{ site.baseurl }}/feed.xml">{% include social-icon.html icon="RSS" %}</a>
+				</div>
+			</div>
+		</footer>
+	</body>
+</html>
