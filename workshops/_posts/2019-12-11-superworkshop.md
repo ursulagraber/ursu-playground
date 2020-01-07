@@ -7,11 +7,23 @@ featured_image: https://ursulagraber.files.wordpress.com/2017/08/email.jpg?w=156
 brief: the first new
 
 layout: workshop
+
+galleries:
+  - title:
+    image: https://ursulagraber.files.wordpress.com/2017/08/email.jpg
+    url: /
+  - title:
+    image: https://ursulagraber.files.wordpress.com/2017/08/email.jpg
+    url: /without-plugin/image-gallery
 ---
 
 Delicious Workshop!
 
 Knights of Ni, we are but simple travelers who seek the enchanter who lives beyond these woods. Burn her anyway! Now, look here, my good man. Be quiet!
+
+<figure id="left">
+{% if page.galleries %}{% include image-gallery-index.html %}{% endif %}
+</figure>
 
 He hasn't got shit all over him. __Now, look here, my good man.__ *Well, I got better.* …Are you suggesting that coconuts migrate?
 

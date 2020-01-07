@@ -3,3 +3,17 @@
 {
 	background: lightgreen;
 }
+
+
+figure#left {
+    width: 25%;
+		float: left;
+    background-color: red;
+}
+
+figure#right {
+		margin-left: 1em;
+	  float: right;
+	  width: 25%;
+    background-color: black;
+}
