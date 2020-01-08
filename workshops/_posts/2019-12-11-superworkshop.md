@@ -15,6 +15,10 @@ galleries:
   - title:
     image: https://ursulagraber.files.wordpress.com/2017/08/email.jpg
     url: /without-plugin/image-gallery
+
+video_url: https://player.vimeo.com/video/366332635
+
+video_id: 366332635
 ---
 
 Delicious Workshop!
@@ -22,18 +26,26 @@ Delicious Workshop!
 Knights of Ni, we are but simple travelers who seek the enchanter who lives beyond these woods. Burn her anyway! Now, look here, my good man. Be quiet!
 
 <figure id="left">
-{% if page.galleries %}{% include image-gallery-index.html %}{% endif %}
+{% if page.video_url %}{% include video-embed.html id=page.video_url %}{% endif %}
 </figure>
 
 He hasn't got shit all over him. __Now, look here, my good man.__ *Well, I got better.* …Are you suggesting that coconuts migrate?
 
-## The swallow may fly south with the sun, and the house martin or the plover may seek warmer climes in winter, yet these are not strangers to our land.
+<figure id="right">
+{% if page.galleries %}{% include image-gallery-index.html %}{% endif %}
+</figure>
 
 What do you mean? Shut up! Shut up! Now, look here, my good man. I don't want to talk to you no more, you empty-headed animal food trough water! I fart in your general direction! Your mother was a hamster and your father smelt of elderberries! Now leave before I am forced to taunt you a second time!
+
+## The swallow may fly south with the sun, and the house martin or the plover may seek warmer climes in winter, yet these are not strangers to our land.
 
 1. Ah, now we see the violence inherent in the system!
 2. The swallow may fly south with the sun, and the house martin or the plover may seek warmer climes in winter, yet these are not strangers to our land.
 3. We want a shrubbery!!
+
+
+<button class="js-video-vimeo-btn" data-video-id="366332635">Open Vimeo</button>
+
 
 ### Where'd you get the coconuts?
 
@@ -44,6 +56,10 @@ Did you dress her up like this? What a strange person. Listen. Strange women lyi
 * Where'd you get the coconuts?
 
 Ni! Ni! Ni! Ni! Why? You can't expect to wield supreme power just 'cause some watery tart threw a sword at you! Bring her forward! How do you know she is a witch? We found them.
+
+<figure id="left">
+  <iframe width="100%" src="https://player.vimeo.com/video/366332635" frameborder="0" allowfullscreen></iframe>
+</figure>
 
 How do you know she is a witch? Well, Mercia's a temperate zone! But you are dressed as one… Ni! Ni! Ni! Ni! You don't frighten us, English pig-dogs! Go and boil your bottoms, sons of a silly person! I blow my nose at you, so-called Ah-thoor Keeng, you and all your silly English K-n-n-n-n-n-n-n-niggits!
 
