@@ -8,7 +8,6 @@ layout: default
 	</div>
 
 	<section>
-
 				{{ content }}
 	</section>
 
@@ -51,7 +50,7 @@ layout: default
 <script src="http://code.jquery.com/jquery-2.2.4.min.js"></script>
 <script src="/js/modal-video.min.js"></script>
 <script>
-	window.addEventListener('DOMContentLoaded',function(){
+	$(function(){
 		new ModalVideo(".js-video-vimeo-btn",{channel:'vimeo'});
 	});
 </script>
