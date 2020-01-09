@@ -7,8 +7,25 @@ layout: default
 		<img src="{{ page.featured_image }}" alt="{{ page.title }}">
 	</div>
 
+	{% assign total_paragraphs = page.content | split: '<p>' | size | minus: 1 %}
+	<p><a href="{{ post.url }}">Read {{ total_paragraphs }} paragraphs...</a></p>
+
 	<section>
-				{{ content }}
+		<div class="row">
+		 <div class="column">
+		   <div class="aspect-ratio" >
+		   <iframe class="feat_vid" src="{{ page.featured_video.url }}" frameborder="0" allowfullscreen> {{ page.featured_video.title }} </iframe>
+		   </div>
+		 </div>
+		 {% if page.excerpt %}
+			 <div class="column pblock shift">
+					{{ page.excerpt }}
+				</div>
+			 </div>
+			 {{content|remove_first: page.excerpt}}
+		 {% else %}
+		 		{{ content }}
+		 {% endif %}
 	</section>
 
 	<div style="clear: both;"></div>

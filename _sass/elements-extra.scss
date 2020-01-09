@@ -1,15 +1,23 @@
 
 .pblock
 {
-	background: lightgreen;
+	background-color: lightgreen;
+	padding: 4em;
 }
 
+iframe.feat_vid {
+	width:100%;
+	height:100%;
+	background-color: red;
+}
 
 figure#left {
 	  padding: 5px;
-    width: 40%;
+    width: 50%;
+		max-height: 550px;
 		float: left;
     background-color: red;
+		overflow: auto;
 }
 
 figure#right {
@@ -17,4 +25,43 @@ figure#right {
 	  float: right;
 	  width: 40%;
     background-color: black;
+}
+
+.shift {
+		background-position: right 2345px bottom;
+}
+
+/* change the padding-bottom to modify the aspect ratio */
+.aspect-ratio {
+	overflow: visible;
+
+	position: relative;
+	left: 30px;
+	width: 100%; /*50%;*/
+	height: 0;
+	margin: 3em;
+	margin-left: 0em;
+	padding-bottom: 70%;
+	/*float: left;*/
+}
+
+/* Adjust the iframe so it's rendered in the outer-width and outer-height of it's parent */
+.aspect-ratio iframe {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	left: 0;
+	top: 0;
+}
+
+.column {
+ float: left;
+ width: 40%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+ content: "";
+ display: table;
+ clear: both;
 }
