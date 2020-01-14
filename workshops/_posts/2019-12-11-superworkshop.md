@@ -15,6 +15,18 @@ galleries:
   - title:
     image: https://ursulagraber.files.wordpress.com/2017/08/email.jpg
     url: /without-plugin/image-gallery
+  - title:
+    image: https://via.placeholder.com/468x60?text=Visit+ursulagraber.com+Now
+    url: /without-plugin/image-gallery
+  - title:
+    image: https://via.placeholder.com/300x100
+    url: /
+  - title:
+    image: https://ursulagraber.files.wordpress.com/2017/08/email.jpg
+    url: /
+  - title:
+    image: https://via.placeholder.com/150
+    url: /without-plugin/image-gallery
 
 featured_video:
     title: Tonite
@@ -32,18 +44,21 @@ He hasn't got shit all over him. __Now, look here, my good man.__ *Well, I got b
 
 <!--more-->
 
-Did you dress her up like this? What a strange person. Listen. Strange women lying in ponds distributing swords is no basis for a system of government. Supreme executive power derives from a mandate from the masses, not from some farcical aquatic ceremony.
+{% if page.galleries %}
+  <figure id="right">
+  {% include image-gallery-index.html %}
+  </figure>
+{% endif %}
 
-<block class="pblock">
+<div class="pblock">
+Did you dress her up like this? What a strange person. Listen. Strange women lying in ponds distributing swords is no basis for a system of government. Supreme executive power derives from a mandate from the masses, not from some farcical aquatic ceremony.
+</div>
+
 Delicious Workshop!
 
 Knights of Ni, we are but simple travelers who seek the enchanter who lives beyond these woods. Burn her anyway! Now, look here, my good man. Be quiet!
 
 He hasn't got shit all over him. __Now, look here, my good man.__ *Well, I got better.* …Are you suggesting that coconuts migrate?
-
-<figure id="right">
-{% if page.galleries %}{% include image-gallery-index.html %}{% endif %}
-</figure>
 
 What do you mean? Shut up! Shut up! Now, look here, my good man. I don't want to talk to you no more, you empty-headed animal food trough water! I fart in your general direction! Your mother was a hamster and your father smelt of elderberries! Now leave before I am forced to taunt you a second time!
 
@@ -54,7 +69,7 @@ What do you mean? Shut up! Shut up! Now, look here, my good man. I don't want to
 3. We want a shrubbery!!
 
 
-<iframe class="feat_vid" src="{{ page.featured_video.url }}" frameborder="0" allowfullscreen> {{ page.featured_video.title }} </iframe>
+<!-- <iframe class="feat_vid" src="{{ page.featured_video.url }}" frameborder="0" allowfullscreen> {{ page.featured_video.title }} </iframe> -->
 
 ### Where'd you get the coconuts?
 

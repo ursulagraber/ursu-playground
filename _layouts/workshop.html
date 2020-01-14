@@ -3,12 +3,14 @@ layout: default
 ---
 <article class="post">
 	{% include post-heading.html post=page post_page=true %}
-	<div class="image">
+
+	<!-- <div class="image">
 		<img src="{{ page.featured_image }}" alt="{{ page.title }}">
 	</div>
 
 	{% assign total_paragraphs = page.content | split: '<p>' | size | minus: 1 %}
 	<p><a href="{{ post.url }}">Read {{ total_paragraphs }} paragraphs...</a></p>
+	-->
 
 	<section>
 		<div class="row">
@@ -71,7 +73,7 @@ layout: default
 		new ModalVideo(".js-video-vimeo-btn",{channel:'vimeo'});
 	});
 </script>
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<!-- <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 <script type="text/javascript" src="/js/jquery.imgPin.min.js"></script>
 <script>
 	$(function() {
@@ -85,4 +87,4 @@ layout: default
 			}
 		});
 	});
-</script>
+</script> -->
