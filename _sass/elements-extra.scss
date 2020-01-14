@@ -64,6 +64,9 @@ figure#right {
  width: 40%;
 }
 
+row {
+	max-width: 100px;
+}
 /* Clear floats after the columns */
 .row:after {
  content: "";

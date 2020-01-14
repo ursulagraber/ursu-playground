@@ -14,21 +14,19 @@ layout: default
 
 	<section>
 		<div class="row">
-		 <div class="column">
-		   <div class="aspect-ratio" >
-		   <iframe class="feat_vid" src="{{ page.featured_video.url }}" frameborder="0" allowfullscreen> {{ page.featured_video.title }} </iframe>
-		   </div>
-		 </div>
-		 {% if page.excerpt %}
+			 <div class="column">
+			   <div class="aspect-ratio" >
+			   <iframe class="feat_vid" src="{{ page.featured_video.url }}" frameborder="0" allowfullscreen> {{ page.featured_video.title }} </iframe>
+			   </div>
+			 </div>
+	 	 {% if page.excerpt %}
 			 <div class="column pblock shift">
 					{{ page.excerpt }}
-				</div>
 			 </div>
-			 {{content|remove_first: page.excerpt}}
-		 {% else %}
-		 		{{ content }}
-		 {% endif %}
-	</section>
+  	 {% endif %}
+		</div>
+		 {{content|remove_first: page.excerpt}}
+</section>
 
 	<div style="clear: both;"></div>
 
