@@ -15,6 +15,10 @@
 	@media #{$desktop} {
 		flex: 1;
 	}
+	//content centered
+	display: table;
+  margin: auto;
+	max-width: 1000px;
 }
 
 .page {

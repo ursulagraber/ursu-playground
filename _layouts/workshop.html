@@ -12,6 +12,8 @@ layout: default
 	<p><a href="{{ post.url }}">Read {{ total_paragraphs }} paragraphs...</a></p>
 	-->
 
+	{% assign total_sections = content | split: '<!--plop-->' %}
+
 	<section>
 		<div class="row">
 			 <div class="column">
@@ -19,13 +21,23 @@ layout: default
 			   <iframe class="feat_vid" src="{{ page.featured_video.url }}" frameborder="0" allowfullscreen> {{ page.featured_video.title }} </iframe>
 			   </div>
 			 </div>
-	 	 {% if page.excerpt %}
 			 <div class="column pblock shift">
-					{{ page.excerpt }}
+				 	{{ total_sections[0] }}
 			 </div>
-  	 {% endif %}
 		</div>
-		 {{content|remove_first: page.excerpt}}
+		<div class="row">
+			<div class="column pblock">
+				 {{ total_sections[1] }}
+			</div>
+			{% if page.galleries %}
+			<div class="column">
+				  {% include image-gallery-index.html %}
+			</div>
+			{% endif %}
+		</div>
+		<div class="fullblock">
+			 {{ total_sections[2] }}
+		</div>
 </section>
 
 	<div style="clear: both;"></div>

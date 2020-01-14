@@ -13,19 +13,19 @@ galleries:
     image: https://ursulagraber.files.wordpress.com/2017/08/email.jpg
     url: /
   - title:
-    image: https://ursulagraber.files.wordpress.com/2017/08/email.jpg
+    image: https://ursulagraber.files.wordpress.com/2019/04/28471217_1661689367230218_2812298809659359232_o.jpg
     url: /without-plugin/image-gallery
   - title:
     image: https://via.placeholder.com/468x60?text=Visit+ursulagraber.com+Now
     url: /without-plugin/image-gallery
   - title:
-    image: https://via.placeholder.com/300x100
+    image: https://ursulagraber.files.wordpress.com/2019/04/28660335_1661689227230232_7368354092386615296_o.jpg
     url: /
   - title:
-    image: https://ursulagraber.files.wordpress.com/2017/08/email.jpg
+    image: https://ursulagraber.files.wordpress.com/2019/04/28660526_1661689423896879_3458369617347477504_o.jpg
     url: /
   - title:
-    image: https://via.placeholder.com/150
+    image: https://ursulagraber.files.wordpress.com/2019/04/28685596_1661689500563538_862267774762745856_o.jpg
     url: /without-plugin/image-gallery
 
 featured_video:
@@ -33,7 +33,6 @@ featured_video:
     url: https://player.vimeo.com/video/366332635
     id: 366332635
 
-excerpt_separator: <!--more-->
 ---
 
 Delicious Workshop!
@@ -42,17 +41,11 @@ Knights of Ni, we are but simple travelers who seek the enchanter who lives beyo
 
 He hasn't got shit all over him. __Now, look here, my good man.__ *Well, I got better.* …Are you suggesting that coconuts migrate?
 
-<!--more-->
+<!--plop-->
 
-{% if page.galleries %}
-  <figure id="right">
-  {% include image-gallery-index.html %}
-  </figure>
-{% endif %}
-
-<div class="pblock">
 Did you dress her up like this? What a strange person. Listen. Strange women lying in ponds distributing swords is no basis for a system of government. Supreme executive power derives from a mandate from the masses, not from some farcical aquatic ceremony.
-</div>
+
+<!--plop-->
 
 Delicious Workshop!
 
@@ -68,9 +61,6 @@ What do you mean? Shut up! Shut up! Now, look here, my good man. I don't want to
 2. The swallow may fly south with the sun, and the house martin or the plover may seek warmer climes in winter, yet these are not strangers to our land.
 3. We want a shrubbery!!
 
-
-<!-- <iframe class="feat_vid" src="{{ page.featured_video.url }}" frameborder="0" allowfullscreen> {{ page.featured_video.title }} </iframe> -->
-
 ### Where'd you get the coconuts?
 
 Did you dress her up like this? What a strange person. Listen. Strange women lying in ponds distributing swords is no basis for a system of government. Supreme executive power derives from a mandate from the masses, not from some farcical aquatic ceremony.
@@ -80,10 +70,6 @@ Did you dress her up like this? What a strange person. Listen. Strange women lyi
 * Where'd you get the coconuts?
 
 Ni! Ni! Ni! Ni! Why? You can't expect to wield supreme power just 'cause some watery tart threw a sword at you! Bring her forward! How do you know she is a witch? We found them.
-
-<figure id="left">
-  {% if page.featured_video %}{% include video-embed.html url=page.featured_video.url title=page.featured_video.title %}{% endif %}
-</figure>
 
 How do you know she is a witch? Well, Mercia's a temperate zone! But you are dressed as one… Ni! Ni! Ni! Ni! You don't frighten us, English pig-dogs! Go and boil your bottoms, sons of a silly person! I blow my nose at you, so-called Ah-thoor Keeng, you and all your silly English K-n-n-n-n-n-n-n-niggits!
 
