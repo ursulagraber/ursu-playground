@@ -3,9 +3,8 @@
 -->
 <p class="cards gallery_overflow">
   {% for item in page.galleries %}
-  <a href="{{ item.url }}" title="{{ item.title }}">
+  <a href="{{ item.image }}" title="{{ item.title }}" class="js-smartPhoto" data-caption="{{ item.title }}" data-id="{{ item.title }}" data-group="{{ item.data-group }}">
     <img src="{{ item.image }}&w=300&h=300&output=jpg&q=50&t=square" />
-    <span>{{ item.title }}</span>
   </a>
   {% endfor %}
 </p>

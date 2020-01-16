@@ -9,25 +9,39 @@ brief: the first new
 layout: workshop
 
 galleries:
-  - title:
+  - title: Passeig Jump
     image: https://ursulagraber.files.wordpress.com/2017/08/email.jpg
-    url: /
-  - title:
+    data-group: superworkshop
+  - title: Geile Scheisse Stand-up
     image: https://ursulagraber.files.wordpress.com/2019/04/28471217_1661689367230218_2812298809659359232_o.jpg
-    url: /without-plugin/image-gallery
-  - title:
+    data-group: superworkshop
+  - title: Bon dia!
     image: https://via.placeholder.com/468x60?text=Visit+ursulagraber.com+Now
-    url: /without-plugin/image-gallery
-  - title:
+    data-group: superworkshop
+  - title: Per terra
     image: https://ursulagraber.files.wordpress.com/2019/04/28660335_1661689227230232_7368354092386615296_o.jpg
-    url: /
-  - title:
+    data-group: superworkshop
+  - title: Per terra
     image: https://ursulagraber.files.wordpress.com/2019/04/28660526_1661689423896879_3458369617347477504_o.jpg
-    url: /
-  - title:
+    data-group: superworkshop
+  - title: Per Terra
     image: https://ursulagraber.files.wordpress.com/2019/04/28685596_1661689500563538_862267774762745856_o.jpg
-    url: /without-plugin/image-gallery
-
+    data-group: superworkshop
+  - title: Geile Scheisse Stand-up
+    image: https://ursulagraber.files.wordpress.com/2019/04/28471217_1661689367230218_2812298809659359232_o.jpg
+    data-group: superworkshop
+  - title: Bon dia!
+    image: https://via.placeholder.com/468x60?text=Visit+ursulagraber.com+Now
+    data-group: superworkshop
+  - title: Per terra
+    image: https://ursulagraber.files.wordpress.com/2019/04/28660335_1661689227230232_7368354092386615296_o.jpg
+    data-group: superworkshop
+  - title: Per terra
+    image: https://ursulagraber.files.wordpress.com/2019/04/28660526_1661689423896879_3458369617347477504_o.jpg
+    data-group: superworkshop
+  - title: Per Terra
+    image: https://ursulagraber.files.wordpress.com/2019/04/28685596_1661689500563538_862267774762745856_o.jpg
+    data-group: superworkshop
 featured_video:
     title: Tonite
     url: https://player.vimeo.com/video/366332635
