@@ -1,0 +1,40 @@
+---
+layout: default
+---
+	<h1>{{ page.title }}</h1>
+
+	{{content}}
+
+<link rel="stylesheet" type="text/css" href="/css/modal-video.min.css">
+<script src="http://code.jquery.com/jquery-2.2.4.min.js"></script>
+<script src="/js/modal-video.min.js"></script>
+<script>
+	$(function(){
+		new ModalVideo(".js-video-vimeo-btn",{channel:'vimeo'});
+	});
+</script>
+<link rel="stylesheet" href="/css/smartphoto.min.css">
+<script src="/js/smartphoto.min.js"></script>
+<script>
+	$(function(){
+	    new SmartPhoto(".js-smartPhoto",{
+		    resizeStyle: 'fit'
+		  });
+	});
+</script>
+
+<!-- <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script type="text/javascript" src="/js/jquery.imgPin.min.js"></script>
+<script>
+	$(function() {
+		$('.post img').imgPin();
+
+		$('a[href*=\\#]').on('click', function(event){
+			var el = $(this.hash);
+			if (el.length > 0) {
+				event.preventDefault();
+				$('html,body').animate({scrollTop:$(this.hash).offset().top - 50}, 500);
+			}
+		});
+	});
+</script> -->
