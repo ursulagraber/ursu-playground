@@ -2,7 +2,6 @@
 (function ($) {
     "use strict";
 
-
     /*==================================================================
     [ Focus Contact2 ]*/
     $('.input3').each(function(){

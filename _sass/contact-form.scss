@@ -1,11 +1,11 @@
 /*//////////////////////////////////////////////////////////////////
 [ RESTYLE TAG ]*/
 
-* {
-	margin: 0px;
-	padding: 0px;
-	box-sizing: border-box;
-}
+// * {
+// 	margin: 0px;
+// 	padding: 0px;
+// 	box-sizing: border-box;
+// }
 
 input {
 	outline: none;
@@ -60,7 +60,8 @@ button:hover {
 }
 
 .wrap-contact3 {
-  width: 500px;
+	align-content: center;
+  width: 100%;
   background: #1C6965;
   background: -webkit-linear-gradient(45deg, #39d3cb, #1C6965);
   background: -o-linear-gradient(45deg, #39d3cb, #1C6965);
@@ -68,11 +69,14 @@ button:hover {
   background: linear-gradient(45deg, #39d3cb, #1C6965);
   border-radius: 10px;
   overflow: hidden;
-  padding: 72px 55px 65px 55px;
+  padding: 50px 55px 65px 55px;
+
+	position:relative;
 }
 
 .contact3-form {
   width: 100%;
+	//margin-top: 2em;
 }
 
 .contact3-form-title {
@@ -82,7 +86,6 @@ button:hover {
   color: #fff;
   line-height: 1.2;
   text-align: center;
-  text-transform: uppercase;
   padding-bottom: 70px;
 }
 
@@ -156,7 +159,7 @@ textarea.input3 {
 .contact3-form-btn {
   font-family:  'Fira Sans', sans-serif;
   font-size: 16px;
-  color: #555555;
+  color: #FFFFFF;
   line-height: 1.2;
   text-transform: uppercase;
 
@@ -169,7 +172,7 @@ textarea.input3 {
   border-radius: 2px;
   position: relative;
   z-index: 1;
-  background: #80c64a;
+  background: #f2f2f2f2;
 
   -webkit-transition: all 0.4s;
   -o-transition: all 0.4s;
@@ -187,7 +190,7 @@ textarea.input3 {
   height: 100%;
   top: 0;
   left: 0;
-  background: #fff;
+  background: #1C6965;
   opacity: 1;
   -webkit-transition: all 0.4s;
   -o-transition: all 0.4s;
@@ -196,7 +199,7 @@ textarea.input3 {
 }
 
 .contact3-form-btn:hover {
-  color: #fff;
+  color: #1C6965;
 }
 
 .contact3-form-btn:hover:before {

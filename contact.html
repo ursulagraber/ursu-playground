@@ -5,61 +5,30 @@ layout: form
 first_image: /photos/kontakt_top.jpg
 second_image: /photos/kontakt_bottom.png
 ---
-
-<div class="container-contact3">
-  <div class="wrap-contact3">
-    <form class="contact3-form validate-form">
-      <span class="contact3-form-title">
-        Contact Us
-      </span>
-
-      <div class="wrap-input3 validate-input" data-validate="Name is required">
-        <input class="input3" type="text" name="name" placeholder="Your Name">
-        <span class="focus-input3"></span>
-      </div>
-
-      <div class="wrap-input3 validate-input" data-validate="Valid email is required: ex@abc.xyz">
-        <input class="input3" type="text" name="email" placeholder="Your Email">
-        <span class="focus-input3"></span>
-      </div>
-
-
-      <div class="wrap-input3 validate-input" data-validate="Message is required">
-        <textarea class="input3" name="message" placeholder="Your Message"></textarea>
-        <span class="focus-input3"></span>
-      </div>
-
-      <div class="container-contact3-form-btn">
-        <button class="contact3-form-btn">
-          Submit
-        </button>
-      </div>
-    </form>
-  </div>
-</div>
-
 <section class="content">
 <div id="top-container">
+	<div class="flex-cols">
 		<div id="top-image">
-			<img src="{{ page.first_image }}" style="object-fit: cover;"/>
+			<img src="{{ page.first_image }}"/>
 		</div>
-	<div class="fullblock" id="top-text">
-		<h2>Contact</h2>
-		<p class="editable">Get in touch with any feedback or questions about the projects featured here.</p>
+		<!-- <div> -->
+			<div id="top-text">
+				<h2 style="padding-bottom: 0.5em; ">Ursula Graber</h2>
+				<p><a  class="pairs" href="mailto:{{ site.data.company_details.email }}"><img class="paired-icon" src="/images/mail.png" />{{ site.data.company_details.email }}</a><br>
+				<a  class="pairs" href="tel:{{ site.data.company_details.phone1 }}"><img class="paired-icon" src="/images/phone_black.png" />{{ site.data.company_details.phone1 }}</a><br>
+				<a  class="pairs" href="tel:{{ site.data.company_details.phone2 }}"><img class="paired-icon" src="/images/phone_black.png" />{{ site.data.company_details.phone2 }}</a></p>
+			</div>
+		<!-- </div> -->
 	</div>
 </div>
-
-<div style="clear: both;"></div>
-
 <div id="bottom-container">
-	<div id="image-container">
-			<img src="{{ page.second_image }}" style="object-fit: fill;"/>
-	</div>
+	<!-- <div id="bottom-image-container">
+			<img src="{{ page.second_image }}"/>
+	</div> -->
 	<div class="contact-form-block">
-		<h2 class="contact-form-title">Schreib mir! Ich freu' mich!</h2>
+			<!--
 		<p class="editable">Get in touch with any feedback or questions about the projects featured here.</p>
-
-		<form method="post" action="{{ site.baseurl }}/contact-success/">
+    <form method="post" action="{{ site.baseurl }}/contact-success/">
 			<input type="hidden" name="_to" value="{{ site.data.email }}" />
 			<input type="text" name="_gotcha" style="display: none;">
 
@@ -95,7 +64,42 @@ second_image: /photos/kontakt_bottom.png
 			<textarea name="message" id="message"></textarea>
 
 			<input type="submit" value="Send Message" />
-		</form>
+		</form> -->
+		<h2 class="contact-form-title">Schreib mir! Ich freu' mich!</h2>
+
+		<div class="contact-form-container">
+			<div class="wrap-contact3">
+				<form class="contact3-form validate-form" method="POST"
+  action="https://formspree.io/mgeajewy">
+					<input type="hidden" name="_to" value="{{ site.data.email }}" />
+					<input type="text" name="_gotcha" style="display: none;">
+					<!-- <input type="text" name="slap_redirect" value="{{ site.url }}/thankyou" hidden> -->
+					<input type="hidden" name="_next" value="{{ site.url }}/thankyou" />
+
+					<div class="wrap-input3 validate-input" data-validate="Name is required">
+						<input class="input3" type="text" name="name" placeholder="Your Name">
+						<span class="focus-input3"></span>
+					</div>
+
+					<div class="wrap-input3 validate-input" data-validate="Valid email is required: ex@abc.xyz">
+						<input class="input3" type="email" name="_replyto" placeholder="Your Email">
+						<span class="focus-input3"></span>
+					</div>
+
+					<div class="wrap-input3 validate-input" data-validate="Message is required">
+						<textarea class="input3" type="text" name="message" placeholder="Your Message"></textarea>
+						<span class="focus-input3"></span>
+					</div>
+
+					<div class="container-contact3-form-btn">
+						<button class="contact3-form-btn" type="submit" value="Send">
+							Submit
+						</button>
+					</div>
+				</form>
+			</div>
+		</div>
 	</div>
+
 </div>
 </section>

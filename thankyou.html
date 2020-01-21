@@ -1,0 +1,34 @@
+---
+title: Contact
+layout: form
+
+first_image: /photos/kontakt_top.jpg
+second_image: /photos/kontakt_bottom.png
+---
+<section class="content">
+<div id="top-container">
+	<div class="flex-cols">
+		<div id="top-image">
+			<img src="{{ page.first_image }}"/>
+		</div>
+			<div id="top-text">
+				<h2 style="padding-bottom: 0.5em; ">Ursula Graber</h2>
+				<p><a href="mailto:{{ site.data.company_details.email }}">{{ site.data.company_details.email }}</a><br />
+				<a href="tel:{{ site.data.company_details.phone1 }}">{{ site.data.company_details.phone1 }}</a><br />
+				<a href="tel:{{ site.data.company_details.phone2 }}">{{ site.data.company_details.phone2 }}</a></p>
+			</div>
+	</div>
+</div>
+<div id="bottom-container">
+	<div class="contact-form-block">
+		<h2 class="contact-form-title">Schreib mir! Ich freu' mich!</h2>
+
+		<div class="contact-form-container">
+			<div class="wrap-contact3">
+				<p> Thank you for your submission! </p>
+				<a href="{{ site.url }}">Go back!</a>
+			</div>
+		</div>
+	</div>
+</div>
+</section>
