@@ -20,6 +20,78 @@
 	max-width: 80%;
 }
 
+
+// form
+
+#top-container
+{
+	margin: 0px;
+	width: 100vw;
+	overflow: hidden;
+	display: block;
+	align-content: left;
+	top: 0;
+	left: 0%;
+}
+
+#top-image {
+	padding: 0;
+	width: 40%;
+  margin-left: 0;
+	margin-right: 5%;
+	max-height: 550px;
+	float: left;
+	background-color: #1C6965;
+	overflow: auto;
+
+	object-fit: cover;
+}
+
+#top-text {
+	padding: 1em;
+}
+
+.contact-form-title
+{
+	text-align: center;
+	font-size: 1.8em;
+}
+
+#bottom-container
+{
+	width: 100vw;
+	overflow: visible;
+	display: block;
+	align-content: right;
+	margin-top: 5em;
+  top: 0;
+  left: 0%;
+  background: url(/images/pix-39d3cb.png);
+  background-repeat: no-repeat;
+  background-size: 120vw 80%;
+  background-position: center right;
+}
+
+#image-container {
+  overflow-y: hidden;
+  background-color: green;
+
+	margin-left: auto;
+	margin-right: 0%;
+	margin-bottom: -7em;
+  width: 80%;
+	max-height: 400px;
+	object-fit: fill;
+}
+
+.contact-form-block {
+	padding-left: 10%;
+	width: 60vw;
+	max-width: 70vw;
+}
+
+//
+
 iframe.feat_vid {
 	width: 100%;
 	height: 100%;

@@ -1,16 +1,49 @@
 ---
 title: Contact
+layout: form
 
 first_image: /photos/kontakt_top.jpg
+second_image: /photos/kontakt_bottom.png
 ---
 
-<div style="width: 100vh; overflow: hidden;">
-	<div>
-		<figure id="left" style="width: 50vh;">
-			<img src="{{ page.first_image }}" />
-		</figure>
-	</div>
-	<div class="fullblock">
+<div class="container-contact3">
+  <div class="wrap-contact3">
+    <form class="contact3-form validate-form">
+      <span class="contact3-form-title">
+        Contact Us
+      </span>
+
+      <div class="wrap-input3 validate-input" data-validate="Name is required">
+        <input class="input3" type="text" name="name" placeholder="Your Name">
+        <span class="focus-input3"></span>
+      </div>
+
+      <div class="wrap-input3 validate-input" data-validate="Valid email is required: ex@abc.xyz">
+        <input class="input3" type="text" name="email" placeholder="Your Email">
+        <span class="focus-input3"></span>
+      </div>
+
+
+      <div class="wrap-input3 validate-input" data-validate="Message is required">
+        <textarea class="input3" name="message" placeholder="Your Message"></textarea>
+        <span class="focus-input3"></span>
+      </div>
+
+      <div class="container-contact3-form-btn">
+        <button class="contact3-form-btn">
+          Submit
+        </button>
+      </div>
+    </form>
+  </div>
+</div>
+
+<section class="content">
+<div id="top-container">
+		<div id="top-image">
+			<img src="{{ page.first_image }}" style="object-fit: cover;"/>
+		</div>
+	<div class="fullblock" id="top-text">
 		<h2>Contact</h2>
 		<p class="editable">Get in touch with any feedback or questions about the projects featured here.</p>
 	</div>
@@ -18,20 +51,17 @@ first_image: /photos/kontakt_top.jpg
 
 <div style="clear: both;"></div>
 
-<div style="width: 100vh; overflow: visible;">
-	<div>
-		<figure id="right" style="width: 50vh;  overflow: visible;">
-			<img src="{{ page.first_image }}" />
-		</figure>
+<div id="bottom-container">
+	<div id="image-container">
+			<img src="{{ page.second_image }}" style="object-fit: fill;"/>
 	</div>
-	<div class="fullblock" style="height: 500px">
-		<h2>Schreib mir! Ich Freu' mich</h2>
+	<div class="contact-form-block">
+		<h2 class="contact-form-title">Schreib mir! Ich freu' mich!</h2>
 		<p class="editable">Get in touch with any feedback or questions about the projects featured here.</p>
-	</div>
-	<div>		
+
 		<form method="post" action="{{ site.baseurl }}/contact-success/">
-				<input type="hidden" name="_to" value="{{ site.data.email }}" />
-				<input type="text" name="_gotcha" style="display: none;">
+			<input type="hidden" name="_to" value="{{ site.data.email }}" />
+			<input type="text" name="_gotcha" style="display: none;">
 
 			<div class="contain">
 				<div class="split">
@@ -68,3 +98,4 @@ first_image: /photos/kontakt_top.jpg
 		</form>
 	</div>
 </div>
+</section>
