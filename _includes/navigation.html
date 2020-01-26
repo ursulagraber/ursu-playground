@@ -14,9 +14,18 @@
 				{% endif %}
 				<a href="{% include relative-src.html src=link.link %}" class="{{ class }}">{{ link.name }}</a>
 			{% endfor %}
+			{% if site.newsletter_action && site.newsletter_action != "" %}
+			<div style="padding-left: 10em;">
+				<form action="{{ site.newsletter_action }}" method="post">
+					<input type="text" name="EMAIL" placeholder="Email address">
+					<input type="submit" value="< Newsletter sign up!">
+				</form>
+			</div>
+			{% endif %}
 		</nav>
 		<hr>
 	</div>
+
 	<div class="social-icons">
 		{% if site.data.sidebar.facebook && site.data.sidebar.facebook != "" %}<a target="_blank" href="https://facebook.com/{{ site.data.sidebar.facebook }}">{% include social-icon.html icon="Facebook" %}</a>{% endif %}
 		{% if site.data.sidebar.twitter && site.data.sidebar.twitter != "" %}<a target="_blank" href="https://twitter.com/{{ site.data.sidebar.twitter }}">{% include social-icon.html icon="Twitter" %}</a>{% endif %}

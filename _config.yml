@@ -5,7 +5,8 @@ title: Ursula Graber
 url: "https://hearty-stone.cloudvent.net/"
 baseurl:
 google_analytics_key:
-newsletter_action:
+newsletter_action: https://formspree.io/xdoeqzvk
+contact_action: https://formspree.io/mgeajewy
 disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)

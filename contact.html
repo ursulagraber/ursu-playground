@@ -70,7 +70,7 @@ second_image: /photos/kontakt_bottom.png
 		<div class="contact-form-container">
 			<div class="wrap-contact3">
 				<form class="contact3-form validate-form" method="POST"
-  action="https://formspree.io/mgeajewy">
+  action="{{ site.contact_action }}">
 					<input type="hidden" name="_to" value="{{ site.data.email }}" />
 					<input type="text" name="_gotcha" style="display: none;">
 					<!-- <input type="text" name="slap_redirect" value="{{ site.url }}/thankyou" hidden> -->
@@ -100,6 +100,4 @@ second_image: /photos/kontakt_bottom.png
 			</div>
 		</div>
 	</div>
-
-</div>
 </section>
