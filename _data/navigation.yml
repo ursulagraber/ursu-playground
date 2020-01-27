@@ -1,12 +1,12 @@
 - name: Home
   link: /
-- name: About Ursula
+- name: Über Mich
   link: /about/
-- name: Projects
+- name: Projekte
   link: /projects/
-- name: Video
-  link: /video/
-- name: Contact
+- name: Workshops & Kurse
+  link: /workshops/
+- name: Videos & Fotos
+  link: /gallery/
+- name: Kontakt
   link: /contact/
-- name: Teachers
-  link: /teachers/

@@ -6,13 +6,12 @@ layout: fullpage
 <div class="workshops-container">
 	<div class="slide">
 		<div class="workshops">
-			{% for workshop in site.categories.workshops %}
+			{% assign featured_workshop = site.categories.workshops[0] %}
 				<div class="workshop-container">
-					<div class="workshop" style="background-image: url('{{ workshop.featured_image }}')">
-						<a href="{{ workshop.url }}"><span>{{ workshop.title }}</span></a>
+					<div class="workshop" style="background-image: url('{{ featured_workshop.featured_image }}')">
+						<a href="{{ featured_workshop.url }}"><span>{{ featured_workshop.title }}</span></a>
 					</div>
 				</div>
-			{% endfor %}
 		</div>
 	</div>
 	<div class="excerpt sticky">
@@ -26,7 +25,7 @@ layout: fullpage
 	</div>
 </div>
 
-<div class="workshops">
+<div class="workshops" style="background-color: #519b98;">
 	{% for workshop in site.categories.workshops %}
 		<div class="workshop-container">
 			<div class="workshop" style="background-image: url('{{ workshop.featured_image }}')">
