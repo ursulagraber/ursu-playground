@@ -63,10 +63,10 @@ button:hover {
 	align-content: center;
   width: 100%;
   background: #1C6965;
-  background: -webkit-linear-gradient(45deg, #3bcfce, #1C6965);
-  background: -o-linear-gradient(45deg, #3bcfce, #1C6965);
-  background: -moz-linear-gradient(45deg, #3bcfce, #1C6965);
-  background: linear-gradient(45deg, #3bcfce, #1C6965);
+  background: -webkit-linear-gradient(45deg, $theme-light-color, #1C6965);
+  background: -o-linear-gradient(45deg, $theme-light-color, #1C6965);
+  background: -moz-linear-gradient(45deg, $theme-light-color, #1C6965);
+  background: linear-gradient(45deg, $theme-light-color, #1C6965);
   border-radius: 10px;
   overflow: hidden;
   padding: 50px 55px 65px 55px;

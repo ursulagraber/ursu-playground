@@ -6,7 +6,7 @@
 	div {
 		margin: 1rem auto;
 		padding: 1rem;
-		background: lightgreen; //#3bcfce;
+		background: lightgreen; //$theme-light-color;
 	}
 
 	img {
@@ -61,7 +61,7 @@
 	  width: 50%;
 		margin: 1rem auto;
 		padding: 1rem;
-		background: lightblue; //#3bcfce;
+		background: lightblue; //$theme-light-color;
 	}
 }
 
@@ -80,7 +80,7 @@
 	width: 100%;
 	max-width: 800px;
 	height: 500px;
-	background-color: #3bcfce;
+	background-color: $theme-light-color;
 }
 
 .ontop-text {

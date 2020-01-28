@@ -22,12 +22,12 @@
 
 .light-color
 {
-	background-color: #3bcfce;
+	background-color: $theme-light-color;
 }
 
 .dark-color
 {
-	background-color: #519b98;
+	background-color: $theme-dark-color;
 	color: white;
 }
 
@@ -40,7 +40,7 @@
 .leftbackbox
 {
 	position: absolute;
-	background-color: #3bcfce;
+	background-color: $theme-light-color;
 	margin-top: 2em;
 	padding: 1em;
 	padding-left: 4em;
@@ -100,7 +100,7 @@
 	margin-left: 0;
 	margin-bottom: 3em;
 	padding: 1em 10vw 1em 10vw;
-	background-color: #3bcfce;
+	background-color: $theme-light-color;
 }
 
 .contact-form-title

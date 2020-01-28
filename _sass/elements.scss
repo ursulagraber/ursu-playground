@@ -58,7 +58,7 @@ h1:before {
 	/* set a ridiculous value */
   left: -9600rem;
   right: 0rem;
-  background: #3bcfce;
+  background: $theme-light-color;
 }
 
 h2 {
@@ -74,7 +74,7 @@ h2 {
 	div {
 		margin: 1rem auto;
 		padding: 1rem;
-		background: lightgreen; //#3bcfce;
+		background: lightgreen; //$theme-light-color;
 
     display: table-cell;
 		table-layout: fixed;

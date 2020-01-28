@@ -19,7 +19,7 @@
 .excerpt
 {
 	z-index: 0;
-	background-color: #3bcfce;
+	background-color: $theme-light-color;
 	width: 30%;
 	margin-left: -5em;
 	padding: 3em;
@@ -31,7 +31,7 @@
 .slide
 {
 	z-index: 1;
-	background-color: #519b98;
+	background-color: $theme-dark-color;
 	width: 40%;
 	margin-top: 3em;
 	padding: 1.5em;
