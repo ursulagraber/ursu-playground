@@ -15,5 +15,5 @@
 	{{ include.post.date | date: "%Y" }}
 {% endcapture %}
 <time datetime="{{ include.post.date | date_to_xmlschema }}">
-	{{ i18n_date }}
+	{{ include.post.location }}, {{ i18n_date }}
 </time>

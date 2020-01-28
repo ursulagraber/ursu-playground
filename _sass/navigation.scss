@@ -52,12 +52,8 @@
 	}
 
 	.logo {
-			width: 100px;
+			width: $logo-width;
 			vertical-align: middle;
-	}
-
-  .logo-bottom {
-      vertical-align: middle;
 	}
 
 	hr {
@@ -101,52 +97,3 @@
 		}
 	}
 }
-
-//
-// nav {
-//   background: rgba(255, 255, 255, .9);
-//   z-index: 999;
-// 	display: table;
-// 	table-layout: fixed;
-//
-// 	.logo {
-// 		width: 10 px;
-// 	}
-//
-//   .menu {
-//     width: 90%;
-// 		height: 10px;
-//     display: flex;
-//     justify-content: center;
-// 		padding: 0px 3px;
-//
-//     a {
-//       display: inline-block;
-//       text-decoration: none;
-//       padding: 0px 15px;
-//       color: #444;
-//       text-transform: uppercase;
-//       letter-spacing: 1px;
-//       font-size: .9em;
-//
-//       &.active {
-//         color: #888;
-//       }
-//
-//       &:hover {
-//         color: #000;
-//       }
-//     }
-//   }
-//
-//   hr {
-// 	    display: block;
-// 	    height: 1px;
-// 	    border: 1px solid #888;
-// 			margin: 1em auto;
-// 			margin-left: 100px;
-// 	    padding: 0px;
-// 			background: rgba(122, 122, 255, .9);
-// 			width: 90%;
-// 	}
-// }

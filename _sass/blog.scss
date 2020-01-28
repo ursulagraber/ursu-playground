@@ -1,6 +1,9 @@
 .post {
 	h1 a {
-		color: #000;
+		padding-left: $logo-width+30px;
+		background: $theme-light-color;
+		color: white;
+
 		text-decoration: none;
 
 		&:hover {
@@ -8,6 +11,7 @@
 		}
 	}
 	time {
+		margin-left: $logo-width+30px;
 		padding: 0 0 20px 0;
 		display: block;
 	}

@@ -1,4 +1,5 @@
 ---
+location: Graz
 title: Workshop Playground Ursi
 categories:
   - Workshops

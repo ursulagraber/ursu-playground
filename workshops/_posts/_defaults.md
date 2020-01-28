@@ -2,6 +2,7 @@
 title:
 categories:
 date:
+location:
 featured_image:
 brief:
 cast:

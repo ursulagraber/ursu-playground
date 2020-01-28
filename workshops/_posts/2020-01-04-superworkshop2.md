@@ -1,5 +1,6 @@
 ---
 date: 2020-01-04
+location: Graz
 title: SuperWorkshop Ursi
 categories:
   - Workshops
