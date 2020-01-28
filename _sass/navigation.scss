@@ -37,7 +37,9 @@
 			color: #444;
 			text-transform: uppercase;
 			letter-spacing: 1px;
-			font-size: .9em;
+			font-size: 1.4em;
+
+      font-family: $navigation-font;
 
 			&.active {
 				color: #888;

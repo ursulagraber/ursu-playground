@@ -22,7 +22,7 @@ body::after {
 }
 
 body, input, textarea {
-	font-family: 'Open Sans', sans-serif;
+	font-family: $main-content-font;
 	color: #222;
 	-webkit-font-smoothing: antialiased;
 }

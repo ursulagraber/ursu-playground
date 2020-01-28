@@ -81,7 +81,7 @@ button:hover {
 
 .contact3-form-title {
   display: block;
-  font-family:  'Open Sans', sans-serif;
+  font-family:  $main-content-font;
   font-size: 39px;
   color: #fff;
   line-height: 1.2;
@@ -100,7 +100,7 @@ button:hover {
   display: block;
   width: 100%;
   background: transparent;
-  font-family:  'Open Sans', sans-serif;
+  font-family:  $main-content-font;
   font-size: 15px;
   color: #fff;
   line-height: 1.2;
@@ -157,7 +157,7 @@ textarea.input3 {
 }
 
 .contact3-form-btn {
-  font-family:  'Open Sans', sans-serif;
+  font-family:  $main-content-font;
   font-size: 16px;
   color: #FFFFFF;
   line-height: 1.2;
@@ -239,7 +239,7 @@ textarea.input3 {
   right: 0px;
   pointer-events: none;
 
-  font-family:  'Open Sans', sans-serif;
+  font-family:  $main-content-font;
   color: #1C6965;
   font-size: 13px;
   line-height: 1.4;
@@ -256,7 +256,7 @@ textarea.input3 {
 
 .alert-validate::after {
   content: "!";//"\f12a"; //emoji
-  font-family:  'Open Sans', sans-serif;
+  font-family:  $main-content-font;
   display: block;
   position: absolute;
   color: #1C6965;
