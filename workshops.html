@@ -25,13 +25,3 @@ layout: fullpage
 			</p>
 	</div>
 </div>
-
-<div class="workshops">
-	{% for workshop in site.categories.workshops %}
-		<div class="workshop-container">
-			<div class="workshop" style="background-image: url('{{ workshop.featured_image }}')">
-				<a href="{{ workshop.url }}"><span>{{ workshop.title }}</span></a>
-			</div>
-		</div>
-	{% endfor %}
-</div>

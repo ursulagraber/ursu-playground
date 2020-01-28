@@ -1,17 +1,27 @@
+/*workshops overview*/
 
 .workshops-container
 {
 	margin: 2em;
   display: flex;
-	flex-wrap: wrap-reverse;
+	flex-wrap: wrap;
+	align-items: flex-start;
+}
+
+.sticky
+{
+	position: -webkit-sticky;
+  position: sticky;
+  top: 2em;
+	/* TODO: bounce animate */
 }
 
 .excerpt
 {
 	z-index: 0;
 	background-color: #3bcfce;
-	width: 40%;
-	margin: 0 auto auto -5em;
+	width: 30%;
+	margin-left: -5em;
 	padding: 3em;
 	padding-left: 7em;
 	min-width: 15em;
@@ -24,6 +34,7 @@
 	background-color: #519b98;
 	width: 40%;
 	margin-top: 3em;
+	padding: 1.5em;
 }
 
 .workshops {
@@ -73,3 +84,5 @@
 		}
 	}
 }
+
+/*workshop detail*/

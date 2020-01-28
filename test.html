@@ -1,51 +1,68 @@
+---
+layout: testlayout
+---
 
+Here are a few additional things to note:
 
-<!DOCTYPE html>
-<html lang="en-us">
+    With our example, the align-items: flex-start rule on the flex container is important because otherwise flex items default to a value of stretch where the elements would take the whole height of the container, cancelling the sticky effect.
+    We need to make use of the -webkit-sticky vendor prefix for it to work in Safari.
+    It’s important that you set a point for the element to become sticky using either of the top, bottom, left or right properties, depending on which direction the user will scroll.
+    Notice how sticky-positioned elements are only sticky within their parent element.Here are a few additional things to note:
 
-<link rel="stylesheet" type="text/css" href="/css/test.css">
+    With our example, the align-items: flex-start rule on the flex container is important because otherwise flex items default to a value of stretch where the elements would take the whole height of the container, cancelling the sticky effect.
+    We need to make use of the -webkit-sticky vendor prefix for it to work in Safari.
+    It’s important that you set a point for the element to become sticky using either of the top, bottom, left or right properties, depending on which direction the user will scroll.
+    Notice how sticky-positioned elements are only sticky within their parent element.
 
+<div class="test-container">
+  <div class="item pirate">
+    <img src="https://picsum.photos/500?w=1560&h=940&fit=crop" width="100" alt="Item 1">
+  </div>
+  <div class="item police">
+    <img src="https://picsum.photos/500?w=1560&h=940&fit=crop" width="100" alt="Item 2">
+  </div>
+  <div class="item cowboy">
+    <img src="https://picsum.photos/500?w=1560&h=940&fit=crop" width="100" alt="Item 3">
+  </div>
+  <div class="item doctor">
+    <img src="https://picsum.photos/500?w=1560&h=940&fit=crop" width="100" alt="Item 4">
+  </div>
+</div>
 
+Here are a few additional things to note:
 
+    With our example, the align-items: flex-start rule on the flex container is important because otherwise flex items default to a value of stretch where the elements would take the whole height of the container, cancelling the sticky effect.
+    We need to make use of the -webkit-sticky vendor prefix for it to work in Safari.
+    It’s important that you set a point for the element to become sticky using either of the top, bottom, left or right properties, depending on which direction the user will scroll.
+    Notice how sticky-positioned elements are only sticky within their parent element.Here are a few additional things to note:
 
-<nav class="nav-main">
-  <ul>
-    <li><a href="#">Products</a></li>
-    <li><a href="#">Services</a></li>
-    <li><a href="#">Contact</a></li>
-  </ul>
-</nav>
-<header>
-  <h1>Products</h1>
-</header>
-<nav class="nav-sticky">
-  <ul>
-    <li><a href="#hoses">Hoses</a></li>
-    <li><a href="#rakes">Rakes</a></li>
-    <li><a href="#shovels">Shovels</a></li>
-  </ul>
-</nav>
-<article>
-	<h1 id="hoses">Hoses</h1>
-  <p>Bacon ipsum dolor amet frankfurter pork loin picanha short ribs. T-bone burgdoggen fatback chuck cow, jerky drumstick pork tongue pastrami strip steak pig ball tip. Swine ribeye beef ribs ham, pig venison jowl ball tip pork chop fatback flank biltong tenderloin brisket. Pig sausage landjaeger shankle, cow pork belly biltong shank shoulder tri-tip andouille jowl tongue. Pork chop strip steak jerky boudin ball tip pork belly tenderloin doner. T-bone shank jerky pancetta tenderloin, prosciutto porchetta landjaeger meatloaf drumstick biltong chuck. Beef ham pork chop flank, kielbasa shank corned beef salami alcatra cupim tongue pastrami meatball andouille frankfurter.</p>
+    With our example, the align-items: flex-start rule on the flex container is important because otherwise flex items default to a value of stretch where the elements would take the whole height of the container, cancelling the sticky effect.
+    We need to make use of the -webkit-sticky vendor prefix for it to work in Safari.
+    It’s important that you set a point for the element to become sticky using either of the top, bottom, left or right properties, depending on which direction the user will scroll.
+    Notice how sticky-positioned elements are only sticky within their parent element.Here are a few additional things to note:
 
-<h1 id="rakes">Rakes</h1>
-<p>Strip steak swine pork chop, meatball meatloaf shank pancetta tri-tip ground round ball tip. Turducken prosciutto beef ribs, picanha biltong kevin spare ribs pig. Meatball cupim strip steak ribeye salami. Rump filet mignon doner flank bacon tongue ribeye jowl turkey hamburger prosciutto pig landjaeger pork loin. Biltong kevin beef, shoulder t-bone short loin ball tip hamburger bacon flank. Sirloin venison prosciutto, chicken meatball swine andouille shank pig alcatra meatloaf chuck brisket.</p>
+    With our example, the align-items: flex-start rule on the flex container is important because otherwise flex items default to a value of stretch where the elements would take the whole height of the container, cancelling the sticky effect.
+    We need to make use of the -webkit-sticky vendor prefix for it to work in Safari.
+    It’s important that you set a point for the element to become sticky using either of the top, bottom, left or right properties, depending on which direction the user will scroll.
+    Notice how sticky-positioned elements are only sticky within their parent element.
+    Here are a few additional things to note:
 
-<h1 id="shovels">Shovels</h1>
-<p>Pork filet mignon ball tip drumstick shankle doner salami pastrami. Ham cow beef ribs burgdoggen drumstick cupim. Swine ground round kevin, bresaola pig strip steak porchetta turkey picanha andouille doner. Jerky frankfurter short loin boudin filet mignon strip steak. Shoulder hamburger sirloin beef pastrami pork chop shankle ham hock spare ribs ground round jowl. Pork belly burgdoggen frankfurter t-bone, cupim short loin ham. Beef ribs fatback t-bone prosciutto, cupim capicola spare ribs chicken.</p>
+        With our example, the align-items: flex-start rule on the flex container is important because otherwise flex items default to a value of stretch where the elements would take the whole height of the container, cancelling the sticky effect.
+        We need to make use of the -webkit-sticky vendor prefix for it to work in Safari.
+        It’s important that you set a point for the element to become sticky using either of the top, bottom, left or right properties, depending on which direction the user will scroll.
+        Notice how sticky-positioned elements are only sticky within their parent element.Here are a few additional things to note:
 
-<h1 id="hoses">Hoses</h1>
-<p>Bacon ipsum dolor amet frankfurter pork loin picanha short ribs. T-bone burgdoggen fatback chuck cow, jerky drumstick pork tongue pastrami strip steak pig ball tip. Swine ribeye beef ribs ham, pig venison jowl ball tip pork chop fatback flank biltong tenderloin brisket. Pig sausage landjaeger shankle, cow pork belly biltong shank shoulder tri-tip andouille jowl tongue. Pork chop strip steak jerky boudin ball tip pork belly tenderloin doner. T-bone shank jerky pancetta tenderloin, prosciutto porchetta landjaeger meatloaf drumstick biltong chuck. Beef ham pork chop flank, kielbasa shank corned beef salami alcatra cupim tongue pastrami meatball andouille frankfurter.</p>
+    With our example, the align-items: flex-start rule on the flex container is important because otherwise flex items default to a value of stretch where the elements would take the whole height of the container, cancelling the sticky effect.
+    We need to make use of the -webkit-sticky vendor prefix for it to work in Safari.
+    It’s important that you set a point for the element to become sticky using either of the top, bottom, left or right properties, depending on which direction the user will scroll.
+    Notice how sticky-positioned elements are only sticky within their parent element.Here are a few additional things to note:
 
-<h1 id="rakes">Rakes</h1>
-<p>Strip steak swine pork chop, meatball meatloaf shank pancetta tri-tip ground round ball tip. Turducken prosciutto beef ribs, picanha biltong kevin spare ribs pig. Meatball cupim strip steak ribeye salami. Rump filet mignon doner flank bacon tongue ribeye jowl turkey hamburger prosciutto pig landjaeger pork loin. Biltong kevin beef, shoulder t-bone short loin ball tip hamburger bacon flank. Sirloin venison prosciutto, chicken meatball swine andouille shank pig alcatra meatloaf chuck brisket.</p>
+    With our example, the align-items: flex-start rule on the flex container is important because otherwise flex items default to a value of stretch where the elements would take the whole height of the container, cancelling the sticky effect.
+    We need to make use of the -webkit-sticky vendor prefix for it to work in Safari.
+    It’s important that you set a point for the element to become sticky using either of the top, bottom, left or right properties, depending on which direction the user will scroll.
+    Notice how sticky-positioned elements are only sticky within their parent element.Here are a few additional things to note:
 
-<h1 id="shovels">Shovels</h1>
-<p>Pork filet mignon ball tip drumstick shankle doner salami pastrami. Ham cow beef ribs burgdoggen drumstick cupim. Swine ground round kevin, bresaola pig strip steak porchetta turkey picanha andouille doner. Jerky frankfurter short loin boudin filet mignon strip steak. Shoulder hamburger sirloin beef pastrami pork chop shankle ham hock spare ribs ground round jowl. Pork belly burgdoggen frankfurter t-bone, cupim short loin ham. Beef ribs fatback t-bone prosciutto, cupim capicola spare ribs chicken.</p>
-</article>
-
-
-
-
-</html>
+    With our example, the align-items: flex-start rule on the flex container is important because otherwise flex items default to a value of stretch where the elements would take the whole height of the container, cancelling the sticky effect.
+    We need to make use of the -webkit-sticky vendor prefix for it to work in Safari.
+    It’s important that you set a point for the element to become sticky using either of the top, bottom, left or right properties, depending on which direction the user will scroll.
+    Notice how sticky-positioned elements are only sticky within their parent element.
