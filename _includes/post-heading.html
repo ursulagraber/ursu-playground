@@ -1,13 +1,19 @@
-{% if include.post_page %}
+<!-- {% if include.post_page %}
 	<div class="take-me">
 		<a class="button" href="#recipe">Jump to recipe</a>
 	</div>
-{% endif %}
+{% endif %} -->
 <h1>
 	<a href="{{ include.post.url }}">
 		{{ include.post.title }}
 	</a>
 </h1>
+{% capture i18n_date %}
+	{{ include.post.date | date: "%-d" }}
+	{% assign m = include.post.date | date: "%-m" | minus: 1 %}
+	{{ site.data.de.months[m] }}
+	{{ include.post.date | date: "%Y" }}
+{% endcapture %}
 <time datetime="{{ include.post.date | date_to_xmlschema }}">
-	{{ include.post.date | date: "%B %-d, %Y" }}
+	{{ i18n_date }}
 </time>

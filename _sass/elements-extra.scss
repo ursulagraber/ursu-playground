@@ -12,13 +12,29 @@
 
 .pblock
 {
-	background-color: #3bcfce;
 	margin-top: 2em;
 	padding: 1em;
 	padding-left: 4em;
 	padding-right: 4em;
 	max-width: 50%;
 	overflow: visible;
+}
+
+.light-color
+{
+	background-color: #3bcfce;
+}
+
+.dark-color
+{
+	background-color: #519b98;
+	color: white;
+}
+
+.fullblock
+{
+	margin: 3em;
+	padding: 4em;
 }
 
 .leftbackbox
@@ -142,9 +158,7 @@
 //
 
 iframe.feat_vid {
-	width: 100%;
-	height: 100%;
-	background-color: #1C6965;
+
 }
 
 figure#left {
@@ -178,7 +192,6 @@ figure#right {
 	margin: 3em;
 	margin-left: 0em;
 	padding-bottom: 70%;
-	/*float: left;*/
 }
 
 /* Adjust the iframe so it's rendered in the outer-width and outer-height of it's parent */
@@ -195,9 +208,10 @@ figure#right {
  width: 40%;
 }
 
-row {
-	max-width: 100px;
+.row {
+
 }
+
 /* Clear floats after the columns */
 .row:after {
  content: "";
