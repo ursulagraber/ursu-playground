@@ -62,11 +62,11 @@
 {
 	display: flex;
 	flex-wrap: wrap;
-	align-items: baseline;
+	align-items: center;
 	justify-content: center;
 	margin-bottom: 3em;
 
-	max-width: 80%;
+	width: 80%;
 	min-width: 500px;
 }
 
@@ -83,8 +83,8 @@
 .element-container
 {
 	margin: 0;
-	padding: 5%;
-	flex-basis: 30%;
+	padding: 2% 4%;
+	flex-basis: 34%;
 
 	a {
 		color: white;
@@ -120,7 +120,8 @@
 
 .video-list-overview
 {
-	padding: 1em;
+	padding: auto 0em 0em 0em;
+  margin: 0;
 }
 
 .caption-container
@@ -141,7 +142,7 @@
 	align-items: center;
 	justify-content: center;
 
-	margin-bottom: 2em;
+  margin: 1em -1em 1em -1em;
 
 	img
 	{

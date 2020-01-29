@@ -1,6 +1,7 @@
 ---
 title: Projects
 layout: fullpage
+image_view: true
 
 featured:
     title: Schaisse
@@ -47,12 +48,13 @@ performances:
 
 <div class="flex-container lean-left">
   <div class="element-container dark-color">
-  <h2>Solo-Projects</h2>
-  <p>
-  The only home we've ever known dream of the mind's eye the carbon in our apple
-  pies how far away a very small stage in a vast cosmic arena Sea of
-  Tranquility?
+    <h2>Solo-Projects</h2>
+    <p>
+    The only home we've ever known dream of the mind's eye the carbon in our apple
+    pies how far away a very small stage in a vast cosmic arena Sea of
+    Tranquility?
     </p>
+
   </div>
   <div class="element-container light-color big-flex">
     <div class="element-centered">
@@ -69,16 +71,6 @@ performances:
         <p>
           <a href="{{ page.featured.url }}">Read more</a>
         </p>
-      </div>
-      <div class="video-list-overview dark-color">
-        <h3>Check the other projects</h3>
-        <div class="thumbnails-flex">
-          {% for item in page.performances %}
-          <a href="{{ item.image }}" title="{{ item.title }}" class="js-smartPhoto" data-caption="{{ item.title }}" data-id="{{ item.title }}" data-group="{{ item.data-group }}">
-            <img src="{{ item.image }}&w=300&h=300&output=jpg&q=50&t=square" />
-          </a>
-          {% endfor %}
-        </div>
       </div>
     </div>
   </div>
@@ -101,16 +93,6 @@ performances:
           <a href="{{ page.featured.url }}">Read more</a>
         </p>
       </div>
-      <div class="video-list-overview dark-color">
-        <h3>Check the other projects</h3>
-        <div class="thumbnails-flex">
-          {% for item in page.performances %}
-          <a href="{{ item.image }}" title="{{ item.title }}" class="js-smartPhoto" data-caption="{{ item.title }}" data-id="{{ item.title }}" data-group="{{ item.data-group }}">
-            <img src="{{ item.image }}&w=300&h=300&output=jpg&q=50&t=square" />
-          </a>
-          {% endfor %}
-        </div>
-      </div>
     </div>
   </div>
   <div class="element-container dark-color">
@@ -125,6 +107,16 @@ performances:
     known citizens of distant epochs and billions upon billions upon billions
     upon billions upon billions upon billions upon billions.
     </p>
+    <div class="video-list-overview">
+      <h3>Check the other projects</h3>
+      <div class="thumbnails-flex">
+        {% for item in page.performances %}
+        <a href="{{ item.image }}" title="{{ item.title }}" class="js-smartPhoto" data-caption="{{ item.title }}" data-id="{{ item.title }}" data-group="{{ item.data-group }}">
+          <img src="{{ item.image }}&w=300&h=300&output=jpg&q=50&t=square" />
+        </a>
+        {% endfor %}
+      </div>
+    </div>
   </div>
 </div>
 

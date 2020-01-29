@@ -18,7 +18,7 @@ body {
 body::after {
 	content:'';
 	display:block;
-	height:150px;
+	height:275px;
 }
 
 body, input, textarea {
@@ -69,6 +69,7 @@ h1.full-width-white {
 h2 {
 	font-size: 1.6em;
 	color: white;
+	background-color: $theme-dark-color;
 }
 
 h3
