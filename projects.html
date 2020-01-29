@@ -44,37 +44,52 @@ performances:
     image: https://ursulagraber.files.wordpress.com/2019/04/28685596_1661689500563538_862267774762745856_o.jpg
     data-group: performance
     data-tags:
+
+lean-direction:
+  - 'lean-left'
+  - 'lean-right'
 ---
 
-<div class="flex-container lean-left">
-  <div class="element-container dark-color">
-    <h2>Solo-Projects</h2>
-    <p>
-    The only home we've ever known dream of the mind's eye the carbon in our apple
-    pies how far away a very small stage in a vast cosmic arena Sea of
-    Tranquility?
-    </p>
-
-  </div>
-  <div class="element-container light-color big-flex">
-    <div class="element-centered">
-      <figure class="overview-feat-vid">
-        <img src="{{ page.featured.url }}" height="200px" alt="{{ page.featured.title }}">
-      </figure>
-      <div class="caption-container">
-        <span class="caption-title">{{ page.featured.title }}</span><br />
-        ({{ page.featured.year }})<br />
-        <p>
-        A solo by {{ page.featured.author }} <br />
-        {{ page.featured.excerpt }} <br />
-        </p>
-        <p>
-          <a href="{{ page.featured.url }}">Read more</a>
-        </p>
+{% for category in site.categories %}
+  <div class="flex-container {% cycle 'lean-left', 'lean-right' %}">
+    <div class="element-container dark-color">
+      <h2>{{ category[0] }}</h2>
+      <p>
+      The only home we've ever known dream of the mind's eye the carbon in our apple
+      pies how far away a very small stage in a vast cosmic arena Sea of
+      Tranquility?
+      </p>
+      <div class="video-list-overview">
+        <h3>Check the other projects</h3>
+        <div class="thumbnails-flex">
+          {% for item in category[1] %}
+          <a href="{{ item.featured_image }}" title="{{ item.title }}" class="js-smartPhoto" data-caption="{{ item.title }}" data-id="{{ item.title }}" data-group="todo">
+            <img src="{{ item.featured_image }}&w=300&h=300&output=jpg&q=50&t=square" />
+          </a>
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+    <div class="element-container light-color big-flex">
+      <div class="element-centered">
+        <figure class="overview-feat-vid">
+          <img src="{{ page.featured.url }}" height="200px" alt="{{ page.featured.title }}">
+        </figure>
+        <div class="caption-container">
+          <span class="caption-title">{{ page.featured.title }}</span><br />
+          ({{ page.featured.year }})<br />
+          <p>
+          A solo by {{ page.featured.author }} <br />
+          {{ page.featured.excerpt }} <br />
+          </p>
+          <p>
+            <a href="{{ item.url }}">Read more</a>
+          </p>
+        </div>
       </div>
     </div>
   </div>
-</div>
+{% endfor %}
 
 <div class="flex-container lean-right">
   <div class="element-container light-color big-flex">
@@ -119,6 +134,8 @@ performances:
     </div>
   </div>
 </div>
+
+
 
 {% if page.image_view %}
   {% for category in site.categories %}
