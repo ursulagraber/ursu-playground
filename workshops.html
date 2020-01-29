@@ -6,7 +6,8 @@ layout: fullpage
 <div class="workshops-container">
 	<div class="slide">
 		<div class="workshops">
-			{% for workshop in site.categories.workshops %}
+			{% assign workshops = site.categories.workshops | sort: "date" | reverse %}
+			{% for workshop in workshops %}
 				<div class="workshop-container">
 					<div class="workshop" style="background-image: url('{{ workshop.featured_image }}')">
 						<a href="{{ workshop.url }}"><span>{{ workshop.title }}</span></a>

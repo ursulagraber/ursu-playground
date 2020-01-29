@@ -1,7 +1,7 @@
 ---
 date: 2020-01-05
 location: Graz
-title: SuperWorkshop Ursi
+title: 5th Workshop Ursi
 categories:
   - Workshops
 featured_image: https://picsum.photos/500?random=5&w=1560&h=940&fit=crop

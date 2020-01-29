@@ -40,6 +40,10 @@ h1 {
 	color: white;
 }
 
+h1.fullpage-left {
+	padding-left: 130px;
+}
+
 h1.full-width-white {
 	font-size: 1.8em;
 	margin: 0;
@@ -50,17 +54,17 @@ h1.full-width-white {
 }
 
 //.full-width-tinted:before {
-h1:before {
-  content: "";
-  position: absolute;
-  z-index: -1; /* behind parent */
-  top: 0;
-  bottom: 0;
-	/* set a ridiculous value */
-  left: -9600rem;
-  right: 0rem;
-  background: $theme-light-color;
-}
+// h1:before {
+//   content: "";
+//   position: relative;
+//   z-index: -1; /* behind parent */
+//   top: 0;
+//   bottom: 0;
+// 	/* set a ridiculous value */
+//   left: -9600rem;
+//   right: 0rem;
+//   background: $theme-light-color;
+// }
 
 h2 {
 	font-size: 1.6em;

@@ -1,7 +1,7 @@
 ---
 date: 2020-01-03
 location: Graz
-title: SuperWorkshop Ursi
+title: Mini Workshop Ursi 3rd
 categories:
   - Workshops
 featured_image: https://picsum.photos/500?random=2&w=1560&h=940&fit=crop

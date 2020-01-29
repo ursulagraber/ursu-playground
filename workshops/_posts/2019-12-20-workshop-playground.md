@@ -1,6 +1,6 @@
 ---
 location: Graz
-title: Workshop Playground Ursi
+title: Workshop Playground Ursi 20th
 categories:
   - Workshops
 featured_image: https://ursulagraber.files.wordpress.com/2017/08/email.jpg?w=1560&h=940&fit=crop
@@ -25,15 +25,13 @@ Delicious Workshop!
 
 Knights of Ni, we are but simple travelers who seek the enchanter who lives beyond these woods. Burn her anyway! Now, look here, my good man. Be quiet!
 
-<figure id="left">
-{% if page.video_url %}{% include video-embed.html id=page.video_url %}{% endif %}
-</figure>
+<!--plop-->
+
 
 He hasn't got shit all over him. __Now, look here, my good man.__ *Well, I got better.* …Are you suggesting that coconuts migrate?
 
-<figure id="right">
-{% if page.galleries %}{% include image-gallery-index.html %}{% endif %}
-</figure>
+<!--plop-->
+
 
 What do you mean? Shut up! Shut up! Now, look here, my good man. I don't want to talk to you no more, you empty-headed animal food trough water! I fart in your general direction! Your mother was a hamster and your father smelt of elderberries! Now leave before I am forced to taunt you a second time!
 

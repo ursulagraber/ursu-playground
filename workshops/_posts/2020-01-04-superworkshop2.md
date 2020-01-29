@@ -1,7 +1,7 @@
 ---
 date: 2020-01-04
 location: Graz
-title: SuperWorkshop Ursi
+title: 4th Workshop Ursi
 categories:
   - Workshops
 featured_image: https://picsum.photos/500?random=3&w=1560&h=940&fit=crop
