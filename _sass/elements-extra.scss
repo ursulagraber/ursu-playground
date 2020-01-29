@@ -56,6 +56,104 @@
   list-style-type: none;
 }
 
+// simple blocks
+
+.flex-container
+{
+	display: flex;
+	flex-wrap: wrap;
+	align-items: baseline;
+	justify-content: center;
+	margin-bottom: 3em;
+
+	max-width: 80%;
+	min-width: 500px;
+}
+
+.lean-left
+{
+	margin-right: auto;
+}
+
+.lean-right
+{
+	margin-left: auto;
+}
+
+.element-container
+{
+	margin: 0;
+	padding: 5%;
+	flex-basis: 30%;
+
+	a {
+		color: white;
+		font-weight: bold;
+	}
+}
+
+.big-flex {
+	flex-basis: 50%;
+}
+
+.element-centered
+{
+	margin: auto;
+	padding: auto;
+	text-align: center;
+
+	div figure {
+		display: inline;
+	}
+}
+
+.overview-feat-vid
+{
+	height: 200px;
+	overflow: hidden;
+
+	img
+	{
+		display: inline;
+	}
+}
+
+.video-list-overview
+{
+	padding: 1em;
+}
+
+.caption-container
+{
+	color: white;
+}
+
+.caption-title
+{
+	font-size: 1.2em;
+	font-weight: bold;
+}
+
+.thumbnails-flex
+{
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	justify-content: center;
+
+	margin-bottom: 2em;
+
+	img
+	{
+		width: 5em;
+		height: 5em;
+		margin: 3px;
+		border: 2px solid black;
+
+		object-fit: cover;
+	}
+}
+
 // form
 
 #top-container
@@ -156,10 +254,6 @@
 }
 
 //
-
-iframe.feat_vid {
-
-}
 
 figure#left {
 	  padding: 5px;
