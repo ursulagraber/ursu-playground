@@ -7,6 +7,7 @@
 .super-container
 {
   display: flex;
+  justify-content: center;
 
   background: url(/images/pix-519b98.png);
   background-repeat: no-repeat;
@@ -17,15 +18,20 @@
   //margin-bottom: -5em;
 }
 
+.fill-margin
+{
+  flex-grow: 0.25;
+}
+
 .top-image-container
 {
-  position: relative;
   align-self: flex-end;
-  margin-left: -20%;
+  margin-left: -10em;
   margin-top: -3em;
+  margin-right: -20%;
   margin-bottom: auto;
   overflow: visible;
-  width: 100%;
+  width: 70%;
   z-index: 10;
 
 
@@ -37,10 +43,11 @@
 
 .about-main-container
 {
-  width: 80%;
+  width: 50%;
   z-index: 13;
-  padding: 1em 0 2em 5em;
+  padding: 1em 0 2em 0em;
   margin: 0;
+  max-width: 600px;
 
   display: flex;
   flex-direction: column;
