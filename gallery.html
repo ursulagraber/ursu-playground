@@ -11,10 +11,12 @@ performances:
     image: https://ursulagraber.files.wordpress.com/2019/04/28660335_1661689227230232_7368354092386615296_o.jpg
     data-group: performance
     data-tags:
-  - title: Per terra
-    image: https://ursulagraber.files.wordpress.com/2019/04/28660526_1661689423896879_3458369617347477504_o.jpg
+  - title: El Video
+    image: https://picsum.photos/500?random=1&w=560&h=940&fit=crop
     data-group: performance
     data-tags:
+    video: https://vimeo.com/330582854
+    video_id: 330582854
   - title: Per Terra
     image: https://ursulagraber.files.wordpress.com/2019/04/28685596_1661689500563538_862267774762745856_o.jpg
     data-group: performance
@@ -71,9 +73,16 @@ workshops:
 
 <div class="masonry-with-columns">
   {% for item in page.performances %}
-  <a href="{{ item.image }}" title="{{ item.title }}" class="js-smartPhoto" data-caption="{{ item.title }}" data-id="{{ item.title }}" data-group="{{ item.data-group }}">
-    <img src="{{ item.image }}&w=300&h=300&output=jpg&q=50&t=square" />
-  </a>
+    {% if item.video %}
+      <!--TODO overlay play icon and change class to launch video modal instead of smartPhoto -->
+      <a href="{{ item.image }}" title="{{ item.title }}" class="js-video-vimeo-btn" data-video-id="{{ item.video_id }}" data-caption="{{ item.title }}" data-id="{{ item.title }}" data-group="{{ item.data-group }}">
+        <img src="{{ item.image }}&w=300&h=300&output=jpg&q=50&t=square" />
+      </a>
+    {% else %}
+      <a href="{{ item.image }}" title="{{ item.title }}" class="js-smartPhoto" data-caption="{{ item.title }}" data-id="{{ item.title }}" data-group="{{ item.data-group }}">
+        <img src="{{ item.image }}&w=300&h=300&output=jpg&q=50&t=square" />
+      </a>
+    {% endif %}
   {% endfor %}
 </div>
 
