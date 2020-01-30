@@ -1,0 +1,142 @@
+.ultra-container
+{
+  width: 90vw;
+  margin-top: 100px;
+}
+
+.super-container
+{
+  display: flex;
+
+  background: url(/images/pix-519b98.png);
+  background-repeat: no-repeat;
+  background-size: 80% 100%;
+  background-position: top left;
+
+  padding-bottom: 4em;
+  //margin-bottom: -5em;
+}
+
+.top-image-container
+{
+  position: relative;
+  align-self: flex-end;
+  margin-left: -20%;
+  margin-top: -3em;
+  margin-bottom: auto;
+  overflow: visible;
+  width: 100%;
+  z-index: 10;
+
+
+  img {
+    max-height: 50vh;
+    object-fit: contain;
+  }
+}
+
+.about-main-container
+{
+  width: 80%;
+  z-index: 13;
+  padding: 1em 0 2em 5em;
+  margin: 0;
+
+  display: flex;
+  flex-direction: column;
+
+  color: white;
+
+  a {
+    color: white;
+    font-weight: bold;
+  }
+}
+
+.superpad
+{
+  margin-left: auto;
+  padding: 2em;
+  padding-bottom: 5em;
+}
+
+.inline-icon
+{
+    width: 1em;
+    display: inline;
+    padding-right: 1ex;
+}
+
+.push-down
+{
+  margin-top: auto;
+}
+
+.about-bottom-container
+{
+  position:relative;
+  margin-top: -5em;
+  width: 100%;
+}
+
+.float-left
+{
+  float: left;
+  margin: 0;
+  padding: 0em 2em 1em 0;
+  width: 20%;
+  max-width: 40%;
+
+  img {
+    height: 300px;
+  }
+}
+
+.side-image {
+  width: 260px;
+  object-fit: cover;
+  overflow: hidden;
+}
+
+.bottom-section::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.bottom-image-container
+{
+  overflow: hidden;
+
+  //object-fit: cover;
+
+  margin-top: 0em;
+  margin-left: 0em;
+  margin-right: 2.5em;
+  width: 300px;
+  height: 1000px;
+}
+
+.bottom-section
+{
+  width: 90%;
+}
+
+.clear-backcolor
+{
+  background-color: transparent;
+}
+
+.bottom-text
+{
+  overflow-x: visible;
+  padding-right: auto;
+}
+
+#bottom-text-content
+{
+  background-color: white;
+
+  padding-right: 13%;
+  padding-left: 20%;
+}

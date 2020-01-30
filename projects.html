@@ -72,13 +72,15 @@ lean-direction:
         </div>
       </div>
     </div>
+    {% assign featured_item = category[1][0] %}
     <div class="element-container light-color big-flex">
       <div class="element-centered">
         <figure class="overview-feat-vid">
-          <img src="{{ page.featured.url }}" height="200px" alt="{{ page.featured.title }}">
+          <a href="{{ featured_item.url }}" title="Go to {{ featured_item.title }}">
+            <img src="{{ featured_item.featured_image }}" height="200px" alt="{{ featured_item.title }}">
+          </a>
         </figure>
         <div class="caption-container">
-          {% assign featured_item = category[1][0] %}
           <span class="caption-title">{{ featured_item.title }}</span><br />
           ({{ featured_item.date | date: "%Y" }})<br />
           <p>

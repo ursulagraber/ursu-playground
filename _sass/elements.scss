@@ -129,10 +129,10 @@ footer {
 
   /*TODO find out how to override the global svg color when on footer without important*/
 	svg {
-		fill: white !important;
+		fill: $light-grey !important;
 
 		&:hover {
-			fill: #000 !important;
+			fill: #FFF !important;
 		}
 	}
 }
