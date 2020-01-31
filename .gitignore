@@ -2,3 +2,7 @@ _site/
 .sass-cache/
 .jekyll-metadata
 deprecated
+design-reference
+images/gitignored
+debug.html
+node_modules
