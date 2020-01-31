@@ -74,14 +74,13 @@ workshops:
 <div class="masonry-with-columns">
   {% for item in page.performances %}
     {% if item.video %}
-      <!--TODO overlay play icon and change class to launch video modal instead of smartPhoto -->
-      <a href="#" class="playWrapper">
-        <span class="playBtn"><img src="{{ site.url }}/images/play-button.png" width="50" height="50" alt=""></span>
-      </a>
-
-      <a href="{{ item.image }}" title="{{ item.title }}" class="js-video-vimeo-btn" data-video-id="{{ item.video_id }}" data-caption="{{ item.title }}" data-id="{{ item.title }}" data-group="{{ item.data-group }}">
-        <img src="{{ item.image }}&w=300&h=300&output=jpg&q=50&t=square" />
-      </a>
+      <div class="thumb-container">
+        <a href="{{ item.image }}" title="{{ item.title }}" class="js-video-vimeo-btn" data-video-id="{{ item.video_id }}" data-caption="{{ item.title }}" data-id="{{ item.title }}" data-group="{{ item.data-group }}">
+          <img class="thumb" src="{{ item.image }}&w=300&h=300&output=jpg&q=50&t=square" />
+        </a>
+        <a href="{{ item.image }}" class="play-overlay js-video-vimeo-btn raise" data-video-id="{{ item.video_id }}" data-caption="{{ item.title }}" data-id="{{ item.title }}" data-group="{{ item.data-group }}">
+        </a>
+      </div>
     {% else %}
       <a href="{{ item.image }}" title="{{ item.title }}" class="js-smartPhoto" data-caption="{{ item.title }}" data-id="{{ item.title }}" data-group="{{ item.data-group }}">
         <img src="{{ item.image }}&w=300&h=300&output=jpg&q=50&t=square" />
