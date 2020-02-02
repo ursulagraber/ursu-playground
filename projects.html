@@ -50,6 +50,7 @@ lean-direction:
   - 'lean-right'
 ---
 
+<!-- TODO: use a carousel that fast-scrolls to selected thumbnail -->
 <!-- selecting "solo" category for item in site.categories.Solo -->
 
 {% for category in site.categories %}
@@ -63,7 +64,7 @@ lean-direction:
       </p>
       <div class="video-list-overview">
         <h3>Check the other projects</h3>
-        <div class="thumbnails-flex" id="thumb-selector">
+        <div class="thumbnails-flex grow" id="thumb-selector">
           {% for item in category[1] %}
           <a href="#" name="{{ category[0] | cgi_escape }}{{ forloop.index0 }}" title="{{ item.title }}" class="js-smartPhoto" data-caption="{{ item.title }}" data-id="{{ item.title }}" data-group="todo">
             <img src="{{ item.featured_image }}&w=300&h=300&output=jpg&q=50&t=square" />

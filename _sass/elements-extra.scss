@@ -152,8 +152,26 @@
 		border: 2px solid black;
 
 		object-fit: cover;
+
+		&:hover {
+			border: 2px solid $theme-light-color;
+		}
 	}
 }
+
+// .grow img
+// {
+// 	-webkit-transition: all 1s ease;
+// 		 -moz-transition: all 1s ease;
+// 			 -o-transition: all 1s ease;
+// 			-ms-transition: all 1s ease;
+// 					transition: all 1s ease;
+//
+// 	&:hover {
+// 		  width: 6em;
+// 		  height: 6em;;
+// 	}
+// }
 
 // form
 
