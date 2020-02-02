@@ -1,6 +1,6 @@
 ---
 title: Projects
-layout: fullpage
+layout: selector
 image_view: true
 
 featured:
@@ -50,68 +50,6 @@ lean-direction:
   - 'lean-right'
 ---
 
-<div class="selector-container">
-  <ul class="thumbnails">
-    <li>
-      <input type="radio" name="select" id="image1">
-      <div class="item-hugger">
-        <div class="title">Image 1</div>
-        <img class="thumb-image" src="https://picsum.photos/500?random=1&w=560&h=940&fit=crop" />
-        <label for="image1"></label>
-      </div>
-      <div class="selector-content">
-        <div class="item-wrapper">
-          <img src="https://picsum.photos/500?random=1&w=560&h=940&fit=crop">
-          <div class="title">Image 1</div>
-        </div>
-      </div>
-    </li>
-    <li class="is-active">
-      <input type="radio" name="select" id="image2" checked>
-      <div class="item-hugger">
-        <div class="title">Image 2</div>
-        <img class="thumb-image" src="https://picsum.photos/500?random=2&w=560&h=940&fit=crop" />
-        <label for="image2"></label>
-      </div>
-      <div class="selector-content">
-        <div class="item-wrapper">
-          <img src="https://picsum.photos/500?random=2&w=560&h=940&fit=crop" />
-          <div class="title">Image 2</div>
-        </div>
-      </div>
-    </li>
-    <li>
-      <input type="radio" name="select" id="image3">
-      <div class="item-hugger">
-        <div class="title">Image 3</div>
-        <img class="thumb-image" src="https://picsum.photos/500?random=3&w=560&h=940&fit=crop" />
-        <label for="image3"></label>
-      </div>
-      <div class="selector-content">
-        <div class="item-wrapper">
-          <img src="https://picsum.photos/500?random=3&w=560&h=940&fit=crop" />
-          <div class="title">Image 3</div>
-        </div>
-      </div>
-    </li>
-    <li>
-      <input type="radio" name="select" id="image4">
-      <div class="item-hugger">
-        <div class="title">Image 4</div>
-        <img class="thumb-image" src="https://picsum.photos/500?random=4&w=560&h=940&fit=crop" />
-        <label for="image4"></label>
-      </div>
-      <div class="selector-content">
-        <div class="item-wrapper">
-          <img src="https://picsum.photos/500?random=4&w=560&h=940&fit=crop" />
-          <div class="title">Image 4</div>
-        </div>
-      </div>
-    </li>
-  </ul>
-  <div class="white-box"></div>
-</div>
-
 <!-- selecting "solo" category for item in site.categories.Solo -->
 
 {% for category in site.categories %}
@@ -125,35 +63,36 @@ lean-direction:
       </p>
       <div class="video-list-overview">
         <h3>Check the other projects</h3>
-        <div class="thumbnails-flex">
+        <div class="thumbnails-flex" id="thumb-selector">
           {% for item in category[1] %}
-          <a href="{{ item.featured_image }}" title="{{ item.title }}" class="js-smartPhoto" data-caption="{{ item.title }}" data-id="{{ item.title }}" data-group="todo">
+          <a href="#" name="{{ category[0] | cgi_escape }}{{ forloop.index0 }}" title="{{ item.title }}" class="js-smartPhoto" data-caption="{{ item.title }}" data-id="{{ item.title }}" data-group="todo">
             <img src="{{ item.featured_image }}&w=300&h=300&output=jpg&q=50&t=square" />
           </a>
           {% endfor %}
         </div>
       </div>
     </div>
-    {% assign featured_item = category[1][0] %}
-    <div class="element-container light-color big-flex">
-      <div class="element-centered">
+    <div class="element-container light-color big-flex" id="accordeon">
+      {% for item in category[1] %}
+      <dl class="element-centered" id="pnl-{{ category[0] | cgi_escape }}{{ forloop.index0 }}">
         <figure class="overview-feat-vid">
-          <a href="{{ featured_item.url }}" title="Go to {{ featured_item.title }}">
-            <img src="{{ featured_item.featured_image }}" height="200px" alt="{{ featured_item.title }}">
+          <a href="{{ fitem.url }}" title="Go to {{ item.title }}">
+            <img src="{{ item.featured_image }}" height="200px" alt="{{ item.title }}">
           </a>
         </figure>
         <div class="caption-container">
-          <span class="caption-title">{{ featured_item.title }}</span><br />
-          ({{ featured_item.date | date: "%Y" }})<br />
+          <span class="caption-title">{{ item.title }}</span><br />
+          ({{ item.date | date: "%Y" }})<br />
           <p>
-          A solo by {{ featured_item.author }} <br />
-          {{ featured_item.brief }} <br />
+          A solo by {{ item.author }} <br />
+          {{ item.brief }} <br />
           </p>
           <p>
-            <a href="{{ featured_item.url }}">Read more</a>
+            <a href="{{ item.url }}">Read more</a>
           </p>
         </div>
-      </div>
+      </dl>
+      {% endfor %}
     </div>
   </div>
 {% endfor %}
