@@ -2,7 +2,7 @@
 # Site
 
 title: Ursula Graber
-url: "https://hearty-stone.cloudvent.net/"
+url: "https://www.ursulagraber.com/"
 baseurl:
 google_analytics_key:
 newsletter_action: https://formspree.io/xdoeqzvk
@@ -11,7 +11,7 @@ disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Dance blog for Jekyll.
+description: Ursula's Dance blog.
 author:
   name: Ursula Graber
   email: me@ursulagraber.com
@@ -19,7 +19,7 @@ author:
 social:
   name: Ursula Graber
   links:
-    - https://ursulagraber.github.io/ursu-playground
+    - https://www.ursulagraber.com
 
 # -----
 # Build

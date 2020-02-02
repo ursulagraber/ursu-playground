@@ -9,6 +9,10 @@ layout: default
 
 	<div class="recipe-body">
 		{{ content }}
+
+		{% if page.galleries %}
+			{% include image-gallery-index.html %}
+		{% endif %}
 	</div>
 
 	<ul id="recipe" class="recipe-overview">

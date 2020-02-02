@@ -29,7 +29,7 @@ body, input, textarea {
 
 h1 {
 	font-size: 1.8em;
-	margin: 0;
+	margin-bottom: 1em;
 	padding: 0;
 	line-height: 1.3em;
 
@@ -58,6 +58,11 @@ h2 {
 	color: white;
 	//background-color: $theme-dark-color;
 	//text-shadow: 1px 0 0 #000, -1px 0 0 #000, 0 1px 0 #000, 0 -1px 0 #000, 1px 1px #000, -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000;
+}
+
+h2.tinted {
+	background-color: $theme-dark-color;
+	padding: 1em;
 }
 
 h3

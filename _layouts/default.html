@@ -27,8 +27,20 @@
 
 		{% include navigation.html %}
 
+
+		<h1 class="fullpage-left">{{ page.title }} </h1>
+
 		<div class="container main-content">
-			<section class="content">{{ content }}</section>
+			<section class="content">
+				{{ content }}
+
+				<!-- TODO: move to project or post template -->
+				{% if page.galleries %}
+					<h2 class="tinted"> Gallery <h2>
+					{% include image-gallery-index.html %}
+				{% endif %}
+
+			</section>
 			<!-- {% include sidebar.html %} -->
 		</div>
 
@@ -36,3 +48,23 @@
 
 	</body>
 </html>
+
+{% if page.galleries %}
+<link rel="stylesheet" type="text/css" href="/css/modal-video.min.css">
+<script src="http://code.jquery.com/jquery-2.2.4.min.js"></script>
+<script src="/js/modal-video.min.js"></script>
+<script>
+	$(function(){
+		new ModalVideo(".js-video-vimeo-btn",{channel:'vimeo'});
+	});
+</script>
+<link rel="stylesheet" href="/css/smartphoto.min.css">
+<script src="/js/smartphoto.min.js"></script>
+<script>
+	$(function(){
+	    new SmartPhoto(".js-smartPhoto",{
+		    resizeStyle: 'fit'
+		  });
+	});
+</script>
+{% endif %}
