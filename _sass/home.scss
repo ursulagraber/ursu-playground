@@ -24,27 +24,21 @@
 .left-overflow-image
 {
 	width: 30%;
-	padding: 0;
-	margin: -1em 0 0 4em;
+	padding-left: 10%;
+	margin: 0;
+	margin-left: 4em;
 }
 
 .greenblock-left
 {
-	width: 100vw;
-	overflow: visible;
-	display: flex;
-	align-content: right;
-	margin-top: 2em;
-	margin-left: 5%;
-	padding-top: 2em;
-	padding-bottom: 0;
-	margin-bottom: 0;
-  top: 0;
-  left: 0%;
-  background: url(/images/pix-519b98.png);
-  background-repeat: no-repeat;
-  background-size: 120vw 80%;
-  background-position: center right;
+	margin-top: 5em;
+	margin-left: 0;
+	padding: 0;
+
+	background: url(/images/pix-519b98.png);
+	background-repeat: no-repeat;
+	background-size: 92% 80%;
+	background-position: center right;
 }
 
 // .greenblock-left
