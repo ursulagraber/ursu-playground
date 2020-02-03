@@ -5,21 +5,17 @@ layout: form
 first_image: /photos/kontakt_top.jpg
 second_image: /photos/kontakt_bottom.png
 ---
-<section class="content">
 <div id="top-container">
 	<div class="flex-cols">
 		<div id="top-image">
 			<img src="{{ page.first_image }}"/>
 		</div>
-		<!-- <div> -->
 			<div id="top-text">
 				<h2 style="padding-bottom: 0.5em; ">Ursula Graber</h2>
 				<p><a  class="pairs" href="mailto:{{ site.data.company_details.email }}"><img class="paired-icon" src="/images/mail.png" />{{ site.data.company_details.email }}</a><br>
 				<a  class="pairs" href="tel:{{ site.data.company_details.phone1 }}"><img class="paired-icon" src="/images/phone_black.png" />{{ site.data.company_details.phone1 }}</a><br>
 				<a  class="pairs" href="tel:{{ site.data.company_details.phone2 }}"><img class="paired-icon" src="/images/phone_black.png" />{{ site.data.company_details.phone2 }}</a></p>
 			</div>
-		<!-- </div> -->
 	</div>
 </div>
 {% include contact-form.html message="Schreib mir! Ich freu' mich!" %}
-</section>
