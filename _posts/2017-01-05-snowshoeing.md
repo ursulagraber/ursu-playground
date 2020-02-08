@@ -52,7 +52,7 @@ galleries:
 
 <!-- explore this: https://vimeo.com/api/oembed.json?url=http%3A//vimeo.com/330582854 -->
 
-<center><iframe title="vimeo-player" src="https://player.vimeo.com/video/330582854" width="640" height="360" frameborder="0" allowfullscreen></iframe></center>
+<div class="videoWrapper"><iframe title="vimeo-player" src="https://player.vimeo.com/video/330582854" class="video-post" width="640" height="360" frameborder="0" allowfullscreen></iframe></div>
 
 A solo by Ursula Graber.
 
