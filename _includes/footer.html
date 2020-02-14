@@ -6,7 +6,7 @@
 		</div>
 		<div class="container">
 			&copy; {{ site.title }} {{ site.time | date: "%Y" }}. All rights reserved.
-			<br><a href="{{ site.url }}/">Impressum</a> | <a href="{{ site.url }}/terms">Datenschutz</a>
+			<br><a href="{{ site.baseurl }}/impressum">Impressum</a> | <a href="{{ site.baseurl }}/terms">Datenschutz</a>
 		</div>
 		<div class="social-icons">
 			{% if site.data.sidebar.facebook and site.data.sidebar.facebook != "" %}<a target="_blank" href="https://facebook.com/{{ site.data.sidebar.facebook }}">{% include social-icon.html icon="Facebook" %}</a>{% endif %}
