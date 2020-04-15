@@ -8,7 +8,7 @@
 		{{ include.post.title }}
 	</a>
 </h1>
-{% capture i18n_date %}
+<!-- {% capture i18n_date %}
 	{{ include.post.date | date: "%-d" }}
 	{% assign m = include.post.date | date: "%-m" | minus: 1 %}
 	{{ site.data.de.months[m] }}
@@ -16,4 +16,4 @@
 {% endcapture %}
 <time datetime="{{ include.post.date | date_to_xmlschema }}">
 	{{ include.post.location }}, {{ i18n_date }}
-</time>
+</time> -->

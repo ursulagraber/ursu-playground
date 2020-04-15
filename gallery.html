@@ -1,5 +1,5 @@
 ---
-title: Videos & Fotos Gallery
+title: Videos & Fotos
 layout: big-gallery
 
 performances:
@@ -37,8 +37,6 @@ performances:
     image: https://ursulagraber.files.wordpress.com/2019/04/28685596_1661689500563538_862267774762745856_o.jpg
     data-group: performance
     data-tags:
-
-workshops:
   - title: Passeig Jump
     image: https://ursulagraber.files.wordpress.com/2017/08/email.jpg
     data-group: superworkshop
@@ -69,7 +67,6 @@ workshops:
     data-tags:
 ---
 
-<h2 style="color: black;"> Performances </h2>
 
 <div class="masonry-with-columns">
   {% for item in page.performances %}
@@ -86,15 +83,5 @@ workshops:
         <img src="{{ item.image }}&w=300&h=300&output=jpg&q=50&t=square" />
       </a>
     {% endif %}
-  {% endfor %}
-</div>
-
-<h2 style="color: black;"> Workshops </h2>
-
-<div class="masonry-with-columns">
-  {% for item in page.workshops %}
-  <a href="{{ item.image }}" title="{{ item.title }}" class="js-smartPhoto" data-caption="{{ item.title }}" data-id="{{ item.title }}" data-group="{{ item.data-group }}">
-    <img src="{{ item.image }}&w=300&h=300&output=jpg&q=50&t=square" />
-  </a>
   {% endfor %}
 </div>

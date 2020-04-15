@@ -4,7 +4,7 @@ layout: selector
 image_view: true
 
 featured:
-    title: Schaisse
+    title: Scheisse
     url: https://ursulagraber.files.wordpress.com/2019/04/28660526_1661689423896879_3458369617347477504_o.jpg
     id: 366332635
     year: 2018
@@ -48,22 +48,26 @@ performances:
 lean-direction:
   - 'lean-left'
   - 'lean-right'
+
+shown-categories:
+  - Solo
+  - Group
+  - News
 ---
 
 <!-- TODO: use a carousel that fast-scrolls to selected thumbnail -->
 <!-- selecting "solo" category for item in site.categories.Solo -->
 
 {% for category in site.categories %}
+{% if page.shown-categories contains category[0] %}
   <div class="flex-container {% cycle 'lean-left', 'lean-right' %}">
     <div class="element-container dark-color">
       <h2>{{ category[0] }}</h2>
       <p>
-      The only home we've ever known dream of the mind's eye the carbon in our apple
-      pies how far away a very small stage in a vast cosmic arena Sea of
-      Tranquility?
+      Hier findest du einen Überblick über die Tanzperformances von Ursula Graber
       </p>
       <div class="video-list-overview">
-        <h3>Check the other projects</h3>
+        <h3>Schau’ dir die anderen Projekte an</h3>
         <div class="thumbnails-flex grow" id="thumb-selector">
           {% for item in category[1] %}
           <a href="#" name="{{ category[0] | cgi_escape }}{{ forloop.index0 }}" title="{{ item.title }}" class="js-smartPhoto" data-caption="{{ item.title }}" data-id="{{ item.title }}" data-group="todo">
@@ -85,7 +89,6 @@ lean-direction:
           <span class="caption-title">{{ item.title }}</span><br />
           ({{ item.date | date: "%Y" }})<br />
           <p>
-          A solo by {{ item.author }} <br />
           {{ item.brief }} <br />
           </p>
           <p>
@@ -96,6 +99,7 @@ lean-direction:
       {% endfor %}
     </div>
   </div>
+  {% endif %}
 {% endfor %}
 
 <!--
