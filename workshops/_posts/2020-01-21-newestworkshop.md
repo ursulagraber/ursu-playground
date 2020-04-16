@@ -31,21 +31,21 @@ galleries:
 
 Liebe Tanz- und Bewegungsbegeisterte,
 
-die derzeitige Situation bringt viele Herausforderungen mit sich und da Bewegung immer gut tut aber jetzt gerade wichtiger denn je ist, gibt es ab sofort Online Tanztraining von mir.
+die derzeitige Situation bringt viele Herausforderungen mit sich und da Bewegung immer gut tut, aber jetzt gerade wichtiger denn je ist, gibt es ab sofort Online-Tanztraining von mir.
 
 Es ist für alle Menschen, die Interesse an Bewegung haben (Tanzkenntnisse sind nicht Voraussetzung!).
-Du bekommst von mir ein Trainingsprogramm, dass du 3 mal pro Woche durchführst. Nach einer Woche bekommst du von mir schriftliches Feedback.
+Du bekommst von mir ein Trainingsprogramm, das du 3-mal pro Woche durchführst. Nach einer Woche bekommst du von mir schriftliches Feedback.
 
-Wir werden kleine Bewegungseinheiten isoliert trainieren. Danach kannst du mit diesen Tanz-"Bausteinen" deinen Tanz "bauen", das heisst: frei tanzen und improvisieren. Auch zum Improvisieren bekommst du konkrete Tipps & Tricks.
+Wir werden kleine Bewegungseinheiten isoliert trainieren. Danach kannst du mit diesen Tanz-"Bausteinen" deinen Tanz "bauen", das heißt: freies Tanzen und Improvisieren. Auch zum Improvisieren bekommst du konkrete Tipps & Tricks.
 
 <!--plop-->
 
 Wenn du dich angesprochen fühlst und schon immer einmal ein kontinuierliches Tanztraining machen wolltest, wo wirklich was weitergeht, schreibe mir gerne. Ich schicke dir dann genauere Infos bezüglich Format und Preis.
 Mit Begleitung geht es einfach leichter. Ich freue mich auf dich!
 
-Leite auch gerne diese Info an Interessierte Leute weiter - damit hilfst du Ihnen und mir sehr.
+Leite auch gerne diese Info an Interessierte Leute weiter – damit hilfst du Ihnen und mir sehr.
 
-Bleib' gesund und positiv gestimmt,
+Bleib gesund und positiv gestimmt,
 Ursula
 
 ursu.graber@gmail.com
