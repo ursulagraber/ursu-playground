@@ -6,6 +6,7 @@
 	</div>
 	<div class="fullmenu">
 		<nav class="menu">
+			<div>
 			{% for link in site.data.navigation %}
 			{% assign class = "" %}
 
@@ -14,8 +15,9 @@
 				{% endif %}
 				<a href="{% include relative-src.html src=link.link %}" class="{{ class }}">{{ link.name }}</a>
 			{% endfor %}
+			</div>
 			{% if site.newsletter_action && site.newsletter_action != "" %}
-			<div style="padding-left: 10em;">
+			<div class="newsletter-menu">
 				<form action="{{ site.newsletter_action }}" method="post">
 					<input type="text" name="EMAIL" placeholder="E-Mail-Adresse..." style="background-color: #519b98; padding: 5px;">
 					<input type="submit" value="Newsletter abonnieren!">
@@ -23,16 +25,7 @@
 			</div>
 			{% endif %}
 		</nav>
-		<hr>
-	</div>
 
-	<div class="social-icons">
-		{% if site.data.sidebar.facebook && site.data.sidebar.facebook != "" %}<a target="_blank" href="https://facebook.com/{{ site.data.sidebar.facebook }}">{% include social-icon.html icon="Facebook" %}</a>{% endif %}
-		{% if site.data.sidebar.twitter && site.data.sidebar.twitter != "" %}<a target="_blank" href="https://twitter.com/{{ site.data.sidebar.twitter }}">{% include social-icon.html icon="Twitter" %}</a>{% endif %}
-		{% if site.data.sidebar.youtube && site.data.sidebar.youtube != "" %}<a target="_blank" href="https://youtube.com/channel/{{ site.data.sidebar.youtube }}">{% include social-icon.html icon="YouTube" %}</a>{% endif %}
-		{% if site.data.sidebar.vimeo && site.data.sidebar.vimeo != "" %}<a target="_blank" href="https://vimeo.com/{{ site.data.sidebar.vimeo }}">{% include social-icon.html icon="Vimeo" %}</a>{% endif %}
-		{% if site.data.sidebar.pinterest && site.data.sidebar.pinterest != "" %}<a target="_blank" href="https://pinterest.com/{{ site.data.sidebar.pinterest }}">{% include social-icon.html icon="Pinterest" %}</a>{% endif %}
-		{% if site.data.sidebar.instagram && site.data.sidebar.instagram != "" %}<a target="_blank" href="https://www.instagram.com/{{ site.data.sidebar.instagram }}">{% include social-icon.html icon="Instagram" %}</a>{% endif %}
-		<a target="_blank" href="{{ site.baseurl }}/feed.xml">{% include social-icon.html icon="RSS" %}</a>
+		<hr>
 	</div>
 </div>
