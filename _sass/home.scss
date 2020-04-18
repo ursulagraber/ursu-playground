@@ -2,31 +2,51 @@
 .flexing
 {
 	display: flex;
-	flex-wrap: wrap;
-	align-items: flex-start;
+	flex-wrap: wrap-reverse;
 }
 
-.vflexing
+@media screen and $half-screen
 {
-	display: flex;
-	flex-direction: column;
-	align-items: flex-start;
-	justify-content: center;
+	.flexing
+	{
+		flex-direction: column;
+		flex-wrap: nowrap;
+	}
 }
 
 .right-column
 {
-	margin: 2em 2em 0em 4em;
-	width: 40%;
-	max-width: 40em;
+	margin: 4%;
+	padding: 4%;
+	flex-basis: 35%;
+}
+
+@media screen and $half-screen
+{
+	.right-column
+	{
+		margin: 5% 5% 0% 5%;
+		flex-basis: auto;
+  }
 }
 
 .left-overflow-image
 {
-	width: 25%;
-	padding-left: 5%;
+  flex-basis: 30%;
 	margin: 0;
-	margin-left: 4em;
+	margin-left: 12%;
+}
+
+@media screen and $half-screen
+{
+	.left-overflow-image
+	{
+		width: 80%;
+		margin: auto;
+		padding-bottom: 2em;
+		flex-basis: auto;
+		order: 2;
+	}
 }
 
 .greenblock-left
@@ -37,32 +57,27 @@
 
 	background: url(/images/pix-519b98.png);
 	background-repeat: no-repeat;
-	background-size: 92% 80%;
+	background-size: 94% 80%;
 	background-position: center right;
 }
 
-// .greenblock-left
-// {
-// 	background-color: $theme-dark-color;
-// 	margin: auto;
-// 	margin-left: 0%;
-// 	padding: 1em;
-// 	padding-left: 4em;
-// 	padding-right: 4em;
-// 	overflow: visible;
-// }
+@media screen and $half-screen
+{
+	.greenblock-left
+	{
+		 background-size: 100% 100%;
+  }
+}
 
 .ratio-image
 {
 	display: block;
-	width: 40%;
-	margin-top: 3em;
-	//margin-bottom: auto;
+	width: 65%;
+	margin: auto;
+	padding: 1em;
 }
 
 #present-text
 {
-	padding-top: 2em;
-	padding-bottom: 3em;
-	margin-bottom: 5em;
+	color: white;
 }
