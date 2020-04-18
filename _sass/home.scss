@@ -5,7 +5,7 @@
 	flex-wrap: wrap-reverse;
 }
 
-@media screen and $half-screen
+@media screen and (max-width: 650px)
 {
 	.flexing
 	{
@@ -21,7 +21,7 @@
 	flex-basis: 35%;
 }
 
-@media screen and $half-screen
+@media screen and (max-width: 650px)
 {
 	.right-column
 	{
@@ -37,7 +37,7 @@
 	margin-left: 12%;
 }
 
-@media screen and $half-screen
+@media screen and (max-width: 650px)
 {
 	.left-overflow-image
 	{
@@ -61,7 +61,7 @@
 	background-position: center right;
 }
 
-@media screen and $half-screen
+@media screen and (max-width: 650px)
 {
 	.greenblock-left
 	{
@@ -80,4 +80,13 @@
 #present-text
 {
 	color: white;
+	text-align: left
+}
+
+@media screen and (max-width: 650px)
+{
+	#present-text
+	{
+		text-align: center;
+  }
 }
