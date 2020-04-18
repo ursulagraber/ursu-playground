@@ -1,12 +1,12 @@
 - name: Home
   link: /
-- name: Über Mich
+- name: Info
   link: /about/
 - name: Projekte
   link: /projects/
-- name: Workshops & Kurse
+- name: Workshops
   link: /workshops/
-- name: Videos & Fotos
+- name: Galerie
   link: /gallery/
 - name: Kontakt
   link: /contact/
