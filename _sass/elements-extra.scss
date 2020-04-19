@@ -278,7 +278,7 @@
 .contact-form-block {
   background-image: url(https://ursulagraber.files.wordpress.com/2020/04/kontakt_bottom.png);
   background-repeat: no-repeat;
-	background-position: top right;
+	background-position: 100% 0%;
 	background-size: 80%;
 
 	margin-left: auto;
@@ -287,12 +287,33 @@
 	width: 80%;
 
 	.contact-form-container {
-		width: 30em;
+		max-width: 650px;
 		margin-bottom: 3em;
 	}
 }
 
-//
+@media screen and (max-width: 700px)
+{
+	.contact-form-block
+	{
+		width: auto;
+		margin-left: 1em;
+		margin-right: 1em;
+		padding-bottom: 5em;
+
+		background-position: 100% 10%;
+		background-size: 100%;
+	}
+}
+
+@media screen and (max-width: 320px)
+{
+	.contact-form-block
+	{
+		background-position: 100% 15%;
+		background-size: 100%;
+	}
+}
 
 figure#left {
 	  padding: 5px;
