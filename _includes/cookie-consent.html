@@ -31,12 +31,14 @@
         }
         return null;
     }
+
     function eraseCookie(name) {
         createCookie(name,"",-1);
     }
 
     if(readCookie('cookie-notice-dismissed')=='true') {
-            {% comment %} {% include contact-form.js %} {% endcomment %}
+      // const js = '<script src="/js/foo.js"><\/script>';
+      // document.body.appendChild(js);
     } else {
         document.getElementById('cookie-notice').style.display = 'block';
     }
