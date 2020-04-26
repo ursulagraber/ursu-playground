@@ -4,8 +4,16 @@
 {
 	margin: 2em;
   display: flex;
-	flex-wrap: wrap;
-	align-items: flex-start;
+	flex-wrap: wrap-reverse;
+	align-items: flex-end;
+}
+
+@media screen and (max-width: 650px)
+{
+	.workshops-container
+	{
+		margin: 0em;
+	}
 }
 
 .sticky
@@ -20,12 +28,21 @@
 {
 	z-index: 0;
 	background-color: $theme-light-color;
-	width: 30%;
+	width: 40%;
 	margin-left: -5em;
 	padding: 3em;
 	padding-left: 7em;
-	min-width: 15em;
 	max-width: 30em;
+}
+
+@media screen and (max-width: 650px)
+{
+	.excerpt
+	{
+		width: 100%;
+		margin: 0;
+		padding: 1em;
+	}
 }
 
 .slide
@@ -35,6 +52,18 @@
 	width: 40%;
 	margin-top: 3em;
 	padding: 1.5em;
+}
+
+
+@media screen and (max-width: 650px)
+{
+	.slide
+	{
+		width: 100%;
+		margin: 0;
+		margin-top: 2em;
+		padding: 0.5em;
+	}
 }
 
 .workshops {
