@@ -6,7 +6,7 @@
 	width: 100%;
 
 	div {
-	    display: table-cell;
+	  display: table-cell;
 	}
 
 	.container {
@@ -51,6 +51,15 @@
 		}
 	}
 
+  @media screen and #{$half-screen}
+  {
+    nav.menu
+    {
+      flex-direction: column;
+      justify-content: center;
+    }
+  }
+
   #menu-items
   {
     display: flex;
@@ -67,17 +76,8 @@
       padding-left: 0.5em;
       padding-right: 0.5em;
     }
-  }
 
-  @media screen and (max-width: 650px)
-  {
-    nav.menu
-    {
-      flex-direction: column;
-      justify-content: center;
-    }
-
-    #menu-items
+    @media screen and #{$half-screen}
     {
       //vertical menu
       //flex-direction: column;
@@ -99,8 +99,13 @@
   }
 
 	.logo {
-			width: $logo-width;
-			vertical-align: middle;
+		width: $logo-width;
+		vertical-align: middle;
+
+    @media screen and #{$half-screen}
+    {
+    	display: none;
+    }
 	}
 
   .logo-half
@@ -110,32 +115,24 @@
     display: none;
     margin-left: auto;
     margin-right: auto;
-  }
 
-  @media screen and (max-width: 650px)
-  {
-  	.logo
-  	{
-  		display: none;
-  	}
-
-    .logo-half
+    @media screen and #{$half-screen}
     {
       display: block;
     }
   }
 
 	hr {
-			display: block;
-			height: 2px;
-			margin: 0px;
-			margin-left: 0px;
-			background: rgba(57, 211, 203, .9);
-			width: 100%;
+		display: block;
+		height: 2px;
+		margin: 0px;
+		margin-left: 0px;
+		background: rgba(57, 211, 203, .9);
+		width: 100%;
 	}
 
   .inner-menu {
-        display: flex;
+    display: flex;
   }
 
 	.fullmenu {

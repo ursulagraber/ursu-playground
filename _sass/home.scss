@@ -3,11 +3,8 @@
 {
 	display: flex;
 	flex-wrap: wrap-reverse;
-}
 
-@media screen and (max-width: 650px)
-{
-	.flexing
+	@media screen and #{$half-screen}
 	{
 		flex-direction: column;
 		flex-wrap: nowrap;
@@ -19,15 +16,11 @@
 	margin: 4%;
 	padding: 4%;
 	flex-basis: 35%;
-}
-
-@media screen and (max-width: 650px)
-{
-	.right-column
+	@media screen and #{$half-screen}
 	{
 		margin: 5% 5% 0% 5%;
 		flex-basis: auto;
-  }
+	}
 }
 
 .left-overflow-image
@@ -35,11 +28,7 @@
   flex-basis: 30%;
 	margin: 0;
 	margin-left: 12%;
-}
-
-@media screen and (max-width: 650px)
-{
-	.left-overflow-image
+	@media screen and #{$half-screen}
 	{
 		width: 80%;
 		margin: auto;
@@ -59,15 +48,14 @@
 	background-repeat: no-repeat;
 	background-size: 94% 80%;
 	background-position: center right;
-}
 
-@media screen and (max-width: 650px)
-{
-	.greenblock-left
+	@media screen and #{$half-screen}
 	{
 		 background-size: 100% 100%;
-  }
+	}
 }
+
+
 
 .ratio-image
 {
@@ -80,13 +68,10 @@
 #present-text
 {
 	color: white;
-	text-align: left
-}
+	text-align: left;
 
-@media screen and (max-width: 650px)
-{
-	#present-text
+	@media screen and #{$half-screen}
 	{
-		text-align: center;
-  }
+			text-align: center;
+	}
 }
