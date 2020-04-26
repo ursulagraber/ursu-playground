@@ -2,12 +2,14 @@
 date: 2020-01-07
 location: Graz
 title: Tänzerisches ERLEBEN Jänner 2020
+
+layout: workshop
+
+
 categories:
   - Workshops
 featured_image: https://ursulagraber.files.wordpress.com/2020/04/dscf4605.jpg?w=800&h=600&fit=crop
 brief: Workshop-Wochenende in Graz
-
-layout: workshop
 
 galleries:
   - title: keep moving
@@ -31,9 +33,6 @@ galleries:
   (Fr 18-21, Sa 10-16, So 10-13)
   Orpheumgasse 11, Graz
 
-
-<!--plop-->
-
 **Dieser Workshop ist für dich, wenn du...**
 
 ...gerne vital & stark, voller Energie und Freude sein möchtest
@@ -47,7 +46,5 @@ galleries:
 ...dein Bewegungsvokabular erweitern möchtest
 
 ...den Fokus weg vom Bewerten und hin zum Prozess lenken möchtest.
-
-<!--plop-->
 
 Der nächste "Tänzerisches ERLEBEN" Workshop ist für September 2020 in Graz geplant. Stay tuned!

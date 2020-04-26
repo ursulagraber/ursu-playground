@@ -1,6 +1,9 @@
 ---
 date: 2020-02-07
 title: Sternschnuppen und Kometen
+
+layout: post
+
 categories:
   - Group
 featured_image: https://ursulagraber.files.wordpress.com/2020/04/sternschnuppen_clemens_nestroy_42.jpg
@@ -23,16 +26,25 @@ galleries:
     image: https://ursulagraber.files.wordpress.com/2020/04/sternschnuppen_clemens_nestroy_35.jpg
     data-group: superworkshop
 
+featured_video:
+    title: Tonite
+    url: https://player.vimeo.com/video/366332635
+    id: 366332635
 ---
 
 
 Gruppenperformance von Ursula Graber
+
 Wenn der Organismus eines jeden Lebewesens sich selbstständig macht, verspielt und mutig, dann passiert es:
 Magie setzt ein, Unerklärliches, Wunderbares, und wir staunen. Jenseits jeder Logik und doch einer geheimen Ordnung folgend. Kleine Teilchen eines großen Ganzen zischen und flutschen, leuchtend und mysteriös, den Gesetzen dieses Spiels folgend, und die mächtige Masse übernimmt das dynamiksteuernde Ruder.
+
+
+<!--plop-->
 
 Eine Bewegungperformance.
 Willkommen zurück!
 
 
+<!--plop-->
 
 <!--[![Totem](https://i.vimeocdn.com/video/746500438_640.jpg)](https://player.vimeo.com/video/306702195)-->

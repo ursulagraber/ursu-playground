@@ -2,12 +2,13 @@
 date: 2020-01-21
 location: Graz
 title: Online Tanztraining NEU ab April 2020
+
+layout: workshop
+
 categories:
   - Workshops
 featured_image: https://ursulagraber.files.wordpress.com/2020/04/ursu-lachend.jpg?w=1000&h=800&fit=crop
 brief: the first new
-
-layout: workshop
 
 galleries:
   - title: Ursula
@@ -23,8 +24,6 @@ galleries:
   - title: Ursula tanzt
     image: https://ursulagraber.files.wordpress.com/2020/04/move_ursulagraber.jpg
     data-group: superworkshop
-
-
 
 ---
 

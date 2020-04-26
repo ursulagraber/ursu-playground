@@ -1,6 +1,9 @@
 ---
 date: 2017-01-05
 title: Snowshoeing / Geile Scheiße
+
+layout: post
+
 categories:
   - Solo
 featured_image: https://ursulagraber.files.wordpress.com/2019/04/28577317_1661689210563567_5089443036379742208_o1.jpg?w=1560&h=940&fit=crop
@@ -29,22 +32,33 @@ galleries:
     image: https://ursulagraber.files.wordpress.com/2019/04/28685596_1661689500563538_862267774762745856_o.jpg
     data-group: superworkshop
 
-
-
+featured_video:
+    title: Tonite
+    url: https://player.vimeo.com/video/330582854
+    id: 330582854
 ---
 
 <!-- explore this: https://vimeo.com/api/oembed.json?url=http%3A//vimeo.com/330582854 -->
 
 Dies ist die zweite Kollaboration mit dem Komponisten Diego Jiménez Tamame.
+
 Die Bewegungsrecherche geht von zwei gegensätzlichen Gefühlszuständen aus: einerseits Zivilisiationskrankheiten wie Burn-out und Depression, andererseits ausgleichende Aktivitäten wie Schneeschuhwandern und allgemein das Zeitverbringen in der Natur.
 
+<!--plop-->
+
 Konzept & Tanz: Ursula Graber
+
 Musik: Diego Jiménez Tamame
+
 Ton & Licht: Ian Lecoultre, Céline Ribeiro
+
 Künstlerische Beratung: Grégory Stauffer, Natacha Koutchoumov, Philippe Saire
+
 Anthropologische Beratung: Claire de Ribaupierre
+
 Manufacture, Lausanne
 
-<div class="videoWrapper"><iframe title="vimeo-player" src="https://player.vimeo.com/video/330582854" class="video-post" width="640" height="360" frameborder="0" allowfullscreen></iframe></div>
+<!--plop-->
+
 
 <!--[![Snowshoeing / Geile Scheiße](https://i.vimeocdn.com/video/775684724_640.jpg)](https://player.vimeo.com/video/330582854)-->

@@ -2,12 +2,13 @@
 date: 2020-01-02
 location: Graz
 title: Tools für Improvisation Herbst 2019
+
+layout: workshop
+
 categories:
   - Workshops
 featured_image: https://ursulagraber.files.wordpress.com/2020/04/superselfie.jpg?w=1000&h=800&fit=crop
 brief: the first new
-
-layout: workshop
 
 galleries:
   - title: verschwitzt und glücklich
@@ -22,20 +23,13 @@ galleries:
   - title: viele schöne Menschen
     image: https://ursulagraber.files.wordpress.com/2020/04/herbst-2019.jpg
     data-group: superworkshop
-
-
-
 ---
 
 Du hast Spaß an Bewegung und Musik? Du experimentierst gerne lustvoll mit neuen Impromethoden? Dann bist du in diesem Kurs richtig.
 Wir werden Improvisationsspiele durchführen, die sehr klaren und koordinativ vielseitigen Spielregeln folgen und großen Spaß machen. Dadurch erlernst du die Werkzeuge, um in einer Impro deine tänzerischen Möglichkeiten zu erweitern: spontan und überraschend, authentisch und erheiternd.
 
-<!--plop-->
-
 Dies führt zu mehr Sicherheit und Selbstbewusstsein beim Tanzen. Die Musik und Musikalität sind ebenso wichtig: wir werden erforschen, wie du dir den Groove der Musik zunutze machen kannst um dich beim Tanzen inspirieren zu lassen.
 Die Übungen und Spiele wurden von der zeitgenössischen Tanz Company Zoo/Thomas Hauert (Brüssel) entwickelt.
-
-<!--plop-->
 
 Für Anfänger, Fortgeschrittene und Tanzbegeisterte - und alle die es werden wollen.
 Von Oktober bis Dezember 2019, jeweils Montags 18-19:30 in der Tanzebene, Orpheumgasse 11, Graz.
