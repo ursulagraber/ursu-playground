@@ -27,19 +27,11 @@
 
 		{% include navigation.html %}
 
-
 		<h1 class="fullpage-left">{{ page.title }} </h1>
 
 		<div class="container main-content">
 			<section class="content">
 				{{ content }}
-
-				<!-- TODO: move to project or post template -->
-				{% if page.galleries %}
-					<h2 class="tinted"> Galerie <h2>
-					{% include image-gallery-index.html %}
-				{% endif %}
-
 			</section>
 			<!-- {% include sidebar.html %} -->
 		</div>

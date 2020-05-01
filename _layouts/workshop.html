@@ -5,6 +5,12 @@ layout: default
 <div class="fullblock dark-color justify">
   {{ content }}
 </div>
+<div>
+{% if page.galleries %}
+  <h2 class="tinted"> Galerie <h2>
+  {% include image-gallery-index.html %}
+{% endif %}
+</div>
 <div class="sharing">
 	{% assign share_url = page.url | absolute_url | cgi_escape %}
 	<a class="facebook" href="https://www.facebook.com/sharer/sharer.php?u={{ share_url }}">{% include social-icon.html icon="Facebook" %}</a>
