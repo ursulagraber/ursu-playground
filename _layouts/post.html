@@ -14,46 +14,48 @@ layout: fullpage
 				   <iframe class="feat_vid" src="{{ page.featured_video.url }}" frameborder="0" allowfullscreen> {{ page.featured_video.title }} </iframe>
 				   </div>
 				 </div>
-				 <div class="column pblock shift dark-color">
+				 <div class="column pblock shift dark-color justify">
 					 	{{ total_sections[0] }}
 				 </div>
 			 {% else %}
-				 <div class="pblock dark-color left-margin-auto">
+				 <div class="pblock dark-color left-margin-auto justify">
 					 	{{ total_sections[0] }}
 				 </div>
 			 {% endif %}
 		</div>
 		<div class="row">
 			{% if page.galleries %}
-				<div class="column pblock light-color">
+				<div class="column pblock light-color justify">
 					 {{ total_sections[1] }}
 				</div>
 				<div class="column">
 					  {% include image-gallery-index.html %}
 				</div>
 			{% else %}
-				<div class="pblock light-color">
+				<div class="pblock light-color justify">
 					{{ total_sections[1] }}
 				</div>
 			{% endif %}
 		</div>
-		<div class="fullblock dark-color">
-			 {{ total_sections[2] }}
-		</div>
+		{% if total_sections.size > 2 %}
+			<div class="fullblock dark-color justify">
+				 {{ total_sections[2] }}
+			</div>
+		{% endif %}
 	</section>
 	<div style="clear: both;"></div>
 	<div class="sharing">
 		{% assign share_url = page.url | absolute_url | cgi_escape %}
 		<a class="facebook" href="https://www.facebook.com/sharer/sharer.php?u={{ share_url }}">{% include social-icon.html icon="Facebook" %}</a>
-		<a class="twitter" href="https://twitter.com/intent/tweet?url={{ share_url }}&amp;text=I'm%20going%20to%20this%20event!">{% include social-icon.html icon="Twitter" %}</a>
+		<a class="twitter" href="https://twitter.com/intent/tweet?url={{ share_url }}&amp;text=Das%20interessiert%20mich%2C%20da%20gehe%20ich%20hin!">{% include social-icon.html icon="Twitter" %}</a>
 		<a class="google-plus" href="https://plus.google.com/share?url={{ share_url }}">{% include social-icon.html icon="Google Plus" %}</a>
 		<a class="pinterest" href="//pinterest.com/pin/create/link/?url={{ share_url }}&amp;description={{ page.description }}">{% include social-icon.html icon="Pinterest" %}</a>
-		<a class="email" href="mailto:?subject=I've%20found%20a%20great%20recipe&amp;body=Check%20it%20out%20-%20{{ share_url }}">{% include social-icon.html icon="Email" %}</a>
+		<a class="email" href="mailto:?subject=Ich%20habe%20ein%20tolles%20Event%20gefunden&amp;body=Schau%20es%20dir%20an%20-%20{{ share_url }}">{% include social-icon.html icon="Email" %}</a>
 	</div>
 	<div class="cta">
-		<h2 style="color: black;">More workshops</h2>
-		<p>This is one of the many fantastic workshops available on this blog</p>
-		<div class="button"><a href="/workshops">Check out more workshops</a></div>
+		<h2 style="color: black;">Noch mehr Performances</h2>
+		<p>Das ist einer von vielen Performances, die hier zu finden sind</p>
+		<div class="button"><a href="/projects">Schau dir auch die anderen Performances an</a></div>
 	</div>
 </article>
 

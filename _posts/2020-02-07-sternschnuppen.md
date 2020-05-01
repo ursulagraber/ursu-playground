@@ -45,6 +45,4 @@ Eine Bewegungperformance.
 Willkommen zurück!
 
 
-<!--plop-->
-
 <!--[![Totem](https://i.vimeocdn.com/video/746500438_640.jpg)](https://player.vimeo.com/video/306702195)-->

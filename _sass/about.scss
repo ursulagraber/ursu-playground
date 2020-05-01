@@ -114,6 +114,13 @@
   img {
     height: 300px;
   }
+
+	@media screen and #{$half-screen}
+	{
+    img {
+        height: 200px;
+    }
+	}
 }
 
 .side-image {
