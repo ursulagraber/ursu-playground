@@ -6,9 +6,18 @@
 
 		text-decoration: none;
 
+		display: block;
+
 		&:hover {
 			text-decoration: underline;
 		}
+
+		@media screen and #{$half-screen}
+		{
+			padding-left: 0;
+			 text-align: center;
+		}
+
 	}
 	time {
 		margin-left: $logo-width+30px;

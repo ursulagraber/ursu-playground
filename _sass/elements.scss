@@ -16,9 +16,9 @@ body {
 
 /* footer phantom block */
 body::after {
-	content:'';
-	display:block;
-	height:275px;
+	content: '';
+	display: block;
+	height: 275px;
 }
 
 body, input, textarea {
@@ -30,7 +30,6 @@ body, input, textarea {
 h1 {
 	font-size: 1.8em;
 	margin-bottom: 1em;
-	padding: 0;
 	line-height: 1.3em;
 
 	max-width: 100%;
@@ -41,7 +40,12 @@ h1 {
 }
 
 h1.fullpage-left {
-	padding-left: 130px;
+	padding-left: $logo-width+30px;
+
+	@media screen and #{$half-screen}
+	{
+		padding-left: 1em;
+	}
 }
 
 h1.full-width-white {
