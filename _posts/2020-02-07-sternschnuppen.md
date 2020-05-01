@@ -26,10 +26,10 @@ galleries:
     image: https://ursulagraber.files.wordpress.com/2020/04/sternschnuppen_clemens_nestroy_35.jpg
     data-group: superworkshop
 
-featured_video:
-    title: Tonite
-    url: https://player.vimeo.com/video/366332635
-    id: 366332635
+#featured_video:
+#    title: Tonite
+#    url: https://player.vimeo.com/video/366332635
+#    id: 366332635
 ---
 
 

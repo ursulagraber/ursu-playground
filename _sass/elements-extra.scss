@@ -94,13 +94,17 @@
 .flex-container
 {
 	display: flex;
-	flex-wrap: wrap;
 	align-items: center;
 	justify-content: center;
 	margin-bottom: 3em;
 
 	width: 80%;
-	min-width: 500px;
+
+	@media screen and #{$half-screen}
+	{
+		width: 100%;
+		flex-direction: column;
+	}
 }
 
 .lean-left
@@ -340,6 +344,10 @@ figure#right {
 
 .shift {
 		background-position: right 2345px bottom;
+}
+
+.left-margin-auto {
+	margin-left: auto;
 }
 
 /* change the padding-bottom to modify the aspect ratio */

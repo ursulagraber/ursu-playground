@@ -45,6 +45,12 @@
     max-height: 50vh;
     object-fit: contain;
   }
+
+  @media screen and #{$half-screen}
+  {
+     margin-right: 0%;
+     overflow: hidden;
+  }
 }
 
 .about-main-container
