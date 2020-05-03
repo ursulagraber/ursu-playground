@@ -26,6 +26,9 @@ social:
 
 timezone: Etc/UTC
 
+#turn to true to show post with a future date
+#future: true
+
 paginate: 10
 paginate_path: "/:num/"
 permalink: pretty

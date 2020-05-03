@@ -1,7 +1,6 @@
 ---
 title: Projects
 layout: selector
-image_view: true
 
 featured:
     title: Scheisse
@@ -10,40 +9,6 @@ featured:
     year: 2018
     author: Ursula Graber
     excerpt: Globular star cluster the ash of stellar alchemy from which we spring science prime number Rig Veda. Ship of the imagination the sky calls to us ship of the imagination great turbulent clouds not a sunrise but a galaxyrise white dwarf?
-
-performances:
-  - title: Geile Scheisse Stand-up
-    image: https://ursulagraber.files.wordpress.com/2019/04/28471217_1661689367230218_2812298809659359232_o.jpg
-    data-group: performance
-    data-tags:
-  - title: Per terra
-    image: https://ursulagraber.files.wordpress.com/2019/04/28660335_1661689227230232_7368354092386615296_o.jpg
-    data-group: performance
-    data-tags:
-  - title: Per terra
-    image: https://ursulagraber.files.wordpress.com/2019/04/28660526_1661689423896879_3458369617347477504_o.jpg
-    data-group: performance
-    data-tags:
-  - title: Per Terra
-    image: https://ursulagraber.files.wordpress.com/2019/04/28685596_1661689500563538_862267774762745856_o.jpg
-    data-group: performance
-    data-tags:
-  - title: Geile Scheisse Stand-up
-    image: https://ursulagraber.files.wordpress.com/2019/04/28471217_1661689367230218_2812298809659359232_o.jpg
-    data-group: performance
-    data-tags:
-  - title: Per terra
-    image: https://ursulagraber.files.wordpress.com/2019/04/28660335_1661689227230232_7368354092386615296_o.jpg
-    data-group: performance
-    data-tags:
-  - title: Per terra
-    image: https://ursulagraber.files.wordpress.com/2019/04/28660526_1661689423896879_3458369617347477504_o.jpg
-    data-group: performance
-    data-tags:
-  - title: Per Terra
-    image: https://ursulagraber.files.wordpress.com/2019/04/28685596_1661689500563538_862267774762745856_o.jpg
-    data-group: performance
-    data-tags:
 
 lean-direction:
   - 'lean-left'
@@ -56,6 +21,50 @@ shown-categories:
 
 <!-- TODO: use a carousel that fast-scrolls to selected thumbnail -->
 <!-- selecting "solo" category for item in site.categories.Solo -->
+
+{% for category in site.categories %}
+{% if 'News' == category[0] %}
+  <div class="flex-container {% cycle 'lean-left', 'lean-right' %}">
+    <div class="element-container dark-color">
+      <h2>{{ category[0] }}</h2>
+      <p>
+      Hier findest du einen Überblick über die Tanzperformances von Ursula Graber
+      </p>
+      <div class="video-list-overview">
+        <h3>Schau’ dir die anderen Projekte an</h3>
+        <div class="thumbnails-flex grow" id="thumb-selector">
+          {% for item in category[1] %}
+          <a href="#" name="{{ category[0] | cgi_escape }}{{ forloop.index0 }}" title="{{ item.title }}" class="js-smartPhoto" data-caption="{{ item.title }}" data-id="{{ item.title }}" data-group="todo">
+            <img src="{{ item.featured_image }}&w=300&h=300&output=jpg&q=50&t=square" />
+          </a>
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+    <div class="element-container light-color big-flex" id="accordeon">
+      {% for item in category[1] %}
+      <dl class="element-centered" id="pnl-{{ category[0] | cgi_escape }}{{ forloop.index0 }}">
+        <figure class="overview-feat-vid">
+          <a href="{{ item.url }}" title="Go to {{ item.title }}">
+            <img src="{{ item.featured_image }}" height="200px" alt="{{ item.title }}">
+          </a>
+        </figure>
+        <div class="caption-container">
+          <span class="caption-title">{{ item.title }}</span><br />
+          ({{ item.date | date: "%Y" }})<br />
+          <p>
+          {{ item.brief }} <br />
+          </p>
+          <p>
+            <a href="{{ item.url }}">Read more</a>
+          </p>
+        </div>
+      </dl>
+      {% endfor %}
+    </div>
+  </div>
+  {% endif %}
+{% endfor %}
 
 {% for category in site.categories %}
 {% if page.shown-categories contains category[0] %}
@@ -100,49 +109,3 @@ shown-categories:
   </div>
   {% endif %}
 {% endfor %}
-
-<!--
-<div class="flex-container lean-right">
-  <div class="element-container light-color big-flex">
-    <div class="element-centered">
-      <div class="overview-feat-vid">
-        <img src="{{ page.featured.url }}" height="200px" alt="{{ page.featured.title }}">
-      </div>
-      <div class="caption-container">
-        <span class="caption-title">{{ page.featured.title }}</span><br />
-        ({{ page.featured.year }})<br />
-        <p>
-        A solo by {{ page.featured.author }} <br />
-        {{ page.featured.excerpt }} <br />
-        </p>
-        <p>
-          <a href="{{ page.featured.url }}">Read more</a>
-        </p>
-      </div>
-    </div>
-  </div>
-  <div class="element-container dark-color">
-    <h2>Group Projects</h2>
-    <p>
-    The sky calls to us with pretty stories for which there's little good
-    evidence permanence of the stars across the centuries billions upon billions
-    shores of the cosmic ocean. Take root and flourish vanquish the impossible
-    trillion Sea of Tranquility a still more glorious dawn awaits ship of the
-    imagination? Stirred by starlight at the edge of forever the carbon in our
-    apple pies courage of our questions something incredible is waiting to be
-    known citizens of distant epochs and billions upon billions upon billions
-    upon billions upon billions upon billions upon billions.
-    </p>
-    <div class="video-list-overview">
-      <h3>Check the other projects</h3>
-      <div class="thumbnails-flex">
-        {% for item in page.performances %}
-        <a href="{{ item.image }}" title="{{ item.title }}" class="js-smartPhoto" data-caption="{{ item.title }}" data-id="{{ item.title }}" data-group="{{ item.data-group }}">
-          <img src="{{ item.image }}&w=300&h=300&output=jpg&q=50&t=square" />
-        </a>
-        {% endfor %}
-      </div>
-    </div>
-  </div>
-</div>
--->

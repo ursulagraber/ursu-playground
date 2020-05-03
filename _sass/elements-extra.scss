@@ -94,11 +94,12 @@
 .flex-container
 {
 	display: flex;
+	flex-direction: row;
 	align-items: center;
 	justify-content: center;
 	margin-bottom: 3em;
 
-	width: 80%;
+	width: 85%;
 
 	@media screen and #{$half-screen}
 	{
@@ -115,6 +116,7 @@
 .lean-right
 {
 	margin-left: auto;
+	flex-direction: row-reverse;
 }
 
 .element-container
