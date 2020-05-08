@@ -26,6 +26,8 @@ social:
 
 timezone: Etc/UTC
 
+redirects: true
+
 #turn to true to show post with a future date
 #future: true
 

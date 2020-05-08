@@ -8,11 +8,13 @@ layout: fullpage
 		<div class="workshops">
 			{% assign workshops = site.categories.workshops | sort: "date" | reverse %}
 			{% for workshop in workshops %}
+			 {% unless workshop.unlisted %}
 				<div class="workshop-container">
 					<div class="workshop" style="background-image: url('{{ workshop.featured_image }}')">
 						<a href="{{ workshop.url }}"><span>{{ workshop.title }}</span></a>
 					</div>
 				</div>
+				{% endunless %}
 			{% endfor %}
 		</div>
 	</div>
