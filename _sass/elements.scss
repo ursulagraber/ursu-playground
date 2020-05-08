@@ -213,6 +213,11 @@ hr {
 }
 
 a {
+	font-weight: bold;
 	text-decoration: none;
-	color: #007eff;
+	color: #fff;
+
+	&:hover {
+		text-decoration: underline;
+	}
 }
