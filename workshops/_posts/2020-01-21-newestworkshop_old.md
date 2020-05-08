@@ -24,6 +24,8 @@ galleries:
   - title: Ursula tanzt
     image: https://ursulagraber.files.wordpress.com/2020/04/move_ursulagraber.jpg
     data-group: superworkshop
+
+unlisted: True
 ---
 
 
