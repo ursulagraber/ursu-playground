@@ -3,7 +3,7 @@ date: 2020-01-21
 location: Graz
 title: Online Tanztraining NEU ab April 2020
 
-layout: workshop
+layout: highlight
 
 categories:
   - Workshops
@@ -36,8 +36,6 @@ Du bekommst von mir ein Trainingsprogramm, das du 3-mal pro Woche durchführst. 
 
 Wir werden kleine Bewegungseinheiten isoliert trainieren. Danach kannst du mit diesen Tanz-"Bausteinen" deinen Tanz "bauen", das heißt: freies Tanzen und Improvisieren. Auch zum Improvisieren bekommst du konkrete Tipps & Tricks.
 
-<!--plop-->
-
 Wenn du dich angesprochen fühlst und schon immer einmal ein kontinuierliches Tanztraining machen wolltest, wo wirklich was weitergeht, schreibe mir gerne. Ich schicke dir dann genauere Infos bezüglich Format und Preis.
 Mit Begleitung geht es einfach leichter. Ich freue mich auf dich!
 
@@ -47,8 +45,5 @@ Bleib gesund und positiv gestimmt,
 Ursula
 
 [ursu.graber@gmail.com](mailto:ursu.graber@gmail.com)
-
-
-<!--plop-->
 
 **The body is designed to move!**

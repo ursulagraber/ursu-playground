@@ -96,6 +96,13 @@ button:hover {
   margin-bottom: 27px;
 }
 
+.wrap-input3-shallow {
+  width: 70%;
+  position: relative;
+  border-bottom: 2px solid rgba(255,255,255,0.24);
+  margin-bottom: 27px;
+}
+
 .input3 {
   display: block;
   width: 100%;
@@ -178,6 +185,15 @@ textarea.input3 {
   -o-transition: all 0.4s;
   -moz-transition: all 0.4s;
   transition: all 0.4s;
+
+	margin: 0 auto;
+}
+
+.shallow {
+	height: auto;
+	font-size: 12px;
+	padding: 5px 15px;
+	text-transform: inherit;
 }
 
 .contact3-form-btn::before {
