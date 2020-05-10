@@ -1,7 +1,7 @@
 ---
 date: 2020-01-21
 location: Graz
-title: Online Tanztraining NEU ab April 2020
+title: TanzFlow. Wie du Bewegung in dein Leben bringst
 
 layout: highlight
 
@@ -27,23 +27,53 @@ galleries:
 ---
 
 
-Liebe Tanz- und Bewegungsbegeisterte,
+## TanzFlow
 
-die derzeitige Situation bringt viele Herausforderungen mit sich und da Bewegung immer gut tut, aber jetzt gerade wichtiger denn je ist, gibt es ab sofort Online-Tanztraining von mir.
+_Das Online Training, das Bewegung in dein Leben bringt._
 
-Es ist für alle Menschen, die Interesse an Bewegung haben (Tanzkenntnisse sind nicht Voraussetzung!).
-Du bekommst von mir ein Trainingsprogramm, das du 3-mal pro Woche durchführst. Nach einer Woche bekommst du von mir schriftliches Feedback.
+### **Warum du diesen Kurs machen solltest:**
 
-Wir werden kleine Bewegungseinheiten isoliert trainieren. Danach kannst du mit diesen Tanz-"Bausteinen" deinen Tanz "bauen", das heißt: freies Tanzen und Improvisieren. Auch zum Improvisieren bekommst du konkrete Tipps & Tricks.
+1. weil Bewegung gut tut
 
-Wenn du dich angesprochen fühlst und schon immer einmal ein kontinuierliches Tanztraining machen wolltest, wo wirklich was weitergeht, schreibe mir gerne. Ich schicke dir dann genauere Infos bezüglich Format und Preis.
-Mit Begleitung geht es einfach leichter. Ich freue mich auf dich!
+2. weil du gerne tanzt und dich verbessern möchtest (oder weil du gerne tanzen lernen möchtest)
 
-Leite auch gerne diese Info an Interessierte Leute weiter – damit hilfst du Ihnen und mir sehr.
+3. Weil durch die Regelmäßigkeit merkbare Ergebnisse erreicht werden
 
-Bleib gesund und positiv gestimmt,
-Ursula
+4. Weil es Auszeit und Ausgleich bedeutet
 
-[ursu.graber@gmail.com](mailto:ursu.graber@gmail.com)
 
-**The body is designed to move!**
+### **Welche Ergebnisse du dir erwarten kannst:**
+
+1. du fühlst dich dadurch fitter, vitaler, kräftiger, ausgeglichener, entspannter und ganz einfach wohler mit dir selbst :)
+
+2. du kannst neue Bewegungen geschmeidig ausführen
+
+3. du kannst auf mehr Bewegungs-Möglichkeiten zurückgreifen wenn du tanzt
+
+4. du hast mehr Bewusstsein für die Bewegungen deines Körpers
+
+### Dieser Kurs ist geeignet für…
+
+...Leute, die Erfahrungen mit dem Körper und seinen Bewegungen haben (z.B. durch Sport, Akrobatik, Yoga, Schauspielen, Tanz, Körperarbeit, Physiotherapie, Musik…)
+
+...Menschen, die gewillt sind, regelmäßig zu trainieren und dranzubleiben
+
+...Personen, die offen für aktuelle Strömungen aus dem zeitgenössichen Tanz sind
+
+...Leute, die sich tänzerisch verbessern wollen
+
+...Couchpotatoes, die einen freundlichen Tritt in den Allerwertesten benötigen
+
+### Dieser Kurs ist nicht geeignet für…
+
+...Leute, die sich nicht 3-5 Stunden pro Woche Zeit nehmen können
+
+...Menschen mit groben körperlichen Einschränkungen/Bewegungslegasthenikern
+
+...Couchpotatoes die Couchpotatoes bleiben wollen ;)
+
+### Das Online Tanztraining TanzFlow kann ab sofort gebucht werden! Schreib‘ mir einfach ein E-Mail im vorgesehenem Feld weiter unten.
+
+Normalpreis € 197 pro Monat, zur Zeit gibt es einen "Corona-Rabatt" von -50%
+
+__--> Jetzt nur € 98! (Nur noch bis 30.6.!)__
