@@ -70,6 +70,14 @@
 	padding: 4em;
 }
 
+@media screen and #{$half-screen}
+{
+	.fullblock {
+		padding: 10%;
+		margin: 0;
+	}
+}
+
 .leftbackbox
 {
 	position: absolute;
