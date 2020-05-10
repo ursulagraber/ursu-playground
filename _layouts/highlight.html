@@ -6,21 +6,43 @@ layout: default
   {{ content }}
 
 
-  {% if site.newsletter_action and site.newsletter_action != "" %}
-  <div id="newsletter-menu">
-    <form action="{{ site.newsletter_action }}" method="post">
-      <div class="wrap-input3 validate-input" data-validate="Valid email is required: ex@abc.xyz">
-        <input class="input3" type="email" name="_replyto" placeholder="Deine Email-Adresse">
-        <span class="focus-input3"></span>
-        <input type="hidden" name="reason" value="Online course newsletter">
-      </div>
-      <div class="container-contact3-form-btn">
-        <button class="contact3-form-btn" type="submit" value="Send">
-          Ja, sende mir mehr Info
-        </button>
-      </div>
-    </form>
+  {% if site.contact_action and site.contact != "" %}
+  			<div class="wrap-contact3">
+  				<form class="contact3-form validate-form" method="POST"
+  		action="{{ site.contact_action }}">
+  					<input type="hidden" name="_to" value="{{ site.data.email }}" />
+  					<input type="text" name="_gotcha" style="display: none;">
+  					<!-- <input type="text" name="slap_redirect" value="{{ site.url }}/thankyou" hidden> -->
+  					<input type="hidden" name="_next" value="{{ site.url }}/thankyou" />
+            <input type="hidden" name="reason" value="Online Tanztraining buchen">
+
+  					<div class="wrap-input3 validate-input" data-validate="Name is required">
+  						<input class="input3" type="text" name="name" placeholder="Dein Name">
+  						<span class="focus-input3"></span>
+  					</div>
+
+  					<div class="wrap-input3 validate-input" data-validate="Valid email is required: ex@abc.xyz">
+  						<input class="input3" type="email" name="_replyto" placeholder="Deine Email-Adresse">
+  						<span class="focus-input3"></span>
+  					</div>
+
+  					<div class="wrap-input3 validate-input" data-validate="Message is required">
+  						<textarea class="input3" type="text" name="message" placeholder="Deine Nachricht">
+Ja, ich will das Online-Tanztraining buchen.
+Bitte schreib mir, was die nächsten Schritte sind!
+              </textarea>
+  						<span class="focus-input3"></span>
+  					</div>
+
+  					<div class="container-contact3-form-btn">
+  						<button class="contact3-form-btn" type="submit" value="Send">
+  							Senden
+  						</button>
+  					</div>
+  				</form>
+  			</div>
   </div>
+
   {% endif %}
 
 </div>
