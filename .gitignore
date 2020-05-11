@@ -6,3 +6,7 @@ design-reference
 images/gitignored
 debug.html
 node_modules
+photos/
+run_web.sh
+*.odt
+.~lock.*

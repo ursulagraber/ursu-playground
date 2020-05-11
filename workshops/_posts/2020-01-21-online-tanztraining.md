@@ -1,7 +1,7 @@
 ---
 date: 2020-01-21
 location: Graz
-title: TanzFlow. Wie du Bewegung in dein Leben bringst
+title: TanzFlow - Das Online-Training, das Bewegung in dein Leben bringt
 
 layout: highlight
 
