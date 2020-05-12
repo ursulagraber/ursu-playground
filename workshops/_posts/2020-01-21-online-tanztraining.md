@@ -79,7 +79,9 @@ _Das Online Training, das Bewegung in dein Leben bringt._
 Normalpreis € 197 pro Monat, zur Zeit gibt es einen "Corona-Rabatt" von -50%
 
 __--> Jetzt nur € 98! (Nur noch bis 30.6.!)__
-
+{% if site.contact_action and site.contact != "" %}
+{% include contact-form-online.html %}
+{% endif %}
 
 ## Blogbeitrag
 ### ÜBER TANZFLOW, DAS ONLINE-TANZTRAINING DAS BEWEGUNG IN DEIN LEBEN BRINGT
@@ -107,3 +109,7 @@ Dadurch hat man dann auch eine bessere Verbindung zu seinem Körper und ergo zu 
 
 
 Wenn du gerne mehr erfahren würdest, dann schreib mir sehr gerne auf ursu.graber@gmail.com und ich sende dir genauere Infos zu TanzFlow. Wenn du TanzFlow gleich buchen möchtest, schreibe mir auch ein E-Mail! Ich freue mich darauf, dich auf dieser tanzenden Entdeckungsreise begleiten zu dürfen.
+
+{% if site.contact_action and site.contact != "" %}
+{% include contact-form-online.html %}
+{% endif %}
