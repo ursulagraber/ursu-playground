@@ -79,6 +79,7 @@ _Das Online Training, das Bewegung in dein Leben bringt._
 Normalpreis € 197 pro Monat, zur Zeit gibt es einen "Corona-Rabatt" von -50%
 
 __--> Jetzt nur € 98! (Nur noch bis 30.6.!)__
+
 {% if site.contact_action and site.contact != "" %}
 {% include contact-form-online.html %}
 {% endif %}
