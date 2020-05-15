@@ -52,6 +52,8 @@ _Das Online Training, das Bewegung in dein Leben bringt._
 
 4. du hast mehr Bewusstsein für die Bewegungen deines Körpers
 
+![](https://ursulagraber.files.wordpress.com/2020/04/ursu_haende.jpg?w=30&fit=crop)
+
 ### Dieser Kurs ist geeignet für…
 
 ...Leute, die Erfahrungen mit dem Körper und seinen Bewegungen haben (z.B. durch Sport, Akrobatik, Yoga, Schauspielen, Tanz, Körperarbeit, Physiotherapie, Musik…)
