@@ -37,7 +37,7 @@ _Das Online Training, das Bewegung in dein Leben bringt._
 
 2. weil du gerne tanzt und dich verbessern möchtest
 
-3. Weil durch die Regelmäßigkeit merkbare Ergebnisse erreicht werden
+3. weil durch die Regelmäßigkeit merkbare Ergebnisse erreicht werden
 
 4. weil DU frei und flexibel entscheiden kannst, wann, wo und wie oft du trainierst
 
@@ -92,7 +92,7 @@ __Paket "Die eifrige Ameise":__
 
 Beinhaltet ein TanzFlow-Trainingsprogramm von 90 Minuten und man bekommt wöchentliches Feedback, also 4mal pro Monat! Man trainiert 2 oder 3mal pro Woche, ganz wie es sich ausgeht. Pro Monat kostet dieses Paket 248 €.
 
-FÜR ALLE MITGLIEDER VON laut! GIBT ES EINEN RABATT VON 33 % ! WENN DU laut!-MITGLIED BIST, KLICKE BITTE [HIER](https://www.laut.or.at/tanzflow-ursula-graber/#information). 
+FÜR ALLE MITGLIEDER VON laut! GIBT ES EINEN RABATT VON 33 % ! WENN DU laut!-MITGLIED BIST, KLICKE BITTE [HIER](https://www.laut.or.at/tanzflow-ursula-graber/#information).
 
 Wenn du nun das TanzFlow Paket ausgesucht hast, das am Besten zu dir passt, kannst du selber entscheiden, ob du 1, 2 oder 3 mal pro Woche trainierst.
 
