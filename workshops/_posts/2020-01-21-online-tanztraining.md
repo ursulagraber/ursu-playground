@@ -102,6 +102,8 @@ DU WÄHLST AUS WIE OFT DU PRO WOCHE TRAINIERST :)
 
 Jedes Monat bekommst du außerdem ein neues TanzFlow Traningsprogramm, so lernst du kontinuierlich neue Bewegungen.
 
+[![Infoblatt]({{site.url}}/images/file-icon.png){: .center-image}Infoblatt TanzFlow]({{site.url}}/docs/Infoblatt_TanzFlow.pdf){: .center-image}
+
 __Du kannst das Paket deiner Wahl ab sofort buchen! Schreibe mir dazu einfach im Nachrichten-Formular unten welches Paket du möchtest. Oder schreibe mir auch gerne, wenn du erstmal mehr Infos erhalten möchtest um später zu entscheiden. Ich freue mich auf dich!__
 
 {% if site.contact_action and site.contact != "" %}
