@@ -33,15 +33,17 @@ _Das Online Training, das Bewegung in dein Leben bringt._
 
 ### **Warum du diesen Kurs machen solltest:**
 
-1. weil Bewegung gut tut
+1. weil Bewegung und Tanz gut tun und Auszeit, Ausgleich und Zeit für sich sind
 
-2. weil du gerne tanzt und dich verbessern möchtest
+2. weil du dich verbessern möchtest und das mit einer Begleitung leichter geht
 
 3. weil durch die Regelmäßigkeit merkbare Ergebnisse erreicht werden
 
-4. weil DU frei und flexibel entscheiden kannst, wann, wo und wie oft du trainierst
+4. weil du frei und flexibel entscheiden kannst, wann, wo und wie oft du trainierst (Minimum: 1 mal pro Woche)
 
-5. weil du deinen eigenen Übe-Rhythmus respektieren kannst
+5. du deinen eigenen Übe-Rhythmus respektierst und somit schneller weiterkommst
+
+6. er Kurs eine ausgewogene Mischung aus angeleiteten Übungen von einem Profi und Freiheit bietet
 
 
 ### **Welche Ergebnisse du dir erwarten kannst:**
@@ -54,10 +56,12 @@ _Das Online Training, das Bewegung in dein Leben bringt._
 
 4. du hast im Tanz sowie im Alltag ein größeres Körperbewusstsein
 
+5. Spaß beim Improvisieren
+
 
 ### Dieser Kurs ist für dich, wenn du...
 
-...tanzaffin bist aber wegen Job/Familie wenig Zeit dafür findest
+...tanzaffin bist aber mit Beruf und/oder Familie wenig Zeit findest zu Tanzstunden zu gehen
 
 ...du schon Erfahrungen mitbringst im Bereich Körper+Bewegung (z.B. durch Tanz, Sport, Akrobatik, Yoga, Schauspielen, Körperarbeit, Physiotherapie, Musik…)
 
@@ -67,13 +71,13 @@ _Das Online Training, das Bewegung in dein Leben bringt._
 
 ...tänzerisch wirklich an dir arbeiten möchtest
 
-...einen freundlichen Tritt in den „Allerwertesten“ hilfreich findest ;)
+...eine freundliche Begleitung und motivierendes Feedback hilfreich findest
 
 ### Dieser Kurs ist nicht für dich, wenn du...
 
-...dir keine Zeit fürs Tanzen nehmen willst
+...dich nicht gerne bewegst oder tanzt
 
-...“Bewegungslegastheniker*in“ bist
+...dich nicht für einen spielerischen Entdecker-Modus interessierst
 
 ...weitermachen willst wie bisher und lieber nichts verändern möchtest
 
