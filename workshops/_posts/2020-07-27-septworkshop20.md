@@ -7,7 +7,7 @@ layout: workshop
 
 categories:
   - Workshops
-featured_image: https://ursulagraber.files.wordpress.com/2020/04/dscf4319.jpg 
+featured_image: https://ursulagraber.files.wordpress.com/2020/04/dscf4319.jpg
 brief: Workshop-Wochenende in Graz
 
 galleries:
@@ -67,6 +67,9 @@ galleries:
   <p><a  class="pairs" href="mailto:{{ site.data.company_details.email }}"><img class="paired-icon" src="/images/mail.png" />{{ site.data.company_details.email }}</a><br>
 
   Schreib mir gerne wenn du Fragen zum Workshop hast oder wenn du dir deinen Platz sichern willst - ich freue mich über deine Nachricht!<br />
+<p>
+
+  Bei diesem Workshop werden die Covid-Sicherheitsmaßnahmen eingehalten. Die Tanzübungen werden alleine und ohne Körperkontakt zu anderen TeilnehmerInnen ausgeführt. <br />
 
 <p>
   Dieser Workshop ist für dich, wenn du...<br />
