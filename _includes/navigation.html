@@ -23,7 +23,7 @@
 			{% if site.newsletter_action and site.newsletter_action != "" %}
 			<div id="newsletter-menu">
 				<form action="{{ site.newsletter_action }}" method="post">
-					<input type="text" name="EMAIL" placeholder="E-Mail-Adresse..." style="background-color: #519b98; padding: 5px;">
+					<input type="text" name="EMAIL" placeholder="E-Mail-Adresse..." style="background-color: #519b98; padding: 5px;" required>
 					<button class="contact3-form-btn shallow" type="submit" value="Send">
 						Newsletter abonnieren!
 					</button>
