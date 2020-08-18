@@ -6,7 +6,7 @@ layout: post
 
 categories:
   - News
-featured_image: https://ursulagraber.files.wordpress.com/2020/08/presse-5.jpg
+featured_image: https://ursulagraber.files.wordpress.com/2020/08/presse-5_kl-1.jpg
 brief: 4.-6. September 2020, Kristallwerk Graz
 author: Ursula Graber
 cast:
@@ -19,65 +19,60 @@ cast:
   other:
 galleries:
   - title: Starlight "Killjoy" Coquelicot (c) Edi Haberl
-    image: https://ursulagraber.files.wordpress.com/2020/08/presse-5.jpg
+    image: https://ursulagraber.files.wordpress.com/2020/08/presse-5_kl-1.jpg
     data-group: superworkshop
   - title: Starlight "Killjoy" Coquelicot (c) Edi Haberl
-    image: https://ursulagraber.files.wordpress.com/2020/08/presse.jpg
+    image: https://ursulagraber.files.wordpress.com/2020/08/presse-3_kl.jpg
     data-group: superworkshop
   - title: Starlight "Killjoy" Coquelicot (c) Edi Haberl
-    image: https://ursulagraber.files.wordpress.com/2020/08/presse-2.jpg
+    image: https://ursulagraber.files.wordpress.com/2020/08/presse-4_kl.jpg
     data-group: superworkshop
   - title: Starlight "Killjoy" Coquelicot (c) Edi Haberl
-    image: https://ursulagraber.files.wordpress.com/2020/08/presse-3.jpg
+    image: https://ursulagraber.files.wordpress.com/2020/08/presse-6_kl.jpg
     data-group: superworkshop
   - title: Starlight "Killjoy" Coquelicot (c) Edi Haberl
-    image: https://ursulagraber.files.wordpress.com/2020/08/presse-4.jpg
+    image: https://ursulagraber.files.wordpress.com/2020/08/presse-8_kl.jpg
     data-group: superworkshop
   - title: Starlight "Killjoy" Coquelicot (c) Edi Haberl
-    image: https://ursulagraber.files.wordpress.com/2020/08/presse-6.jpg
+    image: https://ursulagraber.files.wordpress.com/2020/08/presse-9_kl.jpg
     data-group: superworkshop
   - title: Starlight "Killjoy" Coquelicot (c) Edi Haberl
-    image: https://ursulagraber.files.wordpress.com/2020/08/presse-7.jpg
+    image: https://ursulagraber.files.wordpress.com/2020/08/presse-10_kl.jpg
     data-group: superworkshop
   - title: Starlight "Killjoy" Coquelicot (c) Edi Haberl
-    image: https://ursulagraber.files.wordpress.com/2020/08/presse-8.jpg
+    image: https://ursulagraber.files.wordpress.com/2020/08/presse-11_kl.jpg
     data-group: superworkshop
   - title: Starlight "Killjoy" Coquelicot (c) Edi Haberl
-    image: https://ursulagraber.files.wordpress.com/2020/08/presse-9.jpg
+    image: https://ursulagraber.files.wordpress.com/2020/08/presse-12_kl.jpg
     data-group: superworkshop
   - title: Starlight "Killjoy" Coquelicot (c) Edi Haberl
-    image: https://ursulagraber.files.wordpress.com/2020/08/presse-10.jpg
+    image: https://ursulagraber.files.wordpress.com/2020/08/presse-13_kl.jpg
     data-group: superworkshop
   - title: Starlight "Killjoy" Coquelicot (c) Edi Haberl
-    image: https://ursulagraber.files.wordpress.com/2020/08/presse-11.jpg
+    image: https://ursulagraber.files.wordpress.com/2020/08/presse-15_kl.jpg
     data-group: superworkshop
   - title: Starlight "Killjoy" Coquelicot (c) Edi Haberl
-    image: https://ursulagraber.files.wordpress.com/2020/08/presse-12.jpg
+    image: https://ursulagraber.files.wordpress.com/2020/08/presse-16_kl.jpg
     data-group: superworkshop
   - title: Starlight "Killjoy" Coquelicot (c) Edi Haberl
-    image: https://ursulagraber.files.wordpress.com/2020/08/presse-13.jpg
+    image: https://ursulagraber.files.wordpress.com/2020/08/presse-17_kl.jpg
     data-group: superworkshop
   - title: Starlight "Killjoy" Coquelicot (c) Edi Haberl
-    image: https://ursulagraber.files.wordpress.com/2020/08/presse-14.jpg
+    image: https://ursulagraber.files.wordpress.com/2020/08/presse-18_kl.jpg
     data-group: superworkshop
   - title: Starlight "Killjoy" Coquelicot (c) Edi Haberl
-    image: https://ursulagraber.files.wordpress.com/2020/08/presse-15.jpg
+    image: https://ursulagraber.files.wordpress.com/2020/08/presse-19_kl.jpg
     data-group: superworkshop
   - title: Starlight "Killjoy" Coquelicot (c) Edi Haberl
-    image: https://ursulagraber.files.wordpress.com/2020/08/presse-16.jpg
+    image: https://ursulagraber.files.wordpress.com/2020/08/presse-20_kl.jpg
     data-group: superworkshop
   - title: Starlight "Killjoy" Coquelicot (c) Edi Haberl
-    image: https://ursulagraber.files.wordpress.com/2020/08/presse-17.jpg
+    image: https://ursulagraber.files.wordpress.com/2020/08/presse_kl-1.jpg
     data-group: superworkshop
   - title: Starlight "Killjoy" Coquelicot (c) Edi Haberl
-    image: https://ursulagraber.files.wordpress.com/2020/08/presse-18.jpg
+    image: https://ursulagraber.files.wordpress.com/2020/08/starlight-flyer.png
     data-group: superworkshop
-  - title: Starlight "Killjoy" Coquelicot (c) Edi Haberl
-    image: https://ursulagraber.files.wordpress.com/2020/08/presse-19.jpg
-    data-group: superworkshop
-  - title: Starlight "Killjoy" Coquelicot (c) Edi Haberl
-    image: https://ursulagraber.files.wordpress.com/2020/08/presse-20.jpg
-    data-group: superworkshop
+  
 
 #featured_video:
 #    title: Tonite
