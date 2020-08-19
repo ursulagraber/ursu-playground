@@ -85,4 +85,15 @@ galleries:
   Tanzkenntnisse sind keine Voraussetzung. Die Freude und das Interesse an Bewegung reichen vollkommen!
 </p>
 
-In Verbindung mit Steirische Kulturinitiative
+In Verbindung mit Steirische Kulturinitiative.<br />
+
+<p>
+Was wir in diesem Workshop machen <br />
+Nach dem Warm-Up übt man einzelne, kleine Bewegungsmuster, die die „Bausteine“ für die spätere Improvisation darstellen. Anschließend darf man während der Improvisation in einem geschützten Rahmen seiner Kreativität freien Lauf lassen. Zu inspirierender Musik „baut“ man mit den erlernten „Bausteinen“ (=Bewegungsmuster) im Moment seinen eigenen Tanz. Am Ende rundet das Cool-Down bestehend aus Dehn-Übungen und Massagen die Tanzstunde ab.<br />
+</p>
+
+<p>
+Für wen dieser Workshop gedacht ist <br />
+Die Tanz-Workshops "Tänzerisches ERLEBEN" und das Online-Training "TanzFlow" richten sich an Bewegungs-liebende Leute, die sich gekonnt zur Musik ausdrücken wollen und dadurch nebenbei mehr über sich selber erfahren & die Tools der Profitänzer erlernen wollen.
+Bewegung macht froh!
+</p>
