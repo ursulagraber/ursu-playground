@@ -106,9 +106,17 @@ VVK: 12 €, AK: 14 €<br />
 
 Tickets gibt es [hier](https://shop.ticketteer.com/ursula_graber_contemporary_dancer_choreographer/e/evt_5e620259ad9b9400189b83dd)!<br />
 
-Hinweis: Damit wir den Covid-Sicherheitsmaßnahmen Folge leisten können buchen Sie bitte Ihr Ticket vorab online. Vielen Dank!
-
 Hier geht's zum [Trailer](https://youtu.be/PwxjyPF9Ofo ) von Starlight "Killjoy" Coquelicot.
+
+---
+COVID-19 Infos
+
+Bitte Ticket vorab buchen<br />
+Um zu gewährleisten, dass wir alle Vorschriften einhalten und genügend Platz für alle Publikumsgäste und HelferInnen einplanen können, buche bitte dein Ticket vorab [hier](https://shop.ticketteer.com/ursula_graber_contemporary_dancer_choreographer/e/evt_5e620259ad9b9400189b83dd).
+
+Maskenpflicht bei Betreten des Theaters<br />
+Bitte beachte, dass du beim Betreten der Location gemäß den Sicherheitsbestimmungen des Bundesministeriums eine MNS-Maske benötigst.
+Dir wird dein Platz zugeteilt, auf dem keine Maskenpflicht besteht. Wir bitten euch vor, während und nach der Veranstaltung generelle Hygienevorschriften einzuhalten und auf den Sicherheitsabstand zu achten. Für ausreichend Platz und Schutzmaßnahmen ist gesorgt.
 
 
 <!--plop-->
