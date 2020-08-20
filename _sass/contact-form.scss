@@ -273,9 +273,10 @@ textarea.input3 {
 .alert-validate::after {
   content: "!";//"\f12a"; //emoji
   font-family:  $main-content-font;
+  font-weight: bold;
   display: block;
   position: absolute;
-  color: #1C6965;
+  color: #f70;
   font-size: 16px;
   top: 50%;
   -webkit-transform: translateY(-50%);
