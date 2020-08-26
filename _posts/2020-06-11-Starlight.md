@@ -116,7 +116,10 @@ Um zu gewährleisten, dass wir alle Vorschriften einhalten und genügend Platz f
 
 Maskenpflicht bei Betreten des Theaters<br />
 Bitte beachte, dass du beim Betreten der Location gemäß den Sicherheitsbestimmungen des Bundesministeriums eine MNS-Maske benötigst.
-Dir wird dein Platz zugeteilt, auf dem keine Maskenpflicht besteht. Wir bitten euch vor, während und nach der Veranstaltung generelle Hygienevorschriften einzuhalten und auf den Sicherheitsabstand zu achten. Für ausreichend Platz und Schutzmaßnahmen ist gesorgt.
+Dir wird dein Platz zugeteilt, auf dem keine Maskenpflicht besteht. Wir bitten euch vor, während und nach der Veranstaltung generelle Hygienevorschriften einzuhalten und auf den Sicherheitsabstand zu achten. Für ausreichend Platz und Schutzmaßnahmen ist gesorgt.<br />
+
+
+Es gelten die Vorschriften des § 10 der COVID-19-Lockerungsverordnung in der jeweils gültigen Fassung.
 
 
 <!--plop-->
