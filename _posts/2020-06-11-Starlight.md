@@ -81,9 +81,9 @@ galleries:
 ---
 
 
-*Zwischen Lust und Frust*
+*Zwischen Lust und Frust*{: .center-image}
 
-![](https://ursulagraber.files.wordpress.com/2020/08/presse-16_kl.jpg?w=500&fit=crop)
+![](https://ursulagraber.files.wordpress.com/2020/08/presse-16_kl.jpg?w=500&fit=crop){: .center-image}
 
 [Hier](https://shop.ticketteer.com/ursula_graber_contemporary_dancer_choreographer/e/evt_5e620259ad9b9400189b83dd) geht's zu den Tickets.<br />
 
@@ -107,7 +107,16 @@ VVK: 12 €, AK: 14 €<br />
 Tickets gibt es [hier](https://shop.ticketteer.com/ursula_graber_contemporary_dancer_choreographer/e/evt_5e620259ad9b9400189b83dd)!<br />
 
 Hier geht's zum [Trailer](https://youtu.be/PwxjyPF9Ofo ) von Starlight "Killjoy" Coquelicot.
+{: .center-image}
 
+<br />
+<iframe type="text/html" width="640" height="360"
+  src="https://www.youtube.com/embed/PwxjyPF9Ofo"
+  frameborder="0"></iframe>
+{: .center-image}
+
+
+<br />
 ---
 COVID-19 Infos
 
