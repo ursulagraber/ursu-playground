@@ -85,7 +85,7 @@ galleries:
   Tanzkenntnisse sind keine Voraussetzung. Die Freude und das Interesse an Bewegung reichen vollkommen!
 </p>
 
-In Verbindung mit Steirische Kulturinitiative.<br />
+In Verbindung mit Steirische Kulturinitiative. <br />
 
 <p>
 Was wir in diesem Workshop machen <br />
@@ -96,4 +96,13 @@ Nach dem Warm-Up übt man einzelne, kleine Bewegungsmuster, die die „Bausteine
 Für wen dieser Workshop gedacht ist <br />
 Die Tanz-Workshops "Tänzerisches ERLEBEN" und das Online-Training "TanzFlow" richten sich an Bewegungs-liebende Leute, die sich gekonnt zur Musik ausdrücken wollen und dadurch nebenbei mehr über sich selber erfahren & die Tools der Profitänzer erlernen wollen.
 Bewegung macht froh!
+</p>
+
+<p>
+Liebe Leute,<br />
+
+Ich hörte öfter Sorge über das Zusammenkommen von Menschen und dem Covid-Virus. Deswegen möchte ich noch einmal versichern, dass wir beim Workshop alle Covid-Sicherheits-Maßnahmen einhalten werden! Es wird nur Übungen geben, die man alleine (also ohne Körperkontakt zu anderen) ausführt und es wird genug Platz für jede Person geben, so dass man ohne Probleme den Sicherheits-Abstand einhalten kann :)
+Außerdem gibt es noch ein besonderes Zuckerl: Weil ich mich so gefreut habe diese Woche als Steirerin des Tages in der Kleinen Zeitung sein zu dürfen (siehe mein Profil), verlängere ich den Early Bird bis 31.8.! :D Und für Studis gibt es noch einmal -20% auf die Teilnahmegebühren.<br />
+Ich freue mich sehr, gemeinsam (mit Abstand) zu tanzen und das Bewegungsrepertoire des Körpers zu erweitern,<br />
+Alles Liebe, Ursula
 </p>
