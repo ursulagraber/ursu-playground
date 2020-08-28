@@ -44,65 +44,62 @@ galleries:
 
 ---
 
-  **DENN DAS LEBEN IST EINE IMPROVISATION**
+**DENN DAS LEBEN IST EINE IMPROVISATION**
 
-  In geführten Übungen kannst du deine Skills in Tanz-Improvisation trainieren. Angelehnt an Übungen des Choreografen Thomas Hauert.<br />
-  Du wirst in einem geschützten Rahmen lustvoll körperlich und geistig gestärkt. Dich erwarten ein neues Körpergefühl, Freiheit und Spaß!
+In geführten Übungen kannst du deine Skills in Tanz-Improvisation trainieren. Angelehnt an Übungen des Choreografen Thomas Hauert.  
+Du wirst in einem geschützten Rahmen lustvoll körperlich und geistig gestärkt. Dich erwarten ein neues Körpergefühl, Freiheit und Spaß!
 
-  Zum zweiten Mal in Graz am **12. & 13.09.2020**<br />
-  Wieder mit neuen Übungen!
-
-
-  Sa, 12.09.: **15 – 20 Uhr**       (inkl. Entspannungsübungen/Pause um 17 Uhr)<br />
-  So, 13.09.: **10 – 16 Uhr**       (inkl. eine Stunde Mittagspause)<br />
-  Ort: Im **Studio KI, Burggasse 9**, Graz
+Zum zweiten Mal in Graz am **12. & 13.09.2020**  
+Wieder mit neuen Übungen!
 
 
-  Early Bird bis 01.08. € **169.-**<br />
-  Early Bird bis 21.08. € **199.-**<br />
-  Normalpreis:          € **249.-**
+Sa, 12.09.: **15 – 20 Uhr**       (inkl. Entspannungsübungen/Pause um 17 Uhr)  
+So, 13.09.: **10 – 16 Uhr**       (inkl. eine Stunde Mittagspause)  
+Ort: Im **Studio KI, Burggasse 9**, Graz
 
 
-  Stell' dich aufs schwitzen ein und melde dich an!<br />
-  <p><a  class="pairs" href="mailto:{{ site.data.company_details.email }}"><img class="paired-icon" src="/images/mail.png" />{{ site.data.company_details.email }}</a><br>
+Early Bird bis 01.08. € **169.-**  
+Early Bird bis 21.08. € **199.-**  
+Normalpreis:          € **249.-**
 
-  Schreib mir gerne wenn du Fragen zum Workshop hast oder wenn du dir deinen Platz sichern willst - ich freue mich über deine Nachricht!<br />
-<p>
 
-  Bei diesem Workshop werden die Covid-Sicherheitsmaßnahmen eingehalten. Die Tanzübungen werden alleine und ohne Körperkontakt zu anderen TeilnehmerInnen ausgeführt. <br />
+Stell' dich aufs schwitzen ein und melde dich an!  
 
-<p>
-  Dieser Workshop ist für dich, wenn du...<br />
-  ...gerne vital & stark, voller Energie und Freude sein möchtest<br />
-  ...gerne neue Perspektiven das Körpergefühl betreffend erfährst<br />
-  ...verspielt und mit Action schwitzen magst<br />
-  ...den Alltag vergessen möchtest<br />
-  ...dein Bewegungsvokabular erweitern möchtest<br />
-  ...den Fokus weg vom Bewerten und hin zum Prozess lenken möchtest.<br />
-</p>
+<a class="pairs" href="mailto:{{ site.data.company_details.email }}"><img class="paired-icon" src="/images/mail.png" />{{ site.data.company_details.email }}</a>
 
-<p>
-  Tanzkenntnisse sind keine Voraussetzung. Die Freude und das Interesse an Bewegung reichen vollkommen!
-</p>
+Schreib mir gerne wenn du Fragen zum Workshop hast oder wenn du dir deinen Platz sichern willst - ich freue mich über deine Nachricht!  
 
-In Verbindung mit Steirische Kulturinitiative. <br />
 
-<p>
-Was wir in diesem Workshop machen <br />
-Nach dem Warm-Up übt man einzelne, kleine Bewegungsmuster, die die „Bausteine“ für die spätere Improvisation darstellen. Anschließend darf man während der Improvisation in einem geschützten Rahmen seiner Kreativität freien Lauf lassen. Zu inspirierender Musik „baut“ man mit den erlernten „Bausteinen“ (=Bewegungsmuster) im Moment seinen eigenen Tanz. Am Ende rundet das Cool-Down bestehend aus Dehn-Übungen und Massagen die Tanzstunde ab.<br />
-</p>
+Bei diesem Workshop werden die Covid-Sicherheitsmaßnahmen eingehalten. Die Tanzübungen werden alleine und ohne Körperkontakt zu anderen TeilnehmerInnen ausgeführt.   
 
-<p>
-Für wen dieser Workshop gedacht ist <br />
+Dieser Workshop ist für dich, wenn du...  
+...gerne vital & stark, voller Energie und Freude sein möchtest  
+...gerne neue Perspektiven das Körpergefühl betreffend erfährst  
+...verspielt und mit Action schwitzen magst  
+...den Alltag vergessen möchtest  
+...dein Bewegungsvokabular erweitern möchtest  
+...den Fokus weg vom Bewerten und hin zum Prozess lenken möchtest.  
+
+
+Tanzkenntnisse sind keine Voraussetzung. Die Freude und das Interesse an Bewegung reichen vollkommen!
+
+
+In Verbindung mit Steirische Kulturinitiative.   
+
+**Was wir in diesem Workshop machen**   
+Nach dem Warm-Up übt man einzelne, kleine Bewegungsmuster, die die „Bausteine“ für die spätere Improvisation darstellen. Anschließend darf man während der Improvisation in einem geschützten Rahmen seiner Kreativität freien Lauf lassen. Zu inspirierender Musik „baut“ man mit den erlernten „Bausteinen“ (=Bewegungsmuster) im Moment seinen eigenen Tanz. Am Ende rundet das Cool-Down bestehend aus Dehn-Übungen und Massagen die Tanzstunde ab.  
+
+
+**Für wen dieser Workshop gedacht ist**  
 Die Tanz-Workshops "Tänzerisches ERLEBEN" und das Online-Training "TanzFlow" richten sich an Bewegungs-liebende Leute, die sich gekonnt zur Musik ausdrücken wollen und dadurch nebenbei mehr über sich selber erfahren & die Tools der Profitänzer erlernen wollen.
 Bewegung macht froh!
-</p>
 
-<p>
-Liebe Leute,<br />
+
+**Liebe Leute,**  
 
 Ich hörte öfter Sorge über das Zusammenkommen von Menschen und dem Covid-Virus. Deswegen möchte ich noch einmal versichern, dass wir beim Workshop alle Covid-Sicherheits-Maßnahmen einhalten werden! Es wird nur Übungen geben, die man alleine (also ohne Körperkontakt zu anderen) ausführt und es wird genug Platz für jede Person geben, so dass man ohne Probleme den Sicherheits-Abstand einhalten kann :)
-Außerdem gibt es noch ein besonderes Zuckerl: Weil ich mich so gefreut habe diese Woche als Steirerin des Tages in der Kleinen Zeitung sein zu dürfen (siehe mein Profil), verlängere ich den Early Bird bis 31.8.! :D Und für Studis gibt es noch einmal -20% auf die Teilnahmegebühren.<br />
-Ich freue mich sehr, gemeinsam (mit Abstand) zu tanzen und das Bewegungsrepertoire des Körpers zu erweitern,<br />
+Außerdem gibt es noch ein besonderes Zuckerl: Weil ich mich so gefreut habe diese Woche als Steirerin des Tages in der Kleinen Zeitung sein zu dürfen (siehe mein Profil), verlängere ich den Early Bird bis 31.8.! :D Und für Studis gibt es noch einmal -20% auf die Teilnahmegebühren.  
+Ich freue mich sehr, gemeinsam (mit Abstand) zu tanzen und das Bewegungsrepertoire des Körpers zu erweitern,  
+
+
 Alles Liebe, Ursula
-</p>
