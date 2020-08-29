@@ -59,8 +59,11 @@ Ort: Im **Studio KI, Burggasse 9**, Graz
 
 
 Early Bird bis 01.08. € **169.-**  
-Early Bird bis 21.08. € **199.-**  
+Early Bird bis 31.08. (statt 21.8.) € **199.-**  
 Normalpreis:          € **249.-**
+
+
+Fur StudentInnen gibt es außerdem einen zusätzlichen Rabatt von -20%.
 
 
 Stell' dich aufs schwitzen ein und melde dich an!  
