@@ -112,10 +112,7 @@ Hier geht's zum [Trailer](https://youtu.be/PwxjyPF9Ofo ) von Starlight "Killjoy"
 {: .center-image}
 
 <br />
-<iframe type="text/html" width="640" height="360"
-  src="https://www.youtube.com/embed/PwxjyPF9Ofo"
-  frameborder="0"></iframe>
-{: .center-image}
+{% include video-embed-responsive.html url='https://www.youtube.com/embed/PwxjyPF9Ofo' %}
 
 **Presse**
 
@@ -123,7 +120,7 @@ Hier geht's zum [Trailer](https://youtu.be/PwxjyPF9Ofo ) von Starlight "Killjoy"
 
 <br />
 ---
-COVID-19 Infos
+**COVID-19 Infos**
 
 Bitte Ticket vorab buchen<br />
 Um zu gewährleisten, dass wir alle Vorschriften einhalten und genügend Platz für alle Publikumsgäste und HelferInnen einplanen können, buche bitte dein Ticket vorab [hier](https://shop.ticketteer.com/ursula_graber_contemporary_dancer_choreographer/e/evt_5e620259ad9b9400189b83dd).

@@ -600,3 +600,36 @@ figure#right {
   --color: #ffa260;
   --hover: #e5ff60;
 }
+
+.video-container-wrapper {
+	width: 80%;
+	max-width: 640px;
+	margin: 0 auto;
+}
+
+.video-container {
+	position: relative;
+	padding-bottom: 56.25%;
+	padding-top: 0px;
+	height: 0;
+	overflow: hidden;
+
+  iframe, object, embed {
+		position: absolute;
+		top: 0;
+		left: 0;
+		width:100%;
+		max-width: 640px;
+		max-height: 352px;
+		height: 100%;
+
+	}
+
+	 // @media screen and #{$half-screen}
+	 // {
+		//  iframe, object, embed {
+		// 	 width: 100%;
+		// 	 height: auto !important;
+		//  }
+	 // }
+}
