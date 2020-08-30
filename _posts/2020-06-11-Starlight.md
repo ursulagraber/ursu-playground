@@ -72,7 +72,9 @@ galleries:
   - title: Starlight "Killjoy" Coquelicot (c) Edi Haberl
     image: https://ursulagraber.files.wordpress.com/2020/08/starlight-flyer.png
     data-group: superworkshop
-
+  - title: Starlight "Killjoy" Coquelicot Presse
+    image: https://ursulagraber.files.wordpress.com/2020/08/artikel.png
+    data-group: superworkshop
 
 #featured_video:
 #    title: Tonite
@@ -115,6 +117,9 @@ Hier geht's zum [Trailer](https://youtu.be/PwxjyPF9Ofo ) von Starlight "Killjoy"
   frameborder="0"></iframe>
 {: .center-image}
 
+**Presse**
+
+[![Presse](https://ursulagraber.files.wordpress.com/2020/08/artikel.png?w=300){: .center-image}](https://ursulagraber.files.wordpress.com/2020/08/artikel.png?w=1000)
 
 <br />
 ---
@@ -130,11 +135,11 @@ Dir wird dein Platz zugeteilt, auf dem keine Maskenpflicht besteht. Wir bitten e
 
 Es gelten die Vorschriften des § 10 der COVID-19-Lockerungsverordnung in der jeweils gültigen Fassung.
 
+![Covid](https://ursulagraber.files.wordpress.com/2020/08/schutzmasnahmen-gegen-das-coronavirus_pdfua.png)
 
 <!--plop-->
 
 Ein Abend voller Magie und Inspiration!<br />
 (Klick auf ein Bild um es zu vergrößern)
-
 
 <!--[![Totem](https://i.vimeocdn.com/video/746500438_640.jpg)](https://player.vimeo.com/video/306702195)-->
