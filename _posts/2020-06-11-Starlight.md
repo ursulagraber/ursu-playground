@@ -134,6 +134,9 @@ Es gelten die Vorschriften des § 10 der COVID-19-Lockerungsverordnung in der je
 
 ![Covid](https://ursulagraber.files.wordpress.com/2020/08/schutzmasnahmen-gegen-das-coronavirus_pdfua.png)
 
+
+Liebe Leute, leider gab es in den letzten Tagen Probleme mit dem Ticket-Programm und nicht alle Leute haben ihr Ticket per E-Mail erhalten. Wenn das passiert ist: Keine Sorge, in unserer Liste seid ihr drin und das Ticket ist bezahlt! Zur Sicherheit einfach kurz ein E-Mail an ursu.graber@gmail.com schreiben mit dem Tag und der Anzahl an Tickets die ihr gebucht habt und am Abend dann einfach zum Kristallwerk kommen. Vielen Dank für das Verständnis und bis bald! Ursula
+
 <!--plop-->
 
 Ein Abend voller Magie und Inspiration!<br />
