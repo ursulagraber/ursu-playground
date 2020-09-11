@@ -18,38 +18,44 @@ cast:
   date:
   other:
 galleries:
+  - title: Starlight "Killjoy" Coquelicot (c) Clemens Nestroy
+    image: https://ursulagraber.files.wordpress.com/2020/09/mg_5046.jpg
+    data-group: superworkshop
+  - title: Starlight "Killjoy" Coquelicot (c) Clemens Nestroy
+    image: https://ursulagraber.files.wordpress.com/2020/09/mg_5091.jpg
+    data-group: superworkshop
+  - title: Starlight "Killjoy" Coquelicot (c) Clemens Nestroy
+    image: https://ursulagraber.files.wordpress.com/2020/09/mg_5220.jpg
+    data-group: superworkshop
+  - title: Starlight "Killjoy" Coquelicot (c) Clemens Nestroy
+    image: https://ursulagraber.files.wordpress.com/2020/09/mg_5225.jpg
+    data-group: superworkshop
+  - title: Starlight "Killjoy" Coquelicot (c) Clemens Nestroy
+    image: https://ursulagraber.files.wordpress.com/2020/09/mg_5269.jpg
+    data-group: superworkshop
+  - title: Starlight "Killjoy" Coquelicot (c) Clemens Nestroy
+    image: https://ursulagraber.files.wordpress.com/2020/09/mg_5285.jpg
+    data-group: superworkshop
+  - title: Starlight "Killjoy" Coquelicot (c) Clemens Nestroy
+    image: https://ursulagraber.files.wordpress.com/2020/09/mg_5311.jpg
+    data-group: superworkshop
+  - title: Starlight "Killjoy" Coquelicot (c) Clemens Nestroy
+    image: https://ursulagraber.files.wordpress.com/2020/09/mg_5395.jpg
+    data-group: superworkshop
+  - title: Starlight "Killjoy" Coquelicot (c) Clemens Nestroy
+    image: https://ursulagraber.files.wordpress.com/2020/09/mg_5454.jpg
+    data-group: superworkshop
+  - title: Starlight "Killjoy" Coquelicot (c) Clemens Nestroy
+    image: https://ursulagraber.files.wordpress.com/2020/09/mg_5558.jpg
+    data-group: superworkshop
   - title: Starlight "Killjoy" Coquelicot (c) Edi Haberl
     image: https://ursulagraber.files.wordpress.com/2020/08/presse-5_kl-1.jpg
-    data-group: superworkshop
-  - title: Starlight "Killjoy" Coquelicot (c) Edi Haberl
-    image: https://ursulagraber.files.wordpress.com/2020/08/presse-3_kl.jpg
-    data-group: superworkshop
-  - title: Starlight "Killjoy" Coquelicot (c) Edi Haberl
-    image: https://ursulagraber.files.wordpress.com/2020/08/presse-4_kl.jpg
-    data-group: superworkshop
-  - title: Starlight "Killjoy" Coquelicot (c) Edi Haberl
-    image: https://ursulagraber.files.wordpress.com/2020/08/presse-6_kl.jpg
-    data-group: superworkshop
-  - title: Starlight "Killjoy" Coquelicot (c) Edi Haberl
-    image: https://ursulagraber.files.wordpress.com/2020/08/presse-8_kl.jpg
-    data-group: superworkshop
-  - title: Starlight "Killjoy" Coquelicot (c) Edi Haberl
-    image: https://ursulagraber.files.wordpress.com/2020/08/presse-9_kl.jpg
     data-group: superworkshop
   - title: Starlight "Killjoy" Coquelicot (c) Edi Haberl
     image: https://ursulagraber.files.wordpress.com/2020/08/presse-10_kl.jpg
     data-group: superworkshop
   - title: Starlight "Killjoy" Coquelicot (c) Edi Haberl
-    image: https://ursulagraber.files.wordpress.com/2020/08/presse-11_kl.jpg
-    data-group: superworkshop
-  - title: Starlight "Killjoy" Coquelicot (c) Edi Haberl
     image: https://ursulagraber.files.wordpress.com/2020/08/presse-12_kl.jpg
-    data-group: superworkshop
-  - title: Starlight "Killjoy" Coquelicot (c) Edi Haberl
-    image: https://ursulagraber.files.wordpress.com/2020/08/presse-13_kl.jpg
-    data-group: superworkshop
-  - title: Starlight "Killjoy" Coquelicot (c) Edi Haberl
-    image: https://ursulagraber.files.wordpress.com/2020/08/presse-15_kl.jpg
     data-group: superworkshop
   - title: Starlight "Killjoy" Coquelicot (c) Edi Haberl
     image: https://ursulagraber.files.wordpress.com/2020/08/presse-16_kl.jpg
@@ -59,15 +65,6 @@ galleries:
     data-group: superworkshop
   - title: Starlight "Killjoy" Coquelicot (c) Edi Haberl
     image: https://ursulagraber.files.wordpress.com/2020/08/presse-18_kl.jpg
-    data-group: superworkshop
-  - title: Starlight "Killjoy" Coquelicot (c) Edi Haberl
-    image: https://ursulagraber.files.wordpress.com/2020/08/presse-19_kl.jpg
-    data-group: superworkshop
-  - title: Starlight "Killjoy" Coquelicot (c) Edi Haberl
-    image: https://ursulagraber.files.wordpress.com/2020/08/presse-20_kl.jpg
-    data-group: superworkshop
-  - title: Starlight "Killjoy" Coquelicot (c) Edi Haberl
-    image: https://ursulagraber.files.wordpress.com/2020/08/presse_kl-1.jpg
     data-group: superworkshop
   - title: Starlight "Killjoy" Coquelicot (c) Edi Haberl
     image: https://ursulagraber.files.wordpress.com/2020/08/starlight-flyer.png
@@ -85,45 +82,85 @@ galleries:
 
 *Zwischen Lust und Frust*{: .center-image}
 
-![](https://ursulagraber.files.wordpress.com/2020/08/presse-16_kl.jpg?w=500&fit=crop){: .center-image}
-
-[Hier](https://shop.ticketteer.com/ursula_graber_contemporary_dancer_choreographer/e/evt_5e620259ad9b9400189b83dd) geht's zu den Tickets.<br />
+![](https://ursulagraber.files.wordpress.com/2020/09/mg_5269.jpg?w=500&fit=crop){: .center-image}
 
 Die zeitgenössische Tänzerin Ursula Graber lässt ihrer Kreativität freien Lauf in einem Soloabend. Dafür stellt sie sich Fragen über Feminismus, Genuss-Emanzipation und Rollenbilder.
 Inspiriert von kritischen feministischen Theorien und Burlesque-Tanz schafft sie eine humorvolle und persönliche Performance, die zum Staunen und Nachdenken einlädt.  
 
 *“Sind alle Feminist\*innen Spaßverderber\*innen?”<br />*
 
-Von und mit Ursula Graber – erhielt 2019 das Startstipendium für darstellende Künste des Bundeskanzleramts.<br />
+Von und mit Ursula Graber<br />
 
 <del>2.-4. April 2020, Kristallwerk</del> – VERSCHOBEN auf<br />
-**4.-6. September 2020, Kristallwerk<br />**
-
-Fr, 4. September PREMIERE 20 Uhr<br />
-Sa, 5. September 20 Uhr<br />
-So, 6. September 18 Uhr<br />
-
-Kristallwerk, Viktor-Franz-Str. 9, Graz<br />
-VVK: 12 €, AK: 14 €<br />
-
-Tickets gibt es [hier](https://shop.ticketteer.com/ursula_graber_contemporary_dancer_choreographer/e/evt_5e620259ad9b9400189b83dd)!<br />
-
-Hier geht's zum [Trailer](https://youtu.be/PwxjyPF9Ofo ) von Starlight "Killjoy" Coquelicot.
-{: .center-image}
+4.-6. September 2020, Kristallwerk, Graz<br />
 
 <br />
-{% include video-embed-responsive.html url='https://www.youtube.com/embed/PwxjyPF9Ofo' %}
+
 
 **Presse**
+
+<p>
+--> Zur Kritik der Tanzperformance STARLIGHT "KILLJOY" COQUELICOT
+geht es <a href="https://www.tanz.at/index.php/kritiken/kritiken-2020/2381-ursula-graber-starlight-killjoy-coquelicot">hier</a>!<br>
+</p>
+
+<p>
+--> Es folgt der Artikel "Steirerin des Tages" in der Kleinen Zeitung (26.08.2020).
+Zum Vergrößern bitte anklicken.
+</p>
+
 
 [![Presse](https://ursulagraber.files.wordpress.com/2020/08/artikel.png?w=300){: .center-image}](https://ursulagraber.files.wordpress.com/2020/08/artikel.png?w=1000)
 
 <br />
+
+<br />
+Hier geht's zum Trailer von Starlight "Killjoy" Coquelicot:
+{: .center-image}
+{% include video-embed-responsive.html url='https://www.youtube.com/embed/PwxjyPF9Ofo' %}
+
+<br />
+
+**Starlight "Killjoy" Coquelicot – Zwischen Lust und Frust**.
+Über die Performance  
+<br />
+Die Figur KILLJOY (dt. „Spaßverderberin“) ist eine Erfindung der feministischen Theoretikerin Sara Ahmed und spricht in sexistischen und rassistischen Situationen Ungleichheit ungeniert an. Starlight Coquelicot ist eine Burlesque Tänzerin. Sie zelebriert ihren weiblichen Körper, Sinnlichkeit, Lust und Schönheit. Starlight „Killjoy“ Coquelicot, Ursula Grabers Alter Ego auf der Bühne, besitzt beide Charakterzüge. In ihr vereint sich intellektueller Feminismus mit der Zelebration von Sinnlichkeit und Körperlichkeit.
+<br />
+Wie kann Starlight „Killjoy“ Coquelicot eine Spaßverderberin sein und gleichzeitig durch Burlesque Spaß haben? Dieses Spannungsfeld steht im Zentrum des Projekts und erlaubt es der Künstlerin, neue Möglichkeiten des Frauseins auszuloten sowie mit choreografischen Methoden zu experimentieren.  
+<br />
+Eine wichtige Inspiration war das Buch "Vulva – Die Enthüllung des unsichtbaren Geschlechts" der deutschen Kulturwissenschafterin und Journalistin Mithu M. Sanyal, das faszinierende kulturelle und religiöse Geschichten sowie Mythologien rund um die Vulva thematisiert. Da gibt es z.B. Iambe, auch Baubo genannt, eine anatolische Göttin, die im Gegensatz zu den olympischen Göttern vermag, Demeter durch das Zeigen ihrer Vulva aus ihrer Depression zu holen und somit die Menschen vor dem Hungertod durch Nahrungsmittelknappheit zu bewahren.
+Und dann kam Corona: Allein daheim mit sich und einem Spiegel wurde Ursulas privater Raum zum Labor und Spielplatz, der nun auf die Bühne übertragen wird. Die Bühne als "Schminktischerl" – wo, inspiriert von Feminismus und Burlesque-Tanz, mit äußerlicher Veränderung und dem Spiel mit Charakterzügen experimentiert wird – und das Publikum als Spiegelersatz. Gleichzeitig bietet sich aber auch die Künstlerin als Spiegel für die Zuseher*innen an: Jede*r ist eingeladen, sich in ihr wiederzuerkennen.  
+<br />
+Im Mittelpunkt steht der Mut (und ebenso die Lust), sich als Tänzerin den Themen Sinnlichkeit und Sexualität zu stellen. In ihrem "Labor" erforscht die Künstlerin, wie sie zu körperlichem Begehren, Verletzlichkeit und Intimität steht, die essenzielle Bestandteile des Lebens sind.
+Die Kernaussage dieser Performance: „Ein Frau darf und kann alles!“ Schön und sinnlich sein (an erster Stelle aber für sich selbst und ohne zum Objekt zu werden), stark sein, hässlich sein, kämpfen – so wird auch die Figur im Laufe des Abends einige Transformationen erleben. Es geht um die Beziehung zum eigenen Körper und Geschlecht und darum, den Regeln nicht zu folgen.
+
+<br />
+
+**Credits**  
+Konzept, Performance, Choreografie: 	**Ursula Graber**  
+Dramaturgie:	**Koko la Douce (Berlin)**  
+Künstlerische Beratung:	**Lise Lendais (FR/Wien)**  
+Kostüm:	**Ana Vivero (Barcelona)**  
+Licht- und Tontechnik:	**Tom Bergner**  
+Publikumsbetreuung:	**Laura Halb, Eva Ploder, Helgrit Hofmeister**  
+Organisation & PR:	**Ursula Graber, Laura Halb**  
+Residency:	**raw matters (Wien)**  
+Fotos: 	**Edi Haberl, Clemens Nestroy**  
+
+<br />
+
+**Gefördert und unterstützt von:**  
+Stadt Graz  
+Land Steiermark  
+Das andere Theater  
+Kristallwerk  
+laut!  
+
 ---
 **COVID-19 Infos**
 
 Bitte Ticket vorab buchen<br />
-Um zu gewährleisten, dass wir alle Vorschriften einhalten und genügend Platz für alle Publikumsgäste und HelferInnen einplanen können, buche bitte dein Ticket vorab [hier](https://shop.ticketteer.com/ursula_graber_contemporary_dancer_choreographer/e/evt_5e620259ad9b9400189b83dd).
+Um zu gewährleisten, dass wir alle Vorschriften einhalten und genügend Platz für alle Publikumsgäste und HelferInnen einplanen können, buche bitte dein Ticket vorab.
 
 Maskenpflicht bei Betreten des Theaters<br />
 Bitte beachte, dass du beim Betreten der Location gemäß den Sicherheitsbestimmungen des Bundesministeriums eine MNS-Maske benötigst.
@@ -132,10 +169,8 @@ Dir wird dein Platz zugeteilt, auf dem keine Maskenpflicht besteht. Wir bitten e
 
 Es gelten die Vorschriften des § 10 der COVID-19-Lockerungsverordnung in der jeweils gültigen Fassung.
 
-![Covid](https://ursulagraber.files.wordpress.com/2020/08/schutzmasnahmen-gegen-das-coronavirus_pdfua.png)
 
 
-Liebe Leute, leider gab es in den letzten Tagen Probleme mit dem Ticket-Programm und nicht alle Leute haben ihr Ticket per E-Mail erhalten. Wenn das passiert ist: Keine Sorge, in unserer Liste seid ihr drin und das Ticket ist bezahlt! Zur Sicherheit einfach kurz ein E-Mail an ursu.graber@gmail.com schreiben mit dem Tag und der Anzahl an Tickets die ihr gebucht habt und am Abend dann einfach zum Kristallwerk kommen. Vielen Dank für das Verständnis und bis bald! Ursula
 
 <!--plop-->
 
