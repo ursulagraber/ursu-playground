@@ -1,7 +1,7 @@
 ---
 date: 2020-10-22
 location: Graz
-title: Zeitgenössischer Tanz, Improvisation - Workshop
+title: Zeitgenössischer Tanz, Improvisation - Workshop Dez20
 
 layout: workshop
 

@@ -11,38 +11,15 @@ featured_image: https://ursulagraber.files.wordpress.com/2020/04/dscf4319.jpg
 brief: Workshop-Wochenende in Graz
 
 galleries:
-  - title: keep moving
-    image: https://ursulagraber.files.wordpress.com/2020/04/dscf4605.jpg
-    data-group: superworkshop
-  - title: Flyer
-    image: https://ursulagraber.files.wordpress.com/2020/07/flyer_tc3a4nzerisches-erleben12.png
-    data-group: superworkshop
-  - title: In Bewegung
-    image: https://ursulagraber.files.wordpress.com/2020/05/titelbild-workshop.png
-    data-group: superworkshop
-  - title: Eine Kreatur 1
-    image: https://ursulagraber.files.wordpress.com/2020/05/p1050527.jpg
-    data-group: superworkshop
-  - title: Eine Kreatur 3
-    image: https://ursulagraber.files.wordpress.com/2020/05/p1050557.jpg
-    data-group: superworkshop
-  - title: Reflexionszeit
-    image: https://ursulagraber.files.wordpress.com/2020/05/p1050576.jpg
-    data-group: superworkshop
-  - title: Isolierte Gelenke 1
-    image: https://ursulagraber.files.wordpress.com/2020/05/p1050474.png
-    data-group: superworkshop
-  - title: Reisendes Pärchen
-    image: https://ursulagraber.files.wordpress.com/2020/05/p1050497.png
-    data-group: superworkshop
-  - title: Isolierte Gelenke 2
-    image: https://ursulagraber.files.wordpress.com/2020/05/p1050517-1.jpg
-    data-group: superworkshop
-  - title: Isolierte Gelenke 2
-    image: https://ursulagraber.files.wordpress.com/2020/05/p1050496.png
+  - title: keep moving (c) Edi Haberl
+    image: https://ursulagraber.files.wordpress.com/2020/10/foto-127.jpg
     data-group: superworkshop
 
+
 ---
+
+![](https://ursulagraber.files.wordpress.com/2020/10/foto-127.jpg?w=500&fit=crop){: .center-image}   
+
 
 **DENN DAS LEBEN IST EINE IMPROVISATION**
 
