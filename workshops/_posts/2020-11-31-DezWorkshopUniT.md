@@ -14,13 +14,20 @@ galleries:
 
 
 ---
-
 **Für alle, die die Vielfalt in ihrem Bewegungsrepertoire erweitern wollen**
 
-Bewegungsgewohnheiten herausfordern und verändern, Spaß, den Kopf frei bekommen, Hemmungen überwinden, sich selber besser kennen lernen   
+
+![](https://ursulagraber.files.wordpress.com/2020/10/foto-96.jpg?w=300&fit=crop){: .center-image}  
+
+
+--> Bewegungsgewohnheiten herausfordern und verändern   
+--> Spaß, den Kopf frei bekommen   
+--> Hemmungen überwinden   
+--> sich selber besser kennen lernen   
 
 **30.11. – 05.12.2020**
 
+Workshop-Inhalt:   
 Zu Beginn werden Gelenke, Muskeln und das Herz-Kreislauf-System aufgewärmt.
 Danach machen wir improvisatorische Übungen zu verschiedenen Gelenken und Körpersegmenten und deren Bewegungsmöglichkeiten, aufrecht auf zwei Beinen, im mittleren Level und am Boden. Dadurch lernen wir einerseits neue Bewegungsabfolgen, andererseits konkrete tools und Prinzipien zum Improvisieren und wie man dabei die Musik als Inspiration nutzt.
 Im verspielten Improvisations-Teil werden die erlernten tools und Prinzipien erforscht und ausprobiert.
@@ -49,14 +56,6 @@ Schreib mir gerne wenn du Fragen zum Workshop hast oder wenn du dir deinen Platz
 
 
 Bei diesem Workshop werden die Covid-Sicherheitsmaßnahmen eingehalten. Die Tanzübungen werden alleine und ohne Körperkontakt zu anderen TeilnehmerInnen ausgeführt.   
-
-Dieser Workshop ist für dich, wenn du...  
-...gerne vital & stark, voller Energie und Freude sein möchtest  
-...gerne neue Perspektiven das Körpergefühl betreffend erfährst  
-...verspielt und mit Action schwitzen magst  
-...den Alltag vergessen möchtest  
-...dein Bewegungsvokabular erweitern möchtest  
-...den Fokus weg vom Bewerten und hin zum Prozess lenken möchtest.  
 
 
 Organisiert von UniT.
