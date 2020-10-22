@@ -27,12 +27,8 @@ shown-categories:
   <div class="flex-container {% cycle 'lean-left', 'lean-right' %}">
     <div class="element-container dark-color">
       <h2>{{ category[0] }}</h2>
-      <p>
-      Die nächste Tanzperformance von und mit Ursula Graber heißt "WOMANIST"
-      und findet vom 12.-14. März 2021 in Graz statt.
-      </p>
       <div class="video-list-overview">
-        <h3>Klick auf das Bild und erfahre mehr darüber!</h3>
+        <p>Klick auf das Bild und erfahre mehr darüber!</p>
         <div class="thumbnails-flex grow" id="thumb-selector">
           {% for item in category[1] %}
           <a href="#" name="{{ category[0] | cgi_escape }}{{ forloop.index0 }}" title="{{ item.title }}" class="js-smartPhoto" data-caption="{{ item.title }}" data-id="{{ item.title }}" data-group="todo">
@@ -71,11 +67,8 @@ shown-categories:
   <div class="flex-container {% cycle 'lean-left', 'lean-right' %}">
     <div class="element-container dark-color">
       <h2>{{ category[0] }}</h2>
-      <p>
-      Hier findest du einen Überblick über die Tanzperformances von Ursula Graber
-      </p>
       <div class="video-list-overview">
-        <h3>Schau’ dir die anderen Projekte an</h3>
+        <p>Schau’ dir die anderen Projekte an</p>
         <div class="thumbnails-flex grow" id="thumb-selector">
           {% for item in category[1] %}
           <a href="#" name="{{ category[0] | cgi_escape }}{{ forloop.index0 }}" title="{{ item.title }}" class="js-smartPhoto" data-caption="{{ item.title }}" data-id="{{ item.title }}" data-group="todo">
