@@ -100,12 +100,16 @@ Von und mit Ursula Graber<br />
 **Presse**
 
 <p>
+Ursula Graber wurde im September '20 zur Barbara Karlich Show zum Thema "Wir Frauen wissen, was wir wollen" eingeladen. Die Ausstrahlung der Sendung folgt zwischen November '20 und Jänner '21 und wird hier, sobald das genaue Datum bekannt ist, angekündigt werden.
+</p>
+
+<p>
 --> Zur Kritik der Tanzperformance STARLIGHT "KILLJOY" COQUELICOT
 geht es <a href="https://www.tanz.at/index.php/kritiken/kritiken-2020/2381-ursula-graber-starlight-killjoy-coquelicot">hier</a>!<br>
 </p>
 
 <p>
---> Es folgt der Artikel "Steirerin des Tages" in der Kleinen Zeitung (26.08.2020).
+--> Ursula Graber ist "Steirerin des Tages" in der Kleinen Zeitung (26.08.2020).
 Zum Vergrößern bitte anklicken.
 </p>
 
