@@ -87,9 +87,15 @@ galleries:
 Die zeitgenössische Tänzerin Ursula Graber lässt ihrer Kreativität freien Lauf in einem Soloabend. Dafür stellt sie sich Fragen über Feminismus, Genuss-Emanzipation und Rollenbilder.
 Inspiriert von kritischen feministischen Theorien und Burlesque-Tanz schafft sie eine humorvolle und persönliche Performance, die zum Staunen und Nachdenken einlädt.  
 
+<br />
+
 *“Sind alle Feminist\*innen Spaßverderber\*innen?”<br />*
 
+<br />
+
 Von und mit Ursula Graber<br />
+
+<br />
 
 <del>2.-4. April 2020, Kristallwerk</del> – VERSCHOBEN auf<br />
 4.-6. September 2020, Kristallwerk, Graz<br />
