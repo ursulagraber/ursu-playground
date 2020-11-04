@@ -14,4 +14,12 @@ galleries:
 
 
 ---
-Im Moment werden noch die letzten Details bezüglich der aktuellen Covid-19-Maßnahmen abgeklärt. Genauere Infos kommen so bald wie möglich.
+Leider kann dieser Workshop aufgrund der aktuellen Situation nicht stattfinden.   
+
+Falls du gerne zu Hause tanzen möchtest klicke <a href="http://www.ursulagraber.com/workshops/2020/01/21/online-tanztraining/">hier!</a>   
+
+
+Bleib gesund und in Bewegung! - Deine Ursula
+
+
+![](https://ursulagraber.files.wordpress.com/2020/11/dscf4001.jpg?w=300&fit=crop){: .center-image}
