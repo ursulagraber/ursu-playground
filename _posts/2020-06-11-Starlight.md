@@ -73,34 +73,33 @@ galleries:
     image: https://ursulagraber.files.wordpress.com/2020/08/artikel.png
     data-group: superworkshop
 
-#featured_video:
-#    title: Tonite
-#    url: https://player.vimeo.com/video/366332635
-#    id: 366332635
+featured_video:
+    title: Tonite
+    url: https://player.vimeo.com/video/483132123
+    id: 483132123
 ---
 
 
 *Zwischen Lust und Frust*{: .center-image}
 
-![](https://ursulagraber.files.wordpress.com/2020/09/mg_5269.jpg?w=500&fit=crop){: .center-image}
-
 Die zeitgenössische Tänzerin Ursula Graber lässt ihrer Kreativität freien Lauf in einem Soloabend. Dafür stellt sie sich Fragen über Feminismus, Genuss-Emanzipation und Rollenbilder.
 Inspiriert von kritischen feministischen Theorien und Burlesque-Tanz schafft sie eine humorvolle und persönliche Performance, die zum Staunen und Nachdenken einlädt.  
-
 <br />
 
 *“Sind alle Feminist\*innen Spaßverderber\*innen?”<br />*
 
-<br />
+
 
 Von und mit Ursula Graber<br />
 
-<br />
+
 
 <del>2.-4. April 2020, Kristallwerk</del> – VERSCHOBEN auf<br />
 4.-6. September 2020, Kristallwerk, Graz<br />
 
 <br />
+
+<!--plop-->
 
 
 **Presse**
@@ -113,7 +112,7 @@ Ursula Graber wurde im September '20 zur Barbara Karlich Show zum Thema "Wir Fra
 --> Zur Kritik der Tanzperformance STARLIGHT "KILLJOY" COQUELICOT
 geht es <a href="https://www.tanz.at/index.php/kritiken/kritiken-2020/2381-ursula-graber-starlight-killjoy-coquelicot">hier</a>!<br>
 </p>
-
+<!--plop-->
 <p>
 --> Ursula Graber ist "Steirerin des Tages" in der Kleinen Zeitung (26.08.2020).
 Zum Vergrößern bitte anklicken.
