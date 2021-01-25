@@ -18,58 +18,58 @@ cast:
   date:
   other:
 galleries:
-  - title: Starlight "Killjoy" Coquelicot (c) Clemens Nestroy
+  - title: Starlight Killjoy Coquelicot (c) Clemens Nestroy
     image: https://ursulagraber.files.wordpress.com/2020/09/mg_5046.jpg
     data-group: superworkshop
-  - title: Starlight "Killjoy" Coquelicot (c) Clemens Nestroy
+  - title: Starlight Killjoy Coquelicot (c) Clemens Nestroy
     image: https://ursulagraber.files.wordpress.com/2020/09/mg_5091.jpg
     data-group: superworkshop
-  - title: Starlight "Killjoy" Coquelicot (c) Clemens Nestroy
+  - title: Starlight Killjoy Coquelicot (c) Clemens Nestroy
     image: https://ursulagraber.files.wordpress.com/2020/09/mg_5220.jpg
     data-group: superworkshop
-  - title: Starlight "Killjoy" Coquelicot (c) Clemens Nestroy
+  - title: Starlight Killjoy Coquelicot (c) Clemens Nestroy
     image: https://ursulagraber.files.wordpress.com/2020/09/mg_5225.jpg
     data-group: superworkshop
-  - title: Starlight "Killjoy" Coquelicot (c) Clemens Nestroy
+  - title: Starlight Killjoy Coquelicot (c) Clemens Nestroy
     image: https://ursulagraber.files.wordpress.com/2020/09/mg_5269.jpg
     data-group: superworkshop
-  - title: Starlight "Killjoy" Coquelicot (c) Clemens Nestroy
+  - title: Starlight Killjoy Coquelicot (c) Clemens Nestroy
     image: https://ursulagraber.files.wordpress.com/2020/09/mg_5285.jpg
     data-group: superworkshop
-  - title: Starlight "Killjoy" Coquelicot (c) Clemens Nestroy
+  - title: Starlight Killjoy Coquelicot (c) Clemens Nestroy
     image: https://ursulagraber.files.wordpress.com/2020/09/mg_5311.jpg
     data-group: superworkshop
-  - title: Starlight "Killjoy" Coquelicot (c) Clemens Nestroy
+  - title: Starlight Killjoy Coquelicot (c) Clemens Nestroy
     image: https://ursulagraber.files.wordpress.com/2020/09/mg_5395.jpg
     data-group: superworkshop
-  - title: Starlight "Killjoy" Coquelicot (c) Clemens Nestroy
+  - title: Starlight Killjoy Coquelicot (c) Clemens Nestroy
     image: https://ursulagraber.files.wordpress.com/2020/09/mg_5454.jpg
     data-group: superworkshop
-  - title: Starlight "Killjoy" Coquelicot (c) Clemens Nestroy
+  - title: Starlight Killjoy Coquelicot (c) Clemens Nestroy
     image: https://ursulagraber.files.wordpress.com/2020/09/mg_5558.jpg
     data-group: superworkshop
-  - title: Starlight "Killjoy" Coquelicot (c) Edi Haberl
+  - title: Starlight Killjoy Coquelicot (c) Edi Haberl
     image: https://ursulagraber.files.wordpress.com/2020/08/presse-5_kl-1.jpg
     data-group: superworkshop
-  - title: Starlight "Killjoy" Coquelicot (c) Edi Haberl
+  - title: Starlight Killjoy Coquelicot (c) Edi Haberl
     image: https://ursulagraber.files.wordpress.com/2020/08/presse-10_kl.jpg
     data-group: superworkshop
-  - title: Starlight "Killjoy" Coquelicot (c) Edi Haberl
+  - title: Starlight Killjoy Coquelicot (c) Edi Haberl
     image: https://ursulagraber.files.wordpress.com/2020/08/presse-12_kl.jpg
     data-group: superworkshop
-  - title: Starlight "Killjoy" Coquelicot (c) Edi Haberl
+  - title: Starlight Killjoy Coquelicot (c) Edi Haberl
     image: https://ursulagraber.files.wordpress.com/2020/08/presse-16_kl.jpg
     data-group: superworkshop
-  - title: Starlight "Killjoy" Coquelicot (c) Edi Haberl
+  - title: Starlight Killjoy Coquelicot (c) Edi Haberl
     image: https://ursulagraber.files.wordpress.com/2020/08/presse-17_kl.jpg
     data-group: superworkshop
-  - title: Starlight "Killjoy" Coquelicot (c) Edi Haberl
+  - title: Starlight Killjoy Coquelicot (c) Edi Haberl
     image: https://ursulagraber.files.wordpress.com/2020/08/presse-18_kl.jpg
     data-group: superworkshop
-  - title: Starlight "Killjoy" Coquelicot (c) Edi Haberl
+  - title: Starlight Killjoy Coquelicot (c) Edi Haberl
     image: https://ursulagraber.files.wordpress.com/2020/08/starlight-flyer.png
     data-group: superworkshop
-  - title: Starlight "Killjoy" Coquelicot Presse
+  - title: Starlight Killjoy Coquelicot Presse
     image: https://ursulagraber.files.wordpress.com/2020/08/artikel.png
     data-group: superworkshop
 
@@ -82,7 +82,7 @@ featured_video:
 
 *Zwischen Lust und Frust*{: .center-image}
 
-Die zeitgenössische Tänzerin Ursula Graber lässt ihrer Kreativität freien Lauf in einem Soloabend. Dafür stellt sie sich Fragen über Feminismus, Genuss-Emanzipation und Rollenbilder.
+Ursula Graber stellt sich Fragen über Feminismus, Genuss-Emanzipation und Rollenbilder.
 Inspiriert von kritischen feministischen Theorien und Burlesque-Tanz schafft sie eine humorvolle und persönliche Performance, die zum Staunen und Nachdenken einlädt.  
 <br />
 
@@ -90,28 +90,26 @@ Inspiriert von kritischen feministischen Theorien und Burlesque-Tanz schafft sie
 
 
 
-Von und mit Ursula Graber<br />
 
-
-
-<del>2.-4. April 2020, Kristallwerk</del> – VERSCHOBEN auf<br />
-4.-6. September 2020, Kristallwerk, Graz<br />
+<del>2.-4. April 2020</del>    4.-6. September 2020, Kristallwerk, Graz<br />
 
 <br />
 
 <!--plop-->
 
 
-**Presse**
+**Pressestimmen**
 
 <p>
-Ursula Graber wurde im September '20 zur Barbara Karlich Show zum Thema "Wir Frauen wissen, was wir wollen" eingeladen. Die Ausstrahlung der Sendung folgt zwischen November '20 und Jänner '21 und wird hier, sobald das genaue Datum bekannt ist, angekündigt werden.
+"...was Graber mit bemerkenswert kraftvoller, selbstbewusst lasziver wie (zumeist verdeckt) feinfühlig-emotionaler Weiblichkeit auf die Bühne zaubert und/oder knallt. Es amüsiert, es geht unter die Haut und es tut auch weh. Auf jeden Fall bewirkt es etwas, dieses, ihr „selbstverständliches“ und damit glaubhaftes Tun.
+Die Vielfalt im Angesprochenen oder gar Assoziierbaren ist bei der Reduktion der eingesetzten Mittel eine beachtliche Leistung; überzeugend in seiner Geradlinigkeit, die auf kreativ künstlerischem Können beruht." <i><a href="https://www.tanz.at/index.php/kritiken/kritiken-2020/2381-ursula-graber-starlight-killjoy-coquelicot">Eveline Koberg, Tanzkritikerin</a></i>
 </p>
 
-<p>
---> Zur Kritik der Tanzperformance STARLIGHT "KILLJOY" COQUELICOT
-geht es <a href="https://www.tanz.at/index.php/kritiken/kritiken-2020/2381-ursula-graber-starlight-killjoy-coquelicot">hier</a>!<br>
-</p>
+<br />
+
+"Polarisierungen: Ein Innen und Außen. Bewegung und Stille. Aktivität und Passivität. Macht und Bemächtigung. Disziplin und Entgleisung. <br /> Es ist sehr viel Spiel und Schmerz darin vereint. Eine Person, die alles sein muss und alles zu bewältigen hat. Aber damit auch kokettiert und es genießt. Gefesselt ist und anonym  sein muss. <br /> Schwindlig sein und Schwindel. Eine fulminante Hausfrauenkönigin. Zugeknöpft und überdreht. <br /> Ganz großartig ist Ursula Grabers Körperbeherrschung. Unglaubliche Körperbeherrschung. Sehr stark und sehr mutig." <i>[Karin Scaria-Braunstein, Soziologin]({{site.url}}/docs/Reflexion Karin Scaria-Braunstein.pdf)</i>
+
+
 <!--plop-->
 <p>
 --> Ursula Graber ist "Steirerin des Tages" in der Kleinen Zeitung (26.08.2020).
@@ -121,12 +119,6 @@ Zum Vergrößern bitte anklicken.
 
 [![Presse](https://ursulagraber.files.wordpress.com/2020/08/artikel.png?w=300){: .center-image}](https://ursulagraber.files.wordpress.com/2020/08/artikel.png?w=1000)
 
-<br />
-
-<br />
-Hier geht's zum Trailer von Starlight "Killjoy" Coquelicot:
-{: .center-image}
-{% include video-embed-responsive.html url='https://www.youtube.com/embed/PwxjyPF9Ofo' %}
 
 <br />
 
@@ -166,19 +158,6 @@ Kristallwerk
 laut!  
 
 ---
-**COVID-19 Infos**
-
-Bitte Ticket vorab buchen<br />
-Um zu gewährleisten, dass wir alle Vorschriften einhalten und genügend Platz für alle Publikumsgäste und HelferInnen einplanen können, buche bitte dein Ticket vorab.
-
-Maskenpflicht bei Betreten des Theaters<br />
-Bitte beachte, dass du beim Betreten der Location gemäß den Sicherheitsbestimmungen des Bundesministeriums eine MNS-Maske benötigst.
-Dir wird dein Platz zugeteilt, auf dem keine Maskenpflicht besteht. Wir bitten euch vor, während und nach der Veranstaltung generelle Hygienevorschriften einzuhalten und auf den Sicherheitsabstand zu achten. Für ausreichend Platz und Schutzmaßnahmen ist gesorgt.<br />
-
-
-Es gelten die Vorschriften des § 10 der COVID-19-Lockerungsverordnung in der jeweils gültigen Fassung.
-
-
 
 
 <!--plop-->
