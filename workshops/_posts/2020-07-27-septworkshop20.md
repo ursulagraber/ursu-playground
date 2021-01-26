@@ -15,7 +15,7 @@ galleries:
     image: https://ursulagraber.files.wordpress.com/2020/10/foto-127.jpg
     data-group: superworkshop
 
-
+unlisted: True
 ---
 
 ![](https://ursulagraber.files.wordpress.com/2020/10/foto-127.jpg?w=500&fit=crop){: .center-image}   

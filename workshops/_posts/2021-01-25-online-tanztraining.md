@@ -1,13 +1,13 @@
 ---
-date: 2020-01-21
+date: 2021-01-25
 location: Graz
-title: TanzFlow - Das Online-Training, das Bewegung in dein Leben bringt
+title: TanzFlow Online-Training
 
 layout: highlight
 
 categories:
   - Workshops
-featured_image: https://ursulagraber.files.wordpress.com/2020/04/ursu-lachend.jpg?w=1000&h=800&fit=crop
+featured_image: https://ursulagraber.files.wordpress.com/2020/04/ursu_haende.jpg
 brief: the first new
 
 galleries:
