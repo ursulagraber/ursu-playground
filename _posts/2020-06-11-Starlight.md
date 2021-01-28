@@ -1,6 +1,6 @@
 ---
 date: 2020-06-11
-title: Starlight ‘Killjoy’ Coquelicot
+title: Starlight Killjoy
 
 layout: post
 
@@ -18,58 +18,58 @@ cast:
   date:
   other:
 galleries:
-  - title: Starlight Killjoy Coquelicot (c) Clemens Nestroy
+  - title: Starlight Killjoy (c) Clemens Nestroy
     image: https://ursulagraber.files.wordpress.com/2020/09/mg_5046.jpg
     data-group: superworkshop
-  - title: Starlight Killjoy Coquelicot (c) Clemens Nestroy
+  - title: Starlight Killjoy (c) Clemens Nestroy
     image: https://ursulagraber.files.wordpress.com/2020/09/mg_5091.jpg
     data-group: superworkshop
-  - title: Starlight Killjoy Coquelicot (c) Clemens Nestroy
+  - title: Starlight Killjoy (c) Clemens Nestroy
     image: https://ursulagraber.files.wordpress.com/2020/09/mg_5220.jpg
     data-group: superworkshop
-  - title: Starlight Killjoy Coquelicot (c) Clemens Nestroy
+  - title: Starlight Killjoy (c) Clemens Nestroy
     image: https://ursulagraber.files.wordpress.com/2020/09/mg_5225.jpg
     data-group: superworkshop
-  - title: Starlight Killjoy Coquelicot (c) Clemens Nestroy
+  - title: Starlight Killjoy (c) Clemens Nestroy
     image: https://ursulagraber.files.wordpress.com/2020/09/mg_5269.jpg
     data-group: superworkshop
-  - title: Starlight Killjoy Coquelicot (c) Clemens Nestroy
+  - title: Starlight Killjoy (c) Clemens Nestroy
     image: https://ursulagraber.files.wordpress.com/2020/09/mg_5285.jpg
     data-group: superworkshop
-  - title: Starlight Killjoy Coquelicot (c) Clemens Nestroy
+  - title: Starlight Killjoy (c) Clemens Nestroy
     image: https://ursulagraber.files.wordpress.com/2020/09/mg_5311.jpg
     data-group: superworkshop
-  - title: Starlight Killjoy Coquelicot (c) Clemens Nestroy
+  - title: Starlight Killjoy (c) Clemens Nestroy
     image: https://ursulagraber.files.wordpress.com/2020/09/mg_5395.jpg
     data-group: superworkshop
-  - title: Starlight Killjoy Coquelicot (c) Clemens Nestroy
+  - title: Starlight Killjoy (c) Clemens Nestroy
     image: https://ursulagraber.files.wordpress.com/2020/09/mg_5454.jpg
     data-group: superworkshop
-  - title: Starlight Killjoy Coquelicot (c) Clemens Nestroy
+  - title: Starlight Killjoy (c) Clemens Nestroy
     image: https://ursulagraber.files.wordpress.com/2020/09/mg_5558.jpg
     data-group: superworkshop
-  - title: Starlight Killjoy Coquelicot (c) Edi Haberl
+  - title: Starlight Killjoy (c) Edi Haberl
     image: https://ursulagraber.files.wordpress.com/2020/08/presse-5_kl-1.jpg
     data-group: superworkshop
-  - title: Starlight Killjoy Coquelicot (c) Edi Haberl
+  - title: Starlight Killjoy (c) Edi Haberl
     image: https://ursulagraber.files.wordpress.com/2020/08/presse-10_kl.jpg
     data-group: superworkshop
-  - title: Starlight Killjoy Coquelicot (c) Edi Haberl
+  - title: Starlight Killjoy (c) Edi Haberl
     image: https://ursulagraber.files.wordpress.com/2020/08/presse-12_kl.jpg
     data-group: superworkshop
-  - title: Starlight Killjoy Coquelicot (c) Edi Haberl
+  - title: Starlight Killjoy (c) Edi Haberl
     image: https://ursulagraber.files.wordpress.com/2020/08/presse-16_kl.jpg
     data-group: superworkshop
-  - title: Starlight Killjoy Coquelicot (c) Edi Haberl
+  - title: Starlight Killjoy (c) Edi Haberl
     image: https://ursulagraber.files.wordpress.com/2020/08/presse-17_kl.jpg
     data-group: superworkshop
-  - title: Starlight Killjoy Coquelicot (c) Edi Haberl
+  - title: Starlight Killjoy (c) Edi Haberl
     image: https://ursulagraber.files.wordpress.com/2020/08/presse-18_kl.jpg
     data-group: superworkshop
-  - title: Starlight Killjoy Coquelicot (c) Edi Haberl
+  - title: Starlight Killjoy (c) Edi Haberl
     image: https://ursulagraber.files.wordpress.com/2020/08/starlight-flyer.png
     data-group: superworkshop
-  - title: Starlight Killjoy Coquelicot Presse
+  - title: Starlight Killjoy Presse
     image: https://ursulagraber.files.wordpress.com/2020/08/artikel.png
     data-group: superworkshop
 
@@ -80,18 +80,23 @@ featured_video:
 ---
 
 
+
 *Zwischen Lust und Frust*{: .center-image}
 
 Ursula Graber stellt sich Fragen über Feminismus, Genuss-Emanzipation und Rollenbilder.
 Inspiriert von kritischen feministischen Theorien und Burlesque-Tanz schafft sie eine humorvolle und persönliche Performance, die zum Staunen und Nachdenken einlädt.  
 <br />
 
+![Gaile](https://ursulagraber.files.wordpress.com/2020/09/mg_5269.jpg?w=500&fit=crop){: .center-image}   
+
+
 *“Sind alle Feminist\*innen Spaßverderber\*innen?”<br />*
 
 
 
 
-<del>2.-4. April 2020</del>    4.-6. September 2020, Kristallwerk, Graz<br />
+<del>2.-4. April 2020</del>    
+4.-6. September 2020, Kristallwerk Graz<br />
 
 <br />
 
@@ -101,19 +106,20 @@ Inspiriert von kritischen feministischen Theorien und Burlesque-Tanz schafft sie
 **Pressestimmen**
 
 <p>
-"...was Graber mit bemerkenswert kraftvoller, selbstbewusst lasziver wie (zumeist verdeckt) feinfühlig-emotionaler Weiblichkeit auf die Bühne zaubert und/oder knallt. Es amüsiert, es geht unter die Haut und es tut auch weh. Auf jeden Fall bewirkt es etwas, dieses, ihr „selbstverständliches“ und damit glaubhaftes Tun.
-Die Vielfalt im Angesprochenen oder gar Assoziierbaren ist bei der Reduktion der eingesetzten Mittel eine beachtliche Leistung; überzeugend in seiner Geradlinigkeit, die auf kreativ künstlerischem Können beruht." <i><a href="https://www.tanz.at/index.php/kritiken/kritiken-2020/2381-ursula-graber-starlight-killjoy-coquelicot">Eveline Koberg, Tanzkritikerin</a></i>
+"Beeindruckend, was Graber mit bemerkenswert kraftvoller, selbstbewusst lasziver wie (zumeist verdeckt) feinfühlig-emotionaler Weiblichkeit auf die Bühne zaubert und/oder knallt. Es amüsiert, es geht unter die Haut und es tut auch weh. Auf jeden Fall bewirkt es etwas, dieses, ihr „selbstverständliches“ und damit glaubhaftes Tun.
+Die Vielfalt im Angesprochenen oder gar Assoziierbaren ist bei der Reduktion der eingesetzten Mittel eine beachtliche Leistung; überzeugend in seiner Geradlinigkeit, die auf kreativ künstlerischem Können beruht." <i><a href="https://www.tanz.at/index.php/kritiken/kritiken-2020/2381-ursula-graber-starlight-killjoy-coquelicot">Eveline Koberg, Tanzkritikerin</a></i>    <br>
+<i><a href="https://www.tanz.at/index.php/kritiken/kritiken-2020/2381-ursula-graber-starlight-killjoy-coquelicot">-->Vollständige Kritik hier</a></i>   
 </p>
 
 <br />
 
-"Polarisierungen: Ein Innen und Außen. Bewegung und Stille. Aktivität und Passivität. Macht und Bemächtigung. Disziplin und Entgleisung. <br /> Es ist sehr viel Spiel und Schmerz darin vereint. Eine Person, die alles sein muss und alles zu bewältigen hat. Aber damit auch kokettiert und es genießt. Gefesselt ist und anonym  sein muss. <br /> Schwindlig sein und Schwindel. Eine fulminante Hausfrauenkönigin. Zugeknöpft und überdreht. <br /> Ganz großartig ist Ursula Grabers Körperbeherrschung. Unglaubliche Körperbeherrschung. Sehr stark und sehr mutig." <i>[Karin Scaria-Braunstein, Soziologin]({{site.url}}/docs/Reflexion Karin Scaria-Braunstein.pdf)</i>
+"Polarisierungen: Ein Innen und Außen. Bewegung und Stille. Aktivität und Passivität. Macht und Bemächtigung. Disziplin und Entgleisung. <br /> Es ist sehr viel Spiel und Schmerz darin vereint. Eine Person, die alles sein muss und alles zu bewältigen hat. Aber damit auch kokettiert und es genießt. Gefesselt ist und anonym  sein muss. <br /> Schwindlig sein und Schwindel. Eine fulminante Hausfrauenkönigin. Zugeknöpft und überdreht. <br /> Ganz großartig ist Ursula Grabers Körperbeherrschung. Unglaubliche Körperbeherrschung. Sehr stark und sehr mutig." <i>[Karin Scaria-Braunstein, Soziologin]({{site.url}}/docs/Reflexion Karin Scaria-Braunstein.pdf)</i> <br>
+<i>[-->Vollständige Reflexion hier]({{site.url}}/docs/Reflexion Karin Scaria-Braunstein.pdf)</i>
 
 
 <!--plop-->
 <p>
---> Ursula Graber ist "Steirerin des Tages" in der Kleinen Zeitung (26.08.2020).
-Zum Vergrößern bitte anklicken.
+-->Klick den Artikel an um ihn zu vergrößern!
 </p>
 
 
@@ -122,10 +128,11 @@ Zum Vergrößern bitte anklicken.
 
 <br />
 
-**Starlight "Killjoy" Coquelicot – Zwischen Lust und Frust**.
-Über die Performance  
+**Starlight Killjoy – Zwischen LUST und FRUST**   
+
+Über die Performance:   
 <br />
-Die Figur KILLJOY (dt. „Spaßverderberin“) ist eine Erfindung der feministischen Theoretikerin Sara Ahmed und spricht in sexistischen und rassistischen Situationen Ungleichheit ungeniert an. Starlight Coquelicot ist eine Burlesque Tänzerin. Sie zelebriert ihren weiblichen Körper, Sinnlichkeit, Lust und Schönheit. Starlight „Killjoy“ Coquelicot, Ursula Grabers Alter Ego auf der Bühne, besitzt beide Charakterzüge. In ihr vereint sich intellektueller Feminismus mit der Zelebration von Sinnlichkeit und Körperlichkeit.
+Die Figur KILLJOY (dt. „Spaßverderberin“) ist eine Erfindung der feministischen Theoretikerin Sara Ahmed und spricht in sexistischen und rassistischen Situationen Ungleichheit ungeniert an. Starlight Coquelicot ist eine Burlesque Tänzerin. Sie zelebriert ihren weiblichen Körper, Sinnlichkeit, Lust und Schönheit. Starlight "Killjoy" Coquelicot, Ursula Grabers Alter Ego auf der Bühne, besitzt beide Charakterzüge. In ihr vereint sich intellektueller Feminismus mit der Zelebration von Sinnlichkeit und Körperlichkeit.
 <br />
 Wie kann Starlight „Killjoy“ Coquelicot eine Spaßverderberin sein und gleichzeitig durch Burlesque Spaß haben? Dieses Spannungsfeld steht im Zentrum des Projekts und erlaubt es der Künstlerin, neue Möglichkeiten des Frauseins auszuloten sowie mit choreografischen Methoden zu experimentieren.  
 <br />
@@ -146,7 +153,8 @@ Licht- und Tontechnik:	**Tom Bergner**
 Publikumsbetreuung:	**Laura Halb, Eva Ploder, Helgrit Hofmeister**  
 Organisation & PR:	**Ursula Graber, Laura Halb**  
 Residency:	**raw matters (Wien)**  
-Fotos: 	**Edi Haberl, Clemens Nestroy**  
+Fotos: 	**Edi Haberl, Clemens Nestroy**     
+Trailer & Film: **Fabian Czernovsky**
 
 <br />
 
