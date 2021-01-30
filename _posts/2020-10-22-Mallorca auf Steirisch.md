@@ -1,0 +1,112 @@
+---
+date: 2020-10-22
+title: WOMANIST
+
+layout: post
+
+categories:
+  - News
+featured_image: https://ursulagraber.files.wordpress.com/2020/10/foto-113.jpg
+brief: 12.-14. März 2021, Kristallwerk Graz // 19.-20. März 2021, online, inklusive live Artist Talk
+author: Ursula Graber
+cast:
+  concept: Ursula Graber
+  participants:
+  music:
+  location:
+  vimeo:
+  date:
+  other:
+galleries:
+  - title: (c) Edi Haberl
+    image: https://ursulagraber.files.wordpress.com/2020/10/foto-113.jpg
+    data-group: superworkshop
+
+unlisted: True 
+
+#featured_video:
+#    title: Tonite
+#    url: https://player.vimeo.com/video/366332635
+#    id: 366332635
+---
+
+
+*Wenn Frauen Macht haben*{: .center-image}
+
+![](https://ursulagraber.files.wordpress.com/2020/10/foto-113.jpg?w=500&fit=crop){: .center-image}
+
+Die Performance WOMANIST erforscht in vier Szenen unterschiedliche weibliche Erlebenswelten. In allen Szenen werden eigenwillige Frauen thematisiert, die verschiedene Arten von Macht besitzen, anders sind oder herausstechen. Ich möchte diese Frauenrollen aus zwei Gründen erforschen. Erstens inspiriert mich Simone de Beauvoirs Gedanke, dass der Mensch sich selbst zu etwas macht, egal welches Geschlecht, welche Herkunft und Hautfarbe er hat. Ich möchte auf diese Freiheit und Möglichkeit hinweisen und dazu inspirieren sie wahrzunehmen. Zweitens möchte ich – angeregt von Sara Ahmeds Buch „Feministisch leben!“ (2017) – den Versuch starten, in einer männlich dominierten Gesellschaft, die auf einem patriarchalen Fundament steht, ein feministisches Fundament zu schaffen, das aus starken Frauen besteht. Meine Vision ist es, mit einer Performance ein tragfähiges Fundament zu schaffen, auf dem man  ein stabiles Stück gleichberechtigte Welt bauen kann. All das versuche ich in der Performance WOMANIST mit dem Kreieren einer magischen Welt, die zeitgenössischen und experimentellen Tanz als Mittel nutzt.   
+
+
+<br />
+
+
+**12. - 14. März 2021, Kristallwerk Graz**    
+--> Die Vorstellungen finden im Kristallwerk nur statt, wenn die Theater zu diesem Zeitpunkt wieder offen sind.
+<br>
+
+**19. - 20. März 2021 ONLINE live-streaming mit anschließendem live Artist-talk**    
+(19.3. Artist-talk auf Deutsch, 20.3. Artist-talk auf Katalanisch)   
+--> Diese Online-Termine finden unabhängig von der Situation der Theater ab. <br />
+
+
+<br />
+
+
+*“...ein stabiles Stück gleichberechtigte Welt bauen...”<br />*
+
+
+<br />
+
+
+
+Von und mit Ursula Graber<br />
+
+
+
+<br />
+
+
+**Presse**
+
+
+<p>
+--> Klick auf den Artikel um ihn zu vergrößern!
+</p>
+
+
+[![Presse](https://ursulagraber.files.wordpress.com/2020/08/artikel.png?w=300){: .center-image}](https://ursulagraber.files.wordpress.com/2020/08/artikel.png?w=1000)
+
+<br />
+
+
+
+**Credits**  
+Konzept, Performance, Choreografie: 	**Ursula Graber**  
+Dramaturgie:	**Hanna Rohn, Bàrbara Raubert**   
+Kostüm:	**Ana Vivero**  
+3D-Kamera: **Pol Monsó Purtí**   
+Licht- und Tontechnik:	**Tom Bergner**   
+Organisation & PR:	**Ursula Graber, Laura Halb**  
+Trailer & Film: **Fabian Czernovsky**
+
+
+<br />
+
+**Gefördert und unterstützt von:**  
+Stadt Graz  
+Bundeskanzleramt   
+Bildrecht      
+Das andere Theater  
+Kristallwerk  
+laut!  
+
+
+
+
+<!--plop-->
+
+Ein Abend voller Magie und Inspiration!<br />
+
+
+<!--[![Totem](https://i.vimeocdn.com/video/746500438_640.jpg)](https://player.vimeo.com/video/306702195)-->
