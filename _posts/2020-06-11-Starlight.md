@@ -165,6 +165,8 @@ Das andere Theater
 Kristallwerk  
 laut!  
 
+![]({{site.url}}/images/logodat.png){:width="20%"}
+
 ---
 
 
