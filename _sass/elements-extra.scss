@@ -28,7 +28,7 @@
 
 .pblock
 {
-	margin-top: 2em;
+	margin-top: 4em;
 	padding: 1em;
 	padding-left: 4em;
 	padding-right: 4em;
@@ -482,7 +482,7 @@ figure#right {
 // }
 
 .cards {
-	margin-top: 50px;
+	margin-top: 25px;
   display: flex;
   flex-wrap: wrap;
   align-items: center;
@@ -499,8 +499,8 @@ figure#right {
 
 	img {
 		object-fit: cover;
-		height: 100px;
-		width: 100px;
+		height: 150px;
+		width: 150px;
 	}
 }
 
