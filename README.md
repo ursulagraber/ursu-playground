@@ -4,6 +4,16 @@
 
 * [modal video](https://github.com/appleple/modal-video)
 
+## Develop quickstart
+
+~~~bash
+$ sudo apt install build-essential
+$ sudo apt install rubygems
+$ gem install bundler
+$ bundle install
+$ bundle exec jekyll serve
+~~~
+
 # Old Readme to be deleted
 
 Food/baking blog template for Jekyll. Browse through a [live demo](https://spring-bat.cloudvent.net/).
