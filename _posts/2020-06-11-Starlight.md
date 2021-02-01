@@ -161,7 +161,7 @@ Trailer & Film: **Fabian Czernovsky**
 **Gefördert und unterstützt von:**
 
 :------:|:------:|:------:|:------:
-![]({{site.url}}/images/logograz.png){:width="100px"} | ![]({{site.url}}/images/logolandstmk.png){:width="100px"} | ![]({{site.url}}/images/logodat.png){:width="100px"} | ![]({{site.url}}/images/logokristallwerk.png){:width="50px"} | ![]({{site.url}}/images/logolaut.png){:width="100px"}
+![]({{site.url}}/images/logograz.png){:width="200px"} | ![]({{site.url}}/images/logolandstmk.png){:width="170px"} | ![]({{site.url}}/images/logodat.png){:width="170px"} | ![]({{site.url}}/images/logokristallwerk.png){:width="70px"} | ![]({{site.url}}/images/logolaut.png){:width="170px"}
 
 
 <!--plop-->
