@@ -1,10 +1,10 @@
 - name: Home
   link: /
-- name: Info
+- name: Über mich
   link: /about/
 - name: Performance
   link: /projects/
-- name: Unterricht
+- name: Workshops
   link: /workshops/
 - name: Galerie
   link: /gallery/
