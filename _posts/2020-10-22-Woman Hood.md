@@ -1,6 +1,6 @@
 ---
 date: 2020-10-22
-title: WomanHood
+title: Woman Hood
 
 layout: post
 
@@ -34,8 +34,8 @@ galleries:
 
 ![](https://ursulagraber.files.wordpress.com/2020/10/foto-113.jpg?w=500&fit=crop){: .center-image}
 
-Die humorvolle Tanzperformance <i>WomanHood</i> erforscht in vier Teilen unterschiedliche weibliche (Er)Lebenswelten. Sie zeigt außergewöhnliche und eigenwillige Frauenpersönlichkeiten, die unterschiedliche Arten von Macht besitzen, “anders” sind oder einfach aus der Reihe tanzen.   
-Simone de Beauvoir war der Meinung, dass der Mensch sich selbst zu etwas mache, egal welches Geschlecht, welche Herkunft und Hautfarbe er habe. Diese Gestaltungsfreiheit wird in <i>WomanHood</i> voll ausgelebt.<br>
+Die humorvolle Tanzperformance <i>Woman Hood</i> erforscht in vier Teilen unterschiedliche weibliche (Er)Lebenswelten. Sie zeigt außergewöhnliche und eigenwillige Frauenpersönlichkeiten, die unterschiedliche Arten von Macht besitzen, “anders” sind oder einfach aus der Reihe tanzen.   
+Simone de Beauvoir war der Meinung, dass der Mensch sich selbst zu etwas mache, egal welches Geschlecht, welche Herkunft und Hautfarbe er habe. Diese Gestaltungsfreiheit wird in <i>Woman Hood</i> voll ausgelebt.<br>
 
 Was bedeutet es heute, eine Frau zu sein? <br>
  Wie hat eine Frau zu sein? Wie <i>will sie sein?</i><br>
@@ -43,7 +43,7 @@ Ist Verletzlichkeit die neue Stärke?<br>
 Was zeichnet eine Sisterhood, ein unterstützendes Netzwerk von Frauen, aus?   
 
 Angeregt von Sara Ahmeds Buch „Feministisch leben!“ (2017) startet die Performance im Mikrokosmos Bühne den Versuch, in einer immer noch patriarchal dominierten Gesellschaft, ein feministisches Fundament zu schaffen, das sich auf starken Frauenfiguren gründet.
-Einer magische Bühnenwelt, mit zeitgenössischem Tanz, aufwendigen Kostümen und mitreißender Musik: <i>WomanHood</i> inspiriert und lässt Staunen.
+Einer magische Bühnenwelt, mit zeitgenössischem Tanz, aufwendigen Kostümen und mitreißender Musik: <i>Woman Hood</i> inspiriert und lässt Staunen.
 
 
 
