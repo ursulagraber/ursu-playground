@@ -1,6 +1,6 @@
 ---
 date: 2020-10-22
-title: Woman-hood
+title: WomanHood
 
 layout: post
 
@@ -34,11 +34,16 @@ galleries:
 
 ![](https://ursulagraber.files.wordpress.com/2020/10/foto-113.jpg?w=500&fit=crop){: .center-image}
 
-Die humorvolle Tanzperformance "Woman-hood" erforscht in vier Teilen unterschiedliche weibliche (Er)Lebenswelten. Es werden außergewöhnliche und eigenwillige Frauenpersönlichkeiten thematisiert, die unterschiedliche Arten von Macht besitzen, “anders” sind oder einfach aus der Reihe tanzen.
-Simone de Beauvoir war der Meinung, dass der Mensch sich selbst zu etwas mache, egal welches Geschlecht, welche Herkunft und Hautfarbe er habe. Diese Gestaltungsfreiheit wird in "Woman-hood" voll ausgekostet.   
+Die humorvolle Tanzperformance <i>WomanHood</i> erforscht in vier Teilen unterschiedliche weibliche (Er)Lebenswelten. Sie zeigt außergewöhnliche und eigenwillige Frauenpersönlichkeiten, die unterschiedliche Arten von Macht besitzen, “anders” sind oder einfach aus der Reihe tanzen.   
+Simone de Beauvoir war der Meinung, dass der Mensch sich selbst zu etwas mache, egal welches Geschlecht, welche Herkunft und Hautfarbe er habe. Diese Gestaltungsfreiheit wird in <i>WomanHood</i> voll ausgelebt.<br>
 
-Angeregt von Sara Ahmeds herausragendem Buch „Feministisch leben!“ (2017) startet diese innovative Performance im Mikrokosmos der Bühne den Versuch, in einer männlich dominierten Gesellschaft, die auf einem patriarchalen Grundstein steht, ein feministisches Fundament zu schaffen, das sich auf starken Frauenfiguren gründet.
-Durch das Erschaffen einer magischen Bühnenwelt, mit zeitgenössischem Tanz, aufwendigen Kostümen und mitreißender Musik, inspiriert "Woman-hood" und lässt Staunen.
+Was bedeutet es heute, eine Frau zu sein? <br>
+ Wie hat eine Frau zu sein? Wie <i>will sie sein?</i><br>
+Ist Verletzlichkeit die neue Stärke?<br>
+Was zeichnet eine Sisterhood, ein unterstützendes Netzwerk von Frauen, aus?   
+
+Angeregt von Sara Ahmeds Buch „Feministisch leben!“ (2017) startet die Performance im Mikrokosmos Bühne den Versuch, in einer immer noch patriarchal dominierten Gesellschaft, ein feministisches Fundament zu schaffen, das sich auf starken Frauenfiguren gründet.
+Einer magische Bühnenwelt, mit zeitgenössischem Tanz, aufwendigen Kostümen und mitreißender Musik: <i>WomanHood</i> inspiriert und lässt Staunen.
 
 
 
@@ -50,7 +55,7 @@ Durch das Erschaffen einer magischen Bühnenwelt, mit zeitgenössischem Tanz, au
 <br>
 
 **19. - 20. März 2021 ONLINE Livestream mit anschließendem Artist Talk**    
-(19.03. auf Deutsch, 20.03. auf Katalanisch)   
+(Fr. 19 Uhr mit anschließendem Artist Talk auf Deutsch, Sa. 20 Uhr mit anschließendem Artist Talk auf Katalanisch)   
 --> Die Online-Termine finden unabhängig von der Situation der Theater statt!
 
 
