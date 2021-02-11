@@ -56,10 +56,10 @@ galleries:
     data-group: superworkshop
 
 
-#featured_video:
-  #  title: Tonite
-  #  url: https://player.vimeo.com/video/483132123
-  #  id: 483132123
+featured_video:
+    title: Tonite
+    url: https://player.vimeo.com/video/511155046
+    id: 511155046
 ---
 
 
