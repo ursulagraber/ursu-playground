@@ -74,7 +74,9 @@ Ist Verletzlichkeit die neue Stärke?<br>
 Was zeichnet eine Sisterhood, ein unterstützendes Netzwerk von Frauen, aus?   
 
 Angeregt von Sara Ahmeds Buch „Feministisch leben!“ (2017) startet die Performance im Mikrokosmos Bühne den Versuch, in einer immer noch patriarchal dominierten Gesellschaft, ein feministisches Fundament zu schaffen, das sich auf starken Frauenfiguren gründet.
-Einer magische Bühnenwelt, mit zeitgenössischem Tanz, aufwendigen Kostümen und mitreißender Musik: <i>Woman Hood</i> inspiriert und lässt Staunen.
+Einer magische Bühnenwelt, mit zeitgenössischem Tanz, aufwendigen Kostümen und mitreißender Musik: <i>Woman Hood</i> inspiriert und lässt Staunen.   
+
+[![Info en català]({{site.url}}/images/file-icon.png){: .center-image}Info en català]({{site.url}}/docs/InfoWomanHood_entrades.pdf){: .center-image}
 
 <!--plop-->
 
@@ -82,12 +84,13 @@ Einer magische Bühnenwelt, mit zeitgenössischem Tanz, aufwendigen Kostümen un
 
 **12. März 2021 PREMIERE**   
 **12. - 14. März 2021, Kristallwerk Graz**    
---> Die Vorstellungen finden im Kristallwerk nur statt, wenn die Theater zu diesem Zeitpunkt wieder geöffnet sind.
+--> Die Vorstellungen finden im Kristallwerk nur statt, wenn die Theater zu diesem Zeitpunkt wieder geöffnet sind.   
+<a href="https://shop.ticketteer.com/ursula_graber_contemporary_dancer_choreographer/e/evt_60230870e25f0300199e65fa">> > Tickets für 12.-14.03.</a>
 <br>
 
 **19. - 20. März 2021 ONLINE Stream mit anschließendem Artist Talk**    
 (Fr. 19 Uhr mit anschließendem Artist Talk auf Deutsch, Sa. 20 Uhr mit anschließendem Artist Talk auf Katalanisch)   
---> Die Online-Termine finden unabhängig von der Situation der Theater statt!
+<a href="https://shop.ticketteer.com/ursula_graber_contemporary_dancer_choreographer/e/evt_60230a12e25f0300199e66b6">> > Tickets für 19.-20.03.</a>
 
 
 <br />
