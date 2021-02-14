@@ -1,0 +1,38 @@
+de:
+  home:
+    name: Home
+    link: /
+  about:
+    name: Über mich
+    link: /about/
+  projects:
+    name: Performance
+    link: /projects/
+  workshops:
+    name: Workshops
+    link: /workshops/
+  gallery:
+    name: Galerie
+    link: /gallery/
+  contact:
+    name: Kontakt
+    link: /contact/
+ca:
+  home:
+    name: Accueil
+    link: /index-ca
+  about:
+    name: Sobre mi
+    link: /about-ca
+  projects:
+    name: Espectacles
+    link: /projects/
+  workshops:
+    name: Tallers
+    link: /workshops/
+  gallery:
+    name: Gal·leria
+    link: /gallery/
+  contact:
+    name: Contacte
+    link: /contact

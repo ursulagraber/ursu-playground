@@ -4,14 +4,15 @@ title: Woman Hood
 
 layout: post
 
-lang: de
+lang: ca
 ref: woman-hood
 
 categories:
   - News
 featured_image: https://ursulagraber.files.wordpress.com/2021/02/mantel-superwoman-c-edi-haberl-13_1.jpg
-brief: 12.-14. März 2021, Kristallwerk Graz // 19.-20. März 2021, online, inklusive live Artist Talk
+brief: 12-14 de Març 2021, Kristallwerk Graz // 19.-20. Març 2021, online, inclòsa xerrada en directe amb l'artista
 author: Ursula Graber
+
 cast:
   concept: Ursula Graber
   participants:
@@ -83,24 +84,23 @@ Einer magische Bühnenwelt, mit zeitgenössischem Tanz, aufwendigen Kostümen un
 
 <!--plop-->
 
+<br />
+
+**12. März 2021 PREMIERE**   
+**12. - 14. März 2021, Kristallwerk Graz**    
+--> Die Vorstellungen finden im Kristallwerk nur statt, wenn die Theater zu diesem Zeitpunkt wieder geöffnet sind.   
+<a href="https://shop.ticketteer.com/ursula_graber_contemporary_dancer_choreographer/e/evt_60230870e25f0300199e65fa">> > Tickets für 12.-14.03.</a>
 <br>
-**19. März 2021 Online-Stream PREMIERE, 19 Uhr**   
 
-**20. März 2021 Online-Stream, 20 Uhr**  
-
-An beiden Tagen gibt es einen anschließendem Artist Talk:   
-
-19.03. Artist Talk auf **Deutsch**. Moderation: Karin Scaria-Braunstein   
-20.03. Artist Talk auf **Katalanisch**. Moderation: Bàrbara Raubert
-
-
-<a href="https://shop.ticketteer.com/ursula_graber_contemporary_dancer_choreographer/e/evt_60230a12e25f0300199e66b6">> > Link zu Tickets für 19.-20.03.</a>
+**19. - 20. März 2021 ONLINE Stream mit anschließendem Artist Talk**    
+(Fr. 19 Uhr mit anschließendem Artist Talk auf Deutsch, Sa. 20 Uhr mit anschließendem Artist Talk auf Katalanisch)   
+<a href="https://shop.ticketteer.com/ursula_graber_contemporary_dancer_choreographer/e/evt_60230a12e25f0300199e66b6">> > Tickets für 19.-20.03.</a>
 
 
 <br />
 
 
-*“Bin ich eine Frau, wenn ...?”<br />*
+*“...ein stabiles Stück gleichberechtigte Welt bauen...”<br />*
 
 
 <br />
@@ -132,8 +132,6 @@ Filmschnitt & Trailer: **Berta Monsó Purtí**
 ![]({{site.url}}/images/logograz.png){:width="200px"} | ![]({{site.url}}/images/logobund.png){:width="300px"} | ![]({{site.url}}/images/logodat.png){:width="170px"} | ![]({{site.url}}/images/logokristallwerk.png){:width="90px"} | ![]({{site.url}}/images/logolaut.png){:width="170px"}
 
 <br>
-Bildrecht GmbH
-<br>
 
 **Presse**
 
@@ -146,10 +144,6 @@ Bildrecht GmbH
 [![Presse](https://ursulagraber.files.wordpress.com/2020/08/artikel.png?w=300){: .center-image}](https://ursulagraber.files.wordpress.com/2020/08/artikel.png?w=1000)
 
 <br />
-
-**WIE ES FUNKTIONIERT**   
-
-Du kaufst deine Eintrittskarte ganz normal im <a href="https://shop.ticketteer.com/ursula_graber_contemporary_dancer_choreographer/e/evt_60230a12e25f0300199e66b6">Ticketshop</a>. Am Tag, den du ausgewählt hast (19. oder 20. März) bekommst du 30 Minuten vor dem Online-Stream den Link zum Video zugesendet. Bitte bereite dich 15 Minuten vor Vorstellungsbeginn in einem Raum vor, wo du nicht gestört wirst. Für den optimalen Genuss benutze gute Lautsprecher oder Kopfhörer. Die Vorstellung dauert circa eine Stunde - danach erhältst du den Link zum Artist Talk, zu dem du herzlich willkommen bist. :) Am 19.3. ist der Talk auf Deutsch und wird von der Soziologin Karin  Scaria-Braunstein moderiert, am 20.3. ist er auf Katalanisch und wird von der Tanzkritikerin Bàrbara Raubert (Barcelona) moderiert.
 
 
 <!--plop-->

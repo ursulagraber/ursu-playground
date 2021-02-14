@@ -6,6 +6,10 @@ layout: post
 
 categories:
   - Group
+
+lang: de
+ref: sternschnuppen
+
 featured_image: https://ursulagraber.files.wordpress.com/2020/04/sternschnuppen_clemens_nestroy_42.jpg
 brief: Eine Bewegungsperformance
 author: Ursula Graber

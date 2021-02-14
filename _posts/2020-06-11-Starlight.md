@@ -6,6 +6,10 @@ layout: post
 
 categories:
   - Solo
+
+lang: de
+ref: starlight
+
 featured_image: https://ursulagraber.files.wordpress.com/2020/08/presse-5_kl-1.jpg
 brief: 4.-6. September 2020, Kristallwerk Graz
 author: Ursula Graber

@@ -2,7 +2,7 @@
 title: Projects
 layout: selector
 
-lang: de
+lang: ca
 ref: projects
 
 featured:
@@ -31,7 +31,7 @@ shown-categories:
     <div class="element-container dark-color">
       <h2>{{ category[0] }}</h2>
       <div class="video-list-overview">
-        <p>Klick auf das Bild und erfahre mehr darüber!</p>
+        <p>Cliqueu la imatge per saber-ne més!</p>
         <div class="thumbnails-flex grow" id="thumb-selector">
           {% assign posts=category[1] | where:"lang", page.lang %}
           {% for item in posts %}
@@ -43,6 +43,7 @@ shown-categories:
       </div>
     </div>
     <div class="element-container light-color big-flex" id="accordeon">
+      {% assign posts=category[1] | where:"lang", page.lang %}
       {% for item in category[1] %}
       <dl class="element-centered" id="pnl-{{ category[0] | cgi_escape }}{{ forloop.index0 }}">
         <figure class="overview-feat-vid">
@@ -56,7 +57,7 @@ shown-categories:
           {{ item.brief }} <br />
           </p>
           <p>
-            <a href="{{ item.url }}">Read more</a>
+            <a href="{{ item.url }}">Saber-ne més</a>
           </p>
         </div>
       </dl>
@@ -72,9 +73,10 @@ shown-categories:
     <div class="element-container dark-color">
       <h2>{{ category[0] }}</h2>
       <div class="video-list-overview">
-        <p>Schau’ dir die anderen Projekte an</p>
+        <p>Feu con cop d'ull a d'altres projectes</p>
         <div class="thumbnails-flex grow" id="thumb-selector">
-          {% for item in category[1] %}
+          {% assign posts=category[1] | where:"lang", page.lang %}
+          {% for item in posts %}
           <a href="#" name="{{ category[0] | cgi_escape }}{{ forloop.index0 }}" title="{{ item.title }}" class="js-smartPhoto" data-caption="{{ item.title }}" data-id="{{ item.title }}" data-group="todo">
             <img src="{{ item.featured_image }}&w=300&h=300&output=jpg&q=50&t=square" />
           </a>
@@ -83,7 +85,8 @@ shown-categories:
       </div>
     </div>
     <div class="element-container light-color big-flex" id="accordeon">
-      {% for item in category[1] %}
+      {% assign posts=category[1] | where:"lang", page.lang %}
+      {% for item in posts %}
       <dl class="element-centered" id="pnl-{{ category[0] | cgi_escape }}{{ forloop.index0 }}">
         <figure class="overview-feat-vid">
           <a href="{{ item.url }}" title="Go to {{ item.title }}">
@@ -97,7 +100,7 @@ shown-categories:
           {{ item.brief }} <br />
           </p>
           <p>
-            <a href="{{ item.url }}">Read more</a>
+            <a href="{{ item.url }}">Saber-ne més</a>
           </p>
         </div>
       </dl>
