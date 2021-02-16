@@ -80,23 +80,24 @@ Einer magische Bühnenwelt, mit zeitgenössischem Tanz, aufwendigen Kostümen un
 
 <!--plop-->
 
-<br />
-
-**12. März 2021 PREMIERE**   
-**12. - 14. März 2021, Kristallwerk Graz**    
---> Die Vorstellungen finden im Kristallwerk nur statt, wenn die Theater zu diesem Zeitpunkt wieder geöffnet sind.   
-<a href="https://shop.ticketteer.com/ursula_graber_contemporary_dancer_choreographer/e/evt_60230870e25f0300199e65fa">> > Tickets für 12.-14.03.</a>
 <br>
+**19. März 2021 Online-Stream PREMIERE, 19 Uhr**   
 
-**19. - 20. März 2021 ONLINE Stream mit anschließendem Artist Talk**    
-(Fr. 19 Uhr mit anschließendem Artist Talk auf Deutsch, Sa. 20 Uhr mit anschließendem Artist Talk auf Katalanisch)   
-<a href="https://shop.ticketteer.com/ursula_graber_contemporary_dancer_choreographer/e/evt_60230a12e25f0300199e66b6">> > Tickets für 19.-20.03.</a>
+**20. März 2021 Online-Stream, 20 Uhr**  
+
+An beiden Tagen gibt es einen anschließendem Artist Talk:   
+
+19.03. Artist Talk auf **Deutsch**. Moderation: Karin Scaria-Braunstein   
+20.03. Artist Talk auf **Katalanisch**. Moderation: Bàrbara Raubert
+
+
+<a href="https://shop.ticketteer.com/ursula_graber_contemporary_dancer_choreographer/e/evt_60230a12e25f0300199e66b6">> > Link zu Tickets für 19.-20.03.</a>
 
 
 <br />
 
 
-*“...ein stabiles Stück gleichberechtigte Welt bauen...”<br />*
+*“Bin ich eine Frau, wenn ...?”<br />*
 
 
 <br />
