@@ -129,6 +129,8 @@ Filmschnitt & Trailer: **Berta Monsó Purtí**
 ![]({{site.url}}/images/logograz.png){:width="200px"} | ![]({{site.url}}/images/logobund.png){:width="300px"} | ![]({{site.url}}/images/logodat.png){:width="170px"} | ![]({{site.url}}/images/logokristallwerk.png){:width="90px"} | ![]({{site.url}}/images/logolaut.png){:width="170px"}
 
 <br>
+Bildrecht GmbH
+<br>
 
 **Presse**
 
@@ -141,6 +143,10 @@ Filmschnitt & Trailer: **Berta Monsó Purtí**
 [![Presse](https://ursulagraber.files.wordpress.com/2020/08/artikel.png?w=300){: .center-image}](https://ursulagraber.files.wordpress.com/2020/08/artikel.png?w=1000)
 
 <br />
+
+**WIE ES FUNKTIONIERT**   
+
+Du kaufst deine Eintrittskarte ganz normal im <a href="https://shop.ticketteer.com/ursula_graber_contemporary_dancer_choreographer/e/evt_60230a12e25f0300199e66b6">Ticketshop</a>. Am Tag, den du ausgewählt hast (19. oder 20. März) bekommst du 30 Minuten vor dem Online-Stream den Link zum Video zugesendet. Bitte bereite dich 15 Minuten vor Vorstellungsbeginn in einem Raum vor, wo du nicht gestört wirst. Für den optimalen Genuss benutze gute Lautsprecher oder Kopfhörer. Die Vorstellung dauert circa eine Stunde - danach erhältst du den Link zum Artist Talk, zu dem du herzlich willkommen bist. :) Am 19.3. ist der Talk auf Deutsch und wird von der Soziologin Karin  Scaria-Braunstein moderiert, am 20.3. ist er auf Katalanisch und wird von der Tanzkritikerin Bàrbara Raubert (Barcelona) moderiert.
 
 
 <!--plop-->
