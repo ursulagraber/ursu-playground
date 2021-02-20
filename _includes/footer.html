@@ -5,8 +5,8 @@
 			</a>
 		</div>
 		<div class="container">
-			&copy; {{ site.title }} {{ site.time | date: "%Y" }}. All rights reserved.
-			<br><a href="{{ site.baseurl }}/impressum">Impressum</a> | <a href="{{ site.baseurl }}/terms">Datenschutz</a>
+			&copy; {{ site.title }} {{ site.time | date: "%Y" }}. {{ site.data.dictionary[page.lang].rights }}.
+			<br><a href="{{ site.baseurl }}/{{ site.data.dictionary[page.lang].impressumurl }}">{{ site.data.dictionary[page.lang].impressum }}</a> | <a href="{{ site.baseurl }}/{{ site.data.dictionary[page.lang].datenschutzurl }}">{{ site.data.dictionary[page.lang].datenschutz }}</a>
 		</div>
 		<div class="social-icons">
 			{% if site.data.sidebar.facebook and site.data.sidebar.facebook != "" %}<a target="_blank" href="https://facebook.com/{{ site.data.sidebar.facebook }}">{% include social-icon.html icon="Facebook" %}</a>{% endif %}

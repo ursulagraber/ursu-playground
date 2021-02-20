@@ -49,6 +49,11 @@
 				color: #000;
 			}
 		}
+
+    .en:lang(en), .ca:lang(ca), .de:lang(de) {
+        font-weight: bold;
+        color: $theme-dark-color;
+    }
 	}
 
   @media screen and #{$half-screen}

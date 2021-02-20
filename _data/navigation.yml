@@ -13,14 +13,14 @@ de:
    link: /contact/
 ca:
 -  name: Home
-   link: /index-ca
+   link: /index-ca/
 -  name: Sobre mi
-   link: /about-ca
+   link: /about-ca/
 -  name: Espectacles
-   link: /projects/
+   link: /projects-ca/
 -  name: Tallers
-   link: /workshops/
+   link: /workshops-ca/
 -  name: Gal·leria
-   link: /gallery/
+   link: /gallery-ca/
 -  name: Contacte
-   link: /contact
+   link: /contact-ca/
