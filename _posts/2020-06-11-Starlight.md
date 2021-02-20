@@ -6,10 +6,6 @@ layout: post
 
 categories:
   - Solo
-
-lang: de
-ref: starlight
-
 featured_image: https://ursulagraber.files.wordpress.com/2020/08/presse-5_kl-1.jpg
 brief: 4.-6. September 2020, Kristallwerk Graz
 author: Ursula Graber
@@ -17,7 +13,7 @@ cast:
   concept: Ursula Graber
   participants:
   music:
-  location:
+  location:https://ursulagrahttps://ursulagraber.files.wordpress.com/2021/02/c-edi-haberl-1.jpgber.files.wordpress.com/2021/02/c-edi-haberl-1.jpg
   vimeo:
   date:
   other:
@@ -47,7 +43,7 @@ galleries:
     image: https://ursulagraber.files.wordpress.com/2020/09/mg_5395.jpg
     data-group: superworkshop
   - title: Starlight Killjoy (c) Clemens Nestroy
-    image: https://ursulagraber.files.wordpress.com/2020/09/mg_5454.jpg
+    image: https://ursulagrhttps://ursulagraber.files.wordpress.com/2021/02/c-edi-haberl-1.jpgaber.files.wordpress.com/2020/09/mg_5454.jpg
     data-group: superworkshop
   - title: Starlight Killjoy (c) Clemens Nestroy
     image: https://ursulagraber.files.wordpress.com/2020/09/mg_5558.jpg
