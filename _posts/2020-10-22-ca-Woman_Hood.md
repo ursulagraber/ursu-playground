@@ -10,7 +10,7 @@ ref: woman-hood
 categories:
   - News
 featured_image: https://ursulagraber.files.wordpress.com/2021/02/mantel-superwoman-c-edi-haberl-13_1.jpg
-brief: 12-14 de Març 2021, Kristallwerk Graz // 19.-20. Març 2021, online, inclòsa xerrada en directe amb l'artista
+brief: 19.-20. Març 2021, en línia, inclòsa xerrada en directe amb l'artista
 author: Ursula Graber
 
 cast:
@@ -69,63 +69,68 @@ featured_video:
 
 *Woman Hood*{: .center-image}
 
-Die humorvolle Tanzperformance <i>Woman Hood</i> erforscht in vier Teilen unterschiedliche weibliche (Er)Lebenswelten. Sie zeigt außergewöhnliche und eigenwillige Frauenpersönlichkeiten, die unterschiedliche Arten von Macht besitzen, “anders” sind oder einfach aus der Reihe tanzen.   
-Simone de Beauvoir war der Meinung, dass der Mensch sich selbst zu etwas mache, egal welches Geschlecht, welche Herkunft und Hautfarbe er habe. Diese Gestaltungsfreiheit wird in <i>Woman Hood</i> voll ausgelebt.<br>
+L’espectacle de dansa contemporània <i>Woman Hood</i> explora amb humor diferents mons femenins en quatre parts. Mostra personalitats i idiosincràsies femenines extraordinàries que tenen diferents tipus de poder, són "diferents" o simplement «ballen fora de línia». Simone de Beauvoir opinava que la gent es transforma en quelcom, independentment del gènere, l’origen i el color de la pell. Aquesta llibertat de disseny es plenament viu a <i>Woman Hood</i>. <br>
 
-Was bedeutet es heute, eine Frau zu sein? <br>
- Wie hat eine Frau zu sein? Wie <i>will sie sein?</i><br>
-Ist Verletzlichkeit die neue Stärke?<br>
-Was zeichnet eine Sisterhood, ein unterstützendes Netzwerk von Frauen, aus?   
+Què significa ser dona avui? <br>
+Com ha de ser una dona? Com <i>vol</i> ser ella?<br>
+La vulnerabilitat és la nova força?<br>
+Què distingeix una sororitat, una xarxa solidària de dones? <br>
+Sóc una dona, si ...?
 
-Angeregt von Sara Ahmeds Buch „Feministisch leben!“ (2017) startet die Performance im Mikrokosmos Bühne den Versuch, in einer immer noch patriarchal dominierten Gesellschaft, ein feministisches Fundament zu schaffen, das sich auf starken Frauenfiguren gründet.
-Einer magische Bühnenwelt, mit zeitgenössischem Tanz, aufwendigen Kostümen und mitreißender Musik: <i>Woman Hood</i> inspiriert und lässt Staunen.   
 
-[![Info en català]({{site.url}}/images/file-icon.png){: .center-image}Info en català]({{site.url}}/docs/InfoWomanHood_entrades.pdf){: .center-image}
+Inspirada en el llibre de Sara Ahmed <9>Living a feminist life</i> (2017), l’espectacle
+intenta crear en el microcosmos de l’escenari una base feminista basada en fortes
+figures femenines, en una societat que encara està dominada pel patriarcat. En un
+món escènic màgic, amb dansa contemporània, amb un vestuari molt elaborat i una música
+engrescadora <i>Woman Hood</i> sacseja i sorprèn.  
+
 
 <!--plop-->
 
 <br />
 
-**12. März 2021 PREMIERE**   
-**12. - 14. März 2021, Kristallwerk Graz**    
---> Die Vorstellungen finden im Kristallwerk nur statt, wenn die Theater zu diesem Zeitpunkt wieder geöffnet sind.   
-<a href="https://shop.ticketteer.com/ursula_graber_contemporary_dancer_choreographer/e/evt_60230870e25f0300199e65fa">> > Tickets für 12.-14.03.</a>
-<br>
+**19 de març 2021 PREMIERE transmissió en línia, 19 h**   
 
-**19. - 20. März 2021 ONLINE Stream mit anschließendem Artist Talk**    
-(Fr. 19 Uhr mit anschließendem Artist Talk auf Deutsch, Sa. 20 Uhr mit anschließendem Artist Talk auf Katalanisch)   
-<a href="https://shop.ticketteer.com/ursula_graber_contemporary_dancer_choreographer/e/evt_60230a12e25f0300199e66b6">> > Tickets für 19.-20.03.</a>
+**20 de març 2021 transmissió en línia, 20 h**    
 
+Els dos dies la transmissió és seguida de tertúlia amb els artistes:   
 
-<br />
+19 de març tertúlia amb els artistes **en alemany**. Moderació: Karin Scaria-Braunstein   
 
+20 de març tertúlia amb els artistes **en català**. Moderació: Bàrbara Raubert
 
-*“...ein stabiles Stück gleichberechtigte Welt bauen...”<br />*
+<a href="https://shop.ticketteer.com/ursula_graber_contemporary_dancer_choreographer/e/evt_60230a12e25f0300199e66b6">> >Botiga de les entrades</a>
 
 
 <br />
 
 
+*“Sóc una dona, si...?”<br />*
 
-Von und mit Ursula Graber<br />
+
+<br />
+
+
+
+Una creació d'Ursula Graber<br />
 
 
 <!--plop-->
 
 **Credits**  
-Konzept, Performance, Choreografie: 	**Ursula Graber**  
-Dramaturgie:	**Hanna Rohn, Bàrbara Raubert**   
-Kostüm:	**Ana Vivero**  
-3D-Kamera: **Pol Monsó Purtí**   
-Licht- und Tontechnik:	**Tom Bergner**   
-Organisation & PR:	**Laura Halb, Ursula Graber**  
-Filmaufnahme: **Fabian Czernovsky**   
-Filmschnitt & Trailer: **Berta Monsó Purtí**
+Concepte, performance, coreografia: 	**Ursula Graber**  
+Dramatúrgia:	**Hanna Rohn, Bàrbara Raubert**   
+Vestuari:	**Ana Vivero**  
+Càmera 3D: **Pol Monsó Purtí**   
+Tecnologia de la llum i el so:	**Tom Bergner**   
+Organització i relacions públiques:	**Laura Halb, Ursula Graber**  
+Càmera: **Fabian Czernovsky**   
+Editing & Trailer: **Berta Monsó Purtí**
 
 
 <br />
 
-**Gefördert und unterstützt von:**  
+**Amb el suport de:**  
 
 
 :------:|:------:|:------:|:------:
@@ -133,22 +138,15 @@ Filmschnitt & Trailer: **Berta Monsó Purtí**
 
 <br>
 
-**Presse**
+Bildrecht GmbH   
+Centre Cívic Ter, Girona
 
 
-<p>
---> Klick auf den Artikel um ihn zu vergrößern!
-</p>
-
-
-[![Presse](https://ursulagraber.files.wordpress.com/2020/08/artikel.png?w=300){: .center-image}](https://ursulagraber.files.wordpress.com/2020/08/artikel.png?w=1000)
-
-<br />
 
 
 <!--plop-->
 
-Ein Abend voller Magie und Inspiration!<br />
+Una nit perfecte plena de magia i inspiració<br />
 
 
 <!--[![Totem](https://i.vimeocdn.com/video/746500438_640.jpg)](https://player.vimeo.com/video/306702195)-->

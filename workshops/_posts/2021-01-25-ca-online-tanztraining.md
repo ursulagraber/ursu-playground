@@ -1,11 +1,11 @@
 ---
 date: 2021-01-25
 location: Graz
-title: TanzFlow Online-Training
+title: TanzFlow entrenament en línia
 
 layout: highlight
 
-lang: de
+lang: ca
 ref: TanzFlow
 
 categories:
@@ -13,7 +13,7 @@ categories:
 featured_image: https://ursulagraber.files.wordpress.com/2020/04/ursu_haende.jpg
 brief: the first new
 
-galleries:
+galleries: 2021-01-25-online-t2021-01-25-online-tanztraininganztraining
   - title: Ursula
     image: https://ursulagraber.files.wordpress.com/2020/04/ursu-lachend.jpg
     data-group: superworkshop
