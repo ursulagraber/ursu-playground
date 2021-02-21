@@ -9,7 +9,7 @@ ref: woman-hood
 
 categories:
   - News
-featured_image: https://ursulagraber.files.wordpress.com/2021/02/mantel-superwoman-c-edi-haberl-13_1.jpg
+featured_image: https://ursulagraber.files.wordpress.com/2021/02/mantel-superwoman-c-edi-haberl-13_1.jpg?w=500&fit=crop 
 brief: 19.-20. Març 2021, en línia, inclòsa xerrada en directe amb l'artista
 author: Ursula Graber
 

@@ -10,7 +10,7 @@ categories:
 lang: ca
 ref: snowshoeing
 
-featured_image: https://ursulagraber.files.wordpress.com/2019/04/28577317_1661689210563567_5089443036379742208_o1.jpg?w=1560&h=940&fit=crop
+featured_image: https://ursulagraber.files.wordpress.com/2019/04/28577317_1661689210563567_5089443036379742208_o1.jpg?w=500&fit=crop
 brief: Solo d'Ursula Graber
 cast:
   concept: Ursula Graber

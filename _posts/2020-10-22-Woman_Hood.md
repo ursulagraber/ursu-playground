@@ -9,7 +9,7 @@ ref: woman-hood
 
 categories:
   - News
-featured_image: https://ursulagraber.files.wordpress.com/2021/02/mantel-superwoman-c-edi-haberl-13_1.jpg
+featured_image: https://ursulagraber.files.wordpress.com/2021/02/mantel-superwoman-c-edi-haberl-13_1.jpg?w=500&fit=crop
 brief: 12.-14. März 2021, Kristallwerk Graz // 19.-20. März 2021, online, inklusive live Artist Talk
 author: Ursula Graber
 cast:

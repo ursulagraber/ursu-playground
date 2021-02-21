@@ -10,7 +10,7 @@ categories:
 lang: ca
 ref: trilogue
 
-featured_image: https://ursulagraber.files.wordpress.com/2020/04/trilogue_8.jpg
+featured_image: https://ursulagraber.files.wordpress.com/2020/04/trilogue_8.jpg?w=500&fit=crop
 brief: Collaboració amb Diego Tamame Jiménez i Pol Monsó Purtí
 cast:
   concept: Ursula Graber, Diego Jiménez Tamame, Pol Monsó Purtí

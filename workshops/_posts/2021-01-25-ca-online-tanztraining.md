@@ -11,7 +11,7 @@ categories:
 lang: ca
 ref: TanzFlow
 
-featured_image: https://ursulagraber.files.wordpress.com/2020/04/ursu_haende.jpg
+featured_image: https://ursulagraber.files.wordpress.com/2020/04/ursu_haende.jpg?w=500&fit=crop
 brief: the first new
 
 galleries:

@@ -10,7 +10,7 @@ ref: starlight
 categories:
   - Solo
 
-featured_image: https://ursulagraber.files.wordpress.com/2020/08/presse-5_kl-1.jpg
+featured_image: https://ursulagraber.files.wordpress.com/2020/08/presse-5_kl-1.jpg?w=500&fit=crop
 brief: 4.-6. September 2020, Kristallwerk Graz
 author: Ursula Graber
 cast:
