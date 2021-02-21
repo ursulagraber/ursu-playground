@@ -79,8 +79,6 @@ Was zeichnet eine Sisterhood, ein unterstützendes Netzwerk von Frauen, aus?
 Angeregt von Sara Ahmeds Buch „Feministisch leben!“ (2017) startet die Performance im Mikrokosmos Bühne den Versuch, in einer immer noch patriarchal dominierten Gesellschaft, ein feministisches Fundament zu schaffen, das sich auf starken Frauenfiguren gründet.
 Einer magische Bühnenwelt, mit zeitgenössischem Tanz, aufwendigen Kostümen und mitreißender Musik: <i>Woman Hood</i> inspiriert und lässt Staunen.   
 
-[![Info en català]({{site.url}}/images/file-icon.png){: .center-image}Info en català]({{site.url}}/docs/InfoWomanHood_entrades.pdf){: .center-image}
-
 <!--plop-->
 
 <br>
