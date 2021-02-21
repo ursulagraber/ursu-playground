@@ -33,8 +33,8 @@ shown-categories:
       <div class="video-list-overview">
         <p>Klick auf das Bild und erfahre mehr darüber!</p>
         <div class="thumbnails-flex grow" id="thumb-selector">
-          {% assign posts=category[1] | where:"lang", page.lang %}
-          {% for item in posts %}
+          {% assign items=category[1] | where:"lang", page.lang %}
+          {% for item in item %}
           <a href="#" name="{{ category[0] | cgi_escape }}{{ forloop.index0 }}" title="{{ item.title }}" class="js-smartPhoto" data-caption="{{ item.title }}" data-id="{{ item.title }}" data-group="todo">
             <img src="{{ item.featured_image }}&w=300&h=300&output=jpg&q=50&t=square" />
           </a>
@@ -74,7 +74,8 @@ shown-categories:
       <div class="video-list-overview">
         <p>Schau’ dir die anderen Projekte an</p>
         <div class="thumbnails-flex grow" id="thumb-selector">
-          {% for item in category[1] %}
+          {% assign items=category[1] | where:"lang", page.lang %}
+          {% for item in items %}
           <a href="#" name="{{ category[0] | cgi_escape }}{{ forloop.index0 }}" title="{{ item.title }}" class="js-smartPhoto" data-caption="{{ item.title }}" data-id="{{ item.title }}" data-group="todo">
             <img src="{{ item.featured_image }}&w=300&h=300&output=jpg&q=50&t=square" />
           </a>
@@ -83,7 +84,8 @@ shown-categories:
       </div>
     </div>
     <div class="element-container light-color big-flex" id="accordeon">
-      {% for item in category[1] %}
+      {% assign items=category[1] | where:"lang", page.lang %}
+      {% for item in items %}
       <dl class="element-centered" id="pnl-{{ category[0] | cgi_escape }}{{ forloop.index0 }}">
         <figure class="overview-feat-vid">
           <a href="{{ item.url }}" title="Go to {{ item.title }}">
