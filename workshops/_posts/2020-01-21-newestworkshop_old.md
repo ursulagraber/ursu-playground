@@ -5,6 +5,9 @@ title: Online Tanztraining NEU ab April 2020
 
 layout: workshop
 
+lang: de
+ref: training_old
+
 categories:
   - Workshops
 featured_image: https://ursulagraber.files.wordpress.com/2020/04/ursu-lachend.jpg?w=1000&h=800&fit=crop

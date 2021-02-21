@@ -53,9 +53,9 @@ layout: fullpage
 		<a class="email" href="mailto:?subject=Ich%20habe%20ein%20tolles%20Event%20gefunden&amp;body=Schau%20es%20dir%20an%20-%20{{ share_url }}">{% include social-icon.html icon="Email" %}</a>
 	</div>
 	<div class="cta">
-		<h2 style="color: black;">Noch mehr Performances</h2>
-		<p>Das ist eine von vielen Performances, die hier zu finden sind</p>
-		<div class="button"><a class="a-on-white" href="/projects">Schau dir auch die anderen Performances an</a></div>
+		<h2 style="color: black;">{{ site.data.dictionary[page.lang].performancemehr }}</h2>
+		<p>{{ site.data.dictionary[page.lang].performanceviele }}</p>
+		<div class="button"><a class="a-on-white" href="/{{ site.data.dictionary[page.lang].projectsurl }}">{{ site.data.dictionary[page.lang].performanceandere }}</a></div>
 	</div>
 </article>
 

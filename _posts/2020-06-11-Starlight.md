@@ -17,7 +17,7 @@ cast:
   concept: Ursula Graber
   participants:
   music:
-  location:https://ursulagrahttps://ursulagraber.files.wordpress.com/2021/02/c-edi-haberl-1.jpgber.files.wordpress.com/2021/02/c-edi-haberl-1.jpg
+  location:
   vimeo:
   date:
   other:

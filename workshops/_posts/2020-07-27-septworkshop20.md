@@ -7,6 +7,10 @@ layout: workshop
 
 categories:
   - Workshops
+
+lang: de
+ref: sept
+
 featured_image: https://ursulagraber.files.wordpress.com/2020/04/dscf4319.jpg
 brief: Workshop-Wochenende in Graz
 

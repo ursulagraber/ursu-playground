@@ -9,7 +9,7 @@ ref: workshops
 <div class="workshops-container">
 	<div class="slide">
 		<div class="workshops">
-			{% assign workshops = site.categories.workshops | sort: "date" | reverse %}
+			{% assign workshops = site.categories.workshops | where:"lang", page.lang | sort: "date" | reverse %}
 			{% for workshop in workshops %}
 			 {% unless workshop.unlisted %}
 				<div class="workshop-container">

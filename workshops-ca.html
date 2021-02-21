@@ -9,7 +9,7 @@ ref: workshops
 <div class="workshops-container">
 	<div class="slide">
 		<div class="workshops">
-			{% assign workshops = site.categories.workshops | sort: "date" | reverse %}
+			{% assign workshops = site.categories.workshops | where:"lang", page.lang | sort: "date" | reverse %}
 			{% for workshop in workshops %}
 			 {% unless workshop.unlisted %}
 				<div class="workshop-container">
@@ -32,7 +32,7 @@ ref: workshops
 			amb música i, per tant, aprendre més sobre elles mateixes i aprendre les eines
 			d'improvisació de ballarins professionals en un ambient humà.
 			<br>
-			
+
 			---> Objectiu: exploreu nous patrons de moviment, gaudiu del moviment amb la música,
 			desafieu el cos i la xarxa neuronal, sueu, supereu les pors, aventureu-vos fàcilment
 			a allò desconegut, riure, viure intensament.

@@ -14,7 +14,7 @@ ref: TanzFlow
 featured_image: https://ursulagraber.files.wordpress.com/2020/04/ursu_haende.jpg
 brief: the first new
 
-galleries: 2021-01-25-online-t2021-01-25-online-tanztraininganztraining
+galleries:
   - title: Ursula
     image: https://ursulagraber.files.wordpress.com/2020/04/ursu-lachend.jpg
     data-group: superworkshop
@@ -33,12 +33,12 @@ galleries: 2021-01-25-online-t2021-01-25-online-tanztraininganztraining
 
 ## TanzFlow
 
-_Si estás interessat d'entrenar amb mi en línia, escriu-me!_
+_Si estàs interessat d'entrenar amb mi en línia, escriu-me!_
 
 
 
 
 
 {% if site.contact_action and site.contact != "" %}
-{% include ca-contact-form-online.html %}
+{% include contact-form-online.html %}
 {% endif %}
