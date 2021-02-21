@@ -10,7 +10,7 @@ categories:
 lang: de
 ref: sternschnuppen
 
-featured_image: https://ursulagraber.files.wordpress.com/2020/04/sternschnuppen_clemens_nestroy_42.jpg
+featured_image: https://ursulagraber.files.wordpress.com/2020/04/sternschnuppen_clemens_nestroy_42.jpg?w=500&fit=crop
 brief: Eine Bewegungsperformance
 author: Ursula Graber
 cast:
