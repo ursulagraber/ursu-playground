@@ -24,22 +24,22 @@ cast:
 galleries:
 
   - title: (c) Clemens Nestroy
-    image: https://ursulagraber.files.wordpress.com/2020/04/sternschnuppen_clemens_nestroy_42.jpg
+    image: https://ursulagraber.files.wordpress.com/2020/04/sternschnuppen_clemens_nestroy_42.jpg?w=1024&fit=crop
     data-group: superworkshop
   - title: (c) Clemens Nestroy
-    image: https://ursulagraber.files.wordpress.com/2020/04/sternschnuppen_clemens_nestroy_35.jpg
+    image: https://ursulagraber.files.wordpress.com/2020/04/sternschnuppen_clemens_nestroy_35.jpg?w=1024&fit=crop
     data-group: superworkshop
   - title: (c) Clemens Nestroy
-    image: https://ursulagraber.files.wordpress.com/2021/02/aa-sternschnuppen_clemens_nestroy_4.jpg
+    image: https://ursulagraber.files.wordpress.com/2021/02/aa-sternschnuppen_clemens_nestroy_4.jpg?w=1024&fit=crop
     data-group: superworkshop
   - title: (c) Clemens Nestroy
-    image: https://ursulagraber.files.wordpress.com/2021/02/aa-sternschnuppen_clemens_nestroy_18.jpg
+    image: https://ursulagraber.files.wordpress.com/2021/02/aa-sternschnuppen_clemens_nestroy_18.jpg?w=1024&fit=crop
     data-group: superworkshop
   - title: (c) Clemens Nestroy
-    image: https://ursulagraber.files.wordpress.com/2021/02/aa-sternschnuppen_clemens_nestroy_21.jpg
+    image: https://ursulagraber.files.wordpress.com/2021/02/aa-sternschnuppen_clemens_nestroy_21.jpg?w=1024&fit=crop
     data-group: superworkshop
   - title: (c) Clemens Nestroy
-    image: https://ursulagraber.files.wordpress.com/2021/02/aa-sternschnuppen_clemens_nestroy_25.jpg
+    image: https://ursulagraber.files.wordpress.com/2021/02/aa-sternschnuppen_clemens_nestroy_25.jpg?w=1024&fit=crop
     data-group: superworkshop
 
 featured_video:

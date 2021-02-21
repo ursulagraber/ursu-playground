@@ -24,22 +24,22 @@ cast:
 galleries:
 
   - title: (c) Gregory Batardon
-    image: https://ursulagraber.files.wordpress.com/2019/04/28471217_1661689367230218_2812298809659359232_o.jpg
+    image: https://ursulagraber.files.wordpress.com/2019/04/28471217_1661689367230218_2812298809659359232_o.jpg?w=1024&fit=crop
     data-group: superworkshop
   - title: (c) Gregory Batardon
-    image: https://ursulagraber.files.wordpress.com/2019/04/28660526_1661689423896879_3458369617347477504_o.jpg
+    image: https://ursulagraber.files.wordpress.com/2019/04/28660526_1661689423896879_3458369617347477504_o.jpg?w=1024&fit=crop
     data-group: superworkshop
   - title: (c) Gregory Batardon
-    image: https://ursulagraber.files.wordpress.com/2019/04/28685596_1661689500563538_862267774762745856_o.jpg
+    image: https://ursulagraber.files.wordpress.com/2019/04/28685596_1661689500563538_862267774762745856_o.jpg?w=1024&fit=crop
     data-group: superworkshop
   - title: (c) Gregory Batardon
-    image: https://ursulagraber.files.wordpress.com/2019/04/28577317_1661689210563567_5089443036379742208_o1.jpg
+    image: https://ursulagraber.files.wordpress.com/2019/04/28577317_1661689210563567_5089443036379742208_o1.jpg?w=1024&fit=crop
     data-group: superworkshop
   - title: (c) Gregory Batardon
-    image: https://ursulagraber.files.wordpress.com/2019/04/28661339_1661689450563543_9074812163217948672_o.jpg
+    image: https://ursulagraber.files.wordpress.com/2019/04/28661339_1661689450563543_9074812163217948672_o.jpg?w=1024&fit=crop
     data-group: superworkshop
   - title: (c) Gregory Batardon
-    image: https://ursulagraber.files.wordpress.com/2019/04/28783014_1661689113896910_6717666907819868160_o.jpg
+    image: https://ursulagraber.files.wordpress.com/2019/04/28783014_1661689113896910_6717666907819868160_o.jpg?w=1024&fit=crop
     data-group: superworkshop
 
 

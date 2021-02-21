@@ -9,7 +9,7 @@ ref: woman-hood
 
 categories:
   - News
-featured_image: https://ursulagraber.files.wordpress.com/2021/02/mantel-superwoman-c-edi-haberl-13_1.jpg?w=500&fit=crop 
+featured_image: https://ursulagraber.files.wordpress.com/2021/02/mantel-superwoman-c-edi-haberl-13_1.jpg?w=500&fit=crop
 brief: 19.-20. Març 2021, en línia, inclòsa xerrada en directe amb l'artista
 author: Ursula Graber
 
@@ -22,42 +22,42 @@ cast:
   date:
   other:
 galleries:
-  - title: (c) Edi Haberl
-    image: https://ursulagraber.files.wordpress.com/2021/02/c-edi-haberl-1_1.jpg
-    data-group: superworkshop
-  - title: (c) Edi Haberl
-    image: https://ursulagraber.files.wordpress.com/2021/02/4-brueste-c-edi-haberl-7_1.jpg
-    data-group: superworkshop
-  - title: (c) Edi Haberl
-    image: https://ursulagraber.files.wordpress.com/2021/02/beine-umarmen-c-edi-haberl-8_1.jpg
-    data-group: superworkshop
-  - title: (c) Edi Haberl
-    image: https://ursulagraber.files.wordpress.com/2021/02/elf-mantel-c-edi-haberl-11_1.jpg
-    data-group: superworkshop
-  - title: (c) Edi Haberl
-    image: https://ursulagraber.files.wordpress.com/2021/02/farfalla-mantel-c-edi-haberl-12_1.jpg
-    data-group: superworkshop
-  - title: (c) Edi Haberl
-    image: https://ursulagraber.files.wordpress.com/2021/02/gesicht-verdeckt-c-edi-haberl-3_1.jpg
-    data-group: superworkshop
-  - title: (c) Edi Haberl
-    image: https://ursulagraber.files.wordpress.com/2021/02/haare-hoch-c-edi-haberl-5_1.jpg
-    data-group: superworkshop
-  - title: (c) Edi Haberl
-    image: https://ursulagraber.files.wordpress.com/2021/02/mantel-halb-c-edi-haberl-4_1.jpg
-    data-group: superworkshop
-  - title: (c) Edi Haberl
-    image: https://ursulagraber.files.wordpress.com/2021/02/mantel-superwoman-c-edi-haberl-13_1.jpg
-    data-group: superworkshop
-  - title: (c) Edi Haberl
-    image: https://ursulagraber.files.wordpress.com/2021/02/mantel-von-hinten-c-edi-haberl-15_1.jpg
-    data-group: superworkshop
-  - title: (c) Edi Haberl
-    image: https://ursulagraber.files.wordpress.com/2021/02/salsitxa-cerstecktc-edi-haberl-10_1.jpg
-    data-group: superworkshop
-  - title: (c) Edi Haberl
-    image: https://ursulagraber.files.wordpress.com/2021/02/schrei-c-edi-haberl-2_1.jpg
-    data-group: superworkshop
+- title: (c) Edi Haberl
+  image: https://ursulagraber.files.wordpress.com/2021/02/c-edi-haberl-1_1.jpg?w=1024&fit=crop
+  data-group: superworkshop
+- title: (c) Edi Haberl
+  image: https://ursulagraber.files.wordpress.com/2021/02/4-brueste-c-edi-haberl-7_1.jpg?w=1024&fit=crop
+  data-group: superworkshop
+- title: (c) Edi Haberl
+  image: https://ursulagraber.files.wordpress.com/2021/02/beine-umarmen-c-edi-haberl-8_1.jpg?w=1024&fit=crop
+  data-group: superworkshop
+- title: (c) Edi Haberl
+  image: https://ursulagraber.files.wordpress.com/2021/02/elf-mantel-c-edi-haberl-11_1.jpg?w=1024&fit=crop
+  data-group: superworkshop
+- title: (c) Edi Haberl
+  image: https://ursulagraber.files.wordpress.com/2021/02/farfalla-mantel-c-edi-haberl-12_1.jpg?w=1024&fit=crop
+  data-group: superworkshop
+- title: (c) Edi Haberl
+  image: https://ursulagraber.files.wordpress.com/2021/02/gesicht-verdeckt-c-edi-haberl-3_1.jpg?w=1024&fit=crop
+  data-group: superworkshop
+- title: (c) Edi Haberl
+  image: https://ursulagraber.files.wordpress.com/2021/02/haare-hoch-c-edi-haberl-5_1.jpg?w=1024&fit=crop
+  data-group: superworkshop
+- title: (c) Edi Haberl
+  image: https://ursulagraber.files.wordpress.com/2021/02/mantel-halb-c-edi-haberl-4_1.jpg?w=1024&fit=crop
+  data-group: superworkshop
+- title: (c) Edi Haberl
+  image: https://ursulagraber.files.wordpress.com/2021/02/mantel-superwoman-c-edi-haberl-13_1.jpg?w=1024&fit=crop
+  data-group: superworkshop
+- title: (c) Edi Haberl
+  image: https://ursulagraber.files.wordpress.com/2021/02/mantel-von-hinten-c-edi-haberl-15_1.jpg?w=1024&fit=crop
+  data-group: superworkshop
+- title: (c) Edi Haberl
+  image: https://ursulagraber.files.wordpress.com/2021/02/salsitxa-cerstecktc-edi-haberl-10_1.jpg?w=1024&fit=crop
+  data-group: superworkshop
+- title: (c) Edi Haberl
+  image: https://ursulagraber.files.wordpress.com/2021/02/schrei-c-edi-haberl-2_1.jpg?w=1024&fit=crop
+  data-group: superworkshop
 
 
 featured_video:
