@@ -4,11 +4,11 @@ title: Starlight Killjoy
 
 layout: post
 
-categories:
-  - Solo
-
 lang: ca
 ref: starlight
+
+categories:
+  - Solo
 
 featured_image: https://ursulagraber.files.wordpress.com/2020/08/presse-5_kl-1.jpg
 brief: 4-6 de septembre 2020, Kristallwerk Graz

@@ -23,20 +23,30 @@ cast:
   other: "Künstlerisches Coaching: Veza Fernández"
 galleries:
 
-  - title: fly Michi
+  - title: (c) Clemens Nestroy
     image: https://ursulagraber.files.wordpress.com/2020/04/sternschnuppen_clemens_nestroy_42.jpg
     data-group: superworkshop
-  - title: alle
+  - title: (c) Clemens Nestroy
     image: https://ursulagraber.files.wordpress.com/2020/04/sternschnuppen_clemens_nestroy_35.jpg
     data-group: superworkshop
+  - title: (c) Clemens Nestroy
+    image: https://ursulagraber.files.wordpress.com/2021/02/aa-sternschnuppen_clemens_nestroy_4.jpg
+    data-group: superworkshop
+  - title: (c) Clemens Nestroy
+    image: https://ursulagraber.files.wordpress.com/2021/02/aa-sternschnuppen_clemens_nestroy_18.jpg
+    data-group: superworkshop
+  - title: (c) Clemens Nestroy
+    image: https://ursulagraber.files.wordpress.com/2021/02/aa-sternschnuppen_clemens_nestroy_21.jpg
+    data-group: superworkshop
+  - title: (c) Clemens Nestroy
+    image: https://ursulagraber.files.wordpress.com/2021/02/aa-sternschnuppen_clemens_nestroy_25.jpg
+    data-group: superworkshop
 
-#featured_video:
-#    title: Tonite
-#    url: https://player.vimeo.com/video/366332635
-#    id: 366332635
+featured_video:
+    title: Sternschnuppen und Kometen TRAILER
+    url: https://player.vimeo.com/video/512498076
+    id: 512498076
 ---
-
-![Gaile](https://ursulagraber.files.wordpress.com/2020/04/sternschnuppen_clemens_nestroy_42.jpg?w=500&fit=crop){: .center-image}
 
 Gruppenperformance von Ursula Graber
 

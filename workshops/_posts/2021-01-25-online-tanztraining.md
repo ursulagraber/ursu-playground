@@ -5,11 +5,12 @@ title: TanzFlow Online-Training
 
 layout: highlight
 
+categories:
+  - Workshops
+
 lang: de
 ref: TanzFlow
 
-categories:
-  - Workshops
 featured_image: https://ursulagraber.files.wordpress.com/2020/04/ursu_haende.jpg
 brief: the first new
 

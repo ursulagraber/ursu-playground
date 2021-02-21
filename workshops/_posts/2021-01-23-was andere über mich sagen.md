@@ -8,6 +8,11 @@ layout: workshop
 
 categories:
   - Workshops
+
+lang: de
+ref: wasandere
+
+
 featured_image: https://ursulagraber.files.wordpress.com/2020/10/foto-106.jpg
 brief: Workshop-Wochenende in Graz
 

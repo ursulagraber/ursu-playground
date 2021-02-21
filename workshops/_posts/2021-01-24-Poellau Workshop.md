@@ -7,6 +7,10 @@ layout: workshop
 
 categories:
   - Workshops
+
+lang: de
+ref: styriansummerart
+
 featured_image: https://ursulagraber.files.wordpress.com/2021/01/schloss-poellau.jpeg
 brief: Workshop-Wochenende in Graz
 
