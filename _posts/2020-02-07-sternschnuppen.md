@@ -54,7 +54,6 @@ Wenn der Organismus eines jeden Lebewesens sich selbstständig macht, verspielt 
 Magie setzt ein, Unerklärliches, Wunderbares, und wir staunen. Jenseits jeder Logik und doch einer geheimen Ordnung folgend. Kleine Teilchen eines großen Ganzen zischen und flutschen, leuchtend und mysteriös, den Gesetzen dieses Spiels folgend, und die mächtige Masse übernimmt das dynamiksteuernde Ruder.
 
 <br />
-
 Im Rahmen des Festivals *spleen\*trieb*.<br />
 <br />
 **Spielort:**<br />
@@ -69,8 +68,23 @@ Freier Eintritt.
 
 <!--plop-->
 
-Eine Bewegungperformance.
-Willkommen zurück!
+**Pressestimmen**
+<br>
+
+**"Ein Blick in den Sternenhimmel**
+<br>
+Warum tun wir, was wir tun? Was geschieht ohne Grund, welche Vorgänge in unserem Leben folgen unbekannten Gesetzen? Sternschnuppen und Kometen stellt in Frage, wie wir über Zufall und Regeln denken."
+<br>
+<i>[Valentin Bayer, Journalist]({{site.url}}/docs/ARTIKEL_Sternschnuppen.pdf)</i> <br>
+<i>[-->Vollständiger Artikel hier]({{site.url}}/docs/ARTIKEL_Sternschnuppen.pdf)</i>
+
+<br>
+"Die gesellschaftliche und dadurch inhaltliche Gebundenheit von öffentlichen Orten zu erspüren und sich deren inhaltlicher Vorgaben auszusetzen, um sich in ihnen zu spiegeln und ihnen gleichzeitig diese Spiegelung vorzuhalten, das ist wohl einer der Zugänge, den Ursula Graber gewählt hat. In ihrer Gruppenperformance „Sternschnuppen und Kometen“ führt sie uns das sehr deutlich vor Augen: Die Passanten bzw. die Rezipienten finden sich während der Performance quasi in dieser Spiegelung wider, wodurch Metaebenen entstehen können, die keinen moralischen Anspruch erheben und dennoch oder gerade deswegen, sehr berühren. Die chorischen Elemente der Gruppe, die sie benutzt und das Spiel mit der Zeit, unterstützen diesen Vorgang. Durch die Betrachtung von ungeschminkter und unverzierter Bewegung im öffentlichen Raum, wird ein in Kontakt, ein in Berührung kommen mit sich selbst, möglich."<br>
+<i><a href="http://kuenstler-leben.com/ursula-graber-die-magie-der-bewegung?fbclid=IwAR2TomgBov-b9F8LtlY4L70qz4veArlwK8isPLjCs3DcmdfNEq3O9VVFP_4">Mona May, Autorin & Regisseurin</a></i>
+<br>
+<a href="http://kuenstler-leben.com/ursula-graber-die-magie-der-bewegung?fbclid=IwAR2TomgBov-b9F8LtlY4L70qz4veArlwK8isPLjCs3DcmdfNEq3O9VVFP_4">-->Vollständiger Artikel hier</a> <br>
+
+
 
 
 <!--[![Totem](https://i.vimeocdn.com/video/746500438_640.jpg)](https://player.vimeo.com/video/306702195)-->

@@ -53,7 +53,6 @@ Performance per un grup d'Ursula Graber
 Quan l’organisme de tots els éssers vius esdevé independent, juganer i valent, passa: la màgia s’instal·la, allò inexplicable, allò meravellós i ens sorprèn. Més enllà de qualsevol lògica i, tot i això, seguint un ordre secret. Petites partícules d’un gran xiulet i lliscament, brillants i misterioses, seguint les lleis d’aquest joc i la poderosa massa s’apodera del timó que controla la dinàmica.
 
 <br />
-
 En el marc del festival *spleen\*trieb* Graz (AT).<br />
 <br />
 **Lloc:**<br />
