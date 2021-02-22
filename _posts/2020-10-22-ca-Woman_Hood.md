@@ -78,7 +78,7 @@ Què distingeix una sororitat, una xarxa solidària de dones? <br>
 Sóc una dona, si ...?
 
 
-Inspirada en el llibre de Sara Ahmed <9>Living a feminist life</i> (2017), l’espectacle
+Inspirada en el llibre de Sara Ahmed <i>Living a feminist life</i> (2017), l’espectacle
 intenta crear en el microcosmos de l’escenari una base feminista basada en fortes
 figures femenines, en una societat que encara està dominada pel patriarcat. En un
 món escènic màgic, amb dansa contemporània, amb un vestuari molt elaborat i una música
