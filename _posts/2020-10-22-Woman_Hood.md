@@ -82,6 +82,9 @@ Einer magische Bühnenwelt, mit zeitgenössischem Tanz, aufwendigen Kostümen un
 <!--plop-->
 
 <br>
+<del>12. März 2021 Premiere im Kristallwerk Graz - abgesagt!</del>
+
+
 **19. März 2021 Online-Stream PREMIERE, 19 Uhr**   
 
 **20. März 2021 Online-Stream, 20 Uhr**  

@@ -99,7 +99,7 @@ Ursula Graber es fa preguntes sobre el feminisme, l’emancipació del plaer i e
 
 
 
-<del>2-4 d'April 2020</del>    
+<del>2-4 d'April 2020 - cancel·lat!</del>    
 4-6 de septembre 2020, Kristallwerk Graz (AT)<br />
 
 <br />

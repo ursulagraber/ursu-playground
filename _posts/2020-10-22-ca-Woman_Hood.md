@@ -88,6 +88,7 @@ engrescadora <i>Woman Hood</i> sacseja i sorprèn.
 <!--plop-->
 
 <br />
+<del>12 de març 2021 Premiere en el teatre "Kristallwerk" Graz - cancel·lat!</del>
 
 **19 de març 2021 PREMIERE transmissió en línia, 19 h**   
 

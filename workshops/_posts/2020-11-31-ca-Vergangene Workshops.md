@@ -22,11 +22,11 @@ Si vols dansar i entrenar en línia amb mi a casa teva clica <a href="http://www
 
 <br>
 
-<del>Desembre 2020: Improvisació de dansa, Taller de 5 dies per UniT, Graz - cancellat.</del>
+<del>Desembre 2020: Improvisació de dansa, Taller de 5 dies per UniT, Graz - cancel·lat.</del>
 
 <br>
 
-<del>Novembre 2020: "EXPERIMENTA AMB LA DANSA CONTEMPORÀNIA", Taller al Centre cívic Ter, Girona - cancellat.</del>
+<del>Novembre 2020: "EXPERIMENTA AMB LA DANSA CONTEMPORÀNIA", Taller al Centre cívic Ter, Girona - cancel·lat.</del>
 
 <br>
 
@@ -34,7 +34,7 @@ Septembre 2020: "EXPERIMENTA AMB LA DANSA CONTEMPORÀNIA", Taller a Graz, amb el
 
 <br>
 
-<del>Primavera 2020: Improvisació de dansa, Taller de 5 dies per UniT, Graz - cancellat.</del>
+<del>Primavera 2020: Improvisació de dansa, Taller de 5 dies per UniT, Graz - cancel·lat.</del>
 
 <br>  
 
