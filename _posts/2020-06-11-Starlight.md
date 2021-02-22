@@ -1,6 +1,6 @@
 ---
 date: 2020-06-11
-title: Starlight Killjoy
+title: Starlight 'Killjoy' Coquelicot
 
 layout: post
 
