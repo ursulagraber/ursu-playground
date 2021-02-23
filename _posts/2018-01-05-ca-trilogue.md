@@ -1,5 +1,5 @@
 ---
-date: 2017-01-05
+date: 2018-01-05
 title: Trilogue
 
 layout: post
@@ -18,7 +18,7 @@ cast:
   sound_light: Ulrich Gladisch, Ralf Beyer
   location: Mumuth, Graz
   vimeo: https://vimeo.com/233919406
-  date: 2017-01-05
+  date: 2018-01-05
   other: "Visual Artist: Pol Monsó Purtí. Artistic consultant: Lisa Como"
 
 galleries:
