@@ -47,7 +47,7 @@ galleries:
   image: https://ursulagraber.files.wordpress.com/2020/09/mg_5395.jpg?w=1024&fit=crop
   data-group: superworkshop
 - title: Starlight Killjoy (c) Clemens Nestroy
-  image: https://ursulagrhttps://ursulagraber.files.wordpress.com/2021/02/c-edi-haberl-1.jpgaber.files.wordpress.com/2020/09/mg_5454.jpg?w=1024&fit=crop
+  image: https://ursulagraber.files.wordpress.com/2020/09/mg_5454.jpg?w=1024&fit=crop
   data-group: superworkshop
 - title: Starlight Killjoy (c) Clemens Nestroy
   image: https://ursulagraber.files.wordpress.com/2020/09/mg_5558.jpg?w=1024&fit=crop

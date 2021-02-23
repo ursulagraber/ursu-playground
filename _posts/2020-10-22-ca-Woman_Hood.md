@@ -118,7 +118,7 @@ Una creació d'Ursula Graber<br />
 
 <!--plop-->
 
-**Credits**  
+**Fitxer tècnic**  
 Concepte, performance, coreografia: 	**Ursula Graber**  
 Dramatúrgia:	**Hanna Rohn, Bàrbara Raubert**   
 Vestuari:	**Ana Vivero**  
@@ -142,7 +142,12 @@ Editing & Trailer: **Berta Monsó Purtí**
 Bildrecht GmbH   
 Centre Cívic Ter, Girona
 
+<br>
 
+**COM FUNCIONA EL STREAM EN LÍNIA**
+<br>
+
+Compra el teu bitllet d’entrada a la <a href="https://shop.ticketteer.com/ursula_graber_contemporary_dancer_choreographer/e/evt_60230a12e25f0300199e66b6">botiga d’entrades</a>. El dia que seleccionis (19 o 20 de març), rebràs l'enllaç al vídeo 30 minuts abans de la transmissió en línia. Prepara’t 15 minuts abans que comenci l’actuació en un lloc tranquil. Utilitza uns bons altaveus o auriculars per gaudir-ne de manera òptima. L'actuació dura aproximadament una hora; després rebràs l'enllaç a la tertúlia :) El 19 de març la tertúlia serà en alemany i estarà moderada per la sociòloga Karin Scaria-Braunstein (Graz), el 20.3. serà en català i la moderadora serà la crítica de dansa Bàrbara Raubert (Barcelona).
 
 
 <!--plop-->
