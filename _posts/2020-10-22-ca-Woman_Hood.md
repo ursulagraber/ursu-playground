@@ -62,8 +62,8 @@ galleries:
 
 featured_video:
     title: Tonite
-    url: https://player.vimeo.com/video/511155046
-    id: 511155046
+    url: https://player.vimeo.com/video/523942516
+    id: 523942516
 ---
 
 

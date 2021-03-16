@@ -61,8 +61,8 @@ galleries:
 
 featured_video:
     title: Tonite
-    url: https://player.vimeo.com/video/511155046
-    id: 511155046
+    url: https://player.vimeo.com/video/523942516
+    id: 523942516
 ---
 
 
@@ -101,7 +101,7 @@ An beiden Tagen gibt es einen anschließendem Artist Talk:
 <br />
 
 
-*“Bin ich eine Frau, wenn ...?”<br />*
+*[> > Kritik von Eveline Koberg auf tanz.at](http://www.tanz.at/index.php/kritiken/kritiken-2021/2443-ursula-graber-woman-hood)<br />*
 
 
 <br />
