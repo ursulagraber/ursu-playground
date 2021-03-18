@@ -104,8 +104,10 @@ An beiden Tagen gibt es einen anschließendem Artist Talk:
 *[> > Kritik von Eveline Koberg auf tanz.at](http://www.tanz.at/index.php/kritiken/kritiken-2021/2443-ursula-graber-woman-hood)<br />*
 
 
-<br />
+*[> > Kritik von Ute Baumhackl in der Kleinen Zeitung](https://www.kleinezeitung.at/kultur/festspiele/5952977/Selbstbewusste-Weiblichkeit-die-kratzt-und-Spass-macht)<br />*
 
+
+<br />
 
 
 Von und mit Ursula Graber<br />

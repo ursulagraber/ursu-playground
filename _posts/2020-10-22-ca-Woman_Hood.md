@@ -103,13 +103,10 @@ Els dos dies la transmissió és seguida de tertúlia amb els artistes:
 <a href="https://shop.ticketteer.com/ursula_graber_contemporary_dancer_choreographer/e/evt_60230a12e25f0300199e66b6">> >Botiga de les entrades</a>
 
 
-<br />
-
-
-*“Sóc una dona, si...?”<br />*
-
 
 <br />
+
+*[> > Article en Naciódigital](https://www.naciodigital.cat/baixmontseny/noticia/15991/ballarina-coreografa-ursula-graber-posa-escena-woman-hood)<br />*
 
 
 
