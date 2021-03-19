@@ -84,6 +84,8 @@ figures femenines, en una societat que encara està dominada pel patriarcat. En
 món escènic màgic, amb dansa contemporània, amb un vestuari molt elaborat i una música
 engrescadora <i>Woman Hood</i> sacseja i sorprèn.  
 
+[![PROGRAMMHEFT]({{site.url}}/images/file-icon.png){: .center-image}PROGRAMA WOMAN HOOD]({{site.url}}/docs/Programmheft_WomanHood_CAT.pdf){: .center-image}
+
 
 <!--plop-->
 
@@ -113,7 +115,13 @@ Els dos dies la transmissió és seguida de tertúlia amb els artistes:
 Una creació d'Ursula Graber<br />
 
 
+[![PROGRAMMHEFT]({{site.url}}/images/file-icon.png){: .center-image}PROGRAMA WOMAN HOOD]({{site.url}}/docs/Programmheft_WomanHood_CAT.pdf){: .center-image}
+
+
 <!--plop-->
+
+[![PROGRAMMHEFT]({{site.url}}/images/file-icon.png){: .center-image}PROGRAMA WOMAN HOOD]({{site.url}}/docs/Programmheft_WomanHood_CAT.pdf){: .center-image}
+
 
 **Fitxer tècnic**  
 Concepte, performance, coreografia: 	**Ursula Graber**  
