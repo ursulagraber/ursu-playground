@@ -124,7 +124,7 @@ Konzept, Performance, Choreografie: 	**Ursula Graber**
 Dramaturgie:	**Hanna Rohn, Bàrbara Raubert**   
 Kostüm:	**Ana Vivero**  
 3D-Kamera: **Pol Monsó Purtí**   
-Licht- und Tontechnik:	**Tom Bergner**   
+Licht- und Tontechnik:	**Lisa Raschhofer**   
 Organisation & PR:	**Laura Halb, Ursula Graber**  
 Filmaufnahme: **Fabian Czernovsky**   
 Filmschnitt & Trailer: **Berta Monsó Purtí**

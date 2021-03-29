@@ -122,7 +122,7 @@ Concepte, performance, coreografia: 	**Ursula Graber**
 Dramatúrgia:	**Hanna Rohn, Bàrbara Raubert**   
 Vestuari:	**Ana Vivero**  
 Càmera 3D: **Pol Monsó Purtí**   
-Tecnologia de la llum i el so:	**Tom Bergner**   
+Tecnologia de la llum i el so:	**Lisa Raschhofer**   
 Organització i relacions públiques:	**Laura Halb, Ursula Graber**  
 Càmera: **Fabian Czernovsky**   
 Editing & Trailer: **Berta Monsó Purtí**
