@@ -31,7 +31,7 @@ shown-categories:
     {% assign items = site.categories.News | sort: "date" | reverse | where:"lang", page.lang %}
      {% for item in items %}
       <div class="thumbnail">
-        <a href="{{ item.featured_image }}" title="{{ item.title }}" class="js-smartPhoto" data-caption="{{ item.title }}" data-id="{{ item.title }}" data-group="{{ item.data-group }}">
+        <a href="{{ item.url }}" title="{{ item.title }}" class="js-smartPhoto" data-caption="{{ item.title }}" data-id="{{ item.title }}" data-group="{{ item.data-group }}">
           <img src="{{ item.featured_image }}&w=300&h=300&output=jpg&q=50&t=square" />
           <p class="caption">
             {{ item.title }}
@@ -45,15 +45,15 @@ shown-categories:
           {% if item.categories contains page.shown-categories[0] or item.categories contains page.shown-categories[1] %}
            {% if item.video %}
              <div class="thumb-container">
-               <a href="{{ item.image }}" title="{{ item.title }}" class="js-video-vimeo-btn" data-video-id="{{ item.video_id }}" data-caption="{{ item.title }}" data-id="{{ item.title }}" data-group="{{ item.data-group }}">
+               <a href="{{ item.url }}" title="{{ item.title }}" class="js-video-vimeo-btn" data-video-id="{{ item.video_id }}" data-caption="{{ item.title }}" data-id="{{ item.title }}" data-group="{{ item.data-group }}">
                  <img class="thumb" src="{{ item.image }}&w=300&h=300&output=jpg&q=50&t=square" />
                </a>
-               <a href="{{ item.image }}" class="play-overlay js-video-vimeo-btn raise" data-video-id="{{ item.video_id }}" data-caption="{{ item.title }}" data-id="{{ item.title }}" data-group="{{ item.data-group }}">
+               <a href="{{ item.url }}" class="play-overlay js-video-vimeo-btn raise" data-video-id="{{ item.video_id }}" data-caption="{{ item.title }}" data-id="{{ item.title }}" data-group="{{ item.data-group }}">
                </a>
              </div>
            {% else %}
            <div class="thumbnail">
-             <a href="{{ item.featured_image }}" title="{{ item.title }}" class="js-smartPhoto" data-caption="{{ item.title }}" data-id="{{ item.title }}" data-group="{{ item.data-group }}">
+             <a href="{{ item.url }}" title="{{ item.title }}" class="js-smartPhoto" data-caption="{{ item.title }}" data-id="{{ item.title }}" data-group="{{ item.data-group }}">
                <img src="{{ item.featured_image }}&w=300&h=300&output=jpg&q=50&t=square" />
                <p class="caption">
                  {{ item.title }}
