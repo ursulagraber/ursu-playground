@@ -25,87 +25,43 @@ shown-categories:
 <!-- TODO: use a carousel that fast-scrolls to selected thumbnail -->
 <!-- selecting "solo" category for item in site.categories.Solo -->
 
-{% for category in site.categories %}
-{% if 'News' == category[0] %}
-  <div class="flex-container {% cycle 'lean-left', 'lean-right' %}">
-    <div class="element-container dark-color">
-      <h2>{{ category[0] }}</h2>
-      <div class="video-list-overview">
-        <p>Klick auf das Bild und erfahre mehr darüber!</p>
-        <div class="thumbnails-flex grow" id="thumb-selector">
-          {% assign items=category[1] | where:"lang", page.lang %}
-          {% for item in items %}
-          <a href="#" name="{{ category[0] | cgi_escape }}{{ forloop.index0 }}" title="{{ item.title }}" class="js-smartPhoto" data-caption="{{ item.title }}" data-id="{{ item.title }}" data-group="todo">
-            <img src="{{ item.featured_image }}&w=300&h=300&output=jpg&q=50&t=square" />
-          </a>
-          {% endfor %}
-        </div>
-      </div>
-    </div>
-    <div class="element-container light-color big-flex" id="accordeon">
-      {% assign items=category[1] | where:"lang", page.lang %}
+<div class="element-container dark-color">
+  <div class="masonry-performance">
+    <h2>News</h2>
+    {% assign items = site.categories.News | sort: "date" | reverse | where:"lang", page.lang %}
+     {% for item in items %}
+      <div class="thumbnail">
+        <a href="{{ item.featured_image }}" title="{{ item.title }}" class="js-smartPhoto" data-caption="{{ item.title }}" data-id="{{ item.title }}" data-group="{{ item.data-group }}">
+          <img src="{{ item.featured_image }}&w=300&h=300&output=jpg&q=50&t=square" />
+          <p class="caption">
+            {{ item.title }}
+          </p>
+       </a>
+       </div>
+     {%endfor%}
+     <h2>Performances</h2>
+     {% assign items = site.posts | sort: "date" | reverse | where:"lang", page.lang %}
       {% for item in items %}
-      <dl class="element-centered" id="pnl-{{ category[0] | cgi_escape }}{{ forloop.index0 }}">
-        <figure class="overview-feat-vid">
-          <a href="{{ item.url }}" title="Go to {{ item.title }}">
-            <img src="{{ item.featured_image }}" height="200px" alt="{{ item.title }}">
-          </a>
-        </figure>
-        <div class="caption-container">
-          <span class="caption-title">{{ item.title }}</span><br />
-          <p>
-          {{ item.brief }} <br />
-          </p>
-          <p>
-            <a href="{{ item.url }}">Read more</a>
-          </p>
-        </div>
-      </dl>
-      {% endfor %}
-    </div>
-  </div>
-  {% endif %}
-{% endfor %}
-
-{% for category in site.categories %}
-{% if page.shown-categories contains category[0] %}
-  <div class="flex-container {% cycle 'lean-left', 'lean-right' %}">
-    <div class="element-container dark-color">
-      <h2>{{ category[0] }}</h2>
-      <div class="video-list-overview">
-        <p>Schau’ dir die anderen Projekte an</p>
-        <div class="thumbnails-flex grow" id="thumb-selector">
-          {% assign items=category[1] | where:"lang", page.lang %}
-          {% for item in items %}
-          <a href="#" name="{{ category[0] | cgi_escape }}{{ forloop.index0 }}" title="{{ item.title }}" class="js-smartPhoto" data-caption="{{ item.title }}" data-id="{{ item.title }}" data-group="todo">
-            <img src="{{ item.featured_image }}&w=300&h=300&output=jpg&q=50&t=square" />
-          </a>
-          {% endfor %}
-        </div>
-      </div>
-    </div>
-    <div class="element-container light-color big-flex" id="accordeon">
-      {% assign items=category[1] | where:"lang", page.lang %}
-      {% for item in items %}
-      <dl class="element-centered" id="pnl-{{ category[0] | cgi_escape }}{{ forloop.index0 }}">
-        <figure class="overview-feat-vid">
-          <a href="{{ item.url }}" title="Go to {{ item.title }}">
-            <img src="{{ item.featured_image }}" height="200px" alt="{{ item.title }}">
-          </a>
-        </figure>
-        <div class="caption-container">
-          <span class="caption-title">{{ item.title }}</span><br />
-          ({{ item.date | date: "%Y" }})<br />
-          <p>
-          {{ item.brief }} <br />
-          </p>
-          <p>
-            <a href="{{ item.url }}">Read more</a>
-          </p>
-        </div>
-      </dl>
-      {% endfor %}
-    </div>
-  </div>
-  {% endif %}
-{% endfor %}
+          {% if item.categories contains page.shown-categories[0] or item.categories contains page.shown-categories[1] %}
+           {% if item.video %}
+             <div class="thumb-container">
+               <a href="{{ item.image }}" title="{{ item.title }}" class="js-video-vimeo-btn" data-video-id="{{ item.video_id }}" data-caption="{{ item.title }}" data-id="{{ item.title }}" data-group="{{ item.data-group }}">
+                 <img class="thumb" src="{{ item.image }}&w=300&h=300&output=jpg&q=50&t=square" />
+               </a>
+               <a href="{{ item.image }}" class="play-overlay js-video-vimeo-btn raise" data-video-id="{{ item.video_id }}" data-caption="{{ item.title }}" data-id="{{ item.title }}" data-group="{{ item.data-group }}">
+               </a>
+             </div>
+           {% else %}
+           <div class="thumbnail">
+             <a href="{{ item.featured_image }}" title="{{ item.title }}" class="js-smartPhoto" data-caption="{{ item.title }}" data-id="{{ item.title }}" data-group="{{ item.data-group }}">
+               <img src="{{ item.featured_image }}&w=300&h=300&output=jpg&q=50&t=square" />
+               <p class="caption">
+                 {{ item.title }}
+               </p>
+            </a>
+            </div>
+           {% endif %}
+       {% endif %}
+     {% endfor %}
+   </div>
+</div>
