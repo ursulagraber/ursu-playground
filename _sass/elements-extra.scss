@@ -570,8 +570,11 @@ figure#right {
 .masonry-performance {
 	display: block;
 
-  columns: 5 200px;
+  columns: 2 600px;
   column-gap: 2em;
+  justify-content: center;
+
+	padding: 2em;
 
 	img {
 	    display: block;
@@ -582,15 +585,36 @@ figure#right {
 	    display: inline-block;
 	}
 
-	.caption {
-	    position: absolute;
-	    top: 70%;
-	    left: 50%;
-	    transform: translate( -50%, -30% );
+	.caption-below {
 	    text-align: center;
-	    color: white;
+	    color: black;
 	    font-weight: bold;
-			background: rgba(0, 0, 0, 0.5);
+			font-size: 2em;
+			background: rgba(200, 200, 200, 0.5);
+	}
+
+	.caption {
+		position: absolute;
+		left: 0%;
+		right: 0%;
+		bottom: 0%;
+		text-align: center;
+		color: white;
+		font-weight: bold;
+		font-size: 1.8em;
+		padding: 1em;
+		background: rgba(0, 0, 0, 0.5);
+
+		span {
+			font-size: 0.7em;
+	 		font-weight: normal;
+			vertical-align: middle;
+		}
+
+		@media screen and #{$half-screen}
+		{
+			font-size: 1em;
+		}
 	}
 
   // div {
