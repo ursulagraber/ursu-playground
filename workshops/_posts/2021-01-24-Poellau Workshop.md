@@ -21,7 +21,7 @@ galleries:
 <b> TanzImpro Workshop </b>
 <br>    
 
-![](https://ursulagraber.files.wordpress.com/2021/06/ursu-boden.jpg?w=500&fit=crop){: .left-image}
+{% include video-embed-responsive.html url='https://www.youtube.com/embed/xUflktHsI78' %}
 
 
 Für Menschen die Bewegung lieben und mehr über Tanz wissen wollen.
@@ -46,3 +46,6 @@ Das bringt es dir:
 - du hast dann die Werkzeuge in der Hand um tanzend improvisieren zu können
 
 Klicke bitte <a href="http://www.styriansummerart.at/kurse/koerperbewegungen-und-tanz-improvisation-mit-ursula-graber/">hier</a> für alle Infos und Anmeldung! Ich freu mich auf dich.
+
+
+![](https://ursulagraber.files.wordpress.com/2021/06/ursu-boden.jpg?w=500&fit=crop){: .center-image}
