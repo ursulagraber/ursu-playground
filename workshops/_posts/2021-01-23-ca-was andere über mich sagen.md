@@ -1,6 +1,7 @@
 ---
 date: 2021-01-23
 
+
 location: Graz
 title: El que els altres diuen de mi
 
