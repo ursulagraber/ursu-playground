@@ -1,5 +1,5 @@
 ---
-date: 2021-01-25
+date: 2021-01-20
 location: Graz
 title: TanzFlow Online-Training
 

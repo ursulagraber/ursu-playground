@@ -1,7 +1,7 @@
 ---
 date: 2021-01-24
 location: Graz
-title: Styrian Summer Art Festival - Workshop Sommer 2021
+title: TanzImpro Workshop 9.-11.07.2021
 
 layout: workshop
 
@@ -11,29 +11,38 @@ categories:
 lang: de
 ref: styriansummerart
 
-featured_image: https://ursulagraber.files.wordpress.com/2021/01/schloss-poellau.jpeg?w=500&fit=crop
+featured_image: https://ursulagraber.files.wordpress.com/2021/06/ursu-boden.jpg?w=500&fit=crop
 brief: Workshop-Wochenende in Graz
 
 galleries:
 
 
 ---
-Beim <a href="http://www.styriansummerart.at/kurse/koerperbewegungen-und-tanz-improvisation-mit-ursula-graber/">Styrian Summer Art Festival</a>  in Pöllau gibt es diesen Sommer einen Workshop mit mir.
+<b> TanzImpro Workshop </b>
+<br>    
 
-![](https://ursulagraber.files.wordpress.com/2021/01/schloss-poellau.jpeg){: .center-image}
+![](https://ursulagraber.files.wordpress.com/2021/06/ursu-boden.jpg?w=500&fit=crop){: .left-image}
 
 
-<b>Körperbewegung und (Tanz-)Improvisation</b>
-<br>
+Für Menschen die Bewegung lieben und mehr über Tanz wissen wollen.
+<br>   
+Du hast schon jede Menge Tanzworkshops gemacht aber du suchst einen der dich (kreativ) abholt?
+<br>   
+Du willst (nach Monaten nur zu Hause) wieder in die Gänge kommen?
+<br>   
 Freitag, 9. Juli bis Sonntag, 11. Juli 2021
 <br>
-Kursdauer: 3 Tage
+Im Rahmen vom wunderbaren <a href="http://www.styriansummerart.at/kurse/koerperbewegungen-und-tanz-improvisation-mit-ursula-graber/">Styrian Summer Art Festival</a>  in Pöllau - Spaß, Sommer, Natur und Tanz mit Ursula!
+<br>   
+
+Das bringt es dir:
 <br>
-Preis: € 295
+- deinen Körper und dich selbst besser kennen lernen
+- deine eigenen Grenzen austesten
+- Glückshormone durch die Bewegung
+- Körper und Geist lernen Neues
+- Spaß, Auszeit, Natur, Sommer
+- dich weiterentwickeln
+- du hast dann die Werkzeuge in der Hand um tanzend improvisieren zu können
 
-
-
-
-Klicke bitte <a href="http://www.styriansummerart.at/kurse/koerperbewegungen-und-tanz-improvisation-mit-ursula-graber/">hier</a> für alle Infos! Ich freu mich auf dich.
-
-![](https://ursulagraber.files.wordpress.com/2020/11/dscf4001.jpg?w=300&fit=crop){: .center-image}
+Klicke bitte <a href="http://www.styriansummerart.at/kurse/koerperbewegungen-und-tanz-improvisation-mit-ursula-graber/">hier</a> für alle Infos und Anmeldung! Ich freu mich auf dich.

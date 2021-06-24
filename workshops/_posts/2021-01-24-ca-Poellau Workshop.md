@@ -11,7 +11,7 @@ categories:
 lang: ca
 ref: styriansummerart
 
-featured_image: https://ursulagraber.files.wordpress.com/2021/01/schloss-poellau.jpeg?w=500&fit=crop
+featured_image: https://ursulagraber.files.wordpress.com/2021/06/ursu-boden.jpg?w=500&fit=crop
 brief: Workshop-Wochenende in Graz
 
 galleries:
