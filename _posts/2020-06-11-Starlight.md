@@ -127,7 +127,7 @@ Die Vielfalt im Angesprochenen oder gar Assoziierbaren ist bei der Reduktion der
 </p>
 
 
-[![Presse](https://ursulagraber.files.wordpress.com/2020/08/artikel.png?w=300){: .center-image}](https://ursulagraber.files.wordpress.com/2020/08/artikel.png?w=1000)
+[![Presse](https://ursulagraber.files.wordpress.com/2020/08/artikel.png?w=300)](https://ursulagraber.files.wordpress.com/2020/08/artikel-kleine-zeitung.jpg)
 
 
 <br />
