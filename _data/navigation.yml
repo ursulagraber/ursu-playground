@@ -9,7 +9,7 @@ de:
    link: /workshops/
 -  name: Galerie
    link: /gallery/
--  name: Kontakt - Presse/Medien
+-  name: Kontakt/Presse
    link: /contact/
 ca:
 -  name: Home
@@ -22,5 +22,5 @@ ca:
    link: /workshops-ca/
 -  name: Galeria
    link: /gallery-ca/
--  name: Contacte - Premsa
+-  name: Contacte/Premsa
    link: /contact-ca/
