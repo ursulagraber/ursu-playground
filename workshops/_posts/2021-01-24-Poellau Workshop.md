@@ -1,7 +1,7 @@
 ---
 date: 2021-01-24
 location: Graz
-title: TanzImpro Workshop 9.-11.07.2021
+title: TanzImpro Workshop 01.-03. Oktober!
 
 layout: workshop
 
@@ -30,7 +30,10 @@ Du hast schon jede Menge Tanzworkshops gemacht aber du suchst einen der dich (kr
 <br>   
 Du willst (nach Monaten nur zu Hause) wieder in die Gänge kommen?
 <br>   
-Freitag, 9. Juli bis Sonntag, 11. Juli 2021
+<del>Freitag, 9. Juli bis Sonntag, 11. Juli 2021</del>
+<br>
+<b>!!! ACHTUNG: Der Workshop wurde auf 1. - 3. Oktober verschoben!!!</b>
+
 <br>
 Im Rahmen vom wunderbaren <a href="http://www.styriansummerart.at/kurse/koerperbewegungen-und-tanz-improvisation-mit-ursula-graber/">Styrian Summer Art Festival</a>  in Pöllau - Spaß, Sommer, Natur und Tanz mit Ursula!
 <br>   
