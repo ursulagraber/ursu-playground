@@ -24,3 +24,16 @@ ca:
    link: /gallery-ca/
 -  name: Contacte/Premsa
    link: /contact-ca/
+en:
+-  name: Home
+   link: /index-en/
+-  name: About me
+   link: /about-en/
+-  name: Performances
+   link: /projects-en/
+-  name: Workshops
+   link: /workshops-en/
+-  name: Gallery
+   link: /gallery-en/
+-  name: Contact/Press
+   link: /contact-en/
