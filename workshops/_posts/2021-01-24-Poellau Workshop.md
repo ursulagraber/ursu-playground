@@ -32,7 +32,8 @@ Du willst (nach Monaten nur zu Hause) wieder in die Gänge kommen?
 <br>   
 <del>Freitag, 9. Juli bis Sonntag, 11. Juli 2021</del>
 <br>
-<b>!!! ACHTUNG: Der Workshop wurde auf 1. - 3. Oktober verschoben!!!</b>
+<b>!!! ACHTUNG: Der Workshop wurde auf 1. - 3. Oktober verschoben!!!</b>   
+Anmeldeschluss: 17. September 2021
 
 <br>
 Im Rahmen vom wunderbaren <a href="http://www.styriansummerart.at/kurse/koerperbewegungen-und-tanz-improvisation-mit-ursula-graber/">Styrian Summer Art Festival</a>  in Pöllau - Spaß, Sommer, Natur und Tanz mit Ursula!
@@ -48,7 +49,8 @@ Das bringt es dir:
 - dich weiterentwickeln
 - du hast dann die Werkzeuge in der Hand um tanzend improvisieren zu können
 
-Klicke bitte <a href="http://www.styriansummerart.at/kurse/koerperbewegungen-und-tanz-improvisation-mit-ursula-graber/">hier</a> für alle Infos und Anmeldung! Ich freu mich auf dich.
+Klicke bitte <a href="http://www.styriansummerart.at/kurse/koerperbewegungen-und-tanz-improvisation-mit-ursula-graber/">hier</a> für alle Infos und Anmeldung! Ich freu mich auf dich.   
+Anmeldeschluss: 17. September 2021
 
 
 ![](https://ursulagraber.files.wordpress.com/2021/06/ursu-boden.jpg?w=500&fit=crop){: .center-image}
