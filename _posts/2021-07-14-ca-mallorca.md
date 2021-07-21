@@ -4,13 +4,13 @@ title: Mallorca a Estíria - Schwgrmttrtchtrsprchn
 
 layout: post
 
-lang: de
+lang: ca
 ref: mallorca
 
 categories:
   - News
 featured_image: https://ursulagraber.files.wordpress.com/2021/07/mallorca-a-estiria-c-neus-sola_12_small.jpg?w=500&fit=crop
-brief: 15.-21.09. 2021 (außer 19.9.), Theater im Keller, Graz
+brief: 15.-21.09. 2021 (excepte 19.9.), Theater im Keller, Graz
 author: Ursula Graber
 cast:
   concept: Ursula Graber
@@ -58,42 +58,41 @@ featured_video:
 
 
 *"Mallorca a Estíria - Schwgrmttrtchtrsprchn"*   
-*Ursula Graber und Eulàlia Purtí (Nats Teatre)*
+*Ursula Graber i Eulàlia Purtí (Nats Teatre)*
 
-Es heißt, die Sprache der Liebe ist universell. Wie verhält es sich dann mit einer Familiensprache? Was definiert unsere Muttersprache? Welche Sprachen sprechen wir und mit wem?
+Es diu que el llenguatge de l’amor és universal. Llavors, què passa amb una llengua familiar? Què defineix la nostra llengua materna? Quines llengües parlem i amb qui?   
 
-Mallorca a Estíria ist eine Performance Lecture: ein Forschungsauftrag an Künstlerinnen und Publikum gleichermaßen, Unterschiede und Gemeinsamkeiten der eigenen Sprache zu erkunden.
-Hochsprache und Dialekt benennen zwei komplementäre Positionen, so wie die Künstlerinnen als Schwiegermutter und Schwiegertochter zwei Pole bilden und sich gleichzeitig ergänzen.   
+Mallorca a Estíria és una conferència performatitzada: una mena de recerca per les artistes i el públic també, per explorar diferències i similituds en el seu propi idioma. La llengua estàndard i el dialecte nomenen dues posicions complementàries, de la mateixa manera que els artistes com a sogra i jove formen dos pols i es complementen alhora.   
 
-Was geschieht mit unserer Identität, wenn wir die Sprache wechseln?   
+Què passa amb la nostra identitat quan canviem d'idioma? La ballarina de Graz Ursula Graber i l’actriu catalana Eulàlia Purtí canvien les llengües com canviar vestuaris. Canvien els costums i els valors culturals com els altres canvien de mitjons.   
 
-Die Grazer Tänzerin Ursula Graber und die katalanische Schauspielerin Eulàlia Purtí schlüpfen in Sprachen wie in Kostüme. Sie wechseln kulturelle Gewohnheiten und Werte wie andere ihre Socken. Die Bühne wird vom Sprech-Raum zum Sprachraum. Gesten, Rhythmen und Laute fließen in Melodien und Tanzbewegungen zusammen. Die beiden Protagonistinnen ergründen Traditionen, sie zerstückeln persönliche und kulturelle Identitäten, um diese sodann neu zu verknüpfen.   
+L’escenari passa d’un espai de parla a un espai lingüístic. Gestos, ritmes i sons flueixen junts en melodies i moviments de dansa. Les dues protagonistes exploren les tradicions, desmembren les identitats personals i culturals per tornar a connectar-les.   
 
-Sprache ist Beziehung, hier auf Augenhöhe, dort hierarchisch. Während die eine Komponente an Bedeutung verliert, gewinnt die andere die Oberhand. Wie in einem stetig wogenden Tanz, in dem mal die Eine, mal die Andere führt.  
+El llenguatge és relació, aquí en peu d’igualtat, allà jeràrquicament. Tot i que un component esdevé menys important, l’altre guanya el domini. Com en una dansa que es balanceja constantment, en què de vegades una, de vegades l’altra condueix.   
 
 
 <!--plop-->
 
 <br>
-**Premiere im Rahmen des Festivals [newsOFFstyria](https://www.theaterland.at/2021/newsoffstyria-2.21/index.html):   
-am 15. September 2021, 20 Uhr, Theater im Keller, Graz**
+**S'estrena en el marc del festival [newsOFFstyria](https://www.theaterland.at/2021/newsoffstyria-2.21/index.html):   
+el 15 de setembre 2021, 20h, Theater im Keller, Graz**
 
-<a href="https://www.theaterland.at/2021/newsoffstyria-2.21/ursula-graber-nats-teatre-mallorca-a-estiria.html"> > > > Link zu Tickets für die Premiere: 15.09.21 < < < </a>
+<a href="https://www.theaterland.at/2021/newsoffstyria-2.21/ursula-graber-nats-teatre-mallorca-a-estiria.html"> > > > Enllaç per les entrades per l'estrena: 15.09.21 < < < </a>
 
-*Begrenzte Platzanzahl - RESERVIERUNG unbedingt erforderlich!*
+*Nombre limitat de places: imprescindible RESERVAR.*
 
 
-**Weitere Vorstellungen: 16., 17., 18., 20., 21. September 2021, jeweils 20 Uhr, Theater im Keller**   
+**Més funcions: 16, 17, 18, 20, 21 de setembre 2021, a les 20h, Theater im Keller**   
 
 <a href="https://shop.ticketteer.com/ursula_graber_contemporary_dancer_choreographer/e/evt_60e28d08ee3cac001e6dac1b" target="_blank">
   <img
     src="/images/ticket-btns/get-tickets-256.png"
-    alt="> > > Link zu Tickets für die weiteren Vorstellungen < < <"
+    alt="> > > Enllaç per les entrades per les altres funcions < < <"
   />
 </a>
 
 
-*Aufgrund der begrezten Platzanzahl im Theater im Keller empfiehlt sich ein baldiger Ticketkauf.*
+*A causa del nombre limitat de places al Theater im Keller, és aconsellable comprar entrades aviat.*
 
 
 
@@ -102,15 +101,15 @@ am 15. September 2021, 20 Uhr, Theater im Keller, Graz**
 
 
 **Credits**  
-Konzept, Performance, Choreografie: 	**Ursula Graber**   
+Concepte, coreografia: 	**Ursula Graber**   
 Performance:   **Eulàlia Purtí (Nats teatre)**   
-Dramaturgie:	**Bàrbara Raubert**      
-Kostüm:	**Ana Vivero**    
-Soziologische Beratung:   **Karin Scaria-Braunstein**    
-Regie-Beratung: **Joan Monells**     
-Produktion:   **Andreas Krampl**   
-Organisation & Öffentlichkeitsarbeit:  **Mirella Bärnthaler**   
-Licht- und Tontechnik:	**Peter Spall**       
+Dramatúrgia:	**Bàrbara Raubert**      
+Vestuari:	**Ana Vivero**    
+Consells sociològics:   **Karin Scaria-Braunstein**    
+Consells de direcció: **Joan Monells**     
+Consells de direcció:   **Andreas Krampl**   
+Organització i relacions públiques:  **Mirella Bärnthaler**   
+Tecnologia de la llum i el so:	**Peter Spall**       
 Fotos:   **Neus Solà**   
 
 
@@ -126,7 +125,7 @@ Fotos:   **Neus Solà**
 
 <!--plop-->
 
-Ein Abend voller Magie und Inspiration!<br />
+Una nit perfecte plena de magia i inspiració<br />
 
 
 <!--[![Totem](https://i.vimeocdn.com/video/746500438_640.jpg)](https://player.vimeo.com/video/306702195)-->
