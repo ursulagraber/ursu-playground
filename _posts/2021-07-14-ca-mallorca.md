@@ -62,9 +62,9 @@ featured_video:
 
 Es diu que el llenguatge de l’amor és universal. Llavors, què passa amb una llengua familiar? Què defineix la nostra llengua materna? Quines llengües parlem i amb qui?   
 
-Mallorca a Estíria és una conferència performatitzada: una mena de recerca per les artistes i el públic també, per explorar diferències i similituds en el seu propi idioma. La llengua estàndard i el dialecte nomenen dues posicions complementàries, de la mateixa manera que els artistes com a sogra i jove formen dos pols i es complementen alhora.   
+Mallorca a Estíria és una conferència escenificada, una mena de recerca per a les artistes i per al públic també, per explorar diferències i similituds en el seu propi idioma. La llengua estàndard i el dialecte delimiten dues posicions complementàries, de la mateixa manera que les artistes com a sogra i jove formen dos pols i es complementen alhora.    
 
-Què passa amb la nostra identitat quan canviem d'idioma? La ballarina de Graz Ursula Graber i l’actriu catalana Eulàlia Purtí canvien les llengües com canviar vestuaris. Canvien els costums i els valors culturals com els altres canvien de mitjons.   
+Què passa amb la nostra identitat quan canviem d'idioma? La ballarina de Graz Ursula Graber i l’actriu catalana Eulàlia Purtí canvien les llengües com si canviessin de vestuari. Canvien els costums i els valors culturals com ens canviem de mitjons. 
 
 L’escenari passa d’un espai de parla a un espai lingüístic. Gestos, ritmes i sons flueixen junts en melodies i moviments de dansa. Les dues protagonistes exploren les tradicions, desmembren les identitats personals i culturals per tornar a connectar-les.   
 
