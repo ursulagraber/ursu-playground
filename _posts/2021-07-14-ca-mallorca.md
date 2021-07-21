@@ -82,7 +82,7 @@ el 15 de setembre 2021, 20h, Theater im Keller, Graz**
 *Nombre limitat de places: imprescindible RESERVAR.*
 
 
-**Més funcions: 16, 17, 18, 20, 21 de setembre 2021, a les 20h, Theater im Keller**   
+**Més funcions: 16, 17, 18, 20, 21 de setembre 2021, a les 20h, Theater im Keller, Graz**   
 
 <a href="https://shop.ticketteer.com/ursula_graber_contemporary_dancer_choreographer/e/evt_60e28d08ee3cac001e6dac1b" target="_blank">
   <img

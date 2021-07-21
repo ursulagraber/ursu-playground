@@ -57,6 +57,19 @@ galleries:
   - title: (c) Edi Haberl
     image: https://ursulagraber.files.wordpress.com/2021/02/schrei-c-edi-haberl-2_1.jpg?w=1024&fit=crop
     data-group: superworkshop
+  - title: (c) Clemens Nestroy
+    image: https://ursulagraber.files.wordpress.com/2021/03/arms.jpg?w=1024&fit=crop
+    data-group: superworkshop
+  - title: (c) Clemens Nestroy
+    image: https://ursulagraber.files.wordpress.com/2021/03/la-boja.jpg?w=1024&fit=crop
+    data-group: superworkshop
+  - title: (c) Clemens Nestroy
+    image: https://ursulagraber.files.wordpress.com/2021/03/ursu-cape.jpg?w=1024&fit=crop
+    data-group: superworkshop
+  - title: (c) Clemens Nestroy
+    image: https://ursulagraber.files.wordpress.com/2021/03/mg_2499.jpg?w=1024&fit=crop
+    data-group: superworkshop
+
 
 
 featured_video:
@@ -134,7 +147,7 @@ Filmschnitt & Trailer: **Berta Monsó Purtí**
 
 
 :------:|:------:|:------:|:------:
-![]({{site.url}}/images/logograz.png){:width="200px"} | ![]({{site.url}}/images/logobund.png){:width="300px"} | ![]({{site.url}}/images/bildrecht_sw1.png){:width="170px"}| ![]({{site.url}}/images/logodat.png){:width="170px"} | ![]({{site.url}}/images/logokristallwerk.png){:width="90px"} | ![]({{site.url}}/images/logolaut.png){:width="170px"} | ![]({{site.url}}/images/logo_ccter_sw2.png){:width="250px"} | 
+![]({{site.url}}/images/logograz.png){:width="200px"} | ![]({{site.url}}/images/logobund.png){:width="300px"} | ![]({{site.url}}/images/bildrecht_sw1.png){:width="170px"}| ![]({{site.url}}/images/logodat.png){:width="170px"} | ![]({{site.url}}/images/logokristallwerk.png){:width="90px"} | ![]({{site.url}}/images/logolaut.png){:width="170px"} | ![]({{site.url}}/images/logo_ccter_sw2.png){:width="250px"} |
 
 
 **Presse**

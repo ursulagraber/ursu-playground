@@ -58,6 +58,18 @@ galleries:
 - title: (c) Edi Haberl
   image: https://ursulagraber.files.wordpress.com/2021/02/schrei-c-edi-haberl-2_1.jpg?w=1024&fit=crop
   data-group: superworkshop
+- title: (c) Clemens Nestroy
+  image: https://ursulagraber.files.wordpress.com/2021/03/arms.jpg?w=1024&fit=crop
+  data-group: superworkshop
+- title: (c) Clemens Nestroy
+  image: https://ursulagraber.files.wordpress.com/2021/03/la-boja.jpg?w=1024&fit=crop
+  data-group: superworkshop
+- title: (c) Clemens Nestroy
+  image: https://ursulagraber.files.wordpress.com/2021/03/ursu-cape.jpg?w=1024&fit=crop
+  data-group: superworkshop
+- title: (c) Clemens Nestroy
+  image: https://ursulagraber.files.wordpress.com/2021/03/mg_2499.jpg?w=1024&fit=crop
+  data-group: superworkshop
 
 
 featured_video:
