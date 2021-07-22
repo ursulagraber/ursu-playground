@@ -7,8 +7,6 @@ de:
    link: /projects/
 -  name: Workshops
    link: /workshops/
--  name: Galerie
-   link: /gallery/
 -  name: Kontakt/Presse
    link: /contact/
 ca:
@@ -20,8 +18,6 @@ ca:
    link: /projects-ca/
 -  name: Tallers
    link: /workshops-ca/
--  name: Galeria
-   link: /gallery-ca/
 -  name: Contacte/Premsa
    link: /contact-ca/
 en:
@@ -33,7 +29,5 @@ en:
    link: /projects-en/
 -  name: Workshops
    link: /workshops-en/
--  name: Gallery
-   link: /gallery-en/
 -  name: Contact/Press
    link: /contact-en/
