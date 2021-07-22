@@ -64,7 +64,7 @@ Es diu que el llenguatge de l’amor és universal. Llavors, què passa amb una 
 
 Mallorca a Estíria és una conferència escenificada, una mena de recerca per a les artistes i per al públic també, per explorar diferències i similituds en el seu propi idioma. La llengua estàndard i el dialecte delimiten dues posicions complementàries, de la mateixa manera que les artistes com a sogra i jove formen dos pols i es complementen alhora.    
 
-Què passa amb la nostra identitat quan canviem d'idioma? La ballarina de Graz Ursula Graber i l’actriu catalana Eulàlia Purtí canvien les llengües com si canviessin de vestuari. Canvien els costums i els valors culturals com ens canviem de mitjons. 
+Què passa amb la nostra identitat quan canviem d'idioma? La ballarina de Graz Ursula Graber i l’actriu catalana Eulàlia Purtí canvien les llengües com si canviessin de vestuari. Canvien els costums i els valors culturals com ens canviem de mitjons.
 
 L’escenari passa d’un espai de parla a un espai lingüístic. Gestos, ritmes i sons flueixen junts en melodies i moviments de dansa. Les dues protagonistes exploren les tradicions, desmembren les identitats personals i culturals per tornar a connectar-les.   
 
@@ -116,6 +116,7 @@ Fotos:   **Neus Solà**
 
 <br />
 
+Amb el suport de:   
 
 :------:|:------:|:------:|:------:
 ![]({{site.url}}/images/logograz.png){:width="200px"} | ![]({{site.url}}/images/logolandstmk.png){:width="300px"} | ![]({{site.url}}/images/bildrecht_sw1.png){:width="170px"}| ![]({{site.url}}/images/logodat.png){:width="170px"} | ![]({{site.url}}/images/tiklogo_trans.png){:width="175px"} | ![]({{site.url}}/images/logolaut.png){:width="170px"} | ![]({{site.url}}/images/logo_ccter_sw2.png){:width="250px"} | ![]({{site.url}}/images/2001-MESH-Logo-schwarz.png){:width="140px"}

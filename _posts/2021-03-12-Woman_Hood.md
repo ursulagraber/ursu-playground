@@ -78,7 +78,6 @@ featured_video:
     id: 523942516
 ---
 
-
 *Woman Hood*{: .center-image}
 
 Die humorvolle Tanzperformance <i>Woman Hood</i> erforscht in vier Teilen unterschiedliche weibliche (Er)Lebenswelten. Sie zeigt außergewöhnliche und eigenwillige Frauenpersönlichkeiten, die unterschiedliche Arten von Macht besitzen, “anders” sind oder einfach aus der Reihe tanzen.   
