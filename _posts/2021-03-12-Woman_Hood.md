@@ -158,7 +158,7 @@ Filmschnitt & Trailer: **Berta Monsó Purtí**
 </p>
 
 
-[![Presse](https://ursulagraber.files.wordpress.com/2020/08/artikel.png?w=500&fit=crop){: .center-image}](https://ursulagraber.files.wordpress.com/2020/08/artikel.png)
+[![Presse](https://ursulagraber.files.wordpress.com/2020/08/artikel.png?w=500){: .long-center-image}](https://ursulagraber.files.wordpress.com/2020/08/artikel.png)
 
 <br />
 
