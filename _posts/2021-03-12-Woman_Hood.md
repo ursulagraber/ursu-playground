@@ -78,7 +78,7 @@ featured_video:
     id: 523942516
 ---
 
-*Woman Hood*{: .center-image}
+*Woman Hood*
 
 Die humorvolle Tanzperformance <i>Woman Hood</i> erforscht in vier Teilen unterschiedliche weibliche (Er)Lebenswelten. Sie zeigt außergewöhnliche und eigenwillige Frauenpersönlichkeiten, die unterschiedliche Arten von Macht besitzen, “anders” sind oder einfach aus der Reihe tanzen.   
 Simone de Beauvoir war der Meinung, dass der Mensch sich selbst zu etwas mache, egal welches Geschlecht, welche Herkunft und Hautfarbe er habe. Diese Gestaltungsfreiheit wird in <i>Woman Hood</i> voll ausgelebt.<br>

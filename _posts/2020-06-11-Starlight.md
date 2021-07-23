@@ -85,7 +85,7 @@ featured_video:
 
 
 
-*Zwischen Lust und Frust*{: .center-image}
+*Zwischen Lust und Frust*
 
 Ursula Graber stellt sich Fragen über Feminismus, Genuss-Emanzipation und Rollenbilder.
 Inspiriert von kritischen feministischen Theorien und Burlesque-Tanz schafft sie eine humorvolle und persönliche Performance, die zum Staunen und Nachdenken einlädt.  

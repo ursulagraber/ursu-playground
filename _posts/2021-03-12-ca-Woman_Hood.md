@@ -79,7 +79,7 @@ featured_video:
 ---
 
 
-*Woman Hood*{: .center-image}
+*Woman Hood*
 
 L’espectacle de dansa contemporània <i>Woman Hood</i> explora amb humor diferents mons femenins en quatre parts. Mostra personalitats i idiosincràsies femenines extraordinàries que tenen diferents tipus de poder, són "diferents" o simplement «ballen fora de línia». Simone de Beauvoir opinava que la gent es transforma en quelcom, independentment del gènere, l’origen i el color de la pell. Aquesta llibertat de disseny es plenament viu a <i>Woman Hood</i>. <br>
 

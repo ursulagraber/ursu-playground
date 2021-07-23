@@ -86,7 +86,7 @@ featured_video:
 
 
 
-*Entre desig i frustració*{: .center-image}
+*Entre desig i frustració*
 
 Ursula Graber es fa preguntes sobre el feminisme, l’emancipació del plaer i els models a seguir. Inspirada en teories feministes crítiques i dansa burlesca, crea una representació divertida i personal que convida a meravellar-se i a reflexionar.
 <br />
