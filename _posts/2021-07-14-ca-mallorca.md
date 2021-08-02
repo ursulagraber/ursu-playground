@@ -101,13 +101,13 @@ el 15 de setembre 2021, 20h, Theater im Keller, Graz**
 
 
 **Credits**  
-Concepte, coreografia: 	**Ursula Graber**   
+Concepte, coreografia, performance: 	**Ursula Graber**   
 Performance:   **Eulàlia Purtí (Nats teatre)**   
 Dramatúrgia:	**Bàrbara Raubert**      
 Vestuari:	**Ana Vivero**    
 Consells sociològics:   **Karin Scaria-Braunstein**    
 Consells de direcció: **Joan Monells**     
-Consells de direcció:   **Andreas Krampl**   
+Producció:   **Andreas Krampl**   
 Organització i relacions públiques:  **Mirella Bärnthaler**   
 Tecnologia de la llum i el so:	**Peter Spall**       
 Fotos:   **Neus Solà**   
