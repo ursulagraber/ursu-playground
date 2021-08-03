@@ -77,19 +77,16 @@ El llenguatge és relació, aquí en peu d’igualtat, allà jeràrquicament. To
 **S'estrena en el marc del festival [newsOFFstyria](https://www.theaterland.at/2021/newsoffstyria-2.21/index.html):   
 el 15 de setembre 2021, 20h, Theater im Keller, Graz**
 
-<a href="https://www.theaterland.at/2021/newsoffstyria-2.21/ursula-graber-nats-teatre-mallorca-a-estiria.html"> > > > Enllaç per les entrades per l'estrena: 15.09.21 < < < </a>
+
+[> > > Enllaç per les entrades per l'estrena: 15.09.21 < < <](https://www.theaterland.at/2021/newsoffstyria-2.21/ursula-graber-nats-teatre-mallorca-a-estiria.html)
 
 *Nombre limitat de places: imprescindible RESERVAR.*
 
 
 **Més funcions: 16, 17, 18, 20, 21 de setembre 2021, a les 20h, Theater im Keller, Graz**   
 
-<a href="https://shop.ticketteer.com/ursula_graber_contemporary_dancer_choreographer/e/evt_60e28d08ee3cac001e6dac1b" target="_blank">
-  <img
-    src="/images/ticket-btns/get-tickets-256.png"
-    alt="> > > Enllaç per les entrades per les altres funcions < < <"
-  />
-</a>
+[> > > Enllaç per les entrades per les altres funcions < < <](https://shop.ticketteer.com/ursula_graber_contemporary_dancer_choreographer/e/evt_60e28d08ee3cac001e6dac1b)
+
 
 
 *A causa del nombre limitat de places al Theater im Keller, és aconsellable comprar entrades aviat.*
