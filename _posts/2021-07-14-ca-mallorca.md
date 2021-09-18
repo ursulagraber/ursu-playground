@@ -52,7 +52,7 @@ galleries:
 
 featured_video:
     title: Tonite
-    url: https://www.youtube.com/embed/RvwEELuGHMg
+    url: https://www.youtube.com/embed/a1_mXe4afdM
     id:
 ---
 
