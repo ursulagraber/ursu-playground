@@ -128,7 +128,7 @@ footer {
   height: 175px;
 
 	a {
-		color: #207266;
+		color: $theme-dark-color;
 	}
 
   /*TODO find out how to override the global svg color when on footer without important*/
@@ -230,5 +230,5 @@ a {
 }
 
 .a-on-white {
-	color: #207266;
+	color: $theme-dark-color;
 }
