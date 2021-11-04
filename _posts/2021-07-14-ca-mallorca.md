@@ -9,7 +9,7 @@ ref: mallorca
 
 categories:
   - News
-featured_image: https://ursulagraber.files.wordpress.com/2021/07/mallorca-a-estiria-c-neus-sola_12_small.jpg?w=500&fit=crop
+featured_image: https://ursulagraber.files.wordpress.com/2021/11/mallorca-c-edi-haberl_8.jpg?w=500&fit=crop
 brief: 15.-21.09. 2021 (excepte 19.9.), Theater im Keller, Graz
 author: Ursula Graber
 cast:
@@ -21,32 +21,41 @@ cast:
   date:
   other:
 galleries:
-- title: (c) Neus Solà
-  image: https://ursulagraber.files.wordpress.com/2021/07/mallorca-a-estiria-c-neus-sola_12_small.jpg?w=1024&fit=crop
+- title: (c) Edi Haberl
+  image: https://ursulagraber.files.wordpress.com/2021/11/mallorca-c-edi-haberl_1.jpg?w=1024&fit=crop
   data-group: superworkshop
-- title: (c) Neus Solà
-  image: https://ursulagraber.files.wordpress.com/2021/07/5z0a9249_small.jpg?w=1024&fit=crop
+- title: (c) Edi Haberl
+  image: https://ursulagraber.files.wordpress.com/2021/11/mallorca-c-edi-haberl_2.jpg?w=1024&fit=crop
   data-group: superworkshop
-- title: (c) Neus Solà
-  image: https://ursulagraber.files.wordpress.com/2021/07/5z0a9561_small.jpg?w=1024&fit=crop
+- title: (c) Edi Haberl
+  image: https://ursulagraber.files.wordpress.com/2021/11/mallorca-c-edi-haberl_3.jpg?w=1024&fit=crop
   data-group: superworkshop
-- title: (c) Neus Solà
-  image: https://ursulagraber.files.wordpress.com/2021/07/5z0a9690_1_small.jpg?w=1024&fit=crop
+- title: (c) Edi Haberl
+  image: https://ursulagraber.files.wordpress.com/2021/11/mallorca-c-edi-haberl_4.jpg?w=1024&fit=crop
   data-group: superworkshop
-- title: (c) Neus Solà
-  image: https://ursulagraber.files.wordpress.com/2021/07/mallorca-a-estiria-c-neus-sola_1_small.jpg?w=1024&fit=crop
+- title: (c) Edi Haberl
+  image: https://ursulagraber.files.wordpress.com/2021/11/mallorca-c-edi-haberl_5.jpg?w=1024&fit=crop
   data-group: superworkshop
-- title: (c) Neus Solà
-  image: https://ursulagraber.files.wordpress.com/2021/07/mallorca-a-estiria-c-neus-sola_3_small.jpg?w=1024&fit=crop
+- title: (c) Edi Haberl
+  image: https://ursulagraber.files.wordpress.com/2021/11/mallorca-c-edi-haberl_6.jpg?w=1024&fit=crop
   data-group: superworkshop
-- title: (c) Neus Solà
-  image: https://ursulagraber.files.wordpress.com/2021/07/mallorca-a-estiria-c-neus-sola_4_small.jpg?w=1024&fit=crop
+- title: (c) Edi Haberl
+  image: https://ursulagraber.files.wordpress.com/2021/11/mallorca-c-edi-haberl_7.jpg?w=1024&fit=crop
   data-group: superworkshop
-- title: (c) Neus Solà
-  image: https://ursulagraber.files.wordpress.com/2021/07/mallorca-a-estiria-c-neus-sola_10_small.jpg?w=1024&fit=crop
+- title: (c) Edi Haberl
+  image: https://ursulagraber.files.wordpress.com/2021/11/mallorca-c-edi-haberl_8.jpg?w=1024&fit=crop
   data-group: superworkshop
-- title: (c) Neus Solà
-  image: https://ursulagraber.files.wordpress.com/2021/07/mallorca-a-estiria-c-neus-sola_13_small.jpg?w=1024&fit=crop
+- title: (c) Edi Haberl
+  image: https://ursulagraber.files.wordpress.com/2021/11/mallorca-c-edi-haberl_9.jpg?w=1024&fit=crop
+  data-group: superworkshop
+- title: (c) Edi Haberl
+  image: https://ursulagraber.files.wordpress.com/2021/11/mallorca-c-edi-haberl_10.jpg?w=1024&fit=crop
+  data-group: superworkshop
+- title: (c) Edi Haberl
+  image: https://ursulagraber.files.wordpress.com/2021/11/mallorca-c-edi-haberl_11.jpg?w=1024&fit=crop
+  data-group: superworkshop
+- title: (c) Edi Haberl
+  image: https://ursulagraber.files.wordpress.com/2021/11/mallorca-c-edi-haberl_12.jpg?w=1024&fit=crop
   data-group: superworkshop
 
 
