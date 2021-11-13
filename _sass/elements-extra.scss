@@ -470,14 +470,14 @@ figure#right {
 	display: block;
 	padding: 1px;
 	width: 100%;
-  vertical-align: middle;
+	vertical-align: middle;
 	text-decoration: none !important;
 }
 
 .image-gallery-index a img {
 	width: 100%;
 	display: block;
-  vertical-align: middle;
+	vertical-align: middle;
 }
 
 // .image-gallery-index a span {
@@ -492,12 +492,15 @@ figure#right {
 
 .cards {
 	margin-top: 25px;
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	@media screen and #{$half-screen} {
+		justify-content: center;
+	}
 
 	overflow: hidden;
-  flex-direction: row;
+	flex-direction: row;
 
 	a {
 	  margin: 2px;
