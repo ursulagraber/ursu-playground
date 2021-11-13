@@ -1,234 +1,234 @@
 html {
-	height:100%;
+  height:100%;
 }
 
 html , body {
-	padding: 0;
-	margin: 0;
-	line-height: 1.6em;
-	background-color: #FFFFFF;
+  padding: 0;
+  margin: 0;
+  line-height: 1.6em;
+  background-color: #FFFFFF;
 }
 
 body {
-	position: relative;
-	min-height:100%;
+  position: relative;
+  min-height:100%;
 }
 
 /* footer phantom block */
 body::after {
-	content: '';
-	display: block;
-	height: 275px;
+  content: '';
+  display: block;
+  height: 275px;
 }
 
 body, input, textarea {
-	font-family: $main-content-font;
-	color: #222;
-	-webkit-font-smoothing: antialiased;
+  font-family: $main-content-font;
+  color: #222;
+  -webkit-font-smoothing: antialiased;
 }
 
 h1 {
-	font-size: 1.8em;
-	margin-bottom: 1em;
-	line-height: 1.3em;
+  font-size: 1.8em;
+  margin-bottom: 1em;
+  line-height: 1.3em;
 
-	max-width: 100%;
-	padding: 2rem 0rem;
+  max-width: 100%;
+  padding: 2rem 0rem;
 
-	font-family: $header-font;
+  font-family: $header-font;
 
-	background: $theme-light-color;
-	color: white;
+  background: $theme-light-color;
+  color: white;
 }
 
 h1.fullpage-left {
-	padding-left: $logo-width+30px;
+  padding-left: $logo-width+30px;
 
-	@media screen and #{$half-screen}
-	{
-		padding-left: 1em;
-	}
+  @media screen and #{$half-screen}
+  {
+    padding-left: 1em;
+  }
 }
 
 h1.full-width-white {
-	font-size: 1.8em;
-	margin: 0;
-	padding: 0;
-	line-height: 1.3em;
+  font-size: 1.8em;
+  margin: 0;
+  padding: 0;
+  line-height: 1.3em;
 
-	max-width: 100%;
+  max-width: 100%;
 }
 
 h2 {
-	font-size: 1.6em;
-	color: white;
+  font-size: 1.6em;
+  color: white;
 
-	font-family: $header-font;
+  font-family: $header-font;
 
-	//background-color: $theme-dark-color;
-	//text-shadow: 1px 0 0 #000, -1px 0 0 #000, 0 1px 0 #000, 0 -1px 0 #000, 1px 1px #000, -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000;
+  //background-color: $theme-dark-color;
+  //text-shadow: 1px 0 0 #000, -1px 0 0 #000, 0 1px 0 #000, 0 -1px 0 #000, 1px 1px #000, -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000;
 }
 
 h2.tinted {
-	background-color: $theme-dark-color;
-	padding: 1em;
+  background-color: $theme-dark-color;
+  padding: 1em;
 }
 
 h3
 {
-	color: white;
-	font-weight: bold;
-	font-size: 1.2em;
+  color: white;
+  font-weight: bold;
+  font-size: 1.2em;
 
-	font-family: $header-font;
+  font-family: $header-font;
 }
 
 .region {
-	width: 100%;
-	padding: 1rem;
-	margin: 0;
+  width: 100%;
+  padding: 1rem;
+  margin: 0;
 
-	div {
-		margin: 1rem auto;
-		padding: 1rem;
-		background: lightgreen; //$theme-light-color;
+  div {
+    margin: 1rem auto;
+    padding: 1rem;
+    background: lightgreen; //$theme-light-color;
 
     display: table-cell;
-		table-layout: fixed;
-	}
+    table-layout: fixed;
+  }
 }
 
 time {
-	color: $light-grey;
+  color: $light-grey;
 }
 
 header {
-	text-align: center;
-	padding: 80px 0 60px 0;
+  text-align: center;
+  padding: 80px 0 60px 0;
 }
 
 img {
-	max-width: 100%;
+  max-width: 100%;
 }
 
 ol li + li {
-	margin: 20px 0 0 0;
+  margin: 20px 0 0 0;
 }
 
 footer {
-	background-color: #24120e;
-	color: white;
-	text-align: center;
-	padding: 20px 0;
-	font-size: .8em;
+  background-color: #24120e;
+  color: white;
+  text-align: center;
+  padding: 20px 0;
+  font-size: .8em;
 
-	position: absolute;
+  position: absolute;
   bottom: 0;
   width: 100%;
   height: 175px;
 
-	a {
-		color: $theme-dark-color;
-	}
+  a {
+    color: $theme-dark-color;
+  }
 
   /*TODO find out how to override the global svg color when on footer without important*/
-	svg {
-		fill: $light-grey !important;
+  svg {
+    fill: $light-grey !important;
 
-		&:hover {
-			fill: #FFF !important;
-		}
-	}
+    &:hover {
+      fill: #FFF !important;
+    }
+  }
 }
 
 .footermenu {
   box-sizing: border-box;
-	padding: 10px 15px;
-	display: table;
-	width: 100%;
-	table-layout: fixed;
+  padding: 10px 15px;
+  display: table;
+  width: 100%;
+  table-layout: fixed;
 
-	div {
-	    display: table-cell;
-	}
+  div {
+      display: table-cell;
+  }
 
-	.container {
-		vertical-align: middle;
-		width: 70%;
-	}
+  .container {
+    vertical-align: middle;
+    width: 70%;
+  }
 
   nav {
-		background: rgba(255, 255, 255, .9);
-	  z-index: 999;
-		display: table;
-		table-layout: fixed;
+    background: rgba(255, 255, 255, .9);
+    z-index: 999;
+    display: table;
+    table-layout: fixed;
 
-		a {
-			display: inline-block;
-			text-decoration: none;
-			padding: 0px 20px;
-			padding-left: 0px;
-			color: #444;
-			text-transform: uppercase;
-			letter-spacing: 1px;
-			font-size: 1.4em;
+    a {
+      display: inline-block;
+      text-decoration: none;
+      padding: 0px 20px;
+      padding-left: 0px;
+      color: #444;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      font-size: 1.4em;
 
       font-family: $navigation-font;
 
-			&.active {
-				color: #888;
-			}
+      &.active {
+        color: #888;
+      }
 
-			&:hover {
-				color: #000;
-			}
-		}
-	}
+      &:hover {
+        color: #000;
+      }
+    }
+  }
 
   .logo-bottom {
       vertical-align: middle;
-	}
+  }
 
-	.social-icons {
-		width: 150px;
-		height: 50px;
-		display: flex;
-		margin: -5px 0 0 -150px;
+  .social-icons {
+    width: 150px;
+    height: 50px;
+    display: flex;
+    margin: -5px 0 0 -150px;
 
     vertical-align: top;
 
-		a {
-			padding: 3px;
-			text-decoration: none;
+    a {
+      padding: 3px;
+      text-decoration: none;
 
-			&:hover svg {
-				fill: #000;
-			}
-		}
+      &:hover svg {
+        fill: #000;
+      }
+    }
 
-		svg {
-			width: 25px;
-			height: 25px;
-			fill: $light-grey;
-		}
-	}
+    svg {
+      width: 25px;
+      height: 25px;
+      fill: $light-grey;
+    }
+  }
 }
 
 hr {
-	 border: 0;
-	 border-top: 1px solid #eee;
+   border: 0;
+   border-top: 1px solid #eee;
 }
 
 a {
-	font-weight: bold;
-	text-decoration: none;
-	color: #fff;
+  font-weight: bold;
+  text-decoration: none;
+  color: #fff;
 
-	&:hover {
-		text-decoration: underline;
-	}
+  &:hover {
+    text-decoration: underline;
+  }
 }
 
 .a-on-white {
-	color: $theme-dark-color;
+  color: $theme-dark-color;
 }

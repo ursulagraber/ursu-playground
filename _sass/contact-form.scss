@@ -2,14 +2,14 @@
 [ RESTYLE TAG ]*/
 
 // * {
-// 	margin: 0px;
-// 	padding: 0px;
-// 	box-sizing: border-box;
+//   margin: 0px;
+//   padding: 0px;
+//   box-sizing: border-box;
 // }
 
 input {
-	outline: none;
-	border: none;
+  outline: none;
+  border: none;
 }
 
 textarea {
@@ -32,13 +32,13 @@ textarea::-moz-placeholder { color: rgba(255,255,255,0.8);}
 textarea:-ms-input-placeholder { color: rgba(255,255,255,0.8);}
 
 button {
-	outline: none !important;
-	border: none;
-	background: transparent;
+  outline: none !important;
+  border: none;
+  background: transparent;
 }
 
 button:hover {
-	cursor: pointer;
+  cursor: pointer;
 }
 
 /*//////////////////////////////////////////////////////////////////
@@ -60,7 +60,7 @@ button:hover {
 }
 
 .wrap-contact3 {
-	align-content: center;
+  align-content: center;
   width: auto;
   background: $theme-darker-color;
   background: -webkit-linear-gradient(45deg, $theme-light-color, $theme-darker-color);
@@ -71,12 +71,12 @@ button:hover {
   overflow: hidden;
   padding: 50px 55px 65px 55px;
 
-	position:relative;
+  position:relative;
 }
 
 .contact3-form {
   width: 100%;
-	//margin-top: 2em;
+  //margin-top: 2em;
 }
 
 .contact3-form-title {
@@ -186,14 +186,14 @@ textarea.input3 {
   -moz-transition: all 0.4s;
   transition: all 0.4s;
 
-	margin: 0 auto;
+  margin: 0 auto;
 }
 
 .shallow {
-	height: auto;
-	font-size: 12px;
-	padding: 5px 15px;
-	text-transform: inherit;
+  height: auto;
+  font-size: 12px;
+  padding: 5px 15px;
+  text-transform: inherit;
 }
 
 .contact3-form-btn::before {

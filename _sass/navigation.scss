@@ -1,60 +1,60 @@
 .navmenu {
   box-sizing: border-box;
-	padding: 10px 15px;
-	display: flex;
+  padding: 10px 15px;
+  display: flex;
   align-items: center;
-	width: 100%;
+  width: 100%;
 
-	div {
-	  display: table-cell;
-	}
+  div {
+    display: table-cell;
+  }
 
-	.container {
-		vertical-align: middle;
-		width: 70%;
-	}
+  .container {
+    vertical-align: middle;
+    width: 70%;
+  }
 
   nav {
-		background: rgba(255, 255, 255, .9);
-	  z-index: 999;
-		display: flex;
+    background: rgba(255, 255, 255, .9);
+    z-index: 999;
+    display: flex;
 
-	  .menu {
-	    width: 100%;
-			height: 50px;
-	    display: flex;
+    .menu {
+      width: 100%;
+      height: 50px;
+      display: flex;
       flex-wrap: wrap;
       flex-direction: row;
-	    justify-content: space-between;
-			padding: 0px 3px;
-	  }
+      justify-content: space-between;
+      padding: 0px 3px;
+    }
 
-		a {
-			// display: inline-block;
-			text-decoration: none;
-			padding: 0px 0px;
-			padding-left: 0px;
-			color: #444;
-			text-transform: uppercase;
-			letter-spacing: 1px;
-			font-size: 1.4em;
+    a {
+      // display: inline-block;
+      text-decoration: none;
+      padding: 0px 0px;
+      padding-left: 0px;
+      color: #444;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      font-size: 1.4em;
 
       font-family: $navigation-font;
 
-			&.active {
-				color: #888;
-			}
+      &.active {
+        color: #888;
+      }
 
-			&:hover {
-				color: #000;
-			}
-		}
+      &:hover {
+        color: #000;
+      }
+    }
 
     .en:lang(en), .ca:lang(ca), .de:lang(de) {
         font-weight: bold;
         color: $theme-dark-color;
     }
-	}
+  }
 
   @media screen and #{$half-screen}
   {
@@ -103,15 +103,15 @@
     }
   }
 
-	.logo {
-		width: $logo-width;
-		vertical-align: middle;
+  .logo {
+    width: $logo-width;
+    vertical-align: middle;
 
     @media screen and #{$half-screen}
     {
-    	display: none;
+      display: none;
     }
-	}
+  }
 
   .logo-half
   {
@@ -127,48 +127,48 @@
     }
   }
 
-	hr {
-		display: block;
-		height: 2px;
-		margin: 0px;
-		margin-left: 0px;
-		background: $theme-nav-underline;
-		width: 100%;
-	}
+  hr {
+    display: block;
+    height: 2px;
+    margin: 0px;
+    margin-left: 0px;
+    background: $theme-nav-underline;
+    width: 100%;
+  }
 
   .inner-menu {
     display: flex;
   }
 
-	.fullmenu {
-		width: 80%;
-		margin: 1em;
-		padding: 1em;
+  .fullmenu {
+    width: 80%;
+    margin: 1em;
+    padding: 1em;
     padding-right: 1em;
-		vertical-align: middle;
-	}
+    vertical-align: middle;
+  }
 
-	.social-icons {
-		width: 150px;
-		height: 50px;
-		display: flex;
-		margin: -5px 0 0 0;
+  .social-icons {
+    width: 150px;
+    height: 50px;
+    display: flex;
+    margin: -5px 0 0 0;
 
     vertical-align: top;
 
-		a {
-			padding: 3px;
-			text-decoration: none;
+    a {
+      padding: 3px;
+      text-decoration: none;
 
-			&:hover svg {
-				fill: #000;
-			}
-		}
+      &:hover svg {
+        fill: #000;
+      }
+    }
 
-		svg {
-			width: 25px;
-			height: 25px;
-			fill: $light-grey;
-		}
-	}
+    svg {
+      width: 25px;
+      height: 25px;
+      fill: $light-grey;
+    }
+  }
 }
