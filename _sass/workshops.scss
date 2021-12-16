@@ -2,107 +2,107 @@
 
 .workshops-container
 {
-	margin: 2em;
+  margin: 2em;
   display: flex;
-	flex-wrap: wrap-reverse;
-	align-items: flex-end;
+  flex-wrap: wrap-reverse;
+  align-items: flex-end;
 
-	@media screen and #{$half-screen}
-	{
-		margin: 0em;
-	}
+  @media screen and #{$half-screen}
+  {
+    margin: 0em;
+  }
 }
 
 .sticky
 {
-	position: -webkit-sticky;
+  position: -webkit-sticky;
   position: sticky;
   top: 2em;
-	/* TODO: bounce animate */
+  /* TODO: bounce animate */
 }
 
 .excerpt
 {
-	z-index: 0;
-	background-color: $theme-light-color;
-	width: 35%;
-	margin-left: -5em;
-	padding: 3em;
-	padding-left: 7em;
-	max-width: 30em;
+  z-index: 0;
+  background-color: $theme-light-color;
+  width: 35%;
+  margin-left: -5em;
+  padding: 3em;
+  padding-left: 7em;
+  max-width: 30em;
 
-	@media screen and #{$half-screen}
-	{
-		width: 100%;
-		margin: 0;
-		padding: 1em;
-	}
+  @media screen and #{$half-screen}
+  {
+    width: 100%;
+    margin: 0;
+    padding: 1em;
+  }
 }
 
 
 .slide
 {
-	z-index: 1;
-	background-color: $theme-dark-color;
-	width: 40%;
-	margin-top: 3em;
-	padding: 1.5em;
+  z-index: 1;
+  background-color: $theme-dark-color;
+  width: 40%;
+  margin-top: 3em;
+  padding: 1.5em;
 
-	@media screen and #{$half-screen}
-	{
-		width: 100%;
-		margin: 0;
-		margin-top: 2em;
-		padding: 0.5em;
-	}
+  @media screen and #{$half-screen}
+  {
+    width: 100%;
+    margin: 0;
+    margin-top: 2em;
+    padding: 0.5em;
+  }
 }
 
 .workshops {
-	display: flex;
-	flex-wrap: wrap;
+  display: flex;
+  flex-wrap: wrap;
 
-	.workshop-container {
-		padding: 1em;
-		width: 100%;
-		height: 300px;
-	}
+  .workshop-container {
+    padding: 1em;
+    width: 100%;
+    height: 300px;
+  }
 
-	.workshop {
-		flex: 1 0 300px;
-		height: 100%;
-		width: 100%;
-		display: inline-block;
-		background-position: center;
-		background-size: cover;
-		margin: auto;
+  .workshop {
+    flex: 1 0 300px;
+    height: 100%;
+    width: 100%;
+    display: inline-block;
+    background-position: center;
+    background-size: cover;
+    margin: auto;
 
-		a {
-			width: 100%;
-			height: 100%;
-			display: block;
-			background: rgba(0, 0, 0, .2);
-			color: #fff;
-			text-decoration: none;
-			text-align: center;
-			vertical-align: text-bottom;
-			position: relative;
-			transition:      all 0.2s ease;
-			font-size: 1.1em;
-			font-weight: 700;
+    a {
+      width: 100%;
+      height: 100%;
+      display: block;
+      background: rgba(0, 0, 0, .2);
+      color: #fff;
+      text-decoration: none;
+      text-align: center;
+      vertical-align: text-bottom;
+      position: relative;
+      transition:      all 0.2s ease;
+      font-size: 1.1em;
+      font-weight: 700;
 
-			span {
-				position: relative;
-				bottom: 5px;
-				width: 100%;
-				left: 0;
-				text-shadow: 1px 1px 1px #000;
-			}
+      span {
+        position: relative;
+        bottom: 5px;
+        width: 100%;
+        left: 0;
+        text-shadow: 1px 1px 1px #000;
+      }
 
-			&:hover {
-				background: none;
-			}
-		}
-	}
+      &:hover {
+        background: none;
+      }
+    }
+  }
 }
 
 /*workshop detail*/

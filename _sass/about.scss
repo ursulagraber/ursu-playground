@@ -5,7 +5,7 @@
 
   @media screen and #{$half-screen}
   {
-  		width: auto;
+      width: auto;
   }
 }
 
@@ -115,12 +115,12 @@
     height: 300px;
   }
 
-	@media screen and #{$half-screen}
-	{
+  @media screen and #{$half-screen}
+  {
     img {
         height: 200px;
     }
-	}
+  }
 }
 
 .side-image {
@@ -154,7 +154,7 @@
 
   @media screen and #{$half-screen}
   {
-		width: auto;
+    width: auto;
   }
 }
 
