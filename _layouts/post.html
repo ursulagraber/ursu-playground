@@ -8,12 +8,10 @@ layout: fullpage
 
 	<section>
 		<div class="row">
-			{% if page.featured_video %}
-				 <div class="column">
-				   <div class="aspect-ratio" >
-				   <iframe class="feat_vid" src="{{ page.featured_video.url }}" frameborder="0" allowfullscreen> {{ page.featured_video.title }} </iframe>
-				   </div>
-				 </div>
+		 {% if page.galleries %}
+		 <div class="column">
+					{% include image-gallery-index.html %}
+			</div>
 				 <div class="column pblock shift dark-color justify">
 					 	{{ total_sections[0] }}
 				 </div>
@@ -24,13 +22,17 @@ layout: fullpage
 			 {% endif %}
 		</div>
 		<div class="row">
-			{% if page.galleries %}
+			{% if page.featured_video %}
+
 				<div class="column pblock light-color justify">
 					 {{ total_sections[1] }}
 				</div>
 				<div class="column">
-					  {% include image-gallery-index.html %}
+					<div class="aspect-ratio" >
+					<iframe class="feat_vid" src="{{ page.featured_video.url }}" frameborder="0" allowfullscreen> {{ page.featured_video.title }} </iframe>
+					</div>
 				</div>
+
 			{% else %}
 				<div class="pblock light-color justify">
 					{{ total_sections[1] }}
