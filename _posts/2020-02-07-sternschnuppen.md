@@ -48,41 +48,52 @@ featured_video:
     id: 512498076
 ---
 
+Eine Gruppenperformance im öffentlichen Raum im Rahmen des Festivals spleen*trieb.
+Mit lokalen Performer:innen und deren Bewegungen als Individuum und Gruppe. Bewegungen, die einerseits zufällig, andererseits klaren Regeln folgend entstehen.
+
+
+*#Gruppendynamik #score #Nähe #Distanz #Individuum #kopieren #silence #Musik #öffentlicher Raum #Schwarm #Improvisation #Konzentration*
+
+
+<!--plop-->
+
+## Mehr Info:
+
 Gruppenperformance von Ursula Graber
 
 Wenn der Organismus eines jeden Lebewesens sich selbstständig macht, verspielt und mutig, dann passiert es:
 Magie setzt ein, Unerklärliches, Wunderbares, und wir staunen. Jenseits jeder Logik und doch einer geheimen Ordnung folgend. Kleine Teilchen eines großen Ganzen zischen und flutschen, leuchtend und mysteriös, den Gesetzen dieses Spiels folgend, und die mächtige Masse übernimmt das dynamiksteuernde Ruder.
 
-<br />
-Im Rahmen des Festivals *spleen\*trieb*.<br />
-<br />
-**Spielort:**<br />
-Shopping Center Nord, Graz<br />
-<br />
-**Termine:** <br />
-07.02.2020, 16 Uhr<br />
-08.02.2020, 12:30 und 16 Uhr<br />
-10.02.2020, 18 Uhr<br />
-<br />
-Freier Eintritt.
+Im Rahmen des Festivals spleen*trieb 2020.
+
 
 <!--plop-->
+## Credits:
+Konzept, Choreografie, Performance: **Ursula Graber**<br>
+Performance: **Alex Binder, Michaela Hofer, Leo Rögner, Eva Scheibelhofer-Schroll, Michael Söllinger, Birgit Stummer, Erni Willrich**<br>
+Outside eye: **Veza Fernández**<br>
+Video Editing: **Berta Monsó Purtí**<br>
+Kamera: **henx film production**<br>
 
-**Pressestimmen**
+Dank an:<br>
+spleen festival Graz<br>
+spleen*trieb festival<br>
+Shopping Nord Graz<br>
+henx film production<br>
+das andere Theater, Graz
+
+Graz 2020
+
+
 <br>
 
-**"Ein Blick in den Sternenhimmel**
-<br>
-Warum tun wir, was wir tun? Was geschieht ohne Grund, welche Vorgänge in unserem Leben folgen unbekannten Gesetzen? Sternschnuppen und Kometen stellt in Frage, wie wir über Zufall und Regeln denken."
-<br>
-<i>[Valentin Bayer, Journalist]({{site.url}}/docs/ARTIKEL_Sternschnuppen.pdf)</i> <br>
-<i>[-->Vollständiger Artikel hier]({{site.url}}/docs/ARTIKEL_Sternschnuppen.pdf)</i>
+## Pressestimmen
 
-<br>
-"Die gesellschaftliche und dadurch inhaltliche Gebundenheit von öffentlichen Orten zu erspüren und sich deren inhaltlicher Vorgaben auszusetzen, um sich in ihnen zu spiegeln und ihnen gleichzeitig diese Spiegelung vorzuhalten, das ist wohl einer der Zugänge, den Ursula Graber gewählt hat. In ihrer Gruppenperformance „Sternschnuppen und Kometen“ führt sie uns das sehr deutlich vor Augen: Die Passanten bzw. die Rezipienten finden sich während der Performance quasi in dieser Spiegelung wider, wodurch Metaebenen entstehen können, die keinen moralischen Anspruch erheben und dennoch oder gerade deswegen, sehr berühren. Die chorischen Elemente der Gruppe, die sie benutzt und das Spiel mit der Zeit, unterstützen diesen Vorgang. Durch die Betrachtung von ungeschminkter und unverzierter Bewegung im öffentlichen Raum, wird ein in Kontakt, ein in Berührung kommen mit sich selbst, möglich."<br>
-<i><a href="http://kuenstler-leben.com/ursula-graber-die-magie-der-bewegung?fbclid=IwAR2TomgBov-b9F8LtlY4L70qz4veArlwK8isPLjCs3DcmdfNEq3O9VVFP_4">Mona May, Autorin & Regisseurin</a></i>
-<br>
-<a href="http://kuenstler-leben.com/ursula-graber-die-magie-der-bewegung?fbclid=IwAR2TomgBov-b9F8LtlY4L70qz4veArlwK8isPLjCs3DcmdfNEq3O9VVFP_4">-->Vollständiger Artikel hier</a> <br>
+
+## "Ein Blick in den Sternenhimmel. Warum tun wir, was wir tun? Was geschieht ohne Grund, welche Vorgänge in unserem Leben folgen unbekannten Gesetzen? Sternschnuppen und Kometen stellt in Frage, wie wir über Zufall und Regeln denken." (Valentin Bayer, Journalist) [-->Vollständiger Artikel hier]({{site.url}}/docs/ARTIKEL_Sternschnuppen.pdf)
+
+
+## "Durch die Betrachtung von ungeschminkter und unverzierter Bewegung im öffentlichen Raum wird ein in Kontakt, ein in Berührung kommen mit sich selbst möglich" (Mona May, Künstlerin, Autorin & Regisseurin) <a href="http://kuenstler-leben.com/ursula-graber-die-magie-der-bewegung?fbclid=IwAR2TomgBov-b9F8LtlY4L70qz4veArlwK8isPLjCs3DcmdfNEq3O9VVFP_4">-->Vollständiger Artikel hier</a> <br>
 
 
 
