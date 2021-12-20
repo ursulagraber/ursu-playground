@@ -51,22 +51,34 @@ featured_video:
 
 <!-- explore this: https://vimeo.com/api/oembed.json?url=http%3A//vimeo.com/330582854 -->
 
-Dies ist die zweite Kollaboration mit dem Komponisten Diego Jiménez Tamame.
+Eine düstere Tanzperformance begleitet von Schneelandschafts-Projektionen und Musik komponiert von Diego Jiménez Tamame. Die Grundatmosphäre ist beklemmend, in einigen Momenten blitzt jedoch Humor auf.
 
-Die Bewegungsrecherche geht von zwei gegensätzlichen Gefühlszuständen aus: einerseits Zivilisiationskrankheiten wie Burn-out und Depression, andererseits ausgleichende Aktivitäten wie Schneeschuhwandern und allgemein das Zeitverbringen in der Natur.
+
+*#dunkel #beklemmend #Schneeschuhwandern #elektronische Musik #düster #Bewegungsqualitäten #Wut #fremdgesteuert #Kraft #Resignation*
 
 <!--plop-->
 
-Konzept & Tanz: Ursula Graber
+Dies ist die zweite Kollaboration mit dem Komponisten Diego Jiménez Tamame.
 
-Musik: Diego Jiménez Tamame
 
-Ton & Licht: Ian Lecoultre, Céline Ribeiro
+Die Bewegungsrecherche geht von zwei gegensätzlichen Gefühlszuständen aus: einerseits Zivilisiationskrankheiten wie Burn-out und Depression, andererseits ausgleichende Aktivitäten wie Schneeschuhwandern und allgemein das Zeitverbringen in der Natur.
 
-Künstlerische Beratung: Grégory Stauffer, Natacha Koutchoumov, Philippe Saire
 
-Anthropologische Beratung: Claire de Ribaupierre
+<!--plop-->
 
-Manufacture, Lausanne
+
+Konzept & Tanz: **Ursula Graber**
+
+Musik: **Diego Jiménez Tamame**
+
+Ton & Licht: **Ian Lecoultre, Céline Ribeiro**
+
+Künstlerische Beratung: **Grégory Stauffer, Natacha Koutchoumov, Philippe Saire**
+
+Anthropologische Beratung: **Claire de Ribaupierre**
+
+La Manufacture, Lausanne
+
+2018
 
 <!--[![Snowshoeing / Geile Scheiße](https://i.vimeocdn.com/video/775684724_640.jpg)](https://player.vimeo.com/video/330582854)-->
