@@ -99,6 +99,7 @@ Einer magische Bühnenwelt, mit zeitgenössischem Tanz, aufwendigen Kostümen un
 
 
 <!--plop-->
+
 ## Credits
 
 
@@ -114,7 +115,6 @@ Graz 2021
 
 <br>
 
-
 ## Mit freundlicher Unterstützung von  
 
 
@@ -122,7 +122,6 @@ Graz 2021
 ![]({{site.url}}/images/logograz.png){:width="200px"} | ![]({{site.url}}/images/logobund.png){:width="300px"} | ![]({{site.url}}/images/bildrecht_sw1.png){:width="170px"}| ![]({{site.url}}/images/logodat.png){:width="170px"} | ![]({{site.url}}/images/logokristallwerk.png){:width="90px"} | ![]({{site.url}}/images/logolaut.png){:width="170px"} | ![]({{site.url}}/images/logo_ccter_sw2.png){:width="250px"} |
 
 <br>
-
 
 ## Pressestimmen
 

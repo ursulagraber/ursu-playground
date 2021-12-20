@@ -68,7 +68,10 @@ Im Rahmen des Festivals spleen*trieb 2020.
 
 
 <!--plop-->
+
 ## Credits
+
+
 Konzept, Choreografie, Performance: **Ursula Graber**<br>
 Performance: **Alex Binder, Michaela Hofer, Leo Rögner, Eva Scheibelhofer-Schroll, Michael Söllinger, Birgit Stummer, Erni Willrich**<br>
 Outside eye: **Veza Fernández**<br>
@@ -83,7 +86,6 @@ henx film production<br>
 das andere Theater, Graz
 
 Graz 2020
-
 
 <br>
 

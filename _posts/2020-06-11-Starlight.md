@@ -115,7 +115,10 @@ Im Mittelpunkt steht der Mut (und ebenso die Lust), sich als Tänzerin den Theme
 
 
 <!--plop-->
+
 ## Credits   
+
+
 Konzept, Performance, Choreografie: 	**Ursula Graber**  
 Dramaturgie:	**Koko la Douce (Berlin)**  
 Künstlerische Beratung:	**Lise Lendais (FR/Wien)**  
@@ -129,17 +132,14 @@ Trailer & Film: **Fabian Czernovsky**
 
 Graz, 2020
 
-
-
+<br>
 
 ## Gefördert und unterstützt von
 
 :------:|:------:|:------:|:------:
 ![]({{site.url}}/images/logograz.png){:width="200px"} | ![]({{site.url}}/images/logolandstmk.png){:width="170px"} | ![]({{site.url}}/images/logodat.png){:width="170px"} | ![]({{site.url}}/images/logokristallwerk.png){:width="70px"} | ![]({{site.url}}/images/logolaut.png){:width="170px"}
 
-
-
-
+<br>
 
 ## Pressestimmen
 
