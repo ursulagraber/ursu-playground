@@ -57,7 +57,7 @@ Mit lokalen Performer:innen und deren Bewegungen als Individuum und Gruppe. Bewe
 
 <!--plop-->
 
-## Mehr Info:
+## Mehr Info
 
 Gruppenperformance von Ursula Graber
 
@@ -68,7 +68,7 @@ Im Rahmen des Festivals spleen*trieb 2020.
 
 
 <!--plop-->
-## Credits:
+## Credits
 Konzept, Choreografie, Performance: **Ursula Graber**<br>
 Performance: **Alex Binder, Michaela Hofer, Leo Rögner, Eva Scheibelhofer-Schroll, Michael Söllinger, Birgit Stummer, Erni Willrich**<br>
 Outside eye: **Veza Fernández**<br>

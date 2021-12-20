@@ -57,6 +57,7 @@ Eine düstere Tanzperformance begleitet von Schneelandschafts-Projektionen und M
 *#dunkel #beklemmend #Schneeschuhwandern #elektronische Musik #düster #Bewegungsqualitäten #Wut #fremdgesteuert #Kraft #Resignation*
 
 <!--plop-->
+##Mehr Info
 
 Dies ist die zweite Kollaboration mit dem Komponisten Diego Jiménez Tamame.
 
@@ -65,7 +66,7 @@ Die Bewegungsrecherche geht von zwei gegensätzlichen Gefühlszuständen aus: ei
 
 
 <!--plop-->
-
+##Credits
 
 Konzept & Tanz: **Ursula Graber**
 
