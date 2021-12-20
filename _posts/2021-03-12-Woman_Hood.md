@@ -77,59 +77,31 @@ featured_video:
     url: https://player.vimeo.com/video/523942516
     id: 523942516
 ---
+Ein Tanzperformance-Solo in vier Bildern über außergewöhnliche und eigenwillige Frauenpersönlichkeiten, das Feminine und Maskuline. Der Versuch, ein feministisches Fundament auf der Bühne zu schaffen.
 
-*Woman Hood*
 
-Die humorvolle Tanzperformance <i>Woman Hood</i> erforscht in vier Teilen unterschiedliche weibliche (Er)Lebenswelten. Sie zeigt außergewöhnliche und eigenwillige Frauenpersönlichkeiten, die unterschiedliche Arten von Macht besitzen, “anders” sind oder einfach aus der Reihe tanzen.   
-Simone de Beauvoir war der Meinung, dass der Mensch sich selbst zu etwas mache, egal welches Geschlecht, welche Herkunft und Hautfarbe er habe. Diese Gestaltungsfreiheit wird in <i>Woman Hood</i> voll ausgelebt.<br>
+*#Feminismus #eigenwillig #Weiblichkeit #Männlichkeit #Kampf #verrückt #weibliches Heer #Kinect camera #live Projektion #Gebärdensprache #Inklusion #Medea #Solo #Wut #Emotion #Verletzlichkeit*
+
+<!--plop-->
+## Mehr Info
+
+
+Die humorvolle Tanzperformance *Woman Hood* erforscht in vier Teilen unterschiedliche weibliche (Er)Lebenswelten. Sie zeigt außergewöhnliche und eigenwillige Frauenpersönlichkeiten, die unterschiedliche Arten von Macht besitzen, “anders” sind oder einfach aus der Reihe tanzen.   
+Simone de Beauvoir war der Meinung, dass der Mensch sich selbst zu etwas mache, egal welches Geschlecht, welche Herkunft und Hautfarbe er habe. Diese Gestaltungsfreiheit wird in *Woman Hood* voll ausgelebt.<br>
 
 Was bedeutet es heute, eine Frau zu sein? <br>
- Wie hat eine Frau zu sein? Wie <i>will sie sein?</i><br>
+ Wie hat eine Frau zu sein? Wie *will sie sein?*<br>
 Ist Verletzlichkeit die neue Stärke?<br>
 Was zeichnet eine Sisterhood, ein unterstützendes Netzwerk von Frauen, aus?   
 
 Angeregt von Sara Ahmeds Buch „Feministisch leben!“ (2017) startet die Performance im Mikrokosmos Bühne den Versuch, in einer immer noch patriarchal dominierten Gesellschaft, ein feministisches Fundament zu schaffen, das sich auf starken Frauenfiguren gründet.
-Einer magische Bühnenwelt, mit zeitgenössischem Tanz, aufwendigen Kostümen und mitreißender Musik: <i>Woman Hood</i> inspiriert und lässt Staunen.   
-
-  {% include video-embed-responsive.html url='https://www.youtube.com/embed/macMcG5W6MU' %}
+Einer magische Bühnenwelt, mit zeitgenössischem Tanz, aufwendigen Kostümen und mitreißender Musik: *Woman Hood* inspiriert und lässt Staunen.   
 
 
 <!--plop-->
-
-<br>
-<del>12.-14. März 2021 Premiere im Kristallwerk Graz - abgesagt!</del>
+## Credits
 
 
-**19. März 2021 Online-Stream PREMIERE, 19 Uhr**   
-
-**20. März 2021 Online-Stream, 20 Uhr**  
-
-An beiden Tagen gibt es im Anschluss einen Artist Talk:   
-
-19.03. Artist Talk auf **Deutsch**. Moderation: Karin Scaria-Braunstein   
-20.03. Artist Talk auf **Katalanisch**. Moderation: Bàrbara Raubert
-
-
-
-<br />
-
-
-*[> > Kritik von Eveline Koberg auf tanz.at](http://www.tanz.at/index.php/kritiken/kritiken-2021/2443-ursula-graber-woman-hood)<br />*
-
-
-*[> > Kritik von Ute Baumhackl in der Kleinen Zeitung](https://www.kleinezeitung.at/kultur/festspiele/5952977/Selbstbewusste-Weiblichkeit-die-kratzt-und-Spass-macht)<br />*
-
-
-<br />
-
-
-Von und mit Ursula Graber<br />
-
-
-<!--plop-->
-
-
-**Credits**  
 Konzept, Performance, Choreografie: 	**Ursula Graber**  
 Dramaturgie:	**Hanna Rohn, Bàrbara Raubert**   
 Kostüm:	**Ana Vivero**  
@@ -138,28 +110,68 @@ Licht- und Tontechnik:	**Lisa Raschhofer**
 Organisation & PR:	**Laura Halb, Ursula Graber**  
 Filmaufnahme: **Fabian Czernovsky**   
 Filmschnitt & Trailer: **Berta Monsó Purtí**
+Graz 2021
+
+<br>
 
 
-<br />
-
-**Gefördert und unterstützt von:**  
+## Mit freundlicher Unterstützung von  
 
 
 :------:|:------:|:------:|:------:
 ![]({{site.url}}/images/logograz.png){:width="200px"} | ![]({{site.url}}/images/logobund.png){:width="300px"} | ![]({{site.url}}/images/bildrecht_sw1.png){:width="170px"}| ![]({{site.url}}/images/logodat.png){:width="170px"} | ![]({{site.url}}/images/logokristallwerk.png){:width="90px"} | ![]({{site.url}}/images/logolaut.png){:width="170px"} | ![]({{site.url}}/images/logo_ccter_sw2.png){:width="250px"} |
 
-
-**Presse**
-
-
-<p>
---> Klick auf den Artikel um ihn zu vergrößern!
-</p>
+<br>
 
 
-[![Presse](https://ursulagraber.files.wordpress.com/2020/08/artikel.png?w=500){: .long-center-image}](https://ursulagraber.files.wordpress.com/2020/08/artikel.png)
+## Pressestimmen
 
-<br />
+
+{% include video-embed-responsive.html url='https://www.youtube.com/embed/macMcG5W6MU' %}
+
+
+
+## ...untersucht Graber in diesem hinreißend expressiv getanzten Solo das Feminine und das Maskuline und findet jenseits gewohnter Bilder kratzige, selbstbewusste Weiblichkeit, die sich auf dem Screen hinter ihr immer weiter vervielfacht: Vielschichtigkeit ohne Fragmentierung, was für ein großartiges Bild. Dass die Performance auch noch Spaß macht ist ein dicker Bonuspunkt. (Ute Baumhackl, Kleine Zeitung)
+
+## Einer [ein Körpereinsatz], der in diesen und vielen anderen, auch ruhigen, feingeführten Passagen, überzeugt und ausdrucksreiches zeitgenössisches Können unter Beweis stellt.
+
+## ...ist all dies in seiner immer wieder nahezu impertinent unästhetischen Präsentationsweise packend, berührend und aufrührend.
+
+## Die Summe ungewöhnlicher (…) Szenen-Schnipsel (...), die nicht unmittelbar ansprechen, aber umso tiefgründiger und mehrdeutiger sind, macht die Nachhaltigkeit dieser als humorvoll angekündigten, aber tatsächlich tiefernsten, durchdachten Präsentation aus. (Eveline Koberg, tanz.at)
+
+## Graber hat keine Angst, grotesk und abstrakt zu sein. Sehenswert! (Hanna Michaeler, Kronenzeitung)
+
+
+
+
+<div class="long-center-image">
+	<a href="https://ursulagraber.files.wordpress.com/2021/06/1-kleine-zeitung_neu_schon.jpg" title="" class="js-smartPhoto" data-caption="" data-id="" data-group="">
+		<img src="https://ursulagraber.files.wordpress.com/2021/06/1-kleine-zeitung_neu_schon.jpg"/>
+	</a>
+</div>
+
+*[> > Kritik von Ute Baumhackl auf KleineZeitung.at](https://www.kleinezeitung.at/kultur/festspiele/5952977/Selbstbewusste-Weiblichkeit-die-kratzt-und-Spass-macht)*
+
+
+<div class="long-center-image">
+	 	<a href="https://www.tanz.at/index.php/kritiken/kritiken-2021/2443-ursula-graber-woman-hood" title="" data-caption="" data-id="" data-group="">
+	 		<img src="https://ursulagraber.files.wordpress.com/2021/12/woman-hood-tanz.at-mit-hinweis2.png"/>
+	 	</a>
+	 </div>
+
+<br>
+
+
+   <div class="long-center-image">
+   	<a href="https://ursulagraber.files.wordpress.com/2021/06/4-kronenzeitung-woman-hood.png" title="" class="js-smartPhoto" data-caption="" data-id="" data-group="">
+   		<img src="https://ursulagraber.files.wordpress.com/2021/06/4-kronenzeitung-woman-hood.png"/>
+   	</a>
+   </div>
+
+
+
+
+
 
 
 <!--plop-->
