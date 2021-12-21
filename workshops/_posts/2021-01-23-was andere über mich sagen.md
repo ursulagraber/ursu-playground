@@ -20,12 +20,14 @@ galleries:
 
 
 ---
-"Ursula ist hochprofessionell und ein super Vorbild." <br />
+## "Ursula ist hochprofessionell und ein super Vorbild." <br />
 
-"Sehr empfehlenswert, weil das persönliche Level akzeptiert wird aber man auch motiviert wird, Neues zu lernen."<br />
+## "Sehr empfehlenswert, weil das persönliche Level akzeptiert wird aber man auch motiviert wird, Neues zu lernen."<br />
 
-"Drei Sätze über den Workshop bei Ursula: schweißtreibende Tanz-Improvisationen, sehr motivierte und tolle Workshop-Leiterin, super Hinführung zu mehr Bewegungsideen." <br />
+## "Schweißtreibende Tanz-Improvisationen, sehr motivierte und tolle Workshop-Leiterin, super Hinführung zu mehr Bewegungsideen." <br />
 
-"Dieser Workshop ist absolut empfehlenswert, da er Spaß macht, inspirierend ist und ich mich neu entdecken konnte!"
+## "Dieser Workshop ist absolut empfehlenswert, da er Spaß macht, inspirierend ist und ich mich neu entdecken konnte!"<br>
+
+*Die Zitate stammen aus den Feedback-Bögen zu den Workshops von 2019-2020.*
 
 ![](https://ursulagraber.files.wordpress.com/2020/11/dscf4001.jpg?w=300&fit=crop){: .center-image}

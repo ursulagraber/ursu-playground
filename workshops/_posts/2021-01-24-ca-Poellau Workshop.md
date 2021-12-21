@@ -16,6 +16,7 @@ brief: Workshop-Wochenende in Graz
 
 galleries:
 
+unlisted: True.
 
 ---
 Al festival <a href="http://www.styriansummerart.at/kurse/koerperbewegungen-und-tanz-improvisation-mit-ursula-graber/">Styrian Summer Art</a> a Pöllau (AT) aquest estiu hi participaré amb un taller de dansa.   

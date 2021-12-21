@@ -16,6 +16,7 @@ brief: Workshop-Wochenende in Graz
 
 galleries:
 
+unlisted: True.
 
 ---
 <b> TanzImpro Workshop: Basics, Magie & Flow </b>
