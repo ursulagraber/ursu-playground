@@ -107,11 +107,7 @@ Wie kann Starlight „Killjoy“ Coquelicot eine Spaßverderberin sein und gleic
 
 
 
-Eine wichtige Inspiration war das Buch “Vulva – Die Enthüllung des unsichtbaren Geschlechts” der deutschen Kulturwissenschafterin und Journalistin Mithu M. Sanyal, das faszinierende kulturelle und religiöse Geschichten sowie Mythologien rund um die Vulva thematisiert. Da gibt es z.B. Iambe, auch Baubo genannt, eine anatolische Göttin, die im Gegensatz zu den olympischen Göttern vermag, Demeter durch das Zeigen ihrer Vulva aus ihrer Depression zu holen und somit die Menschen vor dem Hungertod durch Nahrungsmittelknappheit zu bewahren. Und dann kam Corona: Allein daheim mit sich und einem Spiegel wurde Ursulas privater Raum zum Labor und Spielplatz, der nun auf die Bühne übertragen wird. Die Bühne als “Schminktischerl” – wo, inspiriert von Feminismus und Burlesque-Tanz, mit äußerlicher Veränderung und dem Spiel mit Charakterzügen experimentiert wird – und das Publikum als Spiegelersatz. Gleichzeitig bietet sich aber auch die Künstlerin als Spiegel für die Zuseher:innen an: Jede:r ist eingeladen, sich in ihr wiederzuerkennen.
-
-
-
-Im Mittelpunkt steht der Mut (und ebenso die Lust), sich als Tänzerin den Themen Sinnlichkeit und Sexualität zu stellen. In ihrem “Labor” erforscht die Künstlerin, wie sie zu körperlichem Begehren, Verletzlichkeit und Intimität steht, die essenzielle Bestandteile des Lebens sind. Das Motto dieser Performance: „Ein Frau darf und kann alles!“ Schön und sinnlich sein (an erster Stelle aber für sich selbst und ohne zum Objekt zu werden), stark sein, hässlich sein, kämpfen – so wird auch die Figur im Laufe des Abends einige Transformationen erleben. Es geht um die Beziehung zum eigenen Körper und Geschlecht und darum, den Regeln nicht zu folgen.
+ Und dann kam Corona: Allein daheim mit sich und einem Spiegel wurde Ursulas privater Raum zum Labor und Spielplatz, der nun auf die Bühne übertragen wird. Die Bühne als “Schminktischerl” – wo, inspiriert von Feminismus und Burlesque-Tanz, mit äußerlicher Veränderung und dem Spiel mit Charakterzügen experimentiert wird – und das Publikum als Spiegelersatz. Gleichzeitig bietet sich aber auch die Künstlerin als Spiegel für die Zuseher:innen an: Jede:r ist eingeladen, sich in ihr wiederzuerkennen.
 
 
 <!--plop-->
