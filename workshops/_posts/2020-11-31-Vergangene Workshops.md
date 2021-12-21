@@ -11,7 +11,7 @@ categories:
 lang: de
 ref: vergangene
 
-featured_image: https://ursulagraber.files.wordpress.com/2020/04/superselfie.jpg?w=500&fit=crop
+featured_image: https://ursulagraber.files.wordpress.com/2021/12/superselfie_small_s_w_contrast.jpg?w=500&fit=crop
 brief: Workshop-Wochenende in Graz
 
 galleries:
