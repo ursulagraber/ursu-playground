@@ -23,28 +23,7 @@ cast:
   other:
 galleries:
   - title: Starlight Killjoy (c) Clemens Nestroy
-    image: https://ursulagraber.files.wordpress.com/2020/09/mg_5046.jpg?w=1024&fit=crop
-    data-group: superworkshop
-  - title: Starlight Killjoy (c) Clemens Nestroy
     image: https://ursulagraber.files.wordpress.com/2020/09/mg_5091.jpg?w=1024&fit=crop
-    data-group: superworkshop
-  - title: Starlight Killjoy (c) Clemens Nestroy
-    image: https://ursulagraber.files.wordpress.com/2020/09/mg_5220.jpg?w=1024&fit=crop
-    data-group: superworkshop
-  - title: Starlight Killjoy (c) Clemens Nestroy
-    image: https://ursulagraber.files.wordpress.com/2020/09/mg_5225.jpg?w=1024&fit=crop
-    data-group: superworkshop
-  - title: Starlight Killjoy (c) Clemens Nestroy
-    image: https://ursulagraber.files.wordpress.com/2020/09/mg_5269.jpg?w=1024&fit=crop
-    data-group: superworkshop
-  - title: Starlight Killjoy (c) Clemens Nestroy
-    image: https://ursulagraber.files.wordpress.com/2020/09/mg_5285.jpg?w=1024&fit=crop
-    data-group: superworkshop
-  - title: Starlight Killjoy (c) Clemens Nestroy
-    image: https://ursulagraber.files.wordpress.com/2020/09/mg_5311.jpg?w=1024&fit=crop
-    data-group: superworkshop
-  - title: Starlight Killjoy (c) Clemens Nestroy
-    image: https://ursulagraber.files.wordpress.com/2020/09/mg_5395.jpg?w=1024&fit=crop
     data-group: superworkshop
   - title: Starlight Killjoy (c) Clemens Nestroy
     image: https://ursulagraber.files.wordpress.com/2020/09/mg_5454.jpg?w=1024&fit=crop
@@ -53,28 +32,10 @@ galleries:
     image: https://ursulagraber.files.wordpress.com/2020/09/mg_5558.jpg?w=1024&fit=crop
     data-group: superworkshop
   - title: Starlight Killjoy (c) Edi Haberl
-    image: https://ursulagraber.files.wordpress.com/2020/08/presse-5_kl-1.jpg?w=1024&fit=crop
+    image: https://ursulagraber.files.wordpress.com/2021/12/mg_5203.jpg?w=1024&fit=crop
     data-group: superworkshop
   - title: Starlight Killjoy (c) Edi Haberl
-    image: https://ursulagraber.files.wordpress.com/2020/08/presse-10_kl.jpg?w=1024&fit=crop
-    data-group: superworkshop
-  - title: Starlight Killjoy (c) Edi Haberl
-    image: https://ursulagraber.files.wordpress.com/2020/08/presse-12_kl.jpg?w=1024&fit=crop
-    data-group: superworkshop
-  - title: Starlight Killjoy (c) Edi Haberl
-    image: https://ursulagraber.files.wordpress.com/2020/08/presse-16_kl.jpg?w=1024&fit=crop
-    data-group: superworkshop
-  - title: Starlight Killjoy (c) Edi Haberl
-    image: https://ursulagraber.files.wordpress.com/2020/08/presse-17_kl.jpg?w=1024&fit=crop
-    data-group: superworkshop
-  - title: Starlight Killjoy (c) Edi Haberl
-    image: https://ursulagraber.files.wordpress.com/2020/08/presse-18_kl.jpg?w=1024&fit=crop
-    data-group: superworkshop
-  - title: Starlight Killjoy (c) Edi Haberl
-    image: https://ursulagraber.files.wordpress.com/2020/08/starlight-flyer.png?w=1024&fit=crop
-    data-group: superworkshop
-  - title: Starlight Killjoy Presse
-    image: https://ursulagraber.files.wordpress.com/2020/08/artikel.png?w=1024&fit=crop
+    image: https://ursulagraber.files.wordpress.com/2021/12/mg_5288.jpg?w=1024&fit=crop
     data-group: superworkshop
 
 featured_video:

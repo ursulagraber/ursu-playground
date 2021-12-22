@@ -23,14 +23,14 @@ galleries:
   image: https://ursulagraber.files.wordpress.com/2021/12/portrait-2.jpg?w=1024&fit=crop
 - title: (c) Ursula Graber 2019
   image: https://ursulagraber.files.wordpress.com/2021/12/superselfie_small.jpg?w=1024&fit=crop
-- title: (c) Lilli Angermeier 2019
-  image: https://ursulagraber.files.wordpress.com/2021/12/herbst-in-action-2_small.png?w=1024&fit=crop
 - title: (c) Ursula Graber 2019
   image: https://ursulagraber.files.wordpress.com/2021/12/herbst19-gruppenfoto-viele-leute_small.png?w=1024&fit=crop
-- title: (c) Ursula Graber 2021
-  image: https://ursulagraber.files.wordpress.com/2021/12/img_20210708_085228_small.jpg?w=1024&fit=crop
+
 
 ---
+![](https://ursulagraber.files.wordpress.com/2021/12/dscf4041.jpg){: .center-image}
+<br>
+
 *Wegen der Covid-Pandemie wurden in den Jahren 2020-2021 fünf geplante Workshops abgesagt.*<br>
 
 
@@ -46,3 +46,7 @@ galleries:
 2007-2018: Verschiedene Unterrichts-Settings an Schulen sowie Kurse für Erwachsene; Graz, Linz, Lausanne<br>
 
 *2016 BA in Tanzpädagogik, Anton Bruckner Universität Linz*
+
+<br>
+
+![](https://ursulagraber.files.wordpress.com/2021/12/dscf4488.jpg){: .center-image}
