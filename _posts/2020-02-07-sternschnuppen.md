@@ -24,23 +24,18 @@ cast:
 galleries:
 
   - title: (c) Clemens Nestroy
-    image: https://ursulagraber.files.wordpress.com/2020/04/sternschnuppen_clemens_nestroy_42.jpg?w=1024&fit=crop
+    image: https://ursulagraber.files.wordpress.com/2021/12/aa-sternschnuppen_clemens_nestroy_25_small.jpg?w=2500&fit=crop
     data-group: superworkshop
   - title: (c) Clemens Nestroy
-    image: https://ursulagraber.files.wordpress.com/2020/04/sternschnuppen_clemens_nestroy_35.jpg?w=1024&fit=crop
+    image: https://ursulagraber.files.wordpress.com/2021/12/a-sternschnuppen_clemens_nestroy_35_small.jpg?w=2500&fit=crop
     data-group: superworkshop
   - title: (c) Clemens Nestroy
-    image: https://ursulagraber.files.wordpress.com/2021/02/aa-sternschnuppen_clemens_nestroy_4.jpg?w=1024&fit=crop
+    image: https://ursulagraber.files.wordpress.com/2021/12/deckblatt_small.jpg?w=2500&fit=crop
     data-group: superworkshop
   - title: (c) Clemens Nestroy
-    image: https://ursulagraber.files.wordpress.com/2021/02/aa-sternschnuppen_clemens_nestroy_18.jpg?w=1024&fit=crop
+    image: https://ursulagraber.files.wordpress.com/2020/04/sternschnuppen_clemens_nestroy_42.jpg
     data-group: superworkshop
-  - title: (c) Clemens Nestroy
-    image: https://ursulagraber.files.wordpress.com/2021/02/aa-sternschnuppen_clemens_nestroy_21.jpg?w=1024&fit=crop
-    data-group: superworkshop
-  - title: (c) Clemens Nestroy
-    image: https://ursulagraber.files.wordpress.com/2021/02/aa-sternschnuppen_clemens_nestroy_25.jpg?w=1024&fit=crop
-    data-group: superworkshop
+
 
 featured_video:
     title: Sternschnuppen und Kometen TRAILER

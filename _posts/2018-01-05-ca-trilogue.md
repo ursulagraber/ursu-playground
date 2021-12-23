@@ -24,22 +24,16 @@ cast:
 galleries:
 
 - title: (c) Alexander Wenzel
-  image: https://ursulagraber.files.wordpress.com/2020/04/trilogue_8.jpg?w=1024&fit=crop
+  image: https://ursulagraber.files.wordpress.com/2021/12/a-trilogue_12_small.jpg?w=1024&fit=crop
   data-group: superworkshop
 - title: (c) Alexander Wenzel
-  image: https://ursulagraber.files.wordpress.com/2020/04/trilogue_5.jpg?w=1024&fit=crop
+  image: https://ursulagraber.files.wordpress.com/2021/12/trilogue_2_small.jpg?w=2500&fit=crop
   data-group: superworkshop
 - title: (c) Alexander Wenzel
-  image: https://ursulagraber.files.wordpress.com/2020/04/trilogue_9.jpg?w=1024&fit=crop
+  image: https://ursulagraber.files.wordpress.com/2021/12/trilogue_5_small.jpg?w=1024&fit=crop
   data-group: superworkshop
 - title: (c) Alexander Wenzel
-  image: https://ursulagraber.files.wordpress.com/2020/04/trilogue_10.jpg?w=1024&fit=crop
-  data-group: superworkshop
-- title: (c) Alexander Wenzel
-  image: https://ursulagraber.files.wordpress.com/2021/02/a-trilogue_3.png?w=1024&fit=crop
-  data-group: superworkshop
-- title: (c) Alexander Wenzel
-  image: https://ursulagraber.files.wordpress.com/2021/02/a-trilogue_12.jpg?w=1024&fit=crop
+  image: https://ursulagraber.files.wordpress.com/2021/12/trilogue_10_small.jpg?w=1024&fit=crop
   data-group: superworkshop
 
 featured_video:

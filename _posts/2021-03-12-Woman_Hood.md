@@ -28,16 +28,16 @@ galleries:
     image: https://ursulagraber.files.wordpress.com/2021/02/mantel-von-hinten-c-edi-haberl-15_1.jpg?w=1024&fit=crop
     data-group: superworkshop
   - title: (c) Clemens Nestroy
-    image: https://ursulagraber.files.wordpress.com/2021/12/woman-hood-c-clemens-nestroy-2.jpg?w=1024&fit=crop
+    image: https://ursulagraber.files.wordpress.com/2021/12/woman-hood-c-clemens-nestroy-10_small.jpg
     data-group: superworkshop
   - title: (c) Clemens Nestroy
-    image: https://ursulagraber.files.wordpress.com/2021/03/la-boja.jpg?w=1024&fit=crop
+    image: https://ursulagraber.files.wordpress.com/2021/03/la-boja.jpg
     data-group: superworkshop
   - title: (c) Clemens Nestroy
-    image: https://ursulagraber.files.wordpress.com/2021/12/woman-hood-c-clemens-nestroy-7.jpg?w=1024&fit=crop
+    image: https://ursulagraber.files.wordpress.com/2021/12/woman-hood-c-clemens-nestroy-7.jpg
     data-group: superworkshop
   - title: (c) Clemens Nestroy
-    image: https://ursulagraber.files.wordpress.com/2021/12/woman-hood-c-clemens-nestroy-18.jpg?w=1024&fit=crop
+    image: https://ursulagraber.files.wordpress.com/2021/12/woman-hood-c-clemens-nestroy-18.jpg
     data-group: superworkshop
 
 

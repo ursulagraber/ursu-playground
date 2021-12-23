@@ -23,19 +23,19 @@ cast:
   other:
 galleries:
   - title: Starlight Killjoy (c) Clemens Nestroy
-    image: https://ursulagraber.files.wordpress.com/2020/09/mg_5091.jpg?w=1024&fit=crop
+    image: https://ursulagraber.files.wordpress.com/2020/09/mg_5091.jpg
     data-group: superworkshop
   - title: Starlight Killjoy (c) Clemens Nestroy
-    image: https://ursulagraber.files.wordpress.com/2020/09/mg_5454.jpg?w=1024&fit=crop
+    image: https://ursulagraber.files.wordpress.com/2020/09/mg_5454.jpg
     data-group: superworkshop
   - title: Starlight Killjoy (c) Clemens Nestroy
-    image: https://ursulagraber.files.wordpress.com/2020/09/mg_5558.jpg?w=1024&fit=crop
+    image: https://ursulagraber.files.wordpress.com/2020/09/mg_5558.jpg
     data-group: superworkshop
   - title: Starlight Killjoy (c) Edi Haberl
-    image: https://ursulagraber.files.wordpress.com/2021/12/mg_5203.jpg?w=1024&fit=crop
+    image: https://ursulagraber.files.wordpress.com/2021/12/mg_5203.jpg
     data-group: superworkshop
   - title: Starlight Killjoy (c) Edi Haberl
-    image: https://ursulagraber.files.wordpress.com/2021/12/mg_5288.jpg?w=1024&fit=crop
+    image: https://ursulagraber.files.wordpress.com/2021/12/mg_5288.jpg
     data-group: superworkshop
 
 featured_video:
