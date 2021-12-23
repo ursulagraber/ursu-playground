@@ -84,5 +84,5 @@ Nach Anfrage ist es auch möglich, das Workshop-Thema oder das Format anzupassen
 
 <br>
 
-![](https://ursulagraber.files.wordpress.com/2020/04/ursu_boden.jpg){: .center-image}
+![](https://ursulagraber.files.wordpress.com/2021/12/dscf4488.jpg){: .center-image}
 <br>

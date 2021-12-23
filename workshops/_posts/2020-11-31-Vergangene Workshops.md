@@ -19,8 +19,6 @@ galleries:
   image: https://ursulagraber.files.wordpress.com/2021/12/dsc00257_small.jpg?w=1024&fit=crop
 - title: (c) Ursula Graber Jan 2020
   image: https://ursulagraber.files.wordpress.com/2021/12/gruppenfoto-mit-veza_small.png?w=1024&fit=crop
-- title: (c) Max Wührer 2019
-  image: https://ursulagraber.files.wordpress.com/2021/12/portrait-2.jpg?w=1024&fit=crop
 - title: (c) Ursula Graber 2019
   image: https://ursulagraber.files.wordpress.com/2021/12/superselfie_small.jpg?w=1024&fit=crop
 - title: (c) Ursula Graber 2019
@@ -49,4 +47,4 @@ galleries:
 
 <br>
 
-![](https://ursulagraber.files.wordpress.com/2021/12/dscf4488.jpg){: .center-image}
+![](https://ursulagraber.files.wordpress.com/2021/12/portrait-2.jpg){: .center-image}
