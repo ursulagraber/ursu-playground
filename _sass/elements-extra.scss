@@ -577,8 +577,8 @@ figure#right {
 .masonry-performance {
   display: block;
 
-  columns: 2 600px;
-  column-gap: 2em;
+  columns: 4 300px;
+  column-gap: 1em;
   justify-content: center;
 
   padding: 2em;
@@ -608,8 +608,8 @@ figure#right {
     text-align: center;
     color: white;
     font-weight: bold;
-    font-size: 1.8em;
-    padding: 1em;
+    font-size: 1.2em;
+    padding: 0.5em;
     background: rgba(0, 0, 0, 0.5);
 
     span {
@@ -634,7 +634,7 @@ figure#right {
   // }
 
   img {
-    margin-bottom: 1rem;
+    margin-bottom: 0.5rem;
   }
 
   .thumbnail:hover {
