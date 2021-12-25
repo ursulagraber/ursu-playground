@@ -1,7 +1,7 @@
 <!--
 <p class="image-gallery-index">{% for item in page.galleries %}<a href="{{ item.url }}" title="{{ item.title }}"><img src="//images.weserv.nl/?url={{ site.url | replace: 'http://','' | replace: 'https://','' }}{{ item.image }}&w=300&h=300&output=jpg&q=50&t=square" /><span>{{ item.title }}</span></a>{% endfor %}</p>
 -->
-<p class="cards">
+<p class="cards side-gallery">
   {% for item in page.galleries %}
   <a href="{{ item.image }}" title="{{ item.title }}" class="js-smartPhoto" data-caption="{{ item.title }}" data-id="{{ item.title }}" data-group="{{ item.data-group }}">
     <img src="{{ item.image }}&w=300&h=300&output=jpg&q=50&t=square" />
