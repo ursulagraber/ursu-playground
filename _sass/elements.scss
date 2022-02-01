@@ -236,3 +236,12 @@ a {
 .on-white {
   color: $theme-dark-color;
 }
+
+p.quote
+{
+  font-size: 1.6em;
+  color: white;
+  font-weight: bold;
+
+  font-family: $header-font;
+}
