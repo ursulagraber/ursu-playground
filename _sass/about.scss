@@ -151,10 +151,12 @@
 .bottom-section
 {
   width: 90%;
+  padding-left: 10%;
 
   @media screen and #{$half-screen}
   {
     width: auto;
+    padding-left: auto;
   }
 }
 
