@@ -29,7 +29,7 @@ galleries:
 ![](https://ursulagraber.files.wordpress.com/2021/12/dscf4041.jpg){: .center-image}
 <br>
 
-*Wegen der Covid-Pandemie wurden in den Jahren 2020-2021 fünf geplante Workshops abgesagt.*<br>
+*Wegen der Covid-Pandemie wurden seit 2020 zahlreiche geplante Workshops abgesagt.*<br>
 
 
 
@@ -39,7 +39,7 @@ galleries:
 
 01/2020: “Tänzerisches ERLEBEN”, Workshop-Wochenende in Graz<br>
 
-09-12/2019: “Tools für Tanzimprovisation”, Trimester-Kurs für die IG Tanz Steiermark, Graz<br>
+09/2019: “Tools für Tanzimprovisation”, Kurs für die IG Tanz Steiermark, Graz<br>
 
 2007-2018: Verschiedene Unterrichts-Settings an Schulen sowie Kurse für Erwachsene; Graz, Linz, Lausanne<br>
 

@@ -8,7 +8,7 @@ layout: workshop
 categories:
   - Workshops
 
-lang: de
+lang: ca
 ref: workshop
 
 featured_image: https://ursulagraber.files.wordpress.com/2021/06/ursu-boden.jpg?w=500&fit=crop
@@ -74,8 +74,8 @@ Tänzer:innen, Sportler:innen und Personen, die sich gerne mit dem Bewegungsappa
 • Du bist trainierter.<br>
 • Du lernst viel: du entwickelst dich weiter, du lernst dich selbst besser kennen und du erforscht Tanz- und Improtechnik.<br>
 • Du hast erlebst eine besondere Erfahrung, (im besten Fall) mit Momenten voller Magie und Flow.<br>
-• Du lernst neue Menschen kennen.<br>
-• Du schaffst dir eine Auszeit und kriegst deinen Kopf frei.<br>
+• Du lernst (im besten Fall) nette Menschen kennen.<br>
+• Du schaffst dir eine Auszeit und kriegst deinen Kopf frei (und genießt die Natur).<br>
 
 <br>
 

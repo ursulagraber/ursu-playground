@@ -53,14 +53,14 @@ Ein Tanzperformance-Solo in vier Bildern über außergewöhnliche und eigenwilli
 *#Feminismus #eigenwillig #Weiblichkeit #Männlichkeit #Kampf #verrückt #weibliches Heer #Kinect camera #live Projektion #Gebärdensprache #Inklusion #Medea #Solo #Wut #Emotion #Verletzlichkeit*
 
 <!--plop-->
-## Mehr Info
+## Über *Woman Hood*
 
 
 Die humorvolle Tanzperformance *Woman Hood* erforscht in vier Teilen unterschiedliche weibliche (Er)Lebenswelten. Sie zeigt außergewöhnliche und eigenwillige Frauenpersönlichkeiten, die unterschiedliche Arten von Macht besitzen, “anders” sind oder einfach aus der Reihe tanzen.   
 Simone de Beauvoir war der Meinung, dass der Mensch sich selbst zu etwas mache, egal welches Geschlecht, welche Herkunft und Hautfarbe er habe. Diese Gestaltungsfreiheit wird in *Woman Hood* voll ausgelebt.<br>
 
 Was bedeutet es heute, eine Frau zu sein? <br>
- Wie hat eine Frau zu sein? Wie *will sie sein?*<br>
+Wie hat eine Frau zu sein? Wie *will sie* sein?<br>
 Ist Verletzlichkeit die neue Stärke?<br>
 Was zeichnet eine Sisterhood, ein unterstützendes Netzwerk von Frauen, aus?   
 

@@ -36,3 +36,22 @@ ca:
   contact:
     name: Contacte
     link: /contact
+en:
+  home:
+    name: Home
+    link: /index-en
+  about:
+    name: About me
+    link: /about-en
+  projects:
+    name: Performances
+    link: /projects/
+  workshops:
+    name: Workshops
+    link: /workshops/
+  gallery:
+    name: Gallery
+    link: /gallery/
+  contact:
+    name: Contact
+    link: /contact

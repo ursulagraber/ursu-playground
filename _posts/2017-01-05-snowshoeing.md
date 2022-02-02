@@ -52,7 +52,7 @@ Eine düstere Tanzperformance begleitet von Schneelandschafts-Projektionen und M
 *#dunkel #beklemmend #Schneeschuhwandern #elektronische Musik #düster #Bewegungsqualitäten #Wut #fremdgesteuert #Kraft #Resignation*
 
 <!--plop-->
-## Mehr Info
+## Über *Snowsheoing/geile Scheisse*
 
 Dies ist die zweite Kollaboration mit dem Komponisten Diego Jiménez Tamame.
 

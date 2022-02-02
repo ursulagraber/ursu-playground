@@ -1,0 +1,49 @@
+---
+title: Workshops
+layout: fullpage
+
+lang: en
+ref: workshops
+---
+
+<div class="workshops-container">
+	<div class="slide">
+		<div class="workshops">
+			{% assign workshops = site.categories.workshops | where:"lang", page.lang | sort: "date" | reverse %}
+			{% for workshop in workshops %}
+			 {% unless workshop.unlisted %}
+				<div class="workshop-container">
+					<div class="workshop" style="background-image: url('{{ workshop.featured_image }}')">
+						<a href="{{ workshop.url }}"><span>{{ workshop.title }}</span></a>
+					</div>
+				</div>
+				{% endunless %}
+			{% endfor %}
+		</div>
+	</div>
+	<div class="excerpt sticky">
+		<h2>DANCE IMPROV: BASICS, MAGIC & FLOW</h2>
+
+			<b>WORKSHOP</b><br>
+			The workshop is aimed at people who love to move, who want to improve their
+			skills with dance improv or who want to get to know their musculoskeletal
+			system better.
+			The format of the workshop is 2 to 5 blocked days. It is suitable for
+			festivals, companies, universities and schools (from 16 years).
+
+			<a href="http://www.ursulagraber.com/workshops/2021/12/20/en-TanzImproWorkshop/">Read more</a>
+			<p>
+			<b>INDIVIDUAL TRAINING</b><br>
+			If you are interested in individual training on the same topic, please
+			contact me - I offer private lessons online and offline.
+			<p>
+			<b>UPCOMING WORKSHOPS</b><br>
+			February 2022: Centre cívic Ter, Girona<br>
+			Summer 2022: Styrian Summer Art Festival, Pöllau (STMK/AT)<br>
+			<p>
+				If you are interested, please <a href="http://www.ursulagraber.com/contact/">contact</a> me! I answer every message.
+
+<br />
+
+	</div>
+</div>

@@ -47,67 +47,43 @@ featured_video:
     url: https://player.vimeo.com/video/523942516
     id: 523942516
 ---
+Un solo de dansa en quatre imatges sobre personalitats femenines extraordinàries i idiosincràtiques, sobre feminitat i masculinitat.                   
+L'espectacle es proposa crear un paisatge de figures femenines fortes.   
 
 
-*Woman Hood*
+*#feminisme #idiosincràtic #femininitat #masclisme #lluita #boig #exèrcit femení #càmera kinect #projecció en directe #llenguatge de signes #inclusió #medea #solo #ira #emoció #vulnerabilitat*
 
-L’espectacle de dansa contemporània <i>Woman Hood</i> explora amb humor diferents mons femenins en quatre parts. Mostra personalitats i idiosincràsies femenines extraordinàries que tenen diferents tipus de poder, són "diferents" o simplement «ballen fora de línia». Simone de Beauvoir opinava que la gent es transforma en quelcom, independentment del gènere, l’origen i el color de la pell. Aquesta llibertat de disseny es plenament viu a <i>Woman Hood</i>. <br>
-
-Què significa ser dona avui? <br>
-Com ha de ser una dona? Com <i>vol</i> ser ella?<br>
-La vulnerabilitat és la nova força?<br>
-Què distingeix una sororitat, una xarxa solidària de dones? <br>
-Sóc una dona, si ...?
-
-
-Inspirada en el llibre de Sara Ahmed <i>Living a feminist life</i> (2017), l’espectacle
-intenta crear en el microcosmos de l’escenari una base feminista basada en fortes
-figures femenines, en una societat que encara està dominada pel patriarcat. En un
-món escènic màgic, amb dansa contemporània, amb un vestuari molt elaborat i una música
-engrescadora <i>Woman Hood</i> sacseja i sorprèn.  
 
 
 <!--plop-->
 
-<br />
-<del>12-14 de març 2021 Premiere en el teatre "Kristallwerk" Graz - cancel·lat!</del>
+## Sobre *Woman Hood*   
 
-**19 de març 2021 PREMIERE transmissió en línia, 19 h**   
-
-**20 de març 2021 transmissió en línia, 20 h**    
-
-Els dos dies la transmissió és seguida de tertúlia amb els artistes:   
-
-19 de març tertúlia amb els artistes **en alemany**. Moderació: Karin Scaria-Braunstein   
-
-20 de març tertúlia amb els artistes **en català**. Moderació: Bàrbara Raubert
-
-<a href="https://shop.ticketteer.com/ursula_graber_contemporary_dancer_choreographer/e/evt_60230a12e25f0300199e66b6">> >Botiga de les entrades</a>
+L'espectacle de dansa contemporània «Woman Hood» explora amb humor diferents mons femenins en quatre parts. Mostra personalitats femenines extraordinàries i idiosincràsies de diferents tipus de poder.   
+Simone de Beauvoir deia que la gent es transforma en quelcom, independentment del gènere, l'origen i el color de la pell. Aquesta llibertat de transformació es viu plenament a Woman Hood.   
 
 
-
-<br />
-
-*[> > Article en Naciódigital](https://www.naciodigital.cat/baixmontseny/noticia/15991/ballarina-coreografa-ursula-graber-posa-escena-woman-hood)<br />*
+Què significa ser dona avui? Com ha de ser una dona? Com vol ser ella? La vulnerabilitat és la nova força? Què distingeix una sororitat, una xarxa solidària de dones?   
 
 
-
-Una creació d'Ursula Graber<br />
+Inspirada en el llibre de Sara Ahmed “Viure una vida feminista” (2018), l'espectacle intenta crear al microcosmos de l'escenari un paisatge de figures femenines fortes enmarcades en una societat encara dominada pel patriarcat que trascendeix a través de la màgia escènica, amb un vestuari molt elaborat i una música engrescadora. Woman Hood sacseja i sorprèn.
 
 
 
 <!--plop-->
 
 
-**Fitxer tècnic**  
-Concepte, performance, coreografia: 	**Ursula Graber**  
+**Fitxer**  
+Concepte, interpretació, coreografia: 	**Ursula Graber**  
 Dramatúrgia:	**Hanna Rohn, Bàrbara Raubert**   
 Vestuari:	**Ana Vivero**  
 Càmera 3D: **Pol Monsó Purtí**   
-Tecnologia de la llum i el so:	**Lisa Raschhofer**   
-Organització i relacions públiques:	**Laura Halb, Ursula Graber**  
+Tècnica d'il·luminació i so:	**Lisa Raschhofer**   
+Producció i relacions públiques:	**Ursula Graber**
+Assistència en relacions públiques:   **Laura Halb***  
 Càmera: **Fabian Czernovsky**   
-Editing & Trailer: **Berta Monsó Purtí**
+Muntatge & tràiler: **Berta Monsó Purtí**  
+Graz 2021
 
 
 <br />
@@ -118,6 +94,57 @@ Editing & Trailer: **Berta Monsó Purtí**
 :------:|:------:|:------:|:------:
 ![]({{site.url}}/images/logograz.png){:width="200px"} | ![]({{site.url}}/images/logobund.png){:width="300px"} | ![]({{site.url}}/images/logodat.png){:width="170px"} | ![]({{site.url}}/images/logokristallwerk.png){:width="90px"} | ![]({{site.url}}/images/logolaut.png){:width="170px"} | ![]({{site.url}}/images/logo_ccter_sw2.png){:width="250px"} |
 
+
+<br />
+
+*[> > Article en Naciódigital](https://www.naciodigital.cat/baixmontseny/noticia/15991/ballarina-coreografa-ursula-graber-posa-escena-woman-hood)<br />*
+
+
+
+## Ressenya de premsa
+
+
+
+{% include video-embed-responsive.html url='https://www.youtube.com/embed/macMcG5W6MU' %}
+
+
+
+## ...Graber examina la feminitat i la masculinitat en aquest solo de dansa d'una manera encisadora i expressiva i troba una feminitat esgarrifosa i segura de si mateixa més enllà de les imatges habituals, que es multiplica a la pantalla al seu darrere: complexitat sense fragmentació, quina imatge més gran! El fet que l'actuació també sigui divertida és un gran avantatge. (Ute Baumhackl, Kleine Zeitung)
+
+## La seva dansa amb un exigència física convenç en passatges de diferents caràcters, també tranquils, executats finament i demostra una capacitat expressiva contemporània.
+
+## ...tot això és captivador, commovedor i commovedor en la seva forma de presentació gairebé impertinentment antiestètica.
+
+## La suma d'escenes insòlites (...), fragments d'escenes (...), que no són directament rellevants, però encara són més profundes i ambigües, explica la sostenibilitat d'aquesta presentació, anunciada com a humorística però en realitat profunda. seriosa i ben pensada. (Eveline Koberg, tanz.at)
+
+## Graber no té por de ser grotesc i abstracte. Val la pena veure-ho! (Hanna Michaeler, Kronenzeitung)
+
+
+
+
+<div class="long-center-image">
+	<a href="https://ursulagraber.files.wordpress.com/2021/06/1-kleine-zeitung_neu_schon.jpg" title="" class="js-smartPhoto" data-caption="" data-id="" data-group="">
+		<img src="https://ursulagraber.files.wordpress.com/2021/06/1-kleine-zeitung_neu_schon.jpg"/>
+	</a>
+</div>
+
+*[> > Crítica d'Ute Baumhackl a la Kleine Zeitung (en alemany)](https://www.kleinezeitung.at/kultur/festspiele/5952977/Selbstbewusste-Weiblichkeit-die-kratzt-und-Spass-macht)*
+
+
+<div class="long-center-image">
+	 	<a href="https://www.tanz.at/index.php/kritiken/kritiken-2021/2443-ursula-graber-woman-hood" title="" data-caption="" data-id="" data-group="">
+	 		<img src="https://ursulagraber.files.wordpress.com/2021/12/woman-hood-tanz.at-mit-hinweis2.png"/>
+	 	</a>
+	 </div>
+
+<br>
+
+
+   <div class="long-center-image">
+   	<a href="https://ursulagraber.files.wordpress.com/2021/06/4-kronenzeitung-woman-hood.png" title="" class="js-smartPhoto" data-caption="" data-id="" data-group="">
+   		<img src="https://ursulagraber.files.wordpress.com/2021/06/4-kronenzeitung-woman-hood.png"/>
+   	</a>
+   </div>
 
 
 

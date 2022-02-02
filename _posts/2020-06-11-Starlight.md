@@ -60,11 +60,11 @@ Inspiriert von kritischen feministischen Theorien und Burlesque-Tanz schafft sie
 
 <!--plop-->
 
-## Über „Starlight ‚Killjoy‘ Coquelicot“
+## Über *Starlight ‚Killjoy‘ Coquelicot*
 
 
 Die Figur KILLJOY (dt. „Spaßverderberin“) ist eine Erfindung der feministischen Theoretikerin Sara Ahmed und spricht in sexistischen und rassistischen Situationen Ungleichheit ungeniert an. Starlight Coquelicot ist eine Burlesque Tänzerin. Sie zelebriert ihren weiblichen Körper, Sinnlichkeit, Lust und Schönheit. Starlight “Killjoy” Coquelicot, Ursula Grabers Alter Ego auf der Bühne, besitzt beide Charakterzüge. In ihr vereint sich intellektueller Feminismus mit der Zelebration von Sinnlichkeit und Körperlichkeit.<br>
-Wie kann Starlight „Killjoy“ Coquelicot eine Spaßverderberin sein und gleichzeitig durch Burlesque Spaß haben? Dieses Spannungsfeld steht im Zentrum des Projekts und erlaubt es der Künstlerin, neue Möglichkeiten des Frauseins auszuloten sowie mit choreografischen Methoden zu experimentieren.
+Wie kann Starlight „Killjoy“ Coquelicot eine Spaßverderberin sein und gleichzeitig durch Burlesque Spaß haben? Dieses Spannungsfeld steht im Zentrum des Projekts und erlaubt es der Künstlerin, neue Möglichkeiten des Frauseins auszuloten sowie mit anderen choreografischen Methoden zu experimentieren, die normalerweise nicht Teil des zeitgenössischen Tanzes sind.
 
 
 
