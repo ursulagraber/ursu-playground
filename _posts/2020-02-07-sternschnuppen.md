@@ -52,7 +52,7 @@ Mit lokalen Performer:innen und deren Bewegungen als Individuum und Gruppe. Bewe
 
 <!--plop-->
 
-## Mehr Info
+## Über *Sternschnuppen ubnd Kometen*
 
 Gruppenperformance von Ursula Graber
 

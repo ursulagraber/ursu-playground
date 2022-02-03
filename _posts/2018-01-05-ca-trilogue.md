@@ -42,9 +42,19 @@ featured_video:
     id: 233919406
 ---
 
+Tres disciplines diferents -dansa contemporània, música electrònica i visuals en 3D- es troben i es comuniquen entre si mitjançant les tecnologies digitals.
+
+*#música en directe #música electrònica #càmera kinect #projecció en directe #tecnologia digital #mitjans de comunicació #dansa #diàleg #triàleg #comunicació #abstracció*
+
+<!--plop-->
+
+## Sobre *Trilogue*   
+
 Trilogue és la primera col·laboració entre el compositor Diego Jiménez Tamame, el dissenyador visual Pol Monsó Purtí i Ursula Graber. Una càmera 3D enregistra els moviments de la ballarina i els reprodueix en directe. A més, la ballarina està connectada al músic mitjançant una polsera tecnològica que, en funció dels moviments de la ballarina, envia senyals a la música electrònica i, per tant, influeix en la música en viu. Un Triàleg entre visuals, moviments i música que alhora qüestiona la presència de la tecnologia en la nostra vida quotidiana.
 
 <!--plop-->
+
+## Fitxer   
 
 Concepte: Ursula Graber, Diego Jiménez Tamame, Pol Monsó Purtí
 
@@ -59,5 +69,19 @@ So i llum: Ulrich Gladisch, Ralf Beyer
 Consells artístics: Lisa Como
 
 Mumuth, Graz
+
+<br>
+
+## Ressenya de premsa
+
+Article de la crítica de dansa Eveline Koberg (en alemany)
+
+
+
+<div class="long-center-image">
+  <a href="https://www.tanz.at/index.php/kritiken/kritiken-2017/1810-mumuth-graz-invisible-drives-4" title="" data-caption="" data-id="" data-group="">
+    <img src="https://ursulagraber.files.wordpress.com/2021/12/trilogue-artikel-tanz.at_.-mit-hinweis2.png"/>
+  </a>
+ </div>
 
 <!--[![Trilogue](https://i.vimeocdn.com/video/740540727_640.jpg)](https://player.vimeo.com/video/233919406)-->

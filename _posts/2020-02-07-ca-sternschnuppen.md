@@ -40,28 +40,50 @@ featured_video:
   url: https://player.vimeo.com/video/512498076
   id: 512498076
 ---
+Una actuació col·lectiva a l'espai públic com a part del festival Spleen*trieb.
 
-Performance per un grup d'Ursula Graber
+Amb intèrprets locals i amb moviments individuals i col·lectius. Moviments que són accidentals d'una banda i segueixen unes regles clares de l'altra.
 
-Quan l’organisme de tots els éssers vius esdevé independent, juganer i valent, passa: la màgia s’instal·la, allò inexplicable, allò meravellós i ens sorprèn. Més enllà de qualsevol lògica i, tot i això, seguint un ordre secret. Petites partícules d’un gran xiulet i lliscament, brillants i misterioses, seguint les lleis d’aquest joc i la poderosa massa s’apodera del timó que controla la dinàmica.
-
-<br />
-En el marc del festival *spleen\*trieb* Graz (AT).<br />
-<br />
-**Lloc:**<br />
-Shopping Center Nord, Graz<br />
-<br />
-**Esdeveniments:** <br />
-7 de febrer de 2020, a les 16 h<br />
-8 de febrer de 2020, 12:30 i 16:00<br />
-10 de febrer de 2020, 18 h<br />
-<br />
-Admisió gratuita.
+*#dinàmica de grup #puntuació #proximitat #distància #individual #còpia #silenci #música #espai públic #eixam #improvisació #concentració*
 
 <!--plop-->
 
-Una performance de moviments.
-Bentornats!!
+## Sobre *Shooting stars and comets*   
+
+Quan l’organisme de tots els éssers vius esdevé independent, juganer i valent passa: la màgia s’instal·la, allò inexplicable, allò meravellós i ens sorprèn. Més enllà de qualsevol lògica i, tot i això, seguint un ordre secret. Petites partícules d’un gran xiulet i lliscament, brillants i misterioses, seguint les lleis d’aquest joc i la poderosa massa s’apodera del timó que controla la dinàmica.
+
+
+En el marc del festival spleen * trieb.
+
+<!--plop-->
+
+## Fitxer
+
+Concepte, coreografia, interpretació: Ursula Graber
+
+Interpretació: Alex Binder, Michaela Hofer, Leo Rögner, Eva Scheibelhofer-Schroll, Michael Söllinger, Birgit Stummer, Erni Willrich Ull exterior: Veza Fernández
+Muntatge del tràiler: Berta Monsó Purtí
+
+Càmera: producció de pel·lícules henx
+
+Gràcies a:<br>
+spleen festival Graz<br>
+spleen*trieb festival<br>
+Shopping Nord Graz<br>
+henx film production<br>
+das andere Theater, Graz<br>   
+
+Graz 2020   
+
+## Ressenyes de premsa   
+
+## "Una mirada al cel estelat. Per què fem el que fem? Què passa sense motiu, quins processos de la nostra vida segueixen lleis desconegudes? Shooting Stars i cometes desafia com pensem sobre l'atzar i les regles". Valentin Bayer, periodista.   
+
+
+
+## "Observant el moviment sense vernís i sense decorar a l'espai públic és possible entrar en contacte amb un mateix". Mona May, escriptora i directora.
+
+
 
 
 <!--[![Totem](https://i.vimeocdn.com/video/746500438_640.jpg)](https://player.vimeo.com/video/306702195)-->

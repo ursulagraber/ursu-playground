@@ -44,11 +44,21 @@ featured_video:
 
 <!-- explore this: https://vimeo.com/api/oembed.json?url=http%3A//vimeo.com/330582854 -->
 
-Es tracta de la segona col·laboració amb el compositor Diego Jiménez Tamame.   
+Un espectacle de dansa fosca acompanyat de projeccions de paisatges nevats i música composta per Diego Jiménez Tamame. L'ambient bàsic és opressiu, però l'humor brilla en un instant.    
+
+
+*#fosc #opressiu #raquetes de neu #música electrònica #ombrívol #qualitats de moviment #ira #controlat externament #poder #resignació*
+
+<!--plop-->
+## Sobre *Snowshoeing/geile Scheisse*
+
+Es tracta de la segona col·laboració amb el compositor Diego Jiménez Tamame.    
 
 La investigació del moviment es basa en dos estats emocionals oposats: per una banda, malalties de la civilització com el <i>burn-out</i> i la depressió, per una altra, activitats equilibradores com ara fer raquetes de neu i passar molt temps a la natura.
 
 <!--plop-->
+
+## Fitxer   
 
 Concepte i dansa: Ursula Graber
 

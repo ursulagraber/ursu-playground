@@ -1,7 +1,7 @@
 ---
 date: 2021-12-20
 location: Graz
-title: TanzImpro Workshop Basics, Magie & Flow
+title: Taller d’improvisació de dansa conceptes bàsics, màgia i flow
 
 layout: workshop
 
@@ -20,69 +20,70 @@ galleries:
 ![](https://ursulagraber.files.wordpress.com/2021/12/dscf4404.jpg){: .center-image}
 <br>
 
-## 5 Stufen des Workshops:
+## 5 etapes del taller:
 
 <br>
 
-## Stufe 1: Körper genauer kennen lernen
-## Stufe 2: Tanz-Bewegungen erforschen
-## Stufe 3: Impro-Bewegungen kreieren
-## Stufe 4: Impro-Faktoren studieren
-## Stufe 5: Magie und Flow finden
+## Etapa 1: Conèixer millor el cos
+## Etapa 2: Explorar moviments de dansa
+## Etapa 3: Crear moviments d’improvisació
+## Etapa 4: Estudiar els factors de l’improvisació
+## Etapa 5: Trobar màgia i flow
 
 <br>
 
 
-## Stufe 1: Körper kennen lernen
-Auf Stufe 1 lernen wir die Basics in Bezug auf Bewegungen, Schwerkraft und Atmung. **Grundstimmung: ENJOY**
+## Etapa 1: Conèixer millor el cos
+Al nivell 1 aprenem els bàsics del moviment, la gravetat i la respiració. **Lema: DISFRUTA**
 
-## Stufe 2: Tanz-Bewegungen erforschen
-Durch Bewegungsketten erforschen wir auf Stufe 2 spezifische Tanzbewegungen und deren Parameter. **Grundstimmung: PLEASURE OF MOVING**
+## Etapa 2: Explorar moviments de dansa
+A través de les cadenes de moviment explorem moviments de dansa específics i els seus paràmetres al nivell 2. **Lema: EL PLAER DE MOURE’S**
 
-## Stufe 3: Impro-Bewegungen erfinden
-In Stufe 3 werden wir mit den Basics von Improvisation vertraut und kreieren unsere eigenen „Tanz-Bausteine“. **Grundstimmung: CHALLENGE YOURSELF, PLAY**
+## Etapa 3: Crear moviments d’improvisació
+**Al nivell 3 ens familiaritzem amb els bàsics de la improvisació i creem els nostres propis moviments dansats. Lema: DESAFÍA’T, JUGA!**
 
-## Stufe 4: Impro-Faktoren studieren
-Aufbauend darauf studieren wir Impro-Faktoren wie Zeit, Raum und Musik. Wir lernen auch, was man tun kann, wenn man gerade nicht inspiriert ist.  **Grundstimmung: DELIGHTFUL DETAILS**
+## Etapa 4: Estudiar els factors de l’improvisació
+A partir d'aquí, estudiem factors de la improvisació com el temps, l'espai i la música. També aprenem què fer quan no estem inspirats. **Lema: DETALLS DELICIOSOS**
 
-## Stufe 5: Faszination Improvisation: Magie und Flow finden
-In Stufe 5 verbinden wir all das Gelernte zu einem großen Ganzen und trainieren mit Hilfe konkreter Übungen Magie und Flow zu finden. **Grundstimmung: MAGIC AND FLOW**
+## Etapa 5: Trobar màgia i flow
+Al nivell 5 combinem tot el que hem après en un gran tot i entrenem per trobar la màgia i fluir amb l'ajuda d'exercicis específics. **Lema: MÀGIA I FLOW**
 
-<br>
-
-## Ziel
-Du bist in der Lage, Vielfalt in deine Bewegungen zu bringen und überzeugende und authentische Improvisationen zu kreieren. Du gewinnst ein Bild von den Bewegungs-Möglichkeiten deines Körpers und hast konkrete Ideen, wie du diese üben und erweitern kannst.
 
 <br>
 
-## Zielgruppe
-Tänzer:innen, Sportler:innen und Personen, die sich gerne mit dem Bewegungsapparat beschäftigen. Menschen, die ihre eigenen Bewegungen und Stil finden möchten anstatt vorgefertigte Tanzschritte nachzumachen.
+## Objectiu del taller
+Pots aportar varietat als moviments i crear improvisacions convincents i autèntiques. Segur que tens una idea de les possibilitats de moviment del teu cos i tens idees concretes sobre com pots practicar-les i ampliar-les.
 
 <br>
 
-## Wenn dich das anspricht, ist der Workshop für dich
-• Das Soziale am gemeinsamen Tanzen: Weil es schön ist, gemeinsam mit anderen Menschen zu trainieren und tanzen<br>
-• Das Schöne am Lernen: Weil es spannend und inspirierend ist, etwas Neues zu lernen<br>
-• der Gesundheits- und Wohlfühl-Faktor: Weil man sich gut und fit fühlt, wenn man sich bewegt, es eine entspannende Wirkung hat und Glückshormone entstehen – und weil Tanzen seit jeher ein Bestandteil des menschlichen Lebens ist<br>
-*#playing with movement*
+## A qui es dirigeix el taller
+Ballarins, esportistes i persones a qui els agrada jugar amb el sistema musculoesquelètic. Persones que volen trobar els moviments i l’estil propis en comptes de copiar passos de dansa ja fets.
 
 <br>
 
-## Das hast du davon
-• Du bist mehr „in“ deinem Körper.<br>
-• Du verstehst viel besser, wie man sich bewegen kann.<br>
-• Du bist trainierter.<br>
-• Du lernst viel: du entwickelst dich weiter, du lernst dich selbst besser kennen und du erforscht Tanz- und Improtechnik.<br>
-• Du hast erlebst eine besondere Erfahrung, (im besten Fall) mit Momenten voller Magie und Flow.<br>
-• Du lernst (im besten Fall) nette Menschen kennen.<br>
-• Du schaffst dir eine Auszeit und kriegst deinen Kopf frei (und genießt die Natur).<br>
+## Si això t’agrada, el taller és per a tu
+•  L'aspecte social de ballar junts: perquè és agradable entrenar i ballar amb altres persones<br>
+• La bellesa de l'aprenentatge: perquè és emocionant i inspirador aprendre coses noves<br>
+•El factor salut i benestar: perquè et trobes bé i estàs en forma quan et mous, té un efecte relaxant i es produeixen endorfines, i perquè ballar sempre ha estat part de la vida humana<br>
+*#jugar amb el moviment*
 
 <br>
 
-## Bei Interesse <a href="http://www.ursulagraber.com/contact/">kontaktiere</a> mich gerne.<br>
-Nach Anfrage ist es auch möglich, das Workshop-Thema oder das Format anzupassen.<br>
+## Això és el que hi guanyes:
+• Estàs més “dins” el teu cos.<br>
+• Entens molt millor com moure’t.<br>
+• Estàs més en forma.<br>
+• N’aprens molt: et desenvolupes, et coneixes millor i explores tècniques de dansa i  d’improvisació.<br>
+• Vius una experiència especial, en el millor dels casos, amb moments plens de màgia i de flow.<br>
+• Coneixes gairebé sempre gent agradable.<br>
+•  Et prens temps per tu i t’aclareixes el cap.<br>
 
 <br>
+
+## Si hi estàs interessat, posa’t en <a href="http://www.ursulagraber.com/contact/">contacte</a>  amb mi! <br>
+A petició, també és possible personalitzar la temàtica o el format del taller.
+<br>
+
 
 ![](https://ursulagraber.files.wordpress.com/2021/12/dscf4488.jpg){: .center-image}
 <br>
