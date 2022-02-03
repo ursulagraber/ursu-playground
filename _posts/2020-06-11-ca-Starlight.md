@@ -55,7 +55,7 @@ Ursula Graber es fa preguntes sobre el feminisme, l’emancipació del plaer i e
 
 *"Totes les feministes són «Killjoys»?"*<br />
 
-*#Burlesque #performance #ritme #intens #sensualitat #spoilsport #feminisme #mestressa de casa reina #dizzy #dizzy #polaritats #gaure #Sara Ahmed #viure feminista!*      
+*#Burlesque #performance #ritme #intens #sensualitat #spoilsport #feminisme #mestressa de casa reina #dizzy #dizzy #polaritats #gaure #Sara Ahmed #viure feminista!*
 
 
 
@@ -66,25 +66,25 @@ Ursula Graber es fa preguntes sobre el feminisme, l’emancipació del plaer i e
 ## Sobre *Starlight ‚Killjoy‘ Coquelicot*
 
 
-El personatge KILLJOY és una invenció de la teòrica feminista Sara Ahmed i aborda obertament la desigualtat en situacions masclistes i racistes. Starlight Coquelicot és una ballarina burlesca que celebra el seu cos femení, la sensualitat, el desig i la bellesa. Starlight "Killjoy" Coquelicot, l'alter ego d'Ursula Graber a l'escenari, té tots dos trets. Uneix el feminisme intel·lectual amb la celebració de la sensualitat i la corporeïtat.   
+El personatge KILLJOY és una invenció de la teòrica feminista Sara Ahmed i aborda obertament la desigualtat en situacions masclistes i racistes. Starlight Coquelicot és una ballarina burlesca que celebra el seu cos femení, la sensualitat, el desig i la bellesa. Starlight "Killjoy" Coquelicot, l'alter ego d'Ursula Graber a l'escenari, té tots dos trets. Uneix el feminisme intel·lectual amb la celebració de la sensualitat i la corporeïtat.
 
-Com pot Starlight "Killjoy" Coquelicot estroncar la diversió i, alhora, divertir-se per mitjà del burlesc? Aquesta àrea de tensió és el centre del projecte i permet a l’artista explorar noves possibilitats de ser dona i experimentar altres tècniques coreogràfiques que normalment no formen part de la dansa coontemporània.   
+Com pot Starlight "Killjoy" Coquelicot estroncar la diversió i, alhora, divertir-se per mitjà del burlesc? Aquesta àrea de tensió és el centre del projecte i permet a l’artista explorar noves possibilitats de ser dona i experimentar altres tècniques coreogràfiques que normalment no formen part de la dansa coontemporània.
 
 I després va venir el Coronavirus: a casa sola amb ella mateixa i amb un mirall, la casa privada d’Ursula es va convertir en un laboratori i un parc infantil, que ara es trasllada a l’escenari. L’escenari com a “taula de maquillatge”, on, inspirats en el feminisme i la dansa burlesca, es duen a terme experiments amb canvis externs i jugant amb trets de caràcter i el públic com a substitut del mirall. Alhora l’artista també fa de mirall per als espectadors: tothom és convidat a reconèixer-se en ella.
 
 <!--plop-->
 
-## Fitxer   
+## Fitxer
 
-Concepte, performance, coreografia: 	**Ursula Graber**  
-Dramatúrgia:	**Koko la Douce (Berlin)**  
-Consells artístics:	**Lise Lendais (FR/Wien)**  
-Vestuari:	**Ana Vivero (Barcelona)**  
-Tècnic d'il·luminació i so:	**Tom Bergner**  
-Suport del públic:	**Laura Halb, Eva Ploder, Helgrit Hofmeister**  
-Producció i relacions públiques:	**Ursula Graber, Laura Halb**  
-Residència:	**raw matters (Wien)**  
-Fotos: 	**Edi Haberl, Clemens Nestroy**     
+Concepte, performance, coreografia: 	**Ursula Graber**
+Dramatúrgia:	**Koko la Douce (Berlin)**
+Consells artístics:	**Lise Lendais (FR/Wien)**
+Vestuari:	**Ana Vivero (Barcelona)**
+Tècnic d'il·luminació i so:	**Tom Bergner**
+Suport del públic:	**Laura Halb, Eva Ploder, Helgrit Hofmeister**
+Producció i relacions públiques:	**Ursula Graber, Laura Halb**
+Residència:	**raw matters (Wien)**
+Fotos: 	**Edi Haberl, Clemens Nestroy**
 Càmera i Tráiler: **Fabian Czernovsky**
 
 <br />
@@ -94,16 +94,15 @@ Càmera i Tráiler: **Fabian Czernovsky**
 :------:|:------:|:------:|:------:
 ![]({{site.url}}/images/logograz.png){:width="200px"} | ![]({{site.url}}/images/logolandstmk.png){:width="170px"} | ![]({{site.url}}/images/logodat.png){:width="170px"} | ![]({{site.url}}/images/logokristallwerk.png){:width="70px"} | ![]({{site.url}}/images/logolaut.png){:width="170px"}
 
-
-
+<br>
 
 ## Ressenya de premsa
 
-<p>
-
 ## "És impressionant allò que Graber evoca i / o fa esclatar a l'escenari amb una feminitat sensual  ꟷla majoria del temps encobertaꟷ, sensible, emocional, potent, segura de si mateixa. És divertit, es posa sota la pell i també fa mal. En qualsevol cas, té algun efecte la seva acció "evident" i, per tant, creïble. La diversitat que s’hi tracta o fins i tot s’hi associa és un èxit notable a l'hora de reduir els recursos utilitzats; convincent en la senzillesa, que es basa en la capacitat artística creativa."
+
+<p>
 <i><a href="https://www.tanz.at/index.php/kritiken/kritiken-2020/2381-ursula-graber-starlight-killjoy-coquelicot">Eveline Koberg, crítica de dansa</a></i>    <br>
-<i><a href="https://www.tanz.at/index.php/kritiken/kritiken-2020/2381-ursula-graber-starlight-killjoy-coquelicot">-->Crítica completa (en alemany)</a></i>   
+<i><a href="https://www.tanz.at/index.php/kritiken/kritiken-2020/2381-ursula-graber-starlight-killjoy-coquelicot">-->Crítica completa (en alemany)</a></i>
 </p>
 
 <br />
