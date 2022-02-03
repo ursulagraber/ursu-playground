@@ -111,7 +111,7 @@ Graz 2021
 
 ## ...Graber examina la feminitat i la masculinitat en aquest solo de dansa d'una manera encisadora i expressiva i troba una feminitat esgarrifosa i segura de si mateixa més enllà de les imatges habituals, que es multiplica a la pantalla al seu darrere: complexitat sense fragmentació, quina imatge més gran! El fet que l'actuació també sigui divertida és un gran avantatge. (Ute Baumhackl, Kleine Zeitung)
 
-## La seva dansa amb un exigència física convenç en passatges de diferents caràcters, també tranquils, executats finament i demostra una capacitat expressiva contemporània.
+## La seva dansa física i expressiva convenç en passatges de diferents caràcters, també tranquils, executats finament i demostra una capacitat expressiva contemporània.
 
 ## ...tot això és captivador, commovedor i commovedor en la seva forma de presentació gairebé impertinentment antiestètica.
 
