@@ -18,31 +18,31 @@ galleries:
 
 
 ---
-Si vols dansar i entrenar en línia amb mi a casa teva clica <a href="http://www.ursulagraber.com/workshops/2020/01/21/online-tanztraining/">aquí!</a>
+
+![](https://ursulagraber.files.wordpress.com/2021/12/dscf4041.jpg){: .center-image}
+<br>
+
+
+*A causa de la pandèmia de la Covid, s'han cancel·lat varios tallers des de el 2020.*<br>   
+
+
+
+07/2021: "Improvisació de dansa amb mitjans digitals" dins de la setmana creativa del BHAK Weiz (AT). <br>
+
+09/2020: "Tänzerisches ERLEBEN", cap de setmana taller a Graz, amb el suport de la iniciativa cultural d'Estíria. <br>
+
+
+01/2020: “Tänzerisches ERLEBEN”, taller a Graz. <br>
+
+
+09/2019: “Eines per a la improvisació de la dansa”, curs per a IG Tanz Steiermark, Graz. <br>
+
+
+2007-2018: Diversos entorns docents a escoles i cursos per a adults; Graz, Linz, Lausana.<br>
+
+
+*2016 Grau en Pedagogia de la Dansa, Universitat Anton Bruckner de Linz (AT)*
 
 <br>
 
-<del>Desembre 2020: Improvisació de dansa, Taller de 5 dies per UniT, Graz - cancel·lat.</del>
-
-<br>
-
-<del>Novembre 2020: "EXPERIMENTA AMB LA DANSA CONTEMPORÀNIA", Taller al Centre cívic Ter, Girona - cancel·lat.</del>
-
-<br>
-
-Septembre 2020: "EXPERIMENTA AMB LA DANSA CONTEMPORÀNIA", Taller a Graz, amb el suport de Steirische Kulturinitiative.
-
-<br>
-
-<del>Primavera 2020: Improvisació de dansa, Taller de 5 dies per UniT, Graz - cancel·lat.</del>
-
-<br>  
-
-Gener 2020: "EXPERIMENTA AMB LA DANSA CONTEMPORÀNIA", Taller a Graz
-
-<br>
-
-Tardó 2019: "Eines per a l'improvisació de dansa", curs trimestral per la IG Tanz Steiermark, Graz
-
-
-![](https://ursulagraber.files.wordpress.com/2020/11/dscf4001.jpg?w=300&fit=crop){: .center-image}
+![](https://ursulagraber.files.wordpress.com/2021/12/portrait-2.jpg){: .center-image}

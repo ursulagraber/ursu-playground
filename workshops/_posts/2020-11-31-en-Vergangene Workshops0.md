@@ -18,6 +18,10 @@ galleries:
 
 
 ---
+![](https://ursulagraber.files.wordpress.com/2021/12/dscf4041.jpg){: .center-image}
+<br>
+
+
 *Due to the Covid pandemic, many planned workshops have been canceled since 2020*<br>
 
 
@@ -37,4 +41,6 @@ galleries:
 *2016 BA in Dance Education, Anton Bruckner University Linz, Austria*
 
 
-![](https://ursulagraber.files.wordpress.com/2020/11/dscf4001.jpg?w=300&fit=crop){: .center-image}
+<br>
+
+![](https://ursulagraber.files.wordpress.com/2021/12/portrait-2.jpg){: .center-image}

@@ -28,6 +28,4 @@ galleries:
 
 ## "Dieser Workshop ist absolut empfehlenswert, da er Spaß macht, inspirierend ist und ich mich neu entdecken konnte!"<br>
 
-*Die Zitate stammen aus den Feedback-Bögen zu den Workshops von 2019-2020.*
-
 ![](https://ursulagraber.files.wordpress.com/2020/11/dscf4001.jpg?w=300&fit=crop){: .center-image}

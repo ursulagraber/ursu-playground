@@ -28,8 +28,6 @@ galleries:
 
 ## “This workshop is highly recommended because it is fun, inspiring and I was able to rediscover myself!”
 
-*The quotes are from the feedback sheets for the 2019-2020 workshops.*
-
 
 
 ![](https://ursulagraber.files.wordpress.com/2020/11/dscf4001.jpg?w=300&fit=crop){: .center-image}
