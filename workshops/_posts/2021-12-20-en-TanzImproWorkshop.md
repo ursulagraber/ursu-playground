@@ -20,43 +20,43 @@ galleries:
 ![](https://ursulagraber.files.wordpress.com/2021/12/dscf4404.jpg){: .center-image}
 <br>
 
-## We work on 5 levels in the workshop:
+## The 5 steps:
 
 <br>
 
-## Level 1: Getting to know the body better
-## Level 2: Explore dance movements
-## Level 3: Create improv movements
-## Level 4: Create improv movements
-## Level 5: Find magic and flow
+## step 1: get to know your body better
+## step 2: explore dance and movement
+## step 3: create improv movements
+## step 4: study the principles of improv
+## step 5: find your own flow and magic
 
 <br>
 
 
-## Stufe 1: Getting to know the body better
+## step 1: get to know your body better
 At Level 1 we learn the basics of movement, gravity and breathing.
  **Motto: ENJOY**
 
-## Stufe 2: Explore dance movements
+## step 2: explore dance and movement
 Through movement chains we explore specific dance movements and their parameters on level 2. **Motto: PLEASURE OF MOVING**
 
-## Stufe 3: Create improv movements
+## step 3: create improv movements
 In level 3 we become familiar with the basics of improvisation and create our own dance movements. **Motto: CHALLENGE YOURSELF, PLAY**
 
-## Stufe 4: Create improv movements
+## step 4: study the principles of improv
 Building on this, we study improv factors such as time, space and music. We also learn what to do when we are not inspired.  **Motto: DELIGHTFUL DETAILS**
 
-## Stufe 5: Find magic and flow
+## step 5: find your own flow and magic
 In level 5 we combine everything we have learned and train to find magic and flow with the help of specific exercises. **Motto: MAGIC AND FLOW**
 
 <br>
 
-## Aim
-You are able to bring variety into your movements and create convincing and authentic improvisations. You get a picture of the movement possibilities of your body and have concrete ideas on how you can practice and expand them.
+## the goal
+You are able to move in authentic improvisations, full of variety and diversity. With that you get to know your own possibilities as a mover and get concrete ideas how to adapt and expand them.
 <br>
 
-## Target group
-Dancers, athletes and people who like to deal with the musculoskeletal system. People who want to find their own movements and style instead of copying ready-made dance steps.
+## target group/ audience
+dancers, athletes and everyone who wants to deepen their relationship to movement and their locomotory system. If you want to find your own style and personal movements instead of copying some steps, this is the right place for you.
 
 
 <br>
@@ -81,7 +81,7 @@ Dancers, athletes and people who like to deal with the musculoskeletal system. P
 
 <br>
 
-## If you are interested, please <a href="http://www.ursulagraber.com/contact/">contact</a> me.<br>
+## If you are interested, don't hesitate to <a href="http://www.ursulagraber.com/contact/">contact</a> me.<br>
 Upon request, it is also possible to customize the workshop theme or format.<br>
 
 <br>
