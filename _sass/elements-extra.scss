@@ -155,7 +155,6 @@
 .element-centered
 {
   margin: auto;
-  padding: auto;
   text-align: center;
 
   div figure {
@@ -551,39 +550,15 @@ figure#right {
 }
 
 .masonry-with-columns {
-  display: block;
-
-  columns: 6 170px;
-  column-gap: 0.2rem;
-
-  // div {
-  //   width: 150px;
-  //   background: #EC985A;
-  //   color: white;
-  //   margin: 1rem;
-  //   display: inline-block;
-  //   width: 100%;
-  // }
-
-  img {
-    margin-bottom: 0.2rem;
-  }
-
-  img:hover {
-    opacity: 0.8;
-  }
-}
-
-
-.masonry-with-columns {
   display: flex;
   flex-wrap: wrap;
+  justify-content: center;
+
   div {
     margin: 0 1rem 1rem 0;
-    width: 300px;
-    flex: 1 0 auto;
+    width: 400px;
+    flex: 0 0 auto;
   }
-
 
   .thumbnail {
       position: relative;
@@ -619,73 +594,6 @@ figure#right {
     {
       font-size: 1em;
     }
-}
-
-.masonry-performance {
-  display: block;
-
-  columns: 4 300px;
-  column-gap: 1em;
-  justify-content: center;
-
-  padding: 2em;
-
-  img {
-      display: block;
-  }
-
-  .thumbnail {
-      position: relative;
-      display: inline-block;
-  }
-
-  .caption-below {
-      text-align: center;
-      color: black;
-      font-weight: bold;
-      font-size: 2em;
-      background: rgba(200, 200, 200, 0.5);
-  }
-
-  .caption {
-    position: absolute;
-    left: 0%;
-    right: 0%;
-    bottom: 0%;
-    text-align: center;
-    color: white;
-    font-weight: bold;
-    font-size: 1.2em;
-    padding: 0.5em;
-    background: rgba(0, 0, 0, 0.5);
-
-    span {
-      font-size: 0.7em;
-       font-weight: normal;
-      vertical-align: middle;
-    }
-
-    @media screen and #{$half-screen}
-    {
-      font-size: 1em;
-    }
-  }
-
-  // div {
-  //   width: 150px;
-  //   background: #EC985A;
-  //   color: white;
-  //   margin: 1rem;
-  //   display: inline-block;
-  //   width: 100%;
-  // }
-
-  img {
-    margin-bottom: 0.5rem;
-  }
-
-  .thumbnail:hover {
-    opacity: 0.8;
   }
 }
 
