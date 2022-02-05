@@ -23,7 +23,7 @@
 			{% if site.newsletter_action and site.newsletter_action != "" %}
 			<div id="newsletter-menu">
 				<form action="{{ site.newsletter_action }}" method="post">
-					<input type="text" name="EMAIL" placeholder="{{ site.data.dictionary[page.lang].email }}" style="background-color: #ff62f5; padding: 5px;" required>
+					<input type="text" name="EMAIL" placeholder="{{ site.data.dictionary[page.lang].email }}" required>
 					<button class="contact3-form-btn shallow" type="submit" value="Send">
 						{{ site.data.dictionary[page.lang].subscribe }}
 					</button>
