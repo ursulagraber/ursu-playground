@@ -156,7 +156,8 @@
   @media screen and #{$half-screen}
   {
     width: auto;
-    padding-left: auto;
+    padding-left: 5%;
+    padding-right: 5%;
   }
 }
 
