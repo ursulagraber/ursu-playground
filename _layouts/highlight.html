@@ -12,15 +12,24 @@ layout: default
 {% endif %}
 </div>
 <div class="sharing">
-	{% assign share_url = page.url | absolute_url | cgi_escape %}
-	<a class="facebook" href="https://www.facebook.com/sharer/sharer.php?u={{ share_url }}">{% include social-icon.html icon="Facebook" %}</a>
-	<a class="twitter" href="https://twitter.com/intent/tweet?url={{ share_url }}&amp;text=Das%20interessiert%20mich%2C%20da%20gehe%20ich%20hin!">{% include social-icon.html icon="Twitter" %}</a>
-	<a class="google-plus" href="https://plus.google.com/share?url={{ share_url }}">{% include social-icon.html icon="Google Plus" %}</a>
-	<a class="pinterest" href="//pinterest.com/pin/create/link/?url={{ share_url }}&amp;description={{ page.description }}">{% include social-icon.html icon="Pinterest" %}</a>
-	<a class="email" href="mailto:?subject=Ich%20habe%20ein%20tolles%20Event%20gefunden&amp;body=Schau%20es%20dir%20an%20-%20{{ share_url }}">{% include social-icon.html icon="Email" %}</a>
+{% assign share_url = page.url | absolute_url | cgi_escape %}
+<a class="facebook" href="https://www.facebook.com/sharer/sharer.php?u={{ share_url }}">{% include social-icon.html
+icon="Facebook" %}</a>
+<a class="twitter"
+  href="https://twitter.com/intent/tweet?url={{ share_url }}&amp;text=Das%20interessiert%20mich%2C%20da%20gehe%20ich%20hin!">{%
+  include social-icon.html icon="Twitter" %}</a>
+<a class="google-plus" href="https://plus.google.com/share?url={{ share_url }}">{% include social-icon.html icon="Google
+Plus" %}</a>
+<a class="pinterest"
+  href="//pinterest.com/pin/create/link/?url={{ share_url }}&amp;description={{ page.description }}">{% include
+  social-icon.html icon="Pinterest" %}</a>
+<a class="email"
+  href="mailto:?subject=Ich%20habe%20ein%20tolles%20Event%20gefunden&amp;body=Schau%20es%20dir%20an%20-%20{{ share_url }}">{%
+  include social-icon.html icon="Email" %}</a>
 </div>
 <div class="cta">
-	<h2 style="color: black;">{{ site.data.dictionary[page.lang].workshopsmehr }}</h2>
-	<p>{{ site.data.dictionary[page.lang].workshopsviele }}</p>
-	<div class="button"><a class="a-on-white" href="/{{ site.data.dictionary[page.lang].workshopsurl }}">{{ site.data.dictionary[page.lang].workshopsandere }}</a></div>
+<h2 style="color: black;">{{ site.data.dictionary[page.lang].workshopsmehr }}</h2>
+<p>{{ site.data.dictionary[page.lang].workshopsviele }}</p>
+<div class="button"><a class="a-on-white" href="/{{ site.data.dictionary[page.lang].workshopsurl }}">{{
+	site.data.dictionary[page.lang].workshopsandere }}</a></div>
 </div>

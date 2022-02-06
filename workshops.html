@@ -7,33 +7,38 @@ ref: workshops
 ---
 
 <div class="workshops-container">
-	<div class="slide">
-		<div class="workshops">
-			{% assign workshops = site.categories.workshops | where:"listed", true | where:"lang", page.lang | sort: "date" | reverse %}
-			{% for workshop in workshops %}
-				<div class="workshop-container">
-					<div class="workshop" style="background-image: url('{{ workshop.featured_image }}')">
-						<a href="{{ workshop.url }}"><span>{{ workshop.title }}</span></a>
-					</div>
-				</div>
-			{% endfor %}
+<div class="slide">
+<div class="workshops">
+	{% assign workshops = site.categories.workshops | where:"listed", true | where:"lang", page.lang | sort: "date"
+	| reverse %}
+	{% for workshop in workshops %}
+	<div class="workshop-container">
+		<div class="workshop" style="background-image: url('{{ workshop.featured_image }}')">
+			<a href="{{ workshop.url }}"><span>{{ workshop.title }}</span></a>
 		</div>
 	</div>
-	<div class="excerpt sticky">
-		<h2>TANZIMPRO: BASICS, MAGIE & FLOW</h2>
+	{% endfor %}
+</div>
+</div>
+<div class="excerpt sticky">
+<h2>TANZIMPRO: BASICS, MAGIE & FLOW</h2>
 
-			<b>WORKSHOP</b><br>
-			Der Workshop richtet sich an Menschen, die es lieben, sich zu bewegen, die ihre Skills bei einer Tanz-Impro ausbauen oder ihren Bewegungsapparat besser kennen lernen wollen.
-			Das Format vom Workshop sind 2 bis 5 geblockte Tage. Es eignet sich für Festivals, Firmen, Universitäten und Schulen (ab 16 Jahren).
-			<a href="http://www.ursulagraber.com/workshops/2021/12/20/TanzImproWorkshop/">Hier mehr lesen</a>
-			<p>
-			<b>EINZELTRAINING</b><br>
-			Wer Interesse an Einzeltraining zum selben Thema hat, kann sich gerne bei mir melden – ich biete online und offline Privatstunden an.
-			<p>
-			<b>NÄCHSTE WORKSHOP TERMINE</b><br>
-			Sommer 2022: Styrian Summer Art Festival, Pöllau (STMK/AT)<br>
-			<p>
-				Bei Interesse  <a href="http://www.ursulagraber.com/contact/">kontaktiere</a> mich gerne! Ich beantworte jede Nachricht.
+<b>WORKSHOP</b><br>
+Der Workshop richtet sich an Menschen, die es lieben, sich zu bewegen, die ihre Skills bei einer Tanz-Impro ausbauen
+oder ihren Bewegungsapparat besser kennen lernen wollen.
+Das Format vom Workshop sind 2 bis 5 geblockte Tage. Es eignet sich für Festivals, Firmen, Universitäten und Schulen (ab
+16 Jahren).
+<a href="http://www.ursulagraber.com/workshops/2021/12/20/TanzImproWorkshop/">Hier mehr lesen</a>
+<p>
+	<b>EINZELTRAINING</b><br>
+	Wer Interesse an Einzeltraining zum selben Thema hat, kann sich gerne bei mir melden – ich biete online und offline
+	Privatstunden an.
+<p>
+	<b>NÄCHSTE WORKSHOP TERMINE</b><br>
+	Sommer 2022: Styrian Summer Art Festival, Pöllau (STMK/AT)<br>
+<p>
+	Bei Interesse <a href="http://www.ursulagraber.com/contact/">kontaktiere</a> mich gerne! Ich beantworte jede
+	Nachricht.
 
-	</div>
+</div>
 </div>
