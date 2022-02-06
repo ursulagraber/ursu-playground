@@ -11,6 +11,8 @@ categories:
 lang: de
 ref: vergangene
 
+listed: true
+
 featured_image: https://ursulagraber.files.wordpress.com/2021/12/superselfie_small_s_w_contrast.jpg?w=500&fit=crop
 brief: Workshop-Wochenende in Graz
 
@@ -23,7 +25,6 @@ galleries:
   image: https://ursulagraber.files.wordpress.com/2021/12/superselfie_small.jpg?w=1024&fit=crop
 - title: (c) Ursula Graber 2019
   image: https://ursulagraber.files.wordpress.com/2021/12/herbst19-gruppenfoto-viele-leute_small.png?w=1024&fit=crop
-
 
 ---
 ![](https://ursulagraber.files.wordpress.com/2021/12/dscf4041.jpg){: .center-image}

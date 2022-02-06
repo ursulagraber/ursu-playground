@@ -11,11 +11,12 @@ categories:
 lang: ca
 ref: vergangene
 
+listed: true
+
 featured_image: https://ursulagraber.files.wordpress.com/2020/04/superselfie.jpg??w=500&fit=crop
 brief: Workshop-Wochenende in Graz
 
 galleries:
-
 
 ---
 
@@ -23,7 +24,7 @@ galleries:
 <br>
 
 
-*A causa de la pandèmia de la Covid, s'han cancel·lat varios tallers des de el 2020.*<br>   
+*A causa de la pandèmia de la Covid, s'han cancel·lat varios tallers des de el 2020.*<br>
 
 
 

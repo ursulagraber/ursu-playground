@@ -9,6 +9,7 @@ ref: starlight
 
 categories:
   - Solo
+  - Performance
 
 featured_image: https://ursulagraber.files.wordpress.com/2020/09/mg_5269.jpg?w=500&fit=crop
 brief: 4.-6. September 2020, Kristallwerk Graz
@@ -49,7 +50,7 @@ featured_video:
 *Zwischen Lust und Frust*
 
 Ursula Graber stellt sich Fragen über Feminismus, Genuss-Emanzipation und Rollenbilder.
-Inspiriert von kritischen feministischen Theorien und Burlesque-Tanz schafft sie eine humorvolle und persönliche Performance, die zum Staunen und Nachdenken einlädt.  
+Inspiriert von kritischen feministischen Theorien und Burlesque-Tanz schafft sie eine humorvolle und persönliche Performance, die zum Staunen und Nachdenken einlädt.
 <br />
 *“Sind alle Feminist\*innen Spaßverderber\*innen?”*
 
@@ -73,18 +74,18 @@ Wie kann Starlight „Killjoy“ Coquelicot eine Spaßverderberin sein und gleic
 
 <!--plop-->
 
-## Credits   
+## Credits
 
 
-Konzept, Performance, Choreografie: 	**Ursula Graber**  
-Dramaturgie:	**Koko la Douce (Berlin)**  
-Künstlerische Beratung:	**Lise Lendais (FR/Wien)**  
-Kostüm:	**Ana Vivero (Barcelona)**  
-Licht- und Tontechnik:	**Tom Bergner**  
-Publikumsbetreuung:	**Laura Halb, Eva Ploder, Helgrit Hofmeister**  
-Organisation & PR:	**Ursula Graber, Laura Halb**  
-Residency:	**raw matters (Wien)**  
-Fotos: 	**Edi Haberl, Clemens Nestroy**     
+Konzept, Performance, Choreografie: 	**Ursula Graber**
+Dramaturgie:	**Koko la Douce (Berlin)**
+Künstlerische Beratung:	**Lise Lendais (FR/Wien)**
+Kostüm:	**Ana Vivero (Barcelona)**
+Licht- und Tontechnik:	**Tom Bergner**
+Publikumsbetreuung:	**Laura Halb, Eva Ploder, Helgrit Hofmeister**
+Organisation & PR:	**Ursula Graber, Laura Halb**
+Residency:	**raw matters (Wien)**
+Fotos: 	**Edi Haberl, Clemens Nestroy**
 Trailer & Film: **Fabian Czernovsky**
 
 Graz, 2020
@@ -105,7 +106,7 @@ Graz, 2020
 
 
 
-## „Die Vielfalt im Angesprochenen oder gar Assoziierbaren ist bei der Reduktion der eingesetzten Mittel eine beachtliche Leistung; überzeugend in seiner Geradlinigkeit, die auf kreativ künstlerischem Können beruht." (Eveline Koberg, Tanzkritikerin) <i><a href="https://www.tanz.at/index.php/kritiken/kritiken-2020/2381-ursula-graber-starlight-killjoy-coquelicot">-->Vollständige Kritik hier</a></i>   
+## „Die Vielfalt im Angesprochenen oder gar Assoziierbaren ist bei der Reduktion der eingesetzten Mittel eine beachtliche Leistung; überzeugend in seiner Geradlinigkeit, die auf kreativ künstlerischem Können beruht." (Eveline Koberg, Tanzkritikerin) <i><a href="https://www.tanz.at/index.php/kritiken/kritiken-2020/2381-ursula-graber-starlight-killjoy-coquelicot">-->Vollständige Kritik hier</a></i>
 
 
 
@@ -126,7 +127,7 @@ Graz, 2020
 
 
 
- Ursula Graber als "Steirerin des Tages" in der Kleinen Zeitung, September 2020   
+ Ursula Graber als "Steirerin des Tages" in der Kleinen Zeitung, September 2020
  -->Klick den Artikel an um ihn zu vergrößern!
 
 

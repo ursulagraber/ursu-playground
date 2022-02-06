@@ -9,6 +9,8 @@ ref: woman-hood
 
 categories:
   - News
+  - Performance
+
 featured_image: https://ursulagraber.files.wordpress.com/2021/12/deckblatt.jpg?w=500&fit=crop
 brief: 19.-20. Març 2021, en línia, inclòsa xerrada en directe amb l'artista
 author: Ursula Graber
@@ -47,8 +49,8 @@ featured_video:
     url: https://player.vimeo.com/video/523942516
     id: 523942516
 ---
-Un solo de dansa en quatre imatges sobre personalitats femenines extraordinàries i idiosincràtiques, sobre feminitat i masculinitat.                   
-L'espectacle es proposa crear un paisatge de figures femenines fortes.   
+Un solo de dansa en quatre imatges sobre personalitats femenines extraordinàries i idiosincràtiques, sobre feminitat i masculinitat.
+L'espectacle es proposa crear un paisatge de figures femenines fortes.
 
 
 *#feminisme #idiosincràtic #femininitat #masclisme #lluita #boig #exèrcit femení #càmera kinect #projecció en directe #llenguatge de signes #inclusió #medea #solo #ira #emoció #vulnerabilitat*
@@ -57,13 +59,13 @@ L'espectacle es proposa crear un paisatge de figures femenines fortes.
 
 <!--plop-->
 
-## Sobre *Woman Hood*   
+## Sobre *Woman Hood*
 
-L'espectacle de dansa contemporània «Woman Hood» explora amb humor diferents mons femenins en quatre parts. Mostra personalitats femenines extraordinàries i idiosincràsies de diferents tipus de poder.   
-Simone de Beauvoir deia que la gent es transforma en quelcom, independentment del gènere, l'origen i el color de la pell. Aquesta llibertat de transformació es viu plenament a Woman Hood.   
+L'espectacle de dansa contemporània «Woman Hood» explora amb humor diferents mons femenins en quatre parts. Mostra personalitats femenines extraordinàries i idiosincràsies de diferents tipus de poder.
+Simone de Beauvoir deia que la gent es transforma en quelcom, independentment del gènere, l'origen i el color de la pell. Aquesta llibertat de transformació es viu plenament a Woman Hood.
 
 
-Què significa ser dona avui? Com ha de ser una dona? Com vol ser ella? La vulnerabilitat és la nova força? Què distingeix una sororitat, una xarxa solidària de dones?   
+Què significa ser dona avui? Com ha de ser una dona? Com vol ser ella? La vulnerabilitat és la nova força? Què distingeix una sororitat, una xarxa solidària de dones?
 
 
 Inspirada en el llibre de Sara Ahmed “Viure una vida feminista” (2018), l'espectacle intenta crear al microcosmos de l'escenari un paisatge de figures femenines fortes enmarcades en una societat encara dominada pel patriarcat que trascendeix a través de la màgia escènica, amb un vestuari molt elaborat i una música engrescadora. Woman Hood sacseja i sorprèn.
@@ -73,22 +75,22 @@ Inspirada en el llibre de Sara Ahmed “Viure una vida feminista” (2018), l'es
 <!--plop-->
 
 
-**Fitxer**  
-Concepte, interpretació, coreografia: 	**Ursula Graber**  
-Dramatúrgia:	**Hanna Rohn, Bàrbara Raubert**   
-Vestuari:	**Ana Vivero**  
-Càmera 3D: **Pol Monsó Purtí**   
-Tècnica d'il·luminació i so:	**Lisa Raschhofer**   
+**Fitxer**
+Concepte, interpretació, coreografia: 	**Ursula Graber**
+Dramatúrgia:	**Hanna Rohn, Bàrbara Raubert**
+Vestuari:	**Ana Vivero**
+Càmera 3D: **Pol Monsó Purtí**
+Tècnica d'il·luminació i so:	**Lisa Raschhofer**
 Producció i relacions públiques:	**Ursula Graber**
-Assistència en relacions públiques:   **Laura Halb***  
-Càmera: **Fabian Czernovsky**   
-Muntatge & tràiler: **Berta Monsó Purtí**  
+Assistència en relacions públiques:   **Laura Halb***
+Càmera: **Fabian Czernovsky**
+Muntatge & tràiler: **Berta Monsó Purtí**
 Graz 2021
 
 
 <br />
 
-**Amb el suport de:**  
+**Amb el suport de:**
 
 
 :------:|:------:|:------:|:------:

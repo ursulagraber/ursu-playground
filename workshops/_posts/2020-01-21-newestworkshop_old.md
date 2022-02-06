@@ -5,11 +5,14 @@ title: Online Tanztraining NEU ab April 2020
 
 layout: workshop
 
+categories:
+  - Workshops
+
 lang: de
 ref: training_old
 
-categories:
-  - Workshops
+listed: false
+
 featured_image: https://ursulagraber.files.wordpress.com/2020/04/ursu-lachend.jpg?w=1000&h=800&fit=crop
 brief: the first new
 
@@ -28,7 +31,7 @@ galleries:
     image: https://ursulagraber.files.wordpress.com/2020/04/move_ursulagraber.jpg
     data-group: superworkshop
 
-unlisted: True
+listed: false
 ---
 
 

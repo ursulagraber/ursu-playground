@@ -6,6 +6,7 @@ layout: post
 
 categories:
   - Group
+  - Performance
 
 lang: en
 ref: sternschnuppen

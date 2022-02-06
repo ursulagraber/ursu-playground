@@ -9,6 +9,7 @@ ref: starlight
 
 categories:
   - Solo
+  - Performance
 
 featured_image: https://ursulagraber.files.wordpress.com/2020/09/mg_5269.jpg?w=500&fit=crop
 brief: 4-6 de septembre 2020, Kristallwerk Graz
@@ -45,10 +46,10 @@ featured_video:
     id: 483132123
 ---
 
-*Between pleasure and frustration*   
+*Between pleasure and frustration*
 
 
-Ursula Graber asks questions about feminism, emancipation of pleasure and role models. Inspired by critical feminist theories and burlesque dance, she creates a humorous and personal performance that invites wonder and reflection.   
+Ursula Graber asks questions about feminism, emancipation of pleasure and role models. Inspired by critical feminist theories and burlesque dance, she creates a humorous and personal performance that invites wonder and reflection.
 
 
 *"Are all feminists killjoys?”*
@@ -70,32 +71,32 @@ Starlight “Killjoy” Coquelicot, Ursula Graber's onstage alter ego, possesses
 <br>
 How can Starlight "Killjoy" Coquelicot be a killjoy and have fun through burlesque at the same time? This field of tension is at the center of the project and allows the artist to explore new possibilities of being a woman and to experiment with choreographic methods which normally are not part of contemporary dance.
 <br>
-And then Corona came: Alone at home with herself and a mirror, Ursula's private space became a laboratory and playground, which is now being transferred to the stage. The stage as a "make-up table" - where, inspired by feminism and burlesque dance, experiments are carried out with external changes and playing with character traits - and the audience as a mirror substitute. At the same time, however, the artist also offers herself as a mirror for the viewers: everyone is invited to recognize themselves in her.   
+And then Corona came: Alone at home with herself and a mirror, Ursula's private space became a laboratory and playground, which is now being transferred to the stage. The stage as a "make-up table" - where, inspired by feminism and burlesque dance, experiments are carried out with external changes and playing with character traits - and the audience as a mirror substitute. At the same time, however, the artist also offers herself as a mirror for the viewers: everyone is invited to recognize themselves in her.
 
 
 
 
 <!--plop-->
 
-## Credits   
+## Credits
 
 
-Concept, Performance, Choreography: 	**Ursula Graber**  
-Dramaturgy:	**Koko la Douce (Berlin)**  
-Artistic advice:	**Lise Lendais (FR/Vienna)**  
-Costume:	**Ana Vivero (Barcelona)**  
-Lighting and sound engineering:	**Tom Bergner**  
-Audience support:	**Laura Halb, Eva Ploder, Helgrit Hofmeister**  
-Production & PR:	**Ursula Graber, Laura Halb**  
-Residency:	**raw matters (Wien)**  
-Photos: 	**Edi Haberl, Clemens Nestroy**     
+Concept, Performance, Choreography: 	**Ursula Graber**
+Dramaturgy:	**Koko la Douce (Berlin)**
+Artistic advice:	**Lise Lendais (FR/Vienna)**
+Costume:	**Ana Vivero (Barcelona)**
+Lighting and sound engineering:	**Tom Bergner**
+Audience support:	**Laura Halb, Eva Ploder, Helgrit Hofmeister**
+Production & PR:	**Ursula Graber, Laura Halb**
+Residency:	**raw matters (Wien)**
+Photos: 	**Edi Haberl, Clemens Nestroy**
 Trailer & Video: **Fabian Czernovsky**
 
 Graz, 2020
 
 <br>
 
-## With friendly support from  
+## With friendly support from
 
 :------:|:------:|:------:|:------:
 ![]({{site.url}}/images/logograz.png){:width="200px"} | ![]({{site.url}}/images/logolandstmk.png){:width="170px"} | ![]({{site.url}}/images/logodat.png){:width="170px"} | ![]({{site.url}}/images/logokristallwerk.png){:width="70px"} | ![]({{site.url}}/images/logolaut.png){:width="170px"}
@@ -109,7 +110,7 @@ Graz, 2020
 
 
 
-## „The diversity of what is addressed or even associated is a remarkable achievement when it comes to reducing the resources used; convincing in its straightforwardness, which is based on creative artistic ability." (Eveline Koberg, dance critic) <i><a href="https://www.tanz.at/index.php/kritiken/kritiken-2020/2381-ursula-graber-starlight-killjoy-coquelicot">-->whole review here</a></i>   
+## „The diversity of what is addressed or even associated is a remarkable achievement when it comes to reducing the resources used; convincing in its straightforwardness, which is based on creative artistic ability." (Eveline Koberg, dance critic) <i><a href="https://www.tanz.at/index.php/kritiken/kritiken-2020/2381-ursula-graber-starlight-killjoy-coquelicot">-->whole review here</a></i>
 
 
 

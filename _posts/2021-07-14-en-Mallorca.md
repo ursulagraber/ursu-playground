@@ -9,6 +9,8 @@ ref: mallorca
 
 categories:
   - News
+  - Performance
+
 featured_image: https://ursulagraber.files.wordpress.com/2021/11/mallorca-c-edi-haberl_8.jpg?w=500&fit=crop
 brief: 15.-21.09. 2021 (excepte 19.9.), Theater im Keller, Graz
 author: Ursula Graber
@@ -86,12 +88,12 @@ Premiere as part of the festival [newsOFFstyria](https://www.theaterland.at/2021
 
 <br>
 
-## With friendly support from  
+## With friendly support from
 
 :------:|:------:|:------:|:------:
-![]({{site.url}}/images/logograz.png){:width="200px"} | ![]({{site.url}}/images/logolandstmk.png){:width="300px"} | ![]({{site.url}}/images/bildrecht_sw1.png){:width="170px"}| ![]({{site.url}}/images/logodat.png){:width="170px"} | ![]({{site.url}}/images/tiklogo_trans.png){:width="175px"} | ![]({{site.url}}/images/logolaut.png){:width="170px"} | ![]({{site.url}}/images/logo_ccter_sw2.png){:width="250px"} 
+![]({{site.url}}/images/logograz.png){:width="200px"} | ![]({{site.url}}/images/logolandstmk.png){:width="300px"} | ![]({{site.url}}/images/bildrecht_sw1.png){:width="170px"}| ![]({{site.url}}/images/logodat.png){:width="170px"} | ![]({{site.url}}/images/tiklogo_trans.png){:width="175px"} | ![]({{site.url}}/images/logolaut.png){:width="170px"} | ![]({{site.url}}/images/logo_ccter_sw2.png){:width="250px"}
 
-<br>  
+<br>
 
 ## REVIEWS
 

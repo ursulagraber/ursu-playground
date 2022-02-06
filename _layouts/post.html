@@ -4,6 +4,34 @@ layout: fullpage
 <article class="post">
 	{% include post-heading.html post=page post_page=true %}
 
+    {% assign items = site.categories.Performance | sort: "date" | reverse | where:"lang", page.lang %}
+    {% for post in items %}
+    {% if post.url == page.url %}
+        {% assign pOffset = forloop.index0 | minus: 1 %}
+        {% assign nOffset = pOffset | plus: 2 %}
+        {% if forloop.first == false %}
+          {% assign next_post = items[pOffset] %}
+        {% endif %}
+        {% if forloop.last == false %}
+          {% assign previous_post = items[nOffset] %}
+        {% endif %}
+        {% break %}
+        {% endif %}
+    {% endfor %}
+
+	<div class="post-nav">
+		<div>
+		  {% if previous_post %}
+		  <a href="{{previous_post.url}}">&laquo;&nbsp;{{previous_post.title}}</a>
+		  {% endif %}
+		</div>
+		<div class="post-nav-next">
+		  {% if next_post %}
+		  <a href="{{next_post.url}}">{{next_post.title}}&nbsp;&raquo;</a>
+		  {% endif %}
+		</div>
+	</div>
+
 	{% assign total_sections = content | split: '<!--plop-->' %}
 
 	<section>
