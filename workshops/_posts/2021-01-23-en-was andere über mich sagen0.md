@@ -13,11 +13,12 @@ categories:
 lang: en
 ref: wasandere
 
+listed: true
+
 featured_image: https://ursulagraber.files.wordpress.com/2020/10/foto-106.jpg?w=500&fit=crop
 brief: Workshop-Wochenende in Graz
 
 galleries:
-
 
 ---
 ## "Ursula is highly professional and a great role model."

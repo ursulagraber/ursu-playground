@@ -6,6 +6,7 @@ layout: post
 
 categories:
   - Solo
+  - Performance
 
 lang: en
 ref: snowshoeing
@@ -53,7 +54,7 @@ A dark dance performance accompanied by snowy landscape projections and music co
 <!--plop-->
 ## About *Snowshoeing/geile Scheisse*
 
-This is the second collaboration with composer Diego Jiménez Tamame.   
+This is the second collaboration with composer Diego Jiménez Tamame.
 
 The movement research is based on two opposing emotional states: on the one hand diseases of civilization such as burnout and depression, on the other hand balancing activities such as snowshoeing and spending time in nature in general.
 

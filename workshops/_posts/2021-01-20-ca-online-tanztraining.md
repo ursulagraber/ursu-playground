@@ -11,6 +11,8 @@ categories:
 lang: ca
 ref: TanzFlow
 
+listed: false
+
 featured_image: https://ursulagraber.files.wordpress.com/2020/04/ursu_haende.jpg?w=500&fit=crop
 brief: the first new
 
@@ -28,8 +30,6 @@ galleries:
   - title: Ursula tanzt
     image: https://ursulagraber.files.wordpress.com/2020/04/move_ursulagraber.jpg
     data-group: superworkshop
-
-unlisted: True.
 ---
 
 

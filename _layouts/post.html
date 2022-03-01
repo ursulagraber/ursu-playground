@@ -2,93 +2,116 @@
 layout: fullpage
 ---
 <article class="post">
-	{% include post-heading.html post=page post_page=true %}
+{% include post-heading.html post=page post_page=true %}
 
-	{% assign total_sections = content | split: '<!--plop-->' %}
+    {% assign items = site.categories.Performance | sort: "date" | reverse | where:"lang", page.lang %}
+    {% for post in items %}
+    {% if post.url == page.url %}
+        {% assign pOffset = forloop.index0 | minus: 1 %}
+        {% assign nOffset = pOffset | plus: 2 %}
+        {% if forloop.first == false %}
+          {% assign next_post = items[pOffset] %}
+        {% endif %}
+        {% if forloop.last == false %}
+          {% assign previous_post = items[nOffset] %}
+        {% endif %}
+        {% break %}
+        {% endif %}
+    {% endfor %}
 
-	<section>
-		<div class="row">
-		 {% if page.galleries %}
-				 <div class="column pblock shift dark-color justify">
-						{{ total_sections[0] }}
-				 </div>
-				 <div class="column">
-							{% include image-gallery-index.html %}
-				 </div>
-			 {% else %}
-				 <div class="fullblock dark-color justify">
-					 	{{ total_sections[0] }}
-				 </div>
-			 {% endif %}
-		</div>
-		<div class="row">
-			{% if page.featured_video %}
-				<div class="column">
-					<div class="aspect-ratio" >
-					<iframe class="feat_vid" src="{{ page.featured_video.url }}" frameborder="0" allowfullscreen> {{ page.featured_video.title }} </iframe>
-					</div>
-				</div>
-				<div class="column pblock light-color justify">
-					 {{ total_sections[1] }}
-				</div>
-			{% else %}
-				<div class="pblock light-color justify">
-					{{ total_sections[1] }}
-				</div>
-			{% endif %}
-		</div>
-		{% if total_sections.size > 2 %}
-			<div class="fullblock dark-color justify">
-				 {{ total_sections[2] }}
-			</div>
-		{% endif %}
-	</section>
-	<div style="clear: both;"></div>
-	<div class="sharing">
-		{% assign share_url = page.url | absolute_url | cgi_escape %}
-		<a class="facebook" href="https://www.facebook.com/sharer/sharer.php?u={{ share_url }}">{% include social-icon.html icon="Facebook" %}</a>
-		<a class="twitter" href="https://twitter.com/intent/tweet?url={{ share_url }}&amp;text=Das%20interessiert%20mich%2C%20da%20gehe%20ich%20hin!">{% include social-icon.html icon="Twitter" %}</a>
-		<a class="google-plus" href="https://plus.google.com/share?url={{ share_url }}">{% include social-icon.html icon="Google Plus" %}</a>
-		<a class="pinterest" href="//pinterest.com/pin/create/link/?url={{ share_url }}&amp;description={{ page.description }}">{% include social-icon.html icon="Pinterest" %}</a>
-		<a class="email" href="mailto:?subject=Ich%20habe%20ein%20tolles%20Event%20gefunden&amp;body=Schau%20es%20dir%20an%20-%20{{ share_url }}">{% include social-icon.html icon="Email" %}</a>
-	</div>
-	<div class="cta">
-		<h2 style="color: black;">{{ site.data.dictionary[page.lang].performancemehr }}</h2>
-		<p>{{ site.data.dictionary[page.lang].performanceviele }}</p>
-		<div class="button"><a class="a-on-white" href="/{{ site.data.dictionary[page.lang].projectsurl }}">{{ site.data.dictionary[page.lang].performanceandere }}</a></div>
-	</div>
+<div class="post-nav">
+    <div>
+        {% if previous_post %}
+        <a href="{{previous_post.url}}">&laquo;&nbsp;{{previous_post.title}}</a>
+        {% endif %}
+    </div>
+    <div class="post-nav-next">
+        {% if next_post %}
+        <a href="{{next_post.url}}">{{next_post.title}}&nbsp;&raquo;</a>
+        {% endif %}
+    </div>
+</div>
+
+{% assign total_sections = content | split: '
+<!--plop-->' %}
+
+<section>
+    <div class="row">
+        {% if page.galleries %}
+        <div class="column pblock shift dark-color justify">
+            {{ total_sections[0] }}
+        </div>
+        <div class="column">
+            {% include image-gallery-index.html %}
+        </div>
+        {% else %}
+        <div class="fullblock dark-color justify">
+            {{ total_sections[0] }}
+        </div>
+        {% endif %}
+    </div>
+    <div class="row">
+        {% if page.featured_video %}
+        <div class="column">
+            <div class="aspect-ratio">
+                <iframe class="feat_vid" src="{{ page.featured_video.url }}" frameborder="0" allowfullscreen> {{
+                    page.featured_video.title }} </iframe>
+            </div>
+        </div>
+        <div class="column pblock light-color justify">
+            {{ total_sections[1] }}
+        </div>
+        {% else %}
+        <div class="pblock light-color justify">
+            {{ total_sections[1] }}
+        </div>
+        {% endif %}
+    </div>
+    {% if total_sections.size > 2 %}
+    <div class="fullblock dark-color justify">
+        {{ total_sections[2] }}
+    </div>
+    {% endif %}
+</section>
+<div style="clear: both;"></div>
+<div class="sharing">
+    {% assign share_url = page.url | absolute_url | cgi_escape %}
+    <a class="facebook" href="https://www.facebook.com/sharer/sharer.php?u={{ share_url }}">{% include social-icon.html
+        icon="Facebook" %}</a>
+    <a class="twitter"
+        href="https://twitter.com/intent/tweet?url={{ share_url }}&amp;text=Das%20interessiert%20mich%2C%20da%20gehe%20ich%20hin!">{%
+        include social-icon.html icon="Twitter" %}</a>
+    <a class="google-plus" href="https://plus.google.com/share?url={{ share_url }}">{% include social-icon.html
+        icon="Google Plus" %}</a>
+    <a class="pinterest"
+        href="//pinterest.com/pin/create/link/?url={{ share_url }}&amp;description={{ page.description }}">{% include
+        social-icon.html icon="Pinterest" %}</a>
+    <a class="email"
+        href="mailto:?subject=Ich%20habe%20ein%20tolles%20Event%20gefunden&amp;body=Schau%20es%20dir%20an%20-%20{{ share_url }}">{%
+        include social-icon.html icon="Email" %}</a>
+</div>
+<div class="cta">
+    <h2 style="color: black;">{{ site.data.dictionary[page.lang].performancemehr }}</h2>
+    <p>{{ site.data.dictionary[page.lang].performanceviele }}</p>
+    <div class="button"><a class="a-on-white" href="/{{ site.data.dictionary[page.lang].projectsurl }}">{{
+            site.data.dictionary[page.lang].performanceandere }}</a></div>
+</div>
 </article>
 
 <link rel="stylesheet" type="text/css" href="/css/modal-video.min.css">
 <script src="http://code.jquery.com/jquery-2.2.4.min.js"></script>
 <script src="/js/modal-video.min.js"></script>
 <script>
-	$(function(){
-		new ModalVideo(".js-video-vimeo-btn",{channel:'vimeo'});
-	});
+    jQuery(function ($) {
+        new ModalVideo(".js-video-vimeo-btn", { channel: 'vimeo' });
+    });
 </script>
 <link rel="stylesheet" href="/css/smartphoto.min.css">
 <script src="/js/smartphoto.min.js"></script>
 <script>
-	$(function(){
-	    new SmartPhoto(".js-smartPhoto",{
-		    resizeStyle: 'fit'
-		  });
-	});
+    jQuery(function ($) {
+        new SmartPhoto(".js-smartPhoto", {
+            resizeStyle: 'fit'
+        });
+    });
 </script>
-
-<!-- <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-<script type="text/javascript" src="/js/jquery.imgPin.min.js"></script>
-<script>
-	$(function() {
-		$('.post img').imgPin();
-
-		$('a[href*=\\#]').on('click', function(event){
-			var el = $(this.hash);
-			if (el.length > 0) {
-				event.preventDefault();
-				$('html,body').animate({scrollTop:$(this.hash).offset().top - 50}, 500);
-			}
-		});
-	});
-</script> -->

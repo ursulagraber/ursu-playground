@@ -6,6 +6,7 @@ layout: post
 
 categories:
   - Group
+  - Performance
 
 lang: ca
 ref: trilogue
@@ -48,13 +49,13 @@ Tres disciplines diferents -dansa contemporània, música electrònica i visuals
 
 <!--plop-->
 
-## Sobre *Trilogue*   
+## Sobre *Trilogue*
 
 Trilogue és la primera col·laboració entre el compositor Diego Jiménez Tamame, el dissenyador visual Pol Monsó Purtí i Ursula Graber. Una càmera 3D enregistra els moviments de la ballarina i els reprodueix en directe. A més, la ballarina està connectada al músic mitjançant una polsera tecnològica que, en funció dels moviments de la ballarina, envia senyals a la música electrònica i, per tant, influeix en la música en viu. Un Triàleg entre visuals, moviments i música que alhora qüestiona la presència de la tecnologia en la nostra vida quotidiana.
 
 <!--plop-->
 
-## Fitxer   
+## Fitxer
 
 Concepte: Ursula Graber, Diego Jiménez Tamame, Pol Monsó Purtí
 

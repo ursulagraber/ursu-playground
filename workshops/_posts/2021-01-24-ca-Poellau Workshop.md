@@ -11,17 +11,17 @@ categories:
 lang: ca
 ref: styriansummerart
 
+listed: false
+
 featured_image: https://ursulagraber.files.wordpress.com/2021/06/ursu-boden.jpg?w=500&fit=crop
 brief: Workshop-Wochenende in Graz
 
 galleries:
 
-unlisted: True.
-
 ---
-Al festival <a href="http://www.styriansummerart.at/kurse/koerperbewegungen-und-tanz-improvisation-mit-ursula-graber/">Styrian Summer Art</a> a Pöllau (AT) aquest estiu hi participaré amb un taller de dansa.   
+Al festival <a href="http://www.styriansummerart.at/kurse/koerperbewegungen-und-tanz-improvisation-mit-ursula-graber/">Styrian Summer Art</a> a Pöllau (AT) aquest estiu hi participaré amb un taller de dansa.
 
-![](https://ursulagraber.files.wordpress.com/2021/01/schloss-poellau.jpeg){: .center-image}   
+![](https://ursulagraber.files.wordpress.com/2021/01/schloss-poellau.jpeg){: .center-image}
 
  <b>Moviment corporal i improvisació de dansa</b>
  <br>
@@ -29,7 +29,7 @@ Divendres, 9 de juliol a diumenge, 11 de juliol de 2021
 <br>
 Durada del curs: 3 dies
 <br>
-Preu: 295 €   
+Preu: 295 €
 
 
 

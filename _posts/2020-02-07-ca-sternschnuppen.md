@@ -6,6 +6,7 @@ layout: post
 
 categories:
   - Group
+  - Performance
 
 lang: ca
 ref: sternschnuppen
@@ -48,7 +49,7 @@ Amb intèrprets locals i amb moviments individuals i col·lectius. Moviments que
 
 <!--plop-->
 
-## Sobre *Shooting stars and comets*   
+## Sobre *Shooting stars and comets*
 
 Quan l’organisme de tots els éssers vius esdevé independent, juganer i valent passa: la màgia s’instal·la, allò inexplicable, allò meravellós i ens sorprèn. Més enllà de qualsevol lògica i, tot i això, seguint un ordre secret. Petites partícules d’un gran xiulet i lliscament, brillants i misterioses, seguint les lleis d’aquest joc i la poderosa massa s’apodera del timó que controla la dinàmica.
 
@@ -71,13 +72,13 @@ spleen festival Graz<br>
 spleen*trieb festival<br>
 Shopping Nord Graz<br>
 henx film production<br>
-das andere Theater, Graz<br>   
+das andere Theater, Graz<br>
 
-Graz 2020   
+Graz 2020
 
-## Ressenyes de premsa   
+## Ressenyes de premsa
 
-## "Una mirada al cel estelat. Per què fem el que fem? Què passa sense motiu, quins processos de la nostra vida segueixen lleis desconegudes? Shooting Stars i cometes desafia com pensem sobre l'atzar i les regles". Valentin Bayer, periodista.   
+## "Una mirada al cel estelat. Per què fem el que fem? Què passa sense motiu, quins processos de la nostra vida segueixen lleis desconegudes? Shooting Stars i cometes desafia com pensem sobre l'atzar i les regles". Valentin Bayer, periodista.
 
 
 

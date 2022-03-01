@@ -9,6 +9,7 @@ ref: starlight
 
 categories:
   - Solo
+  - Performance
 
 featured_image: https://ursulagraber.files.wordpress.com/2020/09/mg_5269.jpg?w=500&fit=crop
 brief: 4-6 de septembre 2020, Kristallwerk Graz

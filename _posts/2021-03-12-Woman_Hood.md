@@ -9,6 +9,8 @@ ref: woman-hood
 
 categories:
   - News
+  - Performance
+
 featured_image: https://ursulagraber.files.wordpress.com/2021/12/deckblatt.jpg?w=500&fit=crop
 brief: 19.-20. März 2021, online, inklusive live Artist Talk
 author: Ursula Graber
@@ -56,16 +58,16 @@ Ein Tanzperformance-Solo in vier Bildern über außergewöhnliche und eigenwilli
 ## Über *Woman Hood*
 
 
-Die humorvolle Tanzperformance *Woman Hood* erforscht in vier Teilen unterschiedliche weibliche (Er)Lebenswelten. Sie zeigt außergewöhnliche und eigenwillige Frauenpersönlichkeiten, die unterschiedliche Arten von Macht besitzen, “anders” sind oder einfach aus der Reihe tanzen.   
+Die humorvolle Tanzperformance *Woman Hood* erforscht in vier Teilen unterschiedliche weibliche (Er)Lebenswelten. Sie zeigt außergewöhnliche und eigenwillige Frauenpersönlichkeiten, die unterschiedliche Arten von Macht besitzen, “anders” sind oder einfach aus der Reihe tanzen.
 Simone de Beauvoir war der Meinung, dass der Mensch sich selbst zu etwas mache, egal welches Geschlecht, welche Herkunft und Hautfarbe er habe. Diese Gestaltungsfreiheit wird in *Woman Hood* voll ausgelebt.<br>
 
 Was bedeutet es heute, eine Frau zu sein? <br>
 Wie hat eine Frau zu sein? Wie *will sie* sein?<br>
 Ist Verletzlichkeit die neue Stärke?<br>
-Was zeichnet eine Sisterhood, ein unterstützendes Netzwerk von Frauen, aus?   
+Was zeichnet eine Sisterhood, ein unterstützendes Netzwerk von Frauen, aus?
 
 Angeregt von Sara Ahmeds Buch „Feministisch leben!“ (2017) startet die Performance im Mikrokosmos Bühne den Versuch, in einer immer noch patriarchal dominierten Gesellschaft, ein feministisches Fundament zu schaffen, das sich auf starken Frauenfiguren gründet.
-Einer magische Bühnenwelt, mit zeitgenössischem Tanz, aufwendigen Kostümen und mitreißender Musik: *Woman Hood* inspiriert und lässt Staunen.   
+Einer magische Bühnenwelt, mit zeitgenössischem Tanz, aufwendigen Kostümen und mitreißender Musik: *Woman Hood* inspiriert und lässt Staunen.
 
 
 <!--plop-->
@@ -73,19 +75,19 @@ Einer magische Bühnenwelt, mit zeitgenössischem Tanz, aufwendigen Kostümen un
 ## Credits
 
 
-Konzept, Performance, Choreografie: 	**Ursula Graber**  
-Dramaturgie:	**Hanna Rohn, Bàrbara Raubert**   
-Kostüm:	**Ana Vivero**  
-3D-Kamera: **Pol Monsó Purtí**   
-Licht- und Tontechnik:	**Lisa Raschhofer**   
-Organisation & PR:	**Laura Halb, Ursula Graber**  
-Filmaufnahme: **Fabian Czernovsky**   
+Konzept, Performance, Choreografie: 	**Ursula Graber**
+Dramaturgie:	**Hanna Rohn, Bàrbara Raubert**
+Kostüm:	**Ana Vivero**
+3D-Kamera: **Pol Monsó Purtí**
+Licht- und Tontechnik:	**Lisa Raschhofer**
+Organisation & PR:	**Laura Halb, Ursula Graber**
+Filmaufnahme: **Fabian Czernovsky**
 Filmschnitt & Trailer: **Berta Monsó Purtí**
 Graz 2021
 
 <br>
 
-## Mit freundlicher Unterstützung von  
+## Mit freundlicher Unterstützung von
 
 
 :------:|:------:|:------:|:------:

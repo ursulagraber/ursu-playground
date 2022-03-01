@@ -7,42 +7,51 @@ ref: workshops
 ---
 
 <div class="workshops-container">
-	<div class="slide">
-		<div class="workshops">
-			{% assign workshops = site.categories.workshops | where:"lang", page.lang | sort: "date" | reverse %}
-			{% for workshop in workshops %}
-			 {% unless workshop.unlisted %}
-				<div class="workshop-container">
-					<div class="workshop" style="background-image: url('{{ workshop.featured_image }}')">
-						<a href="{{ workshop.url }}"><span>{{ workshop.title }}</span></a>
-					</div>
-				</div>
-				{% endunless %}
-			{% endfor %}
+<div class="slide">
+<div class="workshops">
+	{% assign workshops = site.categories.workshops | where:"listed", true | where:"lang", page.lang | sort: "date"
+	| reverse %}
+	{% for workshop in workshops %}
+	<div class="workshop-container">
+		<div class="workshop" style="background-image: url('{{ workshop.featured_image }}')">
+			<a href="{{ workshop.url }}"><span>{{ workshop.title }}</span></a>
 		</div>
 	</div>
-	<div class="excerpt sticky">
-		<h2>DANCE IMPROV: BASICS, MAGIC & FLOW</h2>
+	{% endfor %}
+</div>
+</div>
+<div class="excerpt sticky">
+<h2>DANCE IMPROV: BASICS, MAGIC & FLOW</h2>
 
-			<b>WORKSHOP</b><br>
-			This Workshop is for everyone above 16 years who loves to move, wants to extend
-			their dance (improv) skills or deepen their knowledge about their own body.
-			This workshop is blocked into 2 to 5 days and suitable for festivals,
-			companies, universities and schools.
+<b>WORKSHOP</b><br>
+This Workshop is for everyone above 16 years who loves to move, wants to extend
+their dance (improv) skills or deepen their knowledge about their own body.
+This workshop is blocked into 2 to 5 days and suitable for festivals,
+companies, universities and schools.
 
-			<a href="http://www.ursulagraber.com/workshops/2021/12/20/en-TanzImproWorkshop/">More...</a>
-			<p>
-			<b>INDIVIDUAL TRAINING / one on one</b><br>
-			I offer private sessions in person as well as online.
+<a href="http://www.ursulagraber.com/workshops/2021/12/20/en-TanzImproWorkshop/">More...</a>
+<p>
+	<b>INDIVIDUAL TRAINING / one on one</b><br>
+	I offer private sessions in person as well as online.
 
+<<<<<<< HEAD
 			<p>
 			<b>COMING UP</b><br>
 			April/May 2022: Centre cívic Ter, Girona (CAT/ES)<br>
 			Summer 2022: Styrian Summer Art Festival, Pöllau (STMK/AT)<br>
 			<p>
 				If you are interested, don't hesitate to <a href="http://www.ursulagraber.com/contact-en/">contact</a> me! :)
+=======
+<p>
+	<b>COMING UP</b><br>
+	February 2022: Centre cívic Ter, Girona (CAT/ES)<br>
+	April 2022: Centre cívic Ter, Girona (CAT/ES)<br>
+	Summer 2022: Styrian Summer Art Festival, Pöllau (STMK/AT)<br>
+<p>
+	If you are interested, don't hesitate to <a href="http://www.ursulagraber.com/contact-en/">contact</a> me! :)
+>>>>>>> c7f5a315846dd4dfc509530bceb4d3f11b604254
 
 <br />
 
-	</div>
+</div>
 </div>

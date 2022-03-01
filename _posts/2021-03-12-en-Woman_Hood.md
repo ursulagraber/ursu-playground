@@ -9,6 +9,8 @@ ref: woman-hood
 
 categories:
   - News
+  - Performance
+
 featured_image: https://ursulagraber.files.wordpress.com/2021/12/deckblatt.jpg?w=500&fit=crop
 brief: 19.-20. Març 2021, en línia, inclòsa xerrada en directe amb l'artista
 author: Ursula Graber
@@ -48,7 +50,11 @@ featured_video:
     id: 523942516
 ---
 
+<<<<<<< HEAD
 A dance performance solo in four images about extraordinary and idiosyncratic female personalities, the feminine and masculine. An attempt to create a feminist foundation on stage.   
+=======
+A dance performance solo in four images about extraordinary and idiosyncratic female personalities, the feminine and masculine. The attempt to create a feminist foundation on stage.
+>>>>>>> c7f5a315846dd4dfc509530bceb4d3f11b604254
 
 *#feminism #idiosyncratic #femininity #masculinity #struggle #crazy #female army #kinect camera #live projection #sign language #inclusion #medea #solo #anger #emotion #vulnerability*
 
@@ -59,9 +65,9 @@ A dance performance solo in four images about extraordinary and idiosyncratic fe
 
 The humorous dance performance *Woman Hood* explores different female worlds in four parts. She shows extraordinary and idiosyncratic female personalities who possess different types of power, who are "different" or simply step out of line. Simone de Beauvoir was of the opinion that people make themselves into something, no matter what gender, origin and skin color they have. This freedom of transformation is fully lived out in *Woman Hood*.<br>
 
-What does it mean to be a woman today?   
-How should a woman be? How does *she want* to be?   
-Is vulnerability the new strength?   
+What does it mean to be a woman today?
+How should a woman be? How does *she want* to be?
+Is vulnerability the new strength?
 What distinguishes a sisterhood, a supportive network of women?
 
 Inspired by Sara Ahmed's book "Feminist Living!" (2017), the performance in the microcosm stage starts the attempt to create a feminist foundation based on strong female figures in a society that is still dominated by patriarchy. A magical stage world, with contemporary dance, elaborate costumes and rousing music: *Woman Hood* inspires and amazes.
@@ -71,21 +77,21 @@ Inspired by Sara Ahmed's book "Feminist Living!" (2017), the performance in the 
 
 ## Credits
 
-Concept, Performance, Choreography: 	**Ursula Graber**  
-Dramaturgy:	**Hanna Rohn, Bàrbara Raubert**   
-Costume:	**Ana Vivero**  
-3D camera: **Pol Monsó Purtí**   
-Lighting and sound engineering:	**Lisa Raschhofer**   
-Production & PR:	**Laura Halb, Ursula Graber**  
-Cameraman: **Fabian Czernovsky**   
-Editing & Trailer: **Berta Monsó Purtí**  
-Photos: **Clemens Nestroy, Edi Haberl**   
+Concept, Performance, Choreography: 	**Ursula Graber**
+Dramaturgy:	**Hanna Rohn, Bàrbara Raubert**
+Costume:	**Ana Vivero**
+3D camera: **Pol Monsó Purtí**
+Lighting and sound engineering:	**Lisa Raschhofer**
+Production & PR:	**Laura Halb, Ursula Graber**
+Cameraman: **Fabian Czernovsky**
+Editing & Trailer: **Berta Monsó Purtí**
+Photos: **Clemens Nestroy, Edi Haberl**
 
 Graz 2021
 
 <br>
 
-## With friendly support from  
+## With friendly support from
 
 
 :------:|:------:|:------:|:------:
@@ -103,7 +109,7 @@ Graz 2021
 
 ## A way of suing the body that convinces in these and many other, also quiet, finely executed passages and demonstrates expressive contemporary ability.
 
-## ...all of this is gripping, touching and stirring in its almost impertinently unaesthetic way of presentation.   
+## ...all of this is gripping, touching and stirring in its almost impertinently unaesthetic way of presentation.
 
 
 ## The sum of unusual (...) snippets of scenes (...), which are not directly relevant, but are all the more profound and ambiguous, accounts for the sustainability of this presentation, which was announced as humorous but is actually deeply serious and well thought out. (Eveline Koberg, tanz.at)

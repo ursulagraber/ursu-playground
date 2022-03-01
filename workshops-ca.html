@@ -7,23 +7,23 @@ ref: workshops
 ---
 
 <div class="workshops-container">
-	<div class="slide">
-		<div class="workshops">
-			{% assign workshops = site.categories.workshops | where:"lang", page.lang | sort: "date" | reverse %}
-			{% for workshop in workshops %}
-			 {% unless workshop.unlisted %}
-				<div class="workshop-container">
-					<div class="workshop" style="background-image: url('{{ workshop.featured_image }}')">
-						<a href="{{ workshop.url }}"><span>{{ workshop.title }}</span></a>
-					</div>
-				</div>
-				{% endunless %}
-			{% endfor %}
+<div class="slide">
+<div class="workshops">
+	{% assign workshops = site.categories.workshops | where:"listed", true | where:"lang", page.lang | sort: "date"
+	| reverse %}
+	{% for workshop in workshops %}
+	<div class="workshop-container">
+		<div class="workshop" style="background-image: url('{{ workshop.featured_image }}')">
+			<a href="{{ workshop.url }}"><span>{{ workshop.title }}</span></a>
 		</div>
 	</div>
-	<div class="excerpt sticky">
-		<h2>IMPROVISACIÓ DE DANSA : BÀSICS, MÀGIA I FLOW </h2>
+	{% endfor %}
+</div>
+</div>
+<div class="excerpt sticky">
+<h2>IMPROVISACIÓ DE DANSA : BÀSICS, MÀGIA I FLOW </h2>
 
+<<<<<<< HEAD
 			<b>TALLER/INTENSIU</b><br>
 			El taller està adreçat a persones a qui agrada moure's, que volen millorar
 			les habilitats amb la improvisació de la dansa o que volen conèixer millor
@@ -40,7 +40,28 @@ ref: workshops
 			 <p>
 			Si t'interessa, posa't en <a href="http://www.ursulagraber.com/contact-ca/">contacte</a> amb mi! Responc tots els missatges.
 			</p>
+=======
+<b>TALLER/INTENSIU</b><br>
+El taller està adreçat a persones a qui agrada moure's, que volen millorar
+les habilitats amb la improvisació de la dansa o que volen conèixer millor
+el seu sistema musculoesquelètic.
+És apte per a festivals, empreses, universitats i escoles (a partir de 16 anys).<br>
+<a href="http://www.ursulagraber.com/workshops/2021/12/20/ca-TanzImproWorkshop/">Més informació aquí </a>
+<p>
+	<b>ENTRENAMENT INDIVIDUAL </b><br>
+	Si estàs interessat en formació individual sobre el mateix tema, posa't en contacte amb mi: ofereixo classes
+	particulars en línia i presencials.
+<p>
+	<b>PROPERS TALLERS: </b><br>
+	Febrer 2022: Al Centre Cívic Ter, Girona (CAT/ES)<br>
+	Abril/Maig 2022: Al Centre Cívic Ter, Girona (CAT/ES)<br>
+	Estiu 2022: al Festival <i>Styrian Summer Art Festival</i>, Pöllau (AT)<br>
+<p>
+	Si t'interessa, posa't en <a href="http://www.ursulagraber.com/contact-ca/">contacte</a> amb mi! Responc tots els
+	missatges.
+</p>
+>>>>>>> c7f5a315846dd4dfc509530bceb4d3f11b604254
 <br />
 
-	</div>
+</div>
 </div>

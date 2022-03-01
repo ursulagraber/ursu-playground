@@ -11,6 +11,8 @@ categories:
 lang: de
 ref: workshop
 
+listed: true
+
 featured_image: https://ursulagraber.files.wordpress.com/2021/06/ursu-boden.jpg?w=500&fit=crop
 brief: TanzImpro Workshop
 
