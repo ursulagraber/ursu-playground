@@ -50,11 +50,7 @@ featured_video:
     id: 523942516
 ---
 
-<<<<<<< HEAD
 A dance performance solo in four images about extraordinary and idiosyncratic female personalities, the feminine and masculine. An attempt to create a feminist foundation on stage.   
-=======
-A dance performance solo in four images about extraordinary and idiosyncratic female personalities, the feminine and masculine. The attempt to create a feminist foundation on stage.
->>>>>>> c7f5a315846dd4dfc509530bceb4d3f11b604254
 
 *#feminism #idiosyncratic #femininity #masculinity #struggle #crazy #female army #kinect camera #live projection #sign language #inclusion #medea #solo #anger #emotion #vulnerability*
 

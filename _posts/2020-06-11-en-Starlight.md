@@ -49,11 +49,7 @@ featured_video:
 *Between pleasure and frustration*
 
 
-<<<<<<< HEAD
-Ursula Graber asks questions about feminism, enjoyment emancipation and role models. Inspired by critical feminist theories and burlesque dance, she creates a humorous and personal performance that invites wonder and reflection.   
-=======
 Ursula Graber asks questions about feminism, emancipation of pleasure and role models. Inspired by critical feminist theories and burlesque dance, she creates a humorous and personal performance that invites wonder and reflection.
->>>>>>> c7f5a315846dd4dfc509530bceb4d3f11b604254
 
 
 *"Are all feminists killjoys?”*
@@ -114,11 +110,7 @@ Graz, 2020
 
 
 
-<<<<<<< HEAD
-## „The diversity of what is addressed or even associated is a remarkable achievement when it comes to such reduced resources; convincing in its straightforwardness, which is based on creative artistic ability." (Eveline Koberg, dance critic) <i><a href="https://www.tanz.at/index.php/kritiken/kritiken-2020/2381-ursula-graber-starlight-killjoy-coquelicot">-->whole review here</a></i>   
-=======
 ## „The diversity of what is addressed or even associated is a remarkable achievement when it comes to reducing the resources used; convincing in its straightforwardness, which is based on creative artistic ability." (Eveline Koberg, dance critic) <i><a href="https://www.tanz.at/index.php/kritiken/kritiken-2020/2381-ursula-graber-starlight-killjoy-coquelicot">-->whole review here</a></i>
->>>>>>> c7f5a315846dd4dfc509530bceb4d3f11b604254
 
 
 
