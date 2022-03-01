@@ -31,3 +31,14 @@ en:
    link: /workshops-en/
 -  name: Contact/Press
    link: /contact-en/
+es:
+-  name: Inicio
+   link: /index-es/
+-  name: Sobre mí
+   link: /about-es/
+-  name: Espectáculos
+   link: /projects-es/
+-  name: Talleres
+   link: /workshops-es/
+-  name: Contacto/Prensa
+   link: /contact-es/

@@ -55,3 +55,22 @@ en:
   contact:
     name: Contact
     link: /contact
+es:
+  home:
+    name: Inicio
+    link: /index-es
+  about:
+    name: Sobre mí
+    link: /about-es
+  projects:
+    name: Espectáculos
+    link: /projects/
+  workshops:
+    name: Talleres
+    link: /workshops/
+  gallery:
+    name: Galería
+    link: /gallery/
+  contact:
+    name: Contacto
+    link: /contact
