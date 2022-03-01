@@ -48,7 +48,7 @@ featured_video:
     id: 523942516
 ---
 
-A dance performance solo in four images about extraordinary and idiosyncratic female personalities, the feminine and masculine. The attempt to create a feminist foundation on stage.   
+A dance performance solo in four images about extraordinary and idiosyncratic female personalities, the feminine and masculine. An attempt to create a feminist foundation on stage.   
 
 *#feminism #idiosyncratic #femininity #masculinity #struggle #crazy #female army #kinect camera #live projection #sign language #inclusion #medea #solo #anger #emotion #vulnerability*
 
@@ -57,7 +57,7 @@ A dance performance solo in four images about extraordinary and idiosyncratic fe
 ## About *Woman Hood*
 
 
-The humorous dance performance *Woman Hood* explores different female worlds in four parts. She shows extraordinary and idiosyncratic female personalities who possess different types of power, are "different" or simply step out of line. Simone de Beauvoir was of the opinion that people make themselves into something, no matter what gender, origin and skin color they have. This freedom of transformation is fully lived out in *Woman Hood*.<br>
+The humorous dance performance *Woman Hood* explores different female worlds in four parts. She shows extraordinary and idiosyncratic female personalities who possess different types of power, who are "different" or simply step out of line. Simone de Beauvoir was of the opinion that people make themselves into something, no matter what gender, origin and skin color they have. This freedom of transformation is fully lived out in *Woman Hood*.<br>
 
 What does it mean to be a woman today?   
 How should a woman be? How does *she want* to be?   
@@ -99,9 +99,9 @@ Graz 2021
 
 
 
-## ...Graber examines the feminine and the masculine in this ravishingly expressively danced solo and finds scratchy, self-confident femininity beyond the usual images, which multiplies on the screen behind her: complexity without fragmentation, what a great picture. The fact that the performance is also fun is a big bonus point. (Ute Baumhackl, Kleine Zeitung)
+## ...Graber examines the feminine and the masculine in this ravishingly expressively danced solo and finds scratchy, self-confident femininity beyond the usual images, which multiplies on the screen behind her: complexity without fragmentation, what a great image. The fact that the performance is also fun is a big bonus point. (Ute Baumhackl, Kleine Zeitung)
 
-## One [a use of the body] that convinces in these and many other, also quiet, finely executed passages and demonstrates expressive contemporary ability.
+## A way of suing the body that convinces in these and many other, also quiet, finely executed passages and demonstrates expressive contemporary ability.
 
 ## ...all of this is gripping, touching and stirring in its almost impertinently unaesthetic way of presentation.   
 

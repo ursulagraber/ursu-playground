@@ -41,7 +41,7 @@ featured_video:
   id: 512498076
 ---
 
-A group performance in public space as part of the spleen*trieb festival. With local performers and their movements as individuals and groups. Movements that are accidental on the one hand and follow clear rules on the other.
+A group performance in public space as part of the spleen*trieb festival. With local performers and their movements as individuals and groups. Movements that are random on the one hand and follow clear rules on the other.
 
 *#group dynamics #score #closeness #distance #individual #copy #silence #music #public space #swarm #improvisation #concentration*
 
@@ -53,7 +53,7 @@ A group performance in public space as part of the spleen*trieb festival. With l
 
 Group performance by Ursula Graber
 
-When the organism of every living being makes itself independent, playful and courageous, then it happens: magic sets in, something inexplicable, wonderful, and we are amazed. Beyond any logic and yet following a secret order. Small particles of a large whole hiss and slither, luminous and mysterious, following the laws of this game, and the mighty mass takes over the dynamic-steering rudder.
+When the organism of every living being makes itself independent, playful and courageous, then it happens: magic sets in - something inexplicable, wonderful, amazing. Beyond any logic and yet following a secret order. Small particles of a large whole hiss and slither, luminous and mysterious, following the laws of this game, and the mighty mass takes over the dynamic-steering tiller.
 
 As part of the festival spleen*trieb 2020.
 

@@ -45,7 +45,7 @@ featured_video:
 <!-- explore this: https://vimeo.com/api/oembed.json?url=http%3A//vimeo.com/330582854 -->
 
 
-A dark dance performance accompanied by snowy landscape projections and music composed by Diego Jiménez Tamame. The basic atmosphere is oppressive, but humor flashes in a few moments.
+A dark dance performance accompanied by snowy landscape projections and music composed by Diego Jiménez Tamame. The basic atmosphere is oppressive, with moments of humor flashing up.
 
 *#dark #oppressive #snowshoeing #electronic music #gloomy #movement qualities #anger #externally controlled #power #resignation*
 

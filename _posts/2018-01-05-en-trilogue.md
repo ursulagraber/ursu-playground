@@ -53,7 +53,7 @@ Three different disciplines - contemporary dance, electronic music and 3D visual
 ## About *Trilogue*
 
 Trilogue is the first collaboration between composer Diego Jiménez Tamame, visual media designer Pol Monsó Purtí and Ursula Graber.
-A 3D camera records the movements of the dancer and reproduces them live. In addition, the movements of the dancer through the technological bracelet MYO influence the live music. A "trilogue" between visuals, movements and music - and the questioning of technology in our everyday lives.
+A 3D camera records the movements of the dancer and reproduces them live. In addition, the movements of the dancer influence the live music through the technological bracelet MYO. A "trilogue" between visuals, movements and music - and the questioning of technology in our everyday lives.
 
 
 <!--plop-->

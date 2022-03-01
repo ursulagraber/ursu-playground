@@ -34,7 +34,7 @@ galleries:
 
 
 ## step 1: get to know your body better
-At Level 1 we learn the basics of movement, gravity and breathing.
+At Level 1 we learn about the basics of movement, gravity and breathing.
  **Motto: ENJOY**
 
 ## step 2: explore dance and movement
@@ -47,7 +47,7 @@ In level 3 we become familiar with the basics of improvisation and create our ow
 Building on this, we study improv factors such as time, space and music. We also learn what to do when we are not inspired.  **Motto: DELIGHTFUL DETAILS**
 
 ## step 5: find your own flow and magic
-In level 5 we combine everything we have learned and train to find magic and flow with the help of specific exercises. **Motto: MAGIC AND FLOW**
+In level 5 we combine everything we have learned into a big whole. We train to find magic and flow with the help of specific exercises. **Motto: MAGIC AND FLOW**
 
 <br>
 
@@ -61,7 +61,7 @@ dancers, athletes and everyone who wants to deepen their relationship to movemen
 
 <br>
 
-## If that appeals to you, the workshop is for you
+## If these ideas appeal to you, the workshop is for you
 • The social aspect of dancing together: Because it's nice to train and dance together with other people <br>
 • The beauty of learning: because it is exciting and inspiring to learn something new<br>
 • he health and well-being factor: Because you feel good and fit when you move, it has a relaxing effect and endorphins are produced - and because dancing has always been a part of human life <br>
@@ -69,11 +69,11 @@ dancers, athletes and everyone who wants to deepen their relationship to movemen
 
 <br>
 
-## This is what you're getting out of it
+## That's what you'll get
 • You feel more "in" your body..<br>
-• You understand much better how to move.<br>
+• You get a better understanding on how to move.<br>
 • You are more trained. <br>
-• You learn a lot: you develop yourself, you get to know yourself better and you explore dance and improvisation techniques. <br>
+• You learn a lot: you develop yourself, you challenge yourself and you explore dance and improvisation techniques. <br>
 • You live a special experience (at best) with moments full of magic and flow.
 <br>
 • You get to know people.<br>

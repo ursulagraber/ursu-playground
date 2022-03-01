@@ -48,7 +48,7 @@ featured_video:
 *Between pleasure and frustration*   
 
 
-Ursula Graber asks questions about feminism, emancipation of pleasure and role models. Inspired by critical feminist theories and burlesque dance, she creates a humorous and personal performance that invites wonder and reflection.   
+Ursula Graber asks questions about feminism, enjoyment emancipation and role models. Inspired by critical feminist theories and burlesque dance, she creates a humorous and personal performance that invites wonder and reflection.   
 
 
 *"Are all feminists killjoys?”*
@@ -64,9 +64,9 @@ Ursula Graber asks questions about feminism, emancipation of pleasure and role m
 ## About *Starlight ‚Killjoy‘ Coquelicot*
 
 
-Invented by feminist theorist Sara Ahmed, the character KILLJOY unabashedly addresses inequality in sexist and racist situations.
+Invented by feminist theorist Sara Ahmed, the character KILLJOY openly addresses inequality in sexist and racist situations.
 Starlight Coquelicot is a burlesque dancer. She celebrates her female body, sensuality, lust and beauty.
-Starlight “Killjoy” Coquelicot, Ursula Graber's onstage alter ego, possesses both traits. It combines intellectual feminism with the celebration of sensuality and physicality.
+Starlight “Killjoy” Coquelicot, Ursula Graber's onstage alter ego, possesses both traits. She combines intellectual feminism with the celebration of sensuality and physicality.
 <br>
 How can Starlight "Killjoy" Coquelicot be a killjoy and have fun through burlesque at the same time? This field of tension is at the center of the project and allows the artist to explore new possibilities of being a woman and to experiment with choreographic methods which normally are not part of contemporary dance.
 <br>
@@ -105,15 +105,15 @@ Graz, 2020
 ## Press
 
 
-## "It's impressive what Graber conjures up and/or bangs on stage with remarkably powerful, self-confidently lascivious and (mostly covertly) sensitive-emotional femininity. It's amusing, it gets under your skin and it also hurts. In any case, it makes a difference, this, their "self-evident" and therefore credible action."
+## "It's impressive what Graber conjures up and/or bangs on stage with remarkably powerful, self-confidently lascivious and (mostly covertly) sensitive-emotional femininity. It's amusing, it gets under your skin and it also hurts. In any case, it makes a difference, this action which is "self-evident" and therefore credible action."
 
 
 
-## „The diversity of what is addressed or even associated is a remarkable achievement when it comes to reducing the resources used; convincing in its straightforwardness, which is based on creative artistic ability." (Eveline Koberg, dance critic) <i><a href="https://www.tanz.at/index.php/kritiken/kritiken-2020/2381-ursula-graber-starlight-killjoy-coquelicot">-->whole review here</a></i>   
+## „The diversity of what is addressed or even associated is a remarkable achievement when it comes to such reduced resources; convincing in its straightforwardness, which is based on creative artistic ability." (Eveline Koberg, dance critic) <i><a href="https://www.tanz.at/index.php/kritiken/kritiken-2020/2381-ursula-graber-starlight-killjoy-coquelicot">-->whole review here</a></i>   
 
 
 
-## “There's a lot of play and pain in it. A person who has to be everything and has everything to cope with. But also flirting with it and enjoying it. Is tied up and must be anonymous. Being dizzy and dizzy. A brilliant housewife queen. Buttoned and twisted. Very strong and very brave.” (Karin Scaria-Braunstein, sociologist)  <i>[-->whole reflection here]({{site.url}}/docs/Reflexion Karin Scaria-Braunstein.pdf)</i>
+## “There's a lot of play and pain in it. A person who has to be everything and has everything to cope with. But also flirting with it and enjoying it. Is tied up and must be anonymous. Getting dizzy i dizziness. A brilliant housewife queen. Buttoned up and twisted. Very strong and very brave.” (Karin Scaria-Braunstein, sociologist)  <i>[-->whole reflection here]({{site.url}}/docs/Reflexion Karin Scaria-Braunstein.pdf)</i>
 
 <br>
 
