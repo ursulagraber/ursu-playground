@@ -71,15 +71,15 @@ Ursula Graber estima en diverses llengües: la de la dansa contemporània, la de
 
 
 **Fitxer**
-Concepte, coreografia: 	**Ursula Graber**
-Intèrprets:   **Ursula Graber i Eulàlia Purtí (Nats teatre)**
-Dramatúrgia:	**Bàrbara Raubert**
-Vestuari:	**Ana Vivero**
-Consells sociològics:   **Karin Scaria-Braunstein**
-Consells de direcció teatral: **Joan Monells**
-Producció:   **Andreas Krampl**
-Organització i relacions públiques:  **Mirella Bärnthaler**
-Tecnologia de la llum i el so:	**Peter Spall**
+Concepte, coreografia: 	**Ursula Graber** <br>
+Intèrprets:   **Ursula Graber i Eulàlia Purtí (Nats teatre)** <br>
+Dramatúrgia:	**Bàrbara Raubert** <br>
+Vestuari:	**Ana Vivero** <br>
+Consells sociològics:   **Karin Scaria-Braunstein** <br>
+Consells de direcció teatral: **Joan Monells** <br>
+Producció:   **Andreas Krampl** <br>
+Organització i relacions públiques:  **Mirella Bärnthaler** <br>
+Tecnologia de la llum i el so:	**Peter Spall** <br>
 Fotos:   **Edi Haberl**<br>
 
 

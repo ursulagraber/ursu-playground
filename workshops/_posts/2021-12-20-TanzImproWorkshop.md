@@ -63,7 +63,7 @@ Tänzer:innen, Sportler:innen und Personen, die sich gerne mit dem Bewegungsappa
 <br>
 
 ## Wenn dich das anspricht, ist der Workshop für dich
-• Das Soziale am gemeinsamen Tanzen: Weil es schön ist, gemeinsam mit anderen Menschen zu trainieren und tanzen<br>
+• Das Soziale am gemeinsamen Tanzen: Weil es schön ist, gemeinsam mit anderen Menschen zu trainieren und zu tanzen<br>
 • Das Schöne am Lernen: Weil es spannend und inspirierend ist, etwas Neues zu lernen<br>
 • der Gesundheits- und Wohlfühl-Faktor: Weil man sich gut und fit fühlt, wenn man sich bewegt, es eine entspannende Wirkung hat und Glückshormone entstehen – und weil Tanzen seit jeher ein Bestandteil des menschlichen Lebens ist<br>
 *#playing with movement*
@@ -75,7 +75,7 @@ Tänzer:innen, Sportler:innen und Personen, die sich gerne mit dem Bewegungsappa
 • Du verstehst viel besser, wie man sich bewegen kann.<br>
 • Du bist trainierter.<br>
 • Du lernst viel: du entwickelst dich weiter, du lernst dich selbst besser kennen und du erforscht Tanz- und Improtechnik.<br>
-• Du hast erlebst eine besondere Erfahrung, (im besten Fall) mit Momenten voller Magie und Flow.<br>
+• Du erlebst eine besondere Erfahrung, (im besten Fall) mit Momenten voller Magie und Flow.<br>
 • Du lernst neue Menschen kennen.<br>
 • Du schaffst dir eine Auszeit und kriegst deinen Kopf frei.<br>
 
