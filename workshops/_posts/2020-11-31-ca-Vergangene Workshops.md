@@ -24,13 +24,13 @@ galleries:
 <br>
 
 
-*A causa de la pandèmia de la Covid, s'han cancel·lat varios tallers des de el 2020.*<br>
+
+02/2022: Taller d'improvisació de dansa, Centre cívic Ter, Girona<br>
 
 
+07/2021: "Improvisació de dansa amb mitjans digitals" dins de la setmana creativa del institut BHAK Weiz (AT). <br>
 
-07/2021: "Improvisació de dansa amb mitjans digitals" dins de la setmana creativa del BHAK Weiz (AT). <br>
-
-09/2020: "Tänzerisches ERLEBEN", cap de setmana taller a Graz, amb el suport de la iniciativa cultural d'Estíria. <br>
+09/2020: "Tänzerisches ERLEBEN", taller a Graz, amb el suport de la iniciativa cultural d'Estíria. <br>
 
 
 01/2020: “Tänzerisches ERLEBEN”, taller a Graz. <br>

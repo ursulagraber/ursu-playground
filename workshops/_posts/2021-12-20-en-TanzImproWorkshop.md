@@ -1,7 +1,7 @@
 ---
 date: 2021-12-20
 location: Graz
-title: Dance Improv Workshop Basics, Magic & Flow
+title: Dance Improv Workshop - Basics, Magic & Flow
 
 layout: workshop
 

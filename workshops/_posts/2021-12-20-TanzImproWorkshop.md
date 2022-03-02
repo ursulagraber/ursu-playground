@@ -1,7 +1,7 @@
 ---
 date: 2021-12-20
 location: Graz
-title: TanzImpro Workshop Basics, Magie & Flow
+title: TanzImpro Workshop - Basics, Magie & Flow
 
 layout: workshop
 

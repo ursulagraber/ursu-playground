@@ -1,7 +1,7 @@
 ---
 date: 2021-12-20
 location: Graz
-title: Taller d’improvisació de dansa conceptes bàsics, màgia i flow
+title: Taller de improvisación de danza - conceptos básicos, magia y flujo
 
 layout: workshop
 
@@ -22,68 +22,73 @@ galleries:
 ![](https://ursulagraber.files.wordpress.com/2021/12/dscf4404.jpg){: .center-image}
 <br>
 
-## 5 etapes del taller:
+## 5 etapas del taller:
 
 <br>
 
-## Etapa 1: Conèixer millor el cos
-## Etapa 2: Explorar moviments de dansa
-## Etapa 3: Crear moviments d’improvisació
-## Etapa 4: Estudiar els factors de l’improvisació
-## Etapa 5: Trobar màgia i flow
+## Etapa 1: Conocer mejor el cuerpo.
+## Etapa 2: Explorar movimientos de danza.
+## Etapa 3: Crear movimientos de improvisación.
+## Etapa 4: Estudiar los factores de improvisación.
+## Etapa 5: Encontrar magia y flujo.
 
 <br>
 
 
-## Etapa 1: Conèixer millor el cos
-Al nivell 1 aprenem els bàsics del moviment, la gravetat i la respiració. **Lema: DISFRUTA**
-
-## Etapa 2: Explorar moviments de dansa
-A través de les cadenes de moviment explorem moviments de dansa específics i els seus paràmetres al nivell 2. **Lema: EL PLAER DE MOURE’S**
-
-## Etapa 3: Crear moviments d’improvisació
-**Al nivell 3 ens familiaritzem amb els bàsics de la improvisació i creem els nostres propis moviments dansats. Lema: DESAFÍA’T, JUGA!**
-
-## Etapa 4: Estudiar els factors de l’improvisació
-A partir d'aquí, estudiem factors de la improvisació com el temps, l'espai i la música. També aprenem què fer quan no estem inspirats. **Lema: DETALLS DELICIOSOS**
-
-## Etapa 5: Trobar màgia i flow
-Al nivell 5 combinem tot el que hem après en un gran tot i entrenem per trobar la màgia i fluir amb l'ajuda d'exercicis específics. **Lema: MÀGIA I FLOW**
+## Etapa 1: Conocer mejor el cuerpo
+En el nivel 1 aprendemos los básicos del movimiento, la gravedad y la respiración.  **Lema: DISFRUTA**
 
 
-<br>
+## Etapa 2: Explorar movimientos de danza
+A través de las cadenas de movimiento exploramos movimientos de danza específicos y sus parámetros en el nivel 2. **Lema: EL PLACER DE MOVERSE**
 
-## Objectiu del taller
-Pots aportar varietat als moviments i crear improvisacions convincents i autèntiques. Segur que tens una idea de les possibilitats de moviment del teu cos i tens idees concretes sobre com pots practicar-les i ampliar-les.
 
-<br>
+## Etapa 3: Crear movimientos de improvisación
+En el nivel 3 nos familiarizamos con lo básico de la improvisación y creamos nuestros propios movimientos danzados. **Lema: ¡DESAFÍATE, ¡JUEGA!**
 
-## A qui es dirigeix el taller
-Ballarins, esportistes i persones a qui els agrada jugar amb el sistema musculoesquelètic. Persones que volen trobar els moviments i l’estil propis en comptes de copiar passos de dansa ja fets.
+
+## Etapa 4: Estudiar los factores de improvisación
+A partir de ahí, estudiamos factores de la improvisación como el tiempo, el espacio y la música. También aprendemos qué hacer cuando no estamos inspirados. **Lema: DETALLES DELICIOSOS.**
+
+
+
+## Etapa 5: Encontrar magia y flujo
+En el nivel 5 combinamos todo lo aprendido en un gran todo y entrenamos para encontrar la magia y fluir con la ayuda de ejercicios específicos. **Lema: MAGIA Y FLUJO**
+
+
 
 <br>
 
-## Si això t’agrada, el taller és per a tu
-•  L'aspecte social de ballar junts: perquè és agradable entrenar i ballar amb altres persones<br>
-• La bellesa de l'aprenentatge: perquè és emocionant i inspirador aprendre coses noves<br>
-•El factor salut i benestar: perquè et trobes bé i estàs en forma quan et mous, té un efecte relaxant i es produeixen endorfines, i perquè ballar sempre ha estat part de la vida humana<br>
-*#jugar amb el moviment*
+## Objetivo del taller
+Puedes aportar variedad a los movimientos y crear improvisaciones convincentes y auténticas. Seguro que tienes una idea de las posibilidades de movimiento de tu cuerpo y tienes ideas concretas sobre cómo puedes practicarlas y ampliarlas.
 
 <br>
 
-## Això és el que hi guanyes:
-• Estàs més “dins” el teu cos.<br>
-• Entens molt millor com moure’t.<br>
-• Estàs més en forma.<br>
-• N’aprens molt: et desenvolupes, et coneixes millor i explores tècniques de dansa i  d’improvisació.<br>
-• Vius una experiència especial, en el millor dels casos, amb moments plens de màgia i de flow.<br>
-• Coneixes gairebé sempre gent agradable.<br>
-•  Et prens temps per tu i t’aclareixes el cap.<br>
+## A quién se dirige el taller
+Bailarines, deportistas y personas a las que les gusta jugar con el sistema músculo-esquelético. Personas que desean encontrar los movimientos y el estilo propios en vez de copiar pasos de danza ya realizados.
 
 <br>
 
-## Si hi estàs interessat, posa’t en <a href="http://www.ursulagraber.com/contact/">contacte</a>  amb mi! <br>
-A petició, també és possible personalitzar la temàtica o el format del taller.
+## Si esto te gusta, el taller es para ti:
+•  El aspecto social de bailar juntos: porque es agradable entrenar y bailar con otras personas. <br>
+• La belleza del aprendizaje: porque es emocionante e inspirador aprender cosas nuevas.<br>
+•El factor salud y bienestar: porque te encuentras bien y estás en forma cuando te mueves, tiene un efecto relajante y se producen endorfinas, y porque bailar siempre ha sido parte de la vida humana.<br>
+*#jugar con el movimiento*
+
+<br>
+
+## Esto es lo que ganas:
+• Estás más "dentro" tu cuerpo.<br>
+• Entiendes mucho mejor cómo moverte.<br>
+• Estás más en forma.<br>
+• Aprendes mucho: te desarrollas, te conoces mejor y exploras técnicas de danza y de improvisación.<br>
+• Vives una experiencia especial, en el mejor de los casos, con momentos llenos de magia y flujo.<br>
+• Conoces casi siempre a gente agradable. <br>
+• Te tomas tiempo y te aclaras la cabeza.<br>
+
+<br>
+
+## Si estás interesado, ¡ponte en <a href="http://www.ursulagraber.com/contact/">contacto</a> conmigo! A petición también es posible personalizar la temática o el formato del taller.
 <br>
 
 

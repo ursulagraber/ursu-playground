@@ -22,16 +22,16 @@ galleries:
 <br>
 
 
-*Due to the Covid pandemic, many planned workshops have been canceled since 2020*<br>
+02/2022: Dance improvisation workshop, Ter Civic Center, Girona<br>
 
 
 
-07/2021: "Dance Impro with digital media" as part of the creative week of the BHAK Weiz (Stmk/AT)
+07/2021: "Dance Impro with digital media" as part of the creative week of the highschool BHAK Weiz (Stmk/AT)
 <br>
 
-09/2020: “Tänzerisches ERLEBEN”, workshop weekend in Graz, in connection with the Steirischen Kulturinitiative.<br>
+09/2020: “Tänzerisches ERLEBEN”, workshop in Graz, in connection with the Steirischen Kulturinitiative.<br>
 
-01/2020: “Tänzerisches ERLEBEN”, workshop weekend in Graz<br>
+01/2020: “Tänzerisches ERLEBEN”, workshop in Graz<br>
 
 09/2019:  “Tools for dance improvisation”, course for IG Tanz Steiermark, Graz<br>
 

@@ -1,7 +1,7 @@
 ---
 date: 2021-12-20
 location: Graz
-title: Taller d’improvisació de dansa conceptes bàsics, màgia i flow
+title: Taller d’improvisació de dansa - conceptes bàsics, màgia i flow
 
 layout: workshop
 

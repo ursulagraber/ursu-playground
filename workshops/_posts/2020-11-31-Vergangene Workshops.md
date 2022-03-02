@@ -30,8 +30,7 @@ galleries:
 ![](https://ursulagraber.files.wordpress.com/2021/12/dscf4041.jpg){: .center-image}
 <br>
 
-*Wegen der Covid-Pandemie wurden seit 2020 zahlreiche geplante Workshops abgesagt.*<br>
-
+02/2022: Tanzimprovisationsworkshop, Ter Civic Center, Girona<br>
 
 
 07/2021: „TanzImpro mit digitalen Medien“ im Rahmen der Kreativwoche der BHAK Weiz (Stmk/AT)<br>
