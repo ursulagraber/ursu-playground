@@ -125,7 +125,9 @@ Premiere as part of the festival [newsOFFstyria](https://www.theaterland.at/2021
 </div>
 
 <br>
-## The whole review by Eveline Koberg on tanz.at: [Please click HERE](https://www.tanz.at/index.php/kritiken/kritiken-2021/2515-newsoffstyria-2021). An excerpt about *Mallorca a Estíria* follows here:
+## The whole review by Eveline Koberg on tanz.at: [Please click HERE](https://www.tanz.at/index.php/kritiken/kritiken-2021/2515-newsoffstyria-2021).
+
+## An excerpt about *Mallorca a Estíria* follows here:
 
 
 

@@ -75,16 +75,17 @@ Inspirada en el llibre de Sara Ahmed “Viure una vida feminista” (2018), l'es
 <!--plop-->
 
 
-**Fitxer**
-Concepte, interpretació, coreografia: 	**Ursula Graber**
-Dramatúrgia:	**Hanna Rohn, Bàrbara Raubert**
-Vestuari:	**Ana Vivero**
-Càmera 3D: **Pol Monsó Purtí**
-Tècnica d'il·luminació i so:	**Lisa Raschhofer**
-Producció i relacions públiques:	**Ursula Graber**
-Assistència en relacions públiques:   **Laura Halb***
-Càmera: **Fabian Czernovsky**
-Muntatge & tràiler: **Berta Monsó Purtí**
+## Fitxer
+
+Concepte, interpretació, coreografia: 	**Ursula Graber**<br>
+Dramatúrgia:	**Hanna Rohn, Bàrbara Raubert**<br>
+Vestuari:	**Ana Vivero**<br>
+Càmera 3D: **Pol Monsó Purtí**<br>
+Tècnica d'il·luminació i so:	**Lisa Raschhofer**<br>
+Producció i relacions públiques:	**Ursula Graber**<br>
+Assistència en relacions públiques:   **Laura Halb***<br>
+Càmera: **Fabian Czernovsky**<br>
+Muntatge & tràiler: **Berta Monsó Purtí**<br>
 Graz 2021
 
 
@@ -99,11 +100,10 @@ Graz 2021
 
 <br />
 
-*[> > Article en Naciódigital](https://www.naciodigital.cat/baixmontseny/noticia/15991/ballarina-coreografa-ursula-graber-posa-escena-woman-hood)<br />*
-
-
 
 ## Ressenya de premsa
+
+*[> > Article en Naciódigital](https://www.naciodigital.cat/baixmontseny/noticia/15991/ballarina-coreografa-ursula-graber-posa-escena-woman-hood)<br />*
 
 
 
@@ -117,7 +117,7 @@ Graz 2021
 
 ## ...tot això és captivador, commovedor i commovedor en la seva forma de presentació gairebé impertinentment antiestètica.
 
-## La suma d'escenes insòlites (...), fragments d'escenes (...), que no són directament rellevants, però encara són més profundes i ambigües, explica la sostenibilitat d'aquesta presentació, anunciada com a humorística però en realitat profunda. seriosa i ben pensada. (Eveline Koberg, tanz.at)
+## La suma d'escenes insòlites (...), fragments d'escenes (...), que no són directament rellevants, però encara són més profundes i ambigües, explica la sostenibilitat d'aquesta presentació, anunciada com a humorística però en realitat profunda, seriosa i ben pensada. (Eveline Koberg, tanz.at)
 
 ## Graber no té por de ser grotesc i abstracte. Val la pena veure-ho! (Hanna Michaeler, Kronenzeitung)
 

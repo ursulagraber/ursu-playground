@@ -1,5 +1,5 @@
 ---
-date: 2017-01-05
+date: 2018-01-06
 title: Snowshoeing / Geile Scheiße
 
 layout: post
@@ -19,7 +19,7 @@ cast:
   sound_light: Ian Lecoultre, Céline Ribeiro
   location: Manufacture, Lausanne
   vimeo: https://vimeo.com/330582854
-  date: 2017-01-05
+  date: 2018-01-06
   other: "Artistic consultant: Grégory Stauffer, Natacha Koutchoumov, Philippe Saire. Anthropological consultant: Claire de Ribaupierre"
 
 galleries:

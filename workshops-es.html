@@ -1,0 +1,47 @@
+---
+title: Workshops
+layout: fullpage
+
+lang: es
+ref: workshops
+---
+
+<div class="workshops-container">
+<div class="slide">
+<div class="workshops">
+	{% assign workshops = site.categories.workshops | where:"listed", true | where:"lang", page.lang | sort: "date"
+	| reverse %}
+	{% for workshop in workshops %}
+	<div class="workshop-container">
+		<div class="workshop" style="background-image: url('{{ workshop.featured_image }}')">
+			<a href="{{ workshop.url }}"><span>{{ workshop.title }}</span></a>
+		</div>
+	</div>
+	{% endfor %}
+</div>
+</div>
+<div class="excerpt sticky">
+<h2>IMPROVISACIÓN DE DANZA: BÁSICOS, MAGIA Y FLOW </h2>
+
+			<b>TALLER/INTENSIVO</b><br>
+			El taller está dirigido a personas a las que les gusta moverse, que
+			quieren mejorar las habilidades con la improvisación de la danza o
+			que quieren conocer mejor su sistema músculo-esquelético.<br>
+			Es apto para festivales, empresas, universidades y escuelas (a partir de 16 años).
+<br>
+			<a href="http://www.ursulagraber.com/workshops/2021/12/20/es-TanzImproWorkshop/">Más información aquí </a>
+			<p>
+			<b>ENTRENAMIENTO INDIVIDUAL </b><br>
+			Ofrezco sesiones privadas tanto presenciales como online.
+
+			<p>
+			<b>PRÓXIMOS TALLERES: </b><br>
+			Abril/Mayo 2022: En el Centro Cívico Ter, Gerona<br>
+			8-10 Julio 2022: en el Festival <a href="http://www.styriansummerart.at/kurse/tanzimpro-workshop-basics-magie-flow-mit-ursula-graber/">Styrian Summer Art Festival</a>, Pöllau (AT)<br>
+			 <p>
+			Si te interesa, ponte en <a href="http://www.ursulagraber.com/contact-ca/">contacto</a> conmigo! Respondo a todos los mensajes.
+			</p>
+<br />
+
+</div>
+</div>

@@ -81,16 +81,16 @@ And then Corona came: Alone at home with herself and a mirror, Ursula's private 
 ## Credits
 
 
-Concept, Performance, Choreography: 	**Ursula Graber**
-Dramaturgy:	**Koko la Douce (Berlin)**
-Artistic advice:	**Lise Lendais (FR/Vienna)**
-Costume:	**Ana Vivero (Barcelona)**
-Lighting and sound engineering:	**Tom Bergner**
-Audience support:	**Laura Halb, Eva Ploder, Helgrit Hofmeister**
-Production & PR:	**Ursula Graber, Laura Halb**
-Residency:	**raw matters (Wien)**
-Photos: 	**Edi Haberl, Clemens Nestroy**
-Trailer & Video: **Fabian Czernovsky**
+Concept, Performance, Choreography: 	**Ursula Graber**<br>
+Dramaturgy:	**Koko la Douce (Berlin)**<br>
+Artistic advice:	**Lise Lendais (FR/Vienna)**<br>
+Costume:	**Ana Vivero (Barcelona)**<br>
+Lighting and sound engineering:	**Tom Bergner**<br>
+Audience support:	**Laura Halb, Eva Ploder, Helgrit Hofmeister**<br>
+Production & PR:	**Ursula Graber, Laura Halb**<br>
+Residency:	**raw matters (Wien)**<br>
+Photos: 	**Edi Haberl, Clemens Nestroy**<br>
+Trailer & Video: **Fabian Czernovsky**<br>
 
 Graz, 2020
 

@@ -73,15 +73,15 @@ Inspired by Sara Ahmed's book "Feminist Living!" (2017), the performance in the 
 
 ## Credits
 
-Concept, Performance, Choreography: 	**Ursula Graber**
-Dramaturgy:	**Hanna Rohn, Bàrbara Raubert**
-Costume:	**Ana Vivero**
-3D camera: **Pol Monsó Purtí**
-Lighting and sound engineering:	**Lisa Raschhofer**
-Production & PR:	**Laura Halb, Ursula Graber**
-Cameraman: **Fabian Czernovsky**
-Editing & Trailer: **Berta Monsó Purtí**
-Photos: **Clemens Nestroy, Edi Haberl**
+Concept, Performance, Choreography: 	**Ursula Graber**<br>
+Dramaturgy:	**Hanna Rohn, Bàrbara Raubert**<br>
+Costume:	**Ana Vivero**<br>
+3D camera: **Pol Monsó Purtí**<br>
+Lighting and sound engineering:	**Lisa Raschhofer**<br>
+Production & PR:	**Laura Halb, Ursula Graber**<br>
+Cameraman: **Fabian Czernovsky**<br>
+Editing & Trailer: **Berta Monsó Purtí**<br>
+Photos: **Clemens Nestroy, Edi Haberl**<br>
 
 Graz 2021
 

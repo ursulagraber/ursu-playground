@@ -72,11 +72,7 @@ Video Editing: **Berta Monsó Purtí**<br>
 Cameraman: **henx film production**<br>
 
 Thanks to:<br>
-spleen festival Graz<br>
-spleen*trieb festival<br>
-Shopping Nord Graz<br>
-henx film production<br>
-das andere Theater, Graz
+spleen festival Graz, spleen*trieb festival, Shopping Nord Graz, henx film production, das andere Theater, Graz<br>
 
 Graz 2020
 

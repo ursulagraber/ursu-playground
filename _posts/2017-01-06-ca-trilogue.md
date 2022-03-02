@@ -1,5 +1,5 @@
 ---
-date: 2018-01-05
+date: 2017-01-06
 title: Trilogue
 
 layout: post
@@ -8,7 +8,7 @@ categories:
   - Group
   - Performance
 
-lang: en
+lang: ca
 ref: trilogue
 
 featured_image: https://ursulagraber.files.wordpress.com/2020/04/trilogue_8.jpg?w=500&fit=crop
@@ -19,7 +19,7 @@ cast:
   sound_light: Ulrich Gladisch, Ralf Beyer
   location: Mumuth, Graz
   vimeo: https://vimeo.com/233919406
-  date: 2018-01-05
+  date: 2017-01-06
   other: "Visual Artist: Pol Monsó Purtí. Artistic consultant: Lisa Como"
 
 galleries:
@@ -42,47 +42,43 @@ featured_video:
     url: https://player.vimeo.com/video/233919406
     id: 233919406
 ---
-Three different disciplines - contemporary dance, electronic music and 3D visuals - meet and communicate with each other using digital technologies.
 
+Tres disciplines diferents -dansa contemporània, música electrònica i visuals en 3D- es troben i es comuniquen entre si mitjançant les tecnologies digitals.
 
-*#live music #electronic music #kinect camera #live projection #digital technology #media #dance #dialogue #trialogue #communication #abstraction*
-
-
-<!--plop-->
-
-
-## About *Trilogue*
-
-Trilogue is the first collaboration between composer Diego Jiménez Tamame, visual media designer Pol Monsó Purtí and Ursula Graber.
-A 3D camera records the movements of the dancer and reproduces them live. In addition, the movements of the dancer influence the live music through the technological bracelet MYO. A "trilogue" between visuals, movements and music - and the questioning of technology in our everyday lives.
-
+*#música en directe #música electrònica #càmera kinect #projecció en directe #tecnologia digital #mitjans de comunicació #dansa #diàleg #triàleg #comunicació #abstracció*
 
 <!--plop-->
 
-## Credits
+## Sobre *Trilogue*
 
+Trilogue és la primera col·laboració entre el compositor Diego Jiménez Tamame, el dissenyador visual Pol Monsó Purtí i Ursula Graber. Una càmera 3D enregistra els moviments de la ballarina i els reprodueix en directe. A més, la ballarina està connectada al músic mitjançant una polsera tecnològica que, en funció dels moviments de la ballarina, envia senyals a la música electrònica i, per tant, influeix en la música en viu. Un Triàleg entre visuals, moviments i música que alhora qüestiona la presència de la tecnologia en la nostra vida quotidiana.
 
-Concept: Ursula Graber, Diego Jiménez Tamame, Pol Monsó Purtí
+<!--plop-->
 
-Dancer: Ursula Graber
+## Fitxer
 
-Live Music: Diego Jiménez Tamame
+Concepte: Ursula Graber, Diego Jiménez Tamame, Pol Monsó Purtí
+
+Dansa: Ursula Graber
+
+Música en viu: Diego Jiménez Tamame
 
 Visuals: Pol Monsó Purtí
 
-Lights & Sound: Ulrich Gladisch, Ralf Beyer
+So i llum: Ulrich Gladisch, Ralf Beyer
 
-Artistic advise: Lisa Como
+Consells artístics: Lisa Como
 
-Thanks to the Mumuth of the Graz University of Art Mumuth Graz
-2017
-
+Mumuth, Graz
 
 <br>
 
-## Pressreviews
+## Ressenya de premsa
 
-Article by dance critic Eveline Koberg (in german)
+## "És una bona cosa que també hi hagués una reminiscència del nostre món digital; després de tot, no només va ser molt ben fet, sinó també estimulant i prou obert per a diferents interpretacions." Eveline Koberg, crítica de dansa
+
+Article de la crítica de dansa Eveline Koberg (en alemany)
+
 
 
 <div class="long-center-image">

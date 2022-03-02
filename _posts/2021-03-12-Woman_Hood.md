@@ -75,14 +75,14 @@ Einer magische Bühnenwelt, mit zeitgenössischem Tanz, aufwendigen Kostümen un
 ## Credits
 
 
-Konzept, Performance, Choreografie: 	**Ursula Graber**
-Dramaturgie:	**Hanna Rohn, Bàrbara Raubert**
-Kostüm:	**Ana Vivero**
-3D-Kamera: **Pol Monsó Purtí**
-Licht- und Tontechnik:	**Lisa Raschhofer**
-Organisation & PR:	**Laura Halb, Ursula Graber**
-Filmaufnahme: **Fabian Czernovsky**
-Filmschnitt & Trailer: **Berta Monsó Purtí**
+Konzept, Performance, Choreografie: 	**Ursula Graber**<br>
+Dramaturgie:	**Hanna Rohn, Bàrbara Raubert**<br>
+Kostüm:	**Ana Vivero**<br>
+3D-Kamera: **Pol Monsó Purtí**<br>
+Licht- und Tontechnik:	**Lisa Raschhofer**<br>
+Organisation & PR:	**Laura Halb, Ursula Graber**<br>
+Filmaufnahme: **Fabian Czernovsky**<br>
+Filmschnitt & Trailer: **Berta Monsó Purtí**<br>
 Graz 2021
 
 <br>

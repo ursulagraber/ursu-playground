@@ -77,16 +77,16 @@ I després va venir el Coronavirus: a casa sola amb ella mateixa i amb un mirall
 
 ## Fitxer
 
-Concepte, performance, coreografia: 	**Ursula Graber**
-Dramatúrgia:	**Koko la Douce (Berlin)**
-Consells artístics:	**Lise Lendais (FR/Wien)**
-Vestuari:	**Ana Vivero (Barcelona)**
-Tècnic d'il·luminació i so:	**Tom Bergner**
-Suport del públic:	**Laura Halb, Eva Ploder, Helgrit Hofmeister**
-Producció i relacions públiques:	**Ursula Graber, Laura Halb**
-Residència:	**raw matters (Wien)**
-Fotos: 	**Edi Haberl, Clemens Nestroy**
-Càmera i Tráiler: **Fabian Czernovsky**
+Concepte, performance, coreografia: 	**Ursula Graber**<br>
+Dramatúrgia:	**Koko la Douce (Berlin)**<br>
+Consells artístics:	**Lise Lendais (FR/Wien)**<br>
+Vestuari:	**Ana Vivero (Barcelona)**<br>
+Tècnic d'il·luminació i so:	**Tom Bergner**<br>
+Suport del públic:	**Laura Halb, Eva Ploder, Helgrit Hofmeister**<br>
+Producció i relacions públiques:	**Ursula Graber, Laura Halb**<br>
+Residència:	**raw matters (Wien)**<br>
+Fotos: 	**Edi Haberl, Clemens Nestroy**<br>
+Càmera i Tráiler: **Fabian Czernovsky**<br>
 
 <br />
 

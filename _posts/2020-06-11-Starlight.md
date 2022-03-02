@@ -77,16 +77,16 @@ Wie kann Starlight „Killjoy“ Coquelicot eine Spaßverderberin sein und gleic
 ## Credits
 
 
-Konzept, Performance, Choreografie: 	**Ursula Graber**
-Dramaturgie:	**Koko la Douce (Berlin)**
-Künstlerische Beratung:	**Lise Lendais (FR/Wien)**
-Kostüm:	**Ana Vivero (Barcelona)**
-Licht- und Tontechnik:	**Tom Bergner**
-Publikumsbetreuung:	**Laura Halb, Eva Ploder, Helgrit Hofmeister**
-Organisation & PR:	**Ursula Graber, Laura Halb**
-Residency:	**raw matters (Wien)**
-Fotos: 	**Edi Haberl, Clemens Nestroy**
-Trailer & Film: **Fabian Czernovsky**
+Konzept, Performance, Choreografie: 	**Ursula Graber**<br>
+Dramaturgie:	**Koko la Douce (Berlin)**<br>
+Künstlerische Beratung:	**Lise Lendais (FR/Wien)**<br>
+Kostüm:	**Ana Vivero (Barcelona)**<br>
+Licht- und Tontechnik:	**Tom Bergner**<br>
+Publikumsbetreuung:	**Laura Halb, Eva Ploder, Helgrit Hofmeister**<br>
+Organisation & PR:	**Ursula Graber, Laura Halb**<br>
+Residency:	**raw matters (Wien)**<br>
+Fotos: 	**Edi Haberl, Clemens Nestroy**<br>
+Trailer & Film: **Fabian Czernovsky**<br>
 
 Graz, 2020
 

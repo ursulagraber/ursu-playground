@@ -8,7 +8,7 @@ categories:
   - Group
   - Performance
 
-lang: ca
+lang: es
 ref: sternschnuppen
 
 featured_image: https://ursulagraber.files.wordpress.com/2020/04/sternschnuppen_clemens_nestroy_42.jpg?w=500&fit=crop
@@ -41,44 +41,47 @@ featured_video:
   url: https://player.vimeo.com/video/512498076
   id: 512498076
 ---
-Una actuació col·lectiva a l'espai públic com a part del festival Spleen*trieb.
+Una actuación colectiva en el espacio público como parte del festival Spleen*trieb.
 
-Amb intèrprets locals i amb moviments individuals i col·lectius. Moviments que són accidentals d'una banda i segueixen unes regles clares de l'altra.
+Con intérpretes locales y con movimientos individuales y colectivos. Movimientos que son accidentales por un lado y siguen unas reglas claras por el otro.
 
-*#dinàmica de grup #puntuació #proximitat #distància #individual #còpia #silenci #música #espai públic #eixam #improvisació #concentració*
+*#dinámica de grupo #puntuación #proximidad #distancia #individual #copia #silencio #música #espacio público #enjambre #improvisación #concentración*
+
 
 <!--plop-->
 
 ## Sobre *Shooting stars and comets*
 
-Quan l’organisme de tots els éssers vius esdevé independent, juganer i valent passa: la màgia s’instal·la, allò inexplicable, allò meravellós i ens sorprèn. Més enllà de qualsevol lògica i, tot i això, seguint un ordre secret. Petites partícules d’un gran xiulet i lliscament, brillants i misterioses, seguint les lleis d’aquest joc i la poderosa massa s’apodera del timó que controla la dinàmica.
+Cuando el organismo de todos los seres vivos se convierte en independiente, juguetón y valiente pasa: la magia se instala, lo inexplicable, lo maravilloso y nos sorprende. Más allá de cualquier lógica y, sin embargo, siguiendo un orden secreto. Pequeñas partículas de un gran silbato y deslizamiento, brillantes y misteriosas, siguiendo las leyes de este juego y la poderosa masa se apodera del timón que controla la dinámica.
+
+En el marco del festival spleen trieb, Graz 2020
 
 
-En el marc del festival spleen * trieb.
 
 <!--plop-->
 
-## Fitxer
+## Ficha artística
 
-Concepte, coreografia, interpretació: Ursula Graber
 
-Interpretació: Alex Binder, Michaela Hofer, Leo Rögner, Eva Scheibelhofer-Schroll, Michael Söllinger, Birgit Stummer, Erni Willrich Ull exterior: Veza Fernández<br>
+Concepto, coreografía: Ursula Graber
+
+Interpretación: Alex Binder, Michaela Hofer, Leo Rögner, Eva Scheibelhofer-Schroll, Michael Söllinger, Birgit Stummer, Erni Willrich Ull exterior: Veza Fernández
 Muntatge del tràiler: Berta Monsó Purtí
 
-Càmera: producció de pel·lícules henx
+Cámara: producció de pel·lícules henx
 
-Gràcies a:<br>
+Gracias a:<br>
 spleen festival Graz, spleen*trieb festival, Shopping Nord Graz, henx film production, das andere Theater, Graz<br>
 
 Graz 2020
 
-## Ressenyes de premsa
+## Reseñas de prensa
 
-## "Una mirada al cel estelat. Per què fem el que fem? Què passa sense motiu, quins processos de la nostra vida segueixen lleis desconegudes? Shooting Stars i cometes desafia com pensem sobre l'atzar i les regles". Valentin Bayer, periodista.
+## "Una mirada al cielo estrellado. ¿Por qué hacemos lo que hacemos? ¿Qué ocurre sin motivo, qué procesos de nuestra vida siguen leyes desconocidas? Shooting Stars y comillas desafía cómo pensamos sobre el azar y las reglas."" Valentin Bayer, periodista.
 
 
 
-## "Observant el moviment sense vernís i sense decorar a l'espai públic és possible entrar en contacte amb un mateix". Mona May, escriptora i directora.
+## "Observando el movimiento sin barniz y sin decorar en el espacio público es posible entrar en contacto con uno mismo". Mona May, escritora y directora.
 
 
 

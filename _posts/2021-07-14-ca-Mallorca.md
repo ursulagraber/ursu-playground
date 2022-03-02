@@ -63,14 +63,15 @@ Cantem a l’amor en tots els idiomes i estimem en totes les llengües, siguin m
 
 Les paraules ens fan pensar. I pensem en paraules, de manera que el llenguatge estructura el nostre pensament i cada idioma deixa una petja als nostres mecanismes de raciocini. Però la realitat que crea el llenguatge es limita al món de la literatura perquè, en el nostre dia a dia, la realitat es mostra tossudament inaprensible. El llenguatge amb prou feines pot ser una ajuda maldestre per intentar explicar el que sentim, quan no ens condueix directament a malentesos i discussions; ni que parléssim tots la mateixa llengua i ens estiméssim incondicionalment, tard o d’hora arribarien dificultats de comunicació. Però que passa, si a més, vivim en cultures bilingües? Com s’estimen les llengües entre elles?
 
-Ursula Graber estima en diverses llengües: la de la dansa contemporània, la del clown, la del burlesque, la del teatre… També en l’estíric que va aprendre a la ciutat de Graz on va néixer, en l’alemany que li parla la seva mare, en el castellà que va conèixer al Perú i en el català del seu país d’adopció. A Catalunya és on va trobar l’Eulàlia, la mestra de català i estudiant d’alemany que també és la seva sogra. La història d’amor que protagonitzen en escena apunta a moltes direccions: a viatges per desfer-se d’una identitat incòmoda, a trajectes recorreguts per conèixer a l’altre i a llocs remots on trobar-se un mateix, on poder-se explicar amb més paraules. Finalment, a Mallorca in Estiria, sjvsgkvkghs, les vocals que hi falten són el recordatori de totes les exclamacions que produeixen aquests viatges i de totes les emocions que mai trobaran la seva paraula.
+Ursula Graber estima en diverses llengües: la de la dansa contemporània, la del clown, la del burlesque, la del teatre… També en l’estíric que va aprendre a la ciutat de Graz on va néixer, en l’alemany que li parla la seva mare, en el castellà que va conèixer al Perú i en el català del seu país d’adopció. A Catalunya és on va trobar l’Eulàlia, la mestra de català i estudiant d’alemany que també és la seva sogra. La història d’amor que protagonitzen en escena apunta a moltes direccions: a viatges per desfer-se d’una identitat incòmoda, a trajectes recorreguts per conèixer a l’altre i a llocs remots on trobar-se un mateix, on poder-se explicar amb més paraules. Finalment, a Mallorca in Estiria, SCHWGRMTTRTCHTRSRPCHN, les vocals que hi falten són el recordatori de totes les exclamacions que produeixen aquests viatges i de totes les emocions que mai trobaran la seva paraula.
 
 
 
 <!--plop-->
 
 
-**Fitxer**
+## Fitxer
+
 Concepte, coreografia: 	**Ursula Graber** <br>
 Intèrprets:   **Ursula Graber i Eulàlia Purtí (Nats teatre)** <br>
 Dramatúrgia:	**Bàrbara Raubert** <br>
@@ -78,7 +79,7 @@ Vestuari:	**Ana Vivero** <br>
 Consells sociològics:   **Karin Scaria-Braunstein** <br>
 Consells de direcció teatral: **Joan Monells** <br>
 Producció:   **Andreas Krampl** <br>
-Organització i relacions públiques:  **Mirella Bärnthaler** <br>
+Organització i relacions públiques:  **Ursula Graber, Mirella Bärnthaler** <br>
 Tecnologia de la llum i el so:	**Peter Spall** <br>
 Fotos:   **Edi Haberl**<br>
 
@@ -130,7 +131,9 @@ Amb el suport de:
 </div>
 
 <br>
-## Ressenya completa d'Eveline Koberg (crítica de dansa) a tanz.at: [feu clic AQUÍ](https://www.tanz.at/index.php/kritiken/kritiken-2021/2515-newsoffstyria-2021). A continuació es mostra un fragment sobre “Mallorca a Estíria”:
+## Ressenya completa d'Eveline Koberg (crítica de dansa) a tanz.at: [feu clic AQUÍ](https://www.tanz.at/index.php/kritiken/kritiken-2021/2515-newsoffstyria-2021).
+
+## A continuació es mostra un fragment sobre “Mallorca a Estíria”:
 
 
 <div class="long-center-image">
