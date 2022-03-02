@@ -75,7 +75,7 @@ Ursula Graber ama en varias lenguas: la de la danza contemporánea, la del clown
 ## Ficha artística
 
 Concepto, coreografía: 	**Ursula Graber** <br>
-Intérpretes:   **Ursula Graber i Eulàlia Purtí (Nats teatre)** <br>
+Intérpretes:   **Ursula Graber y Eulàlia Purtí (Nats teatro)** <br>
 Dramaturgia:	**Bàrbara Raubert** <br>
 Vestuario:	**Ana Vivero** <br>
 Asesoramiento sociológico:   **Karin Scaria-Braunstein** <br>
