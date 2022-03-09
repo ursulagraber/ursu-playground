@@ -46,7 +46,7 @@ featured_video:
 Una conferencia escenificada con Ursula Graber y su suegra catalana Eulàlia Purtí sobre lenguas y dialectos, identidad y relaciones familiares.
 
 
- Utilizan los dialectos de Estiria y Mallorca (y llevan Mallorca a Estiria, por así decirlo), además de las variantes estándar alemán, catalán y castellano.
+ Utilizan los dialectos de Estiria y Mallorca (y llevan Mallorca a Estiria, por así decirlo), además de las variantes estándar del alemán, del catalán y del castellano.
 
 
 
@@ -62,9 +62,9 @@ Una conferencia escenificada con Ursula Graber y su suegra catalana Eulàlia Pur
 
 Cantamos al amor en todos los idiomas y amamos en todas las lenguas, sean más melodiosas o ásperas, más o menos vocálicas, habladas por muchos o por pocos. Liebe, amor, amour, love… ¿Las palabras nos enamoran?
 
-Las palabras nos hacen pensar. Y pensamos en palabras, de modo que el lenguaje estructura nuestro pensamiento y cada idioma deja una huella en nuestros mecanismos de raciocinio. Pero la realidad que crea el lenguaje se limita al mundo de la literatura porque, en nuestro día a día, la realidad se muestra tercamente inaprensible. El lenguaje apenas puede ser una ayuda torpe para intentar explicar lo que sentimos, cuando no nos conduce directamente a malentendidos y discusiones; ni que habláramos todos la misma lengua y nos quisiéramos incondicionalmente, tarde o temprano llegarían dificultades de comunicación. ¿Pero qué ocurre, si además, vivimos en culturas bilingües? ¿Cómo se quieren las lenguas entre sí?
+Las palabras nos hacen pensar. Y pensamos en palabras, de modo que el lenguaje estructura nuestro pensamiento y cada idioma deja una huella en nuestros mecanismos de raciocinio. Pero la realidad que crea el lenguaje se limita al mundo de la literatura porque, en nuestro día a día, la realidad se muestra tercamente inaprensible. El lenguaje apenas puede ser una ayuda torpe para intentar explicar lo que sentimos, cuando no nos conduce directamente a malentendidos y discusiones; aunque habláramos todos la misma lengua y nos quisiéramos incondicionalmente, tarde o temprano llegarían dificultades de comunicación. ¿Pero qué ocurre, si además, vivimos en culturas bilingües? ¿Cómo se quieren las lenguas entre sí?
 
-Ursula Graber ama en varias lenguas: la de la danza contemporánea, la del clown, la del burlesque, la del teatro… También en el estírico que aprendió en la ciudad de Graz donde nació, en el alemán que le habla la su madre, en el castellano que conoció en Perú y en el catalán de su país de adopción. En Cataluña es donde encontró a Eulalia, la maestra de catalán y estudiante de alemán que también es su suegra. La historia de amor que protagonizan en escena apunta a muchas direcciones: a viajes para deshacerse de una identidad incómoda, a trayectos recorridos para conocer al otro ya lugares remotos donde encontrarse a uno mismo, donde poder explicarse con más palabras. Por último, en Mallorca in Estiria, SCHWGRMTTRTCHTRSPRCHN, las vocales que faltan son el recordatorio de todas las exclamaciones que producen estos viajes y de todas las emociones que nunca encontrarán su palabra.
+Ursula Graber ama en varias lenguas: la de la danza contemporánea, la del clown, la del burlesque, la del teatro… También en el estírico que aprendió en la ciudad de Graz donde nació, en el alemán que le habla su madre, en el castellano que conoció en Perú y en el catalán de su país de adopción. En Cataluña es donde encontró a Eulalia, la maestra de catalán y estudiante de alemán que también es su suegra. La historia de amor que protagonizan en escena apunta a muchas direcciones: a viajes para deshacerse de una identidad incómoda, a trayectos recorridos para conocer al otro y a lugares remotos donde encontrarse a uno mismo, donde poder explicarse con más palabras. Por último, en Mallorca in Estiria, SCHWGRMTTRTCHTRSPRCHN, las vocales que faltan son el recordatorio de todas las exclamaciones que producen estos viajes y de todas las emociones que nunca encontrarán su palabra.
 
 
 

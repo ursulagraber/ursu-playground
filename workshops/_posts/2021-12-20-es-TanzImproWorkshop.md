@@ -40,7 +40,7 @@ En el nivel 1 aprendemos los básicos del movimiento, la gravedad y la respiraci
 
 
 ## Etapa 2: Explorar movimientos de danza
-A través de las cadenas de movimiento exploramos movimientos de danza específicos y sus parámetros en el nivel 2. **Lema: EL PLACER DE MOVERSE**
+En el nivel 2 exploramos movimientos de danza específicos y sus parámetros, a través de las cadenas de movimiento. **Lema: EL PLACER DE MOVERSE**
 
 
 ## Etapa 3: Crear movimientos de improvisación
@@ -82,7 +82,7 @@ Bailarines, deportistas y personas a las que les gusta jugar con el sistema mús
 • Entiendes mucho mejor cómo moverte.<br>
 • Estás más en forma.<br>
 • Aprendes mucho: te desarrollas, te conoces mejor y exploras técnicas de danza y de improvisación.<br>
-• Vives una experiencia especial, en el mejor de los casos, con momentos llenos de magia y flujo.<br>
+• Vives una experiencia especial, con momentos llenos de magia y flujo.<br>
 • Conoces casi siempre a gente agradable. <br>
 • Te tomas tiempo y te aclaras la cabeza.<br>
 

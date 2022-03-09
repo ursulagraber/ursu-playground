@@ -41,9 +41,7 @@ featured_video:
   url: https://player.vimeo.com/video/512498076
   id: 512498076
 ---
-Una actuación colectiva en el espacio público como parte del festival Spleen*trieb.
-
-Con intérpretes locales y con movimientos individuales y colectivos. Movimientos que son accidentales por un lado y siguen unas reglas claras por el otro.
+Una actuación colectiva en el espacio público como parte del festival Spleen*trieb, con intérpretes locales y con movimientos individuales y colectivos. Movimientos que son accidentales por un lado y siguen unas reglas claras por el otro.
 
 *#dinámica de grupo #puntuación #proximidad #distancia #individual #copia #silencio #música #espacio público #enjambre #improvisación #concentración*
 
@@ -51,8 +49,7 @@ Con intérpretes locales y con movimientos individuales y colectivos. Movimiento
 <!--plop-->
 
 ## Sobre *Shooting stars and comets*
-
-Cuando el organismo de todos los seres vivos se convierte en independiente, juguetón y valiente pasa: la magia se instala, lo inexplicable, lo maravilloso y nos sorprende. Más allá de cualquier lógica y, sin embargo, siguiendo un orden secreto. Pequeñas partículas de un gran silbato y deslizamiento, brillantes y misteriosas, siguiendo las leyes de este juego y la poderosa masa se apodera del timón que controla la dinámica.
+Pasa cuando el organismo de todos los seres vivos se convierte en independiente, juguetón y valiente: la magia se instala y lo inexplicable, lo maravilloso nos sorprende. Más allá de cualquier lógica y, sin embargo, siguiendo un orden secreto. Pequeñas partículas de un gran silbato y deslizamiento, brillantes y misteriosas, siguiendo las leyes de este juego hacen que la gran masa se apodere del timón que controla la dinámica.
 
 En el marco del festival spleen trieb, Graz 2020
 
@@ -77,7 +74,7 @@ Graz 2020
 
 ## Reseñas de prensa
 
-## "Una mirada al cielo estrellado. ¿Por qué hacemos lo que hacemos? ¿Qué ocurre sin motivo, qué procesos de nuestra vida siguen leyes desconocidas? Shooting Stars y comillas desafía cómo pensamos sobre el azar y las reglas."" Valentin Bayer, periodista.
+## "Una mirada al cielo estrellado. ¿Por qué hacemos lo que hacemos? ¿Qué ocurre sin motivo, qué procesos de nuestra vida siguen leyes desconocidas? Shooting Stars desafía nuestra idea del azar y sus reglas." Valentin Bayer, periodista.
 
 
 

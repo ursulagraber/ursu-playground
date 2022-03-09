@@ -48,7 +48,7 @@ featured_video:
 
 *Entre deseo y frustración*
 
-Ursula Graber se hace preguntas sobre el feminismo, la emancipación del placer y los roles de género. Inspirada en teorías feministas críticas y danza burlesca, crea un espectáculo divertido y personal que invita a maravillarse y reflexionar sobre ellos.
+Ursula Graber se hace preguntas sobre el feminismo, la emancipación del placer y los roles de género. Inspirada en teorías feministas críticas y danza burlesca, crea un espectáculo divertido y personal que invita a maravillarse y reflexionar.
 <br />
 
 *"¿Todas las feministas son Killjoys?"*<br />
@@ -64,11 +64,11 @@ Ursula Graber se hace preguntas sobre el feminismo, la emancipación del placer 
 ## Sobre *Starlight ‚Killjoy‘ Coquelicot*
 
 
-El personaje KILLJOY es una invención de la teórica feminista Sara Ahmed y aborda abiertamente la desigualdad en situaciones machistas y racistas. Starlight Coquelicot es una bailarina burlesca que celebra su cuerpo femenino, la sensualidad, el deseo y la belleza. Starlight "Killjoy" Coquelicot, el alter ego de Ursula Graber en el escenario, tiene ambos disparos. Une el feminismo intelectual con la celebración de la sensualidad y la corporeidad.
+El personaje KILLJOY es una invención de la teórica feminista Sara Ahmed y aborda abiertamente la desigualdad en situaciones machistas y racistas. Starlight Coquelicot es una bailarina burlesca que celebra su cuerpo femenino, la sensualidad, el deseo y la belleza. Starlight "Killjoy" Coquelicot, el alter ego de Ursula Graber en el escenario, tiene ambos disparos, uniendo feminismo intelectual y celebración de la sensualidad y de la corporeidad.
 
-¿Cómo puede Starlight "Killjoy" Coquelicot destrozar la diversión y, a la vez, divertirse por medio del burlesco? Esta área de tensión es el centro del proyecto y permite al artista explorar nuevas posibilidades de ser mujer y experimentar otras técnicas coreográficas que normalmente no forman parte de la danza coontemporánea.
+¿Cómo puede Starlight "Killjoy" Coquelicot destrozar la diversión y, a la vez, divertirse por medio del burlesco? Esta área de tensión es el centro del proyecto y permite al artista explorar nuevas posibilidades de ser mujer y experimentar otras técnicas coreográficas que normalmente no forman parte de la danza contemporánea.
 
-Y después vino el Coronavirus: en casa sola consigo misma y con un espejo, la casa privada de Ursula se convirtió en un laboratorio y un parque infantil, que ahora se traslada al escenario. El escenario como "mesa de maquillaje", donde, inspirados en el feminismo y la danza burlesca, se llevan a cabo experimentos con cambios externos y jugando con rasgos de carácter y el público como sustituto del espejo. Al mismo tiempo, el artista también hace de espejo para los espectadores: todo el mundo es invitado a reconocerse en ella.
+Y después vino el Coronavirus: en casa sola consigo misma y con un espejo, la casa privada de Ursula se convirtió en un laboratorio y un parque infantil, que ahora se traslada al escenario. El escenario como "mesa de maquillaje", donde, inspirados en el feminismo y la danza burlesca, se llevan a cabo experimentos con cambios externos jugando con rasgos de carácter y el público como sustituto del espejo. Al mismo tiempo, el artista también hace de espejo para los espectadores: todo el mundo es invitado a reconocerse en ella.
 
 
 <!--plop-->
@@ -97,7 +97,7 @@ Cámara i Trailer: **Fabian Czernovsky**<br>
 
 ## Reseña de prensa
 
-## "Es impresionante lo que Graber evoca y/o hace estallar en el escenario con una feminidad sensual ga la mayoría del tiempo encubierta, sensible, emocional, potente, segura de sí misma. Es divertido, se pone bajo la piel y también duele. En cualquier caso, tiene algún efecto su acción "evidente" y, por tanto, creíble.”
+## "Es impresionante lo que Graber evoca y/o hace estallar en el escenario con una feminidad sensual, por la mayoría del tiempo encubierta, sensible, emocional, potente, segura de sí misma. Es divertido, se pone bajo la piel y también duele. En cualquier caso, tiene algún efecto su acción "evidente" y, por tanto, creíble.”
 
 ## “La diversidad que se trata o incluso se asocia es un notable éxito a la hora de reducir los recursos utilizados; convincente en la sencillez, que se basa en la capacidad artística creativa.”
 <p>
