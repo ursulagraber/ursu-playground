@@ -43,7 +43,7 @@ featured_video:
 ---
 Una actuación colectiva en el espacio público como parte del festival Spleen*trieb, con intérpretes locales y con movimientos individuales y colectivos. Movimientos que son accidentales por un lado y siguen unas reglas claras por el otro.
 
-*#dinámica de grupo #puntuación #proximidad #distancia #individual #copia #silencio #música #espacio público #enjambre #improvisación #concentración*
+*#dinámica de grupo #pauta #proximidad #distancia #individual #copiar #silencio #música #espacio público #enjambre #improvisación #concentración*
 
 
 <!--plop-->
@@ -60,11 +60,10 @@ En el marco del festival spleen trieb, Graz 2020
 ## Ficha artística
 
 
-Concepto, coreografía: Ursula Graber
-
-Interpretación: Alex Binder, Michaela Hofer, Leo Rögner, Eva Scheibelhofer-Schroll, Michael Söllinger, Birgit Stummer, Erni Willrich Ull exterior: Veza Fernández
-Muntatge del tràiler: Berta Monsó Purtí
-
+Concepto, coreografía: Ursula Graber<br>
+Interpretación: Alex Binder, Michaela Hofer, Leo Rögner, Eva Scheibelhofer-Schroll, Michael Söllinger, Birgit Stummer, Erni Willrich <br>
+Ull exterior: Veza Fernández<br>
+Muntatge del tràiler: Berta Monsó Purtí<br>
 Cámara: producció de pel·lícules henx
 
 Gracias a:<br>

@@ -45,7 +45,7 @@ Una actuació col·lectiva a l'espai públic com a part del festival Spleen*trie
 
 Amb intèrprets locals i amb moviments individuals i col·lectius. Moviments que són accidentals d'una banda i segueixen unes regles clares de l'altra.
 
-*#dinàmica de grup #puntuació #proximitat #distància #individual #còpia #silenci #música #espai públic #eixam #improvisació #concentració*
+*#dinàmica de grup #pauta #proximitat #distància #individual #copiar #silenci #música #espai públic #eixam #improvisació #concentració*
 
 <!--plop-->
 
@@ -60,11 +60,10 @@ En el marc del festival spleen * trieb.
 
 ## Fitxer
 
-Concepte, coreografia, interpretació: Ursula Graber
-
-Interpretació: Alex Binder, Michaela Hofer, Leo Rögner, Eva Scheibelhofer-Schroll, Michael Söllinger, Birgit Stummer, Erni Willrich Ull exterior: Veza Fernández<br>
-Muntatge del tràiler: Berta Monsó Purtí
-
+Concepte, coreografia, interpretació: Ursula Graber<br>
+Interpretació: Alex Binder, Michaela Hofer, Leo Rögner, Eva Scheibelhofer-Schroll, Michael Söllinger, Birgit Stummer, Erni Willrich <br>
+Ull exterior: Veza Fernández<br>
+Muntatge del tràiler: Berta Monsó Purtí<br>
 Càmera: producció de pel·lícules henx
 
 Gràcies a:<br>

@@ -53,7 +53,7 @@ Ursula Graber se hace preguntas sobre el feminismo, la emancipación del placer 
 
 *"¿Todas las feministas son Killjoys?"*<br />
 
-*#Burlesque #performance #ritmo #intens #sensualidad #spoilsport #feminismo #ama de casa reina #dizzy #dizzy #polaridades #gaure #Sara Ahmed #vivir feminista!*
+*#Burlesque #performance #ritmo #intenso #sensualidad #killjoy #feminismo #reina de las amas de casa #marearse #trapacear #polaridades #placer #Sara Ahmed #vida feminista!*
 
 
 

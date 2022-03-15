@@ -56,7 +56,7 @@ Ursula Graber asks questions about feminism, emancipation of pleasure and role m
 
 
 
-*#Burlesque dance #performance #rhythm #intense #sensuality #spoilsport #feminism #housewife queen #dizzy #dizzy #polarities #enjoyment #Sara Ahmed #feminist living!*
+*#Burlesque dance #performance #rhythm #intense #sensuality #killjoy #feminism #housewife queen #dizzy #pretending #polarities #pleasure #Sara Ahmed #living a feminist life!*
 
 
 
