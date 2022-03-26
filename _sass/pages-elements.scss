@@ -83,6 +83,21 @@
   background-color: $theme-light-color;
 }
 
+.body-social-icons {
+
+  a {
+    &:hover svg {
+      fill: #fff;
+    }
+  }
+
+  svg {
+    width: 25px;
+    height: 25px;
+    fill: #000;
+  }
+}
+
 .ontop-text {
   z-index: 100;
   padding: 30px;
