@@ -1,35 +1,41 @@
 <footer class="footermenu">
-<div class="logo-bottom">
-    <a href="{{ site.baseurl }}/">
-        <img src="{{ site.baseurl }}/images/logo_bottom.svg" width="220px" alt="logo">
-    </a>
-</div>
-<div class="container">
-    &copy; {{ site.title }} {{ site.time | date: "%Y" }}. {{ site.data.dictionary[page.lang].rights }}.
-    <br><a href="{{ site.baseurl }}/{{ site.data.dictionary[page.lang].impressumurl }}">{{
-        site.data.dictionary[page.lang].impressum }}</a> | <a
-        href="{{ site.baseurl }}/{{ site.data.dictionary[page.lang].datenschutzurl }}">{{
-        site.data.dictionary[page.lang].datenschutz }}</a>
-</div>
-<div class="social-icons">
-    {% if site.data.sidebar.facebook and site.data.sidebar.facebook != "" %}<a target="_blank"
-        href="https://facebook.com/{{ site.data.sidebar.facebook }}">{% include social-icon.html icon="Facebook"
-        %}</a>{% endif %}
-    {% if site.data.sidebar.twitter and site.data.sidebar.twitter != "" %}<a target="_blank"
-        href="https://twitter.com/{{ site.data.sidebar.twitter }}">{% include social-icon.html icon="Twitter" %}</a>{%
-    endif %}
-    {% if site.data.sidebar.youtube and site.data.sidebar.youtube != "" %}<a target="_blank"
-        href="https://youtube.com/channel/{{ site.data.sidebar.youtube }}">{% include social-icon.html icon="YouTube"
-        %}</a>{% endif %}
-    {% if site.data.sidebar.vimeo and site.data.sidebar.vimeo != "" %}<a target="_blank"
-        href="https://vimeo.com/{{ site.data.sidebar.vimeo }}">{% include social-icon.html icon="Vimeo" %}</a>{% endif
-    %}
-    {% if site.data.sidebar.pinterest and site.data.sidebar.pinterest != "" %}<a target="_blank"
-        href="https://pinterest.com/{{ site.data.sidebar.pinterest }}">{% include social-icon.html icon="Pinterest"
-        %}</a>{% endif %}
-    {% if site.data.sidebar.instagram and site.data.sidebar.instagram != "" %}<a target="_blank"
-        href="https://www.instagram.com/{{ site.data.sidebar.instagram }}">{% include social-icon.html icon="Instagram"
-        %}</a>{% endif %}
-    <a target="_blank" href="{{ site.baseurl }}/feed.xml">{% include social-icon.html icon="RSS" %}</a>
-</div>
+    <div class="logo-bottom">
+        <a href="{{ site.baseurl }}/">
+            <img src="{{ site.baseurl }}/images/logo_bottom.svg" width="220px" alt="logo">
+        </a>
+    </div>
+    <div class="container">
+        &copy; {{ site.title }} {{ site.time | date: "%Y" }}. {{ site.data.dictionary[page.lang].rights }}.
+        <br><a href="{{ site.baseurl }}/{{ site.data.dictionary[page.lang].impressumurl }}">{{
+            site.data.dictionary[page.lang].impressum }}</a> | <a
+            href="{{ site.baseurl }}/{{ site.data.dictionary[page.lang].datenschutzurl }}">{{
+            site.data.dictionary[page.lang].datenschutz }}</a>
+    </div>
+    <div class="social-icons">
+        {% if site.data.sidebar.facebook and site.data.sidebar.facebook != "" %}
+            <a target="_blank"
+            href="https://facebook.com/{{ site.data.sidebar.facebook }}">{% include social-icon.html icon="Facebook" %}</a>
+        {% endif %}
+        {% if site.data.sidebar.twitter and site.data.sidebar.twitter != "" %}
+            <a target="_blank"
+            href="https://twitter.com/{{ site.data.sidebar.twitter }}">{% include social-icon.html icon="Twitter" %}</a>
+        {% endif %}
+        {% if site.data.sidebar.youtube and site.data.sidebar.youtube != "" %}
+            <a target="_blank"
+            href="https://youtube.com/channel/{{ site.data.sidebar.youtube }}">{% include social-icon.html icon="YouTube" %}</a>
+        {% endif %}
+        {% if site.data.sidebar.vimeo and site.data.sidebar.vimeo != "" %}
+            <a target="_blank"
+            href="https://vimeo.com/{{ site.data.sidebar.vimeo }}">{% include social-icon.html icon="Vimeo" %}</a>
+        {% endif %}
+        {% if site.data.sidebar.pinterest and site.data.sidebar.pinterest != "" %}
+            <a target="_blank"
+            href="https://pinterest.com/{{ site.data.sidebar.pinterest }}">{% include social-icon.html icon="Pinterest" %}</a>
+        {% endif %}
+        {% if site.data.sidebar.instagram and site.data.sidebar.instagram != "" %}
+            <a target="_blank"
+            href="https://www.instagram.com/{{ site.data.sidebar.instagram }}">{% include social-icon.html icon="Instagram" %}</a>
+        {% endif %}
+        <a target="_blank" href="{{ site.baseurl }}/feed.xml">{% include social-icon.html icon="RSS" %}</a>
+    </div>
 </footer>
