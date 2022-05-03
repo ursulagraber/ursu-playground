@@ -1,5 +1,5 @@
 de:
--  name: Home
+-  name: Home/Kalender
    link: /
 -  name: Über mich
    link: /about/
@@ -10,7 +10,7 @@ de:
 -  name: Kontakt/Presse
    link: /contact/
 ca:
--  name: Home
+-  name: Home/Agenda
    link: /index-ca/
 -  name: Sobre mi
    link: /about-ca/
@@ -21,7 +21,7 @@ ca:
 -  name: Contacte/Premsa
    link: /contact-ca/
 en:
--  name: Home
+-  name: Home/Agenda
    link: /index-en/
 -  name: About me
    link: /about-en/
@@ -32,7 +32,7 @@ en:
 -  name: Contact/Press
    link: /contact-en/
 es:
--  name: Inicio
+-  name: Inicio/Agenda
    link: /index-es/
 -  name: Sobre mí
    link: /about-es/
