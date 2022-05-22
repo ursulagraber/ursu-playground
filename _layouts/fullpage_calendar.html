@@ -1,0 +1,53 @@
+<!doctype html>
+
+<html lang="{{ page.lang }}">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+{% seo %}
+{% feed_meta %}
+
+<link rel="stylesheet" media="screen" href="{{ site.baseurl }}/css/screen.css">
+{% if page.print_stylesheet %}
+<link rel="stylesheet" media="print" href="{{ site.baseurl }}/css/print.css">
+{% endif %}
+<link rel="icon" type="image/x-icon" href="{{ site.baseurl }}/images/favicon.ico">
+
+{% if jekyll.environment == 'production' and site.google_analytics_key != '' %}
+<script>
+	window.ga = window.ga || function () { (ga.q = ga.q || []).push(arguments) }; ga.l = +new Date;
+	ga('create', '{{ site.google_analytics_key }}', 'auto');
+	ga('send', 'pageview');
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+{% endif %}
+</head>
+
+<body>
+	{% include navigation.html %}
+
+{{ content }}
+
+{% include footer.html %}
+    {% comment %} {% include cookie-consent.html %} {% endcomment %}
+</body>
+</html>
+
+<script src="http://code.jquery.com/jquery-2.2.4.min.js"></script>
+
+<script>
+	$('li[date]').each(function(){
+  // create a postDate in a date object
+  var postDate = new Date($(this).attr('date'));
+  // create an object with the date of one week ago
+  var today = new Date();
+	var isPast = $(this).attr('past')
+  // compare dates and hide old posts
+  if(postDate>=today && isPast){
+		$(this).hide();
+	} else if(postDate<today && !isPast){
+		$(this).hide();
+	}
+});
+</script>
