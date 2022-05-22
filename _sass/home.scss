@@ -28,6 +28,7 @@
   flex-basis: 30%;
   margin: 0;
   margin-left: 12%;
+  margin-top: -5em;
   @media screen and #{$half-screen}
   {
     width: 80%;
@@ -40,13 +41,13 @@
 
 .greenblock-left
 {
-  margin-top: 1em;
+  margin-top: 5em;
   margin-left: 0;
   padding: 0;
 
   background: $theme-dark-color-pixel;
   background-repeat: no-repeat;
-  background-size: 94% 80%;
+  background-size: 94% 100%;
   background-position: center right;
 
   @media screen and #{$half-screen}
@@ -60,7 +61,7 @@
   display: block;
   width: 65%;
   margin: auto;
-  padding: 1em;
+  padding: 0em;
 }
 
 #present-text
