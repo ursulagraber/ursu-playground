@@ -25,18 +25,42 @@ ref: index
 
           <h2> KALENDER:</h2>
 
-          {% for event in site.data.events %}
+          {% assign events = site.data.events | sort: "date" %}
+          {% for event in events %}
 
-          <li date="{{ event.date }}">{{event.date | date: "%-d.%-m.%y" }} - {{event.title}}, {{event.location}}
+          <li class="event" date="{{ event.date }}">
+            <p>
+              {% if event.end-date %}
+                {{event.date | date: "%-d.%-m" }} - {{event.end-date | date: "%-d.%-m.%y" }}
+              {% else %}
+                {{event.date | date: "%-d.%-m.%y" }}
+              {% endif %} - {{event.title}}
+              <br>
+              <span>
+                <a href={{event.location-link}}>{{event.location}}</a>, {{event.country}}
+              </span>
+            </p>
+
           </li>
 
           {% endfor %}
 
           <h2> VERGANGENE EVENTS:</h2>
 
-          {% for event in site.data.events %}
+          {% for event in events reversed %}
 
-          <li date="{{ event.date }}" past="true">{{event.date | date: "%-d.%-m.%y" }} - {{event.title}}, {{event.location}}
+          <li class="event" date="{{ event.date }}" past="true">
+            <p>
+              {% if event.end-date %}
+                {{event.date | date: "%-d.%-m" }} - {{event.end-date | date: "%-d.%-m.%y" }}
+              {% else %}
+                {{event.date | date: "%-d.%-m.%y" }}
+              {% endif %} - {{event.title}}
+              <br>
+              <span>
+                <a href={{event.location-link}}>{{event.location}}</a>, {{event.country}}
+              </span>
+            </p>
           </li>
 
           {% endfor %}
