@@ -7,7 +7,7 @@
   @media screen and #{$half-screen}
   {
     flex-direction: column;
-    flex-wrap: nowrap;
+    flex-wrap: wrap;
   }
 }
 
@@ -33,9 +33,9 @@
   {
     width: 80%;
     margin: auto;
+    padding-top: 2em;
     padding-bottom: 2em;
     flex-basis: auto;
-    order: 2;
   }
 }
 
