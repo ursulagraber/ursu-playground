@@ -376,13 +376,6 @@
   }
 }
 
-.center-image
-{
-    margin: 0 auto;
-    display: block;
-    text-align: center;
-}
-
 figure#left {
     padding: 5px;
     width: 50%;
@@ -665,6 +658,7 @@ figure#right {
 }
 
 .center-image {
+  margin: 0 auto;
   padding: 0;
   width: 60%;
   min-width: 200px;
@@ -674,13 +668,6 @@ figure#right {
   margin-right: auto;
   max-height: 700px;
   overflow: hidden;
-  min-height: 12em;
-
-  // img
-  // {
-  //   object-fit: cover;
-  //   min-height: 12em;
-  // }
 
   @media screen and #{$half-screen}
   {

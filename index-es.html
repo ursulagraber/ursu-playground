@@ -26,64 +26,45 @@ ref: index
 
           <h2> AGENDA:</h2>
 
+          {% assign events = site.data.events | sort: "date" %}
+          {% for event in events %}
+
+          <li class="event" date="{{ event.date }}">
+            <p>
+              {% if event.end-date %}
+                {{event.date | date: "%-d.%-m" }} - {{event.end-date | date: "%-d.%-m.%y" }}
+              {% else %}
+                {{event.date | date: "%-d.%-m.%y" }}
+              {% endif %} - {{event.title}}
+              <br>
+              <span>
+                <a href={{event.location-link}}>{{event.location}}</a>, {{event.country}}
+              </span>
+            </p>
+
+          </li>
+
+          {% endfor %}
+
+        <h2>EVENTOS PASADOS:</h2>
+
+        {% for event in events reversed %}
+
+        <li class="event" date="{{ event.date }}" past="true">
           <p>
-          13.5.22 - Class: dance improv (18-20h) -  <a href="https://www.tudanzas.com">C.C.CONVENT SANT AGUSTÍ</a>, Festival tudanzas, Barcelona
+            {% if event.end-date %}
+              {{event.date | date: "%-d.%-m" }} - {{event.end-date | date: "%-d.%-m.%y" }}
+            {% else %}
+              {{event.date | date: "%-d.%-m.%y" }}
+            {% endif %} - {{event.title}}
+            <br>
+            <span>
+              <a href={{event.location-link}}>{{event.location}}</a>, {{event.country}}
+            </span>
           </p>
+        </li>
 
-          <p>
-          14.5.22 - En Nom de Bach (Magdalena Garzón) 20-24h -  <a href="https://www.institutdelteatre.cat/">Institut del Teatre</a>, P4S5, Barcelona
-          </p>
-
-          <p>
-          10.6.22 - <a href="http://www.ursulagraber.com/news/performance/2021/03/12/es-Woman_Hood/">WOMAN HOOD</a>: Work in Progress Showing & Talk, 19h -  Wolkersdorf, <a href="http://www.vfnoe.at/va/woman-hood">Viertelfestival NÖ</a>, AT
-          </p>
-
-          <p>
-          11.6.22 - <a href="http://www.ursulagraber.com/news/performance/2021/03/12/es-Woman_Hood/">WOMAN HOOD</a> (Premiere) 19h -  Wolkersdorf, <a href="http://www.vfnoe.at/va/woman-hood">Viertelfestival NÖ</a>, AT
-          </p>
-
-          <p>
-          17.6.22 - Valerie und die Gutenachtschaukel (10h & 16h) - <a href="https://www.hoftheaterhoef.at/programm">Hoftheater Höf/Präbach</a>, AT
-          </p>
-
-          <p>
-          18.6.22 - Valerie und die Gutenachtschaukel (10h & 16h) - <a href="https://www.hoftheaterhoef.at/programm">Hoftheater Höf/Präbach</a>, AT
-          </p>
-
-          <p>
-          19.6.22 - Valerie und die Gutenachtschaukel (10h & 16h) - <a href="https://www.hoftheaterhoef.at/programm">Hoftheater Höf/Präbach</a>, AT
-          </p>
-
-          <p>
-          1.7.22 - Valerie und die Gutenachtschaukel (10h & 16h) - <a href="https://www.hoftheaterhoef.at/programm">Hoftheater Höf/Präbach</a>, AT
-          </p>
-
-          <p>
-          2.7.22 - Valerie und die Gutenachtschaukel (10h & 16h) - <a href="https://www.hoftheaterhoef.at/programm">Hoftheater Höf/Präbach</a>, AT
-          </p>
-
-          <p>
-          3.7.22 - Valerie und die Gutenachtschaukel (10h & 16h) - <a href="https://www.hoftheaterhoef.at/programm">Hoftheater Höf/Präbach</a>, AT
-          </p>
-
-          <p>
-          8. - 10.7.22 - Workshop TanzImpro - <a href="http://www.styriansummerart.at/kurse/tanzimpro-workshop-basics-magie-flow-mit-ursula-graber/">Styrian Summer Art Festival</a>, AT
-          </p>
-
-          <p>
-          11. - 15.7.22 - Workshop for Teenagers - <a href="https://www.kinderkunsthochschulesteiermark.at/">KinderKunstHochschule Steiermark</a>, AT
-          </p>
-
-          <p>
-          8.11.22 - <a href="http://www.ursulagraber.com/news/performance/2021/03/12/es-Woman_Hood/">WOMAN HOOD</a> - <a href="https://www.homotopia.net/festival/">Homotopia Festival</a>, Liverpool
-          </p>
-
-        <h2> EVENTOS PASADOS:</h2>
-
-        <p>
-        7.5.22 - En Nom de Bach (Magdalena Garzón) 18-20h -  <a href="https://ajuntament.barcelona.cat/ccivics/elsortidor">Centre cívic El Sortidor</a>, Barcelona
-        </p>
-
+        {% endfor %}
 
       </div>
       <div class="right-column">
