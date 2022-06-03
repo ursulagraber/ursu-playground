@@ -1,21 +1,21 @@
 - date: 2022-05-07
-  title: "En Nom de Bach (Magdalena Garzón) (20-24h)"
-  location: Institut del Teatre, P4S5
+  title: "En Nom de Bach (Magdalena Garzón)"
+  location: Institut del Teatre
   location-link: https://www.institutdelteatre.cat/
   country: Barcelona
 - date: 2022-05-13
-  title: "Class: dance improv (18-20h)"
+  title: "Class: dance improv"
   location: C.C.CONVENT SANT AGUSTÍ, Festival tudanzas
   location-link: https://www.tudanzas.com
   country: Barcelona
 - date: 2022-05-14
-  title: "En Nom de Bach (Magdalena Garzón) (20-24h)"
-  location: Institut del Teatre, P4S5
+  title: "En Nom de Bach (Magdalena Garzón)"
+  location: Institut del Teatre
   location-link: https://www.institutdelteatre.cat/
   country: Barcelona
 - date: 2022-06-10
-  title: "WOMAN HOOD: Work in Progress Showing & Talk, 19h"
-  location: Viertelfestival NÖ
+  title: "WOMAN HOOD: Work in Progress Showing & Talk (19h)"
+  location: Wolkersdorf, Viertelfestival NÖ
   location-link: http://www.vfnoe.at/va/woman-hood
   country: AT
 - date: 2022-06-11
@@ -38,6 +38,11 @@
   location: Hoftheater Höf/Präbach
   location-link: https://www.hoftheaterhoef.at/programm
   country: AT
+- date: 2022-06-23
+  title: "Talk about the creation process of WOMAN HOOD in the frame of "Tanzen & Reden" (18h)"
+  location: Kitchen & Bar of Lendhotel Graz
+  location-link: https://www.tanz-graz.at
+  country: AT
 - date: 2022-07-01
   title: Valerie und die Gutenachtschaukel (10h & 16h)
   location: Hoftheater Höf/Präbach
@@ -54,28 +59,19 @@
   location-link: https://www.hoftheaterhoef.at/programm
   country: AT
 - date: 2022-07-08
-  title: Workshop TanzImpro
-  location: Styrian Summer Art Festival
-  location-link: http://www.styriansummerart.at/kurse/tanzimpro-workshop-basics-magie-flow-mit-ursula-graber/
-  country: AT
-- date: 2022-07-09
-  title: Workshop TanzImpro
-  location: Styrian Summer Art Festival
-  location-link: http://www.styriansummerart.at/kurse/tanzimpro-workshop-basics-magie-flow-mit-ursula-graber/
-  country: AT
-- date: 2022-07-10
-  title: Workshop TanzImpro
-  location: Styrian Summer Art Festival
+  end-date: 2022-07-10
+  title: "Workshop TanzImpro: Basics, Magie & Flow"
+  location: Pöllau, Styrian Summer Art Festival
   location-link: http://www.styriansummerart.at/kurse/tanzimpro-workshop-basics-magie-flow-mit-ursula-graber/
   country: AT
 - date: 2022-11-08
-  title: "WOMAN HOOD: Work in Progress Showing & Talk, 19h"
+  title: "WOMAN HOOD"
   location: Homotopia Festival, Liverpool
   location-link: https://www.homotopia.net/festival/
   country: UK
 - date: 2022-07-11
   end-date: 2022-07-15
-  title: Workshop for Teenagers
+  title: TanzImpro Workshop for Teenagers
   location: KinderKunstHochschule Steiermark
-  location-link: https://www.kinderkunsthochschulesteiermark.at/
+  location-link: https://kinder.kunsthochschule.at/
   country: AT
