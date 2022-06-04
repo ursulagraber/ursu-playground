@@ -41,7 +41,7 @@ galleries:
 
 * Aquest mes m’ha donat aire fresc, noves idees, remoure i moure. Un curs exprés però profund amb molt bona informació i premisses d’investigació. El recomanaria per explorar nous espais i textures al cos. Per millor, més dies! Gràcies moltíssimes! (Paula) <br />
 
-* Molt xulo. M’ha agradat la varietat de coses que hem treballat. Cap classe era semblant a la anterior. La cosa que potser m’ha agradat més ha estat la teva actitud alegria per la dansa i la diversió. Realment m’ho he passat superbé! Merci (Miki) <br />
+* Molt xulo. M’ha agradat la varietat de coses que hem treballat. Cap classe era semblant a la anterior. La cosa que potser m’ha agradat més ha estat la teva actitud alegre per la dansa i la diversió. Realment m’ho he passat superbé! Merci (Miki) <br />
 
 * Gràcies! La Ursula posa molt bon ambient i té una energia molt bonica!! M’ho he passat molt bé i m’ha ajudat a superar una mica de vergonya. <br />
 
