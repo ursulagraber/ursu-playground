@@ -1,18 +1,18 @@
 html {
-  height:100%;
+  height: 100%;
 }
 
-html , body {
+html, body {
   padding: 0;
   margin: 0;
   line-height: 1.6em;
   background-color: #FFFFFF;
+  font-size: $base-font-size;
 }
 
 body {
   position: relative;
-  min-height:100%;
-  font-size: 1.3em;
+  min-height: 100%;
 }
 
 /* footer phantom block */
@@ -29,7 +29,7 @@ body, input, textarea {
 }
 
 h1 {
-  font-size: 1.8em;
+  font-size: $header-font-size;
   margin-bottom: 1em;
   line-height: 1.3em;
 
@@ -52,7 +52,7 @@ h1.fullpage-left {
 }
 
 h1.full-width-white {
-  font-size: 1.8em;
+  font-size: $header-font-size;
   margin: 0;
   padding: 0;
   line-height: 1.3em;
@@ -61,7 +61,7 @@ h1.full-width-white {
 }
 
 h2 {
-  font-size: 1.6em;
+  font-size: $header2-font-size;
   color: white;
 
   font-family: $header-font;
@@ -79,7 +79,7 @@ h3
 {
   color: white;
   font-weight: bold;
-  font-size: 1.2em;
+  font-size: 0.8*$header-font-size;
 
   font-family: $header-font;
 }
@@ -121,7 +121,7 @@ footer {
   color: white;
   text-align: center;
   padding: 20px 0;
-  font-size: .8em;
+  font-size: $smaller-font-size;
 
   position: absolute;
   bottom: 0;
@@ -172,7 +172,7 @@ footer {
       color: #444;
       text-transform: uppercase;
       letter-spacing: 1px;
-      font-size: 1.4em;
+      font-size: $base-font-size;
 
       font-family: $navigation-font;
 
@@ -240,7 +240,7 @@ a {
 
 p.quote
 {
-  font-size: 1.6em;
+  font-size: $base-font-size;
   font-weight: bold;
 
   font-family: $header-font;

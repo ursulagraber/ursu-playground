@@ -186,7 +186,7 @@
 
 .caption-title
 {
-  font-size: 1.2em;
+  font-size: $smaller-font-size;
   font-weight: bold;
 }
 
@@ -306,7 +306,7 @@
 .contact-form-title
 {
   text-align: center;
-  font-size: 1.8em;
+  font-size: $huge-font-size;
 }
 
 #bottom-container
@@ -561,7 +561,7 @@ figure#right {
       text-align: center;
       color: black;
       font-weight: bold;
-      font-size: 2em;
+      font-size: $header-font-size;
       background: rgba(200, 200, 200, 0.5);
   }
 
@@ -573,19 +573,19 @@ figure#right {
     text-align: center;
     color: white;
     font-weight: bold;
-    font-size: 1.2em;
+    font-size: $base-font-size;
     padding: 0.5em;
     background: rgba(0, 0, 0, 0.5);
 
     span {
-      font-size: 0.7em;
+      font-size: $smaller-font-size;
       font-weight: normal;
       vertical-align: middle;
     }
 
     @media screen and #{$half-screen}
     {
-      font-size: 1em;
+      font-size: $base-font-size;
     }
   }
 }
