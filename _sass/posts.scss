@@ -5,6 +5,8 @@
   }
 }
 .post-nav div {
+  font-size: $header2-font-size;
+  word-break: break-word;
   /* flex-grow, flex-shrink, flex-basis */
   flex: 1 1 0;
 }
