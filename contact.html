@@ -15,7 +15,7 @@ first_image: https://ursulagraber.files.wordpress.com/2021/12/woman-hood-edi-hab
 
     <div id="top-text">
       <h2 style="padding-bottom: 0.5em; ">Ursula Graber</h2>
-        <p>Please contact me for all inquiries and touring in Austria</p>
+        
       {% if site.data.company_details.email %}
         <a class="pairs" href="mail:{{ site.data.company_details.email }}">
           <img class="paired-icon" src="/images/mail.png" />{{ site.data.company_details.email }}
@@ -33,21 +33,6 @@ first_image: https://ursulagraber.files.wordpress.com/2021/12/woman-hood-edi-hab
       {% endif %}
 
 
-
-
-      <h2 style="padding-bottom: 0.5em; ">Giulia Armanini</h2>
-      <p>Please contact Giulia Armanini for touring in Spain and Europe (except Austria)</p>
-      {% if site.data.company_details.email2 %}
-        <a class="pairs" href="mail:{{ site.data.company_details.email2 }}">
-          <img class="paired-icon" src="/images/mail.png" />{{ site.data.company_details.email2 }}
-        </a><br>
-      {% endif %}
-
-      {% if site.data.company_details.phone3 %}
-        <a class="pairs" href="tel:{{ site.data.company_details.phone3 }}">
-          <img class="paired-icon" src="/images/phone_black.png" />{{ site.data.company_details.phone3 }}
-        </a><br>
-      {% endif %}
     	{% include social-icons.html %}
     </div>
   </div>
