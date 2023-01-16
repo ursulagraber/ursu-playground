@@ -52,7 +52,7 @@ featured_video:
 Un solo de danza en cuatro imágenes sobre personalidades femeninas extraordinarias e idiosincráticas, sobre feminidad y masculinidad. El espectáculo propone crear un paisaje de fuertes figuras femeninas.
 
 
-*#feminismo #idiosincrático #femininidad #machismo #lucha #loco #ejército femenino #cámara kinect #proyección en directo #lenguaje de signos #inclusión #medea #solo #ira #emoción #vulnerabilidad*
+*#feminismo #idiosincrático #femininidad #machismo #lucha #loco #ejército femenino #cámara kinect #proyección en directo #lenguaje de señas #inclusión #medea #solo #ira #emoción #vulnerabilidad*
 
 
 
