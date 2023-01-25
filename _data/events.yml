@@ -113,3 +113,24 @@
   location: upTown Art, Graz
   location-link: https://www.uptownart.at/events
   country: AT
+- date: 2023-01-28
+  title: Work-in-progress showing at Show Your Darlings
+  location: Tanzhaus, Graz
+  location-link: https://tanz-graz.at/termine-2/
+  country: AT
+- date: 2023-02-04
+  title: Dance Improv class, 17-19h
+  location: das andere Theater, Graz
+  location-link: https://tanz-graz.at/termine-2/
+  country: AT
+- date: 2023-01-30
+  end-date: 2022-02-10
+  title: Residency
+  location: Tanzhaus Graz
+  location-link: https://www.tanzhausgraz.at/
+  country: AT
+- date: 2023-09-01
+  title: Premiere MENTAL MUSCLE
+  location: Graz citycenter
+  location-link:
+  country: AT
