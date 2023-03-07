@@ -108,7 +108,10 @@
       font-size: $smaller-font-size;
     }
 
-    input::placeholder{ opacity: 1}
+    input::placeholder {
+      opacity: 1;
+      color: #ffffff;
+    }
 
   }
 

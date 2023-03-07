@@ -3,42 +3,58 @@ de:
    link: /
 -  name: Über mich
    link: /about/
--  name: Performances
+-  name: Performances & projects
    link: /projects/
 -  name: Workshops
    link: /workshops/
--  name: Kontakt/Presse
+-  name: Galerie
+   link: /gallery/
+-  name: Kontakt
    link: /contact/
+-  name: Presse
+   link: /presse/
 ca:
 -  name: Home/Agenda
    link: /index-ca/
 -  name: Sobre mi
    link: /about-ca/
--  name: Espectacles
+-  name: Espectacles i projectes
    link: /projects-ca/
 -  name: Tallers
    link: /workshops-ca/
+-  name: Gal·leria
+   link: /gallery-ca/
 -  name: Contacte/Premsa
    link: /contact-ca/
+-  name: Premsa
+   link: /presse-ca/
 en:
 -  name: Home/Agenda
    link: /index-en/
 -  name: About me
    link: /about-en/
--  name: Performances
+-  name: Performances & projects
    link: /projects-en/
 -  name: Workshops
    link: /workshops-en/
+-  name: Gallery
+   link: /gallery-en/
 -  name: Contact/Press
    link: /contact-en/
+-  name: Press
+   link: /presse-en/
 es:
 -  name: Inicio/Agenda
    link: /index-es/
 -  name: Sobre mí
    link: /about-es/
--  name: Espectáculos
+-  name: Espectáculos y proyectos
    link: /projects-es/
 -  name: Talleres
    link: /workshops-es/
+-  name: Galería
+   link: /gallery-es/
 -  name: Contacto/Prensa
    link: /contact-es/
+-  name: Prensa
+   link: /presse-es/
