@@ -76,6 +76,8 @@ spleen festival Graz, spleen*trieb festival, Shopping Nord Graz, henx film produ
 
 Graz 2020
 
+Duration: 20 minutes (shorter or longer versions are possible)
+
 <br>
 
 ## Press reviews

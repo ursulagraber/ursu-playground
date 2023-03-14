@@ -129,8 +129,14 @@
   location: Tanzhaus Graz
   location-link: https://www.tanzhausgraz.at/
   country: AT
-- date: 2023-09-01
-  title: Premiere MENTAL MUSCLE
-  location: Graz citycenter
-  location-link:
+- date: 2023-09-13
+  title: Premiere MENTAL MUSCLE, in the frame of the festival NEWSoffSTYRIA
+  location: outdoor, Graz citycenter
+  location-link: https://www.theaterland.at/2021/newsoffstyria-2.21/index.html
+  country: AT
+- date: 2023-09-16
+  end-date: 2023-09-17
+  title: MENTAL MUSCLE
+  location: outdoor, Graz citycenter
+  location-link: https://www.theaterland.at/2021/newsoffstyria-2.21/index.html
   country: AT

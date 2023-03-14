@@ -94,6 +94,8 @@ Trailer & Video: **Fabian Czernovsky**<br>
 
 Graz, 2020
 
+Duration: 60 mins
+
 <br>
 
 ## With friendly support from

@@ -73,6 +73,8 @@ Consejos artísticos: Lisa Como
 
 Mumuth, Graz
 
+Duración: 15 minutos
+
 <br>
 
 ## Reseñas de prensa

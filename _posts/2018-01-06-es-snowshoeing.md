@@ -74,4 +74,6 @@ Consejos antropológicos: Claire de Ribaupierre
 
 <i>Manufacture, Lausanne</i>
 
+Duración: 15 minutos
+
 <!--[![Snowshoeing / Geile Scheiße](https://i.vimeocdn.com/video/775684724_640.jpg)](https://player.vimeo.com/video/330582854)-->

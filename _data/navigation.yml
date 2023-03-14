@@ -3,7 +3,7 @@ de:
    link: /
 -  name: Über mich
    link: /about/
--  name: Performances & projects
+-  name: Projekte
    link: /projects/
 -  name: Workshops
    link: /workshops/
@@ -18,13 +18,13 @@ ca:
    link: /index-ca/
 -  name: Sobre mi
    link: /about-ca/
--  name: Espectacles i projectes
+-  name: Projectes
    link: /projects-ca/
 -  name: Tallers
    link: /workshops-ca/
 -  name: Gal·leria
    link: /gallery-ca/
--  name: Contacte/Premsa
+-  name: Contacte
    link: /contact-ca/
 -  name: Premsa
    link: /presse-ca/
@@ -33,13 +33,13 @@ en:
    link: /index-en/
 -  name: About me
    link: /about-en/
--  name: Performances & projects
+-  name: Projects
    link: /projects-en/
 -  name: Workshops
    link: /workshops-en/
 -  name: Gallery
    link: /gallery-en/
--  name: Contact/Press
+-  name: Contact
    link: /contact-en/
 -  name: Press
    link: /presse-en/
@@ -48,13 +48,13 @@ es:
    link: /index-es/
 -  name: Sobre mí
    link: /about-es/
--  name: Espectáculos y proyectos
+-  name: Proyectos
    link: /projects-es/
 -  name: Talleres
    link: /workshops-es/
 -  name: Galería
    link: /gallery-es/
--  name: Contacto/Prensa
+-  name: Contacto
    link: /contact-es/
 -  name: Prensa
    link: /presse-es/

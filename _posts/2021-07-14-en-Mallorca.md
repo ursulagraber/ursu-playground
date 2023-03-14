@@ -47,6 +47,8 @@ A lecture performance with Ursula Graber and her Catalan mother-in-law Eulàlia 
 
 The lecture performance uses the dialects of Styrian and Mallorquin (and brings Mallorca to Styria, so to speak) as well as the languages Standard German, Catalan and Spanish.
 
+The addition "Schwgrmttrtchtrsprchn" is an German word whose vowels have been removed. It is a sound mimic that expresses how the German language sounds to non-native speakers.
+
 
 *#languages #dialects #mother tongue #identity #multilingualism #mother-in-law #intercultural #gestures #language of movement #cross-generational*
 
@@ -85,6 +87,8 @@ Video: <b>Fabian Czernovsky</b> <br>
 
 
 Premiere as part of the festival [newsOFFstyria](https://www.theaterland.at/2021/newsoffstyria-2.21/index.html) on September 15, 2021, Graz
+
+Duration: 60 mins
 
 <br>
 

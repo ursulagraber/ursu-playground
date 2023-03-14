@@ -90,6 +90,8 @@ Trailer & Film: **Fabian Czernovsky**<br>
 
 Graz, 2020
 
+Dauer: 60 min
+
 <br>
 
 ## Gefördert und unterstützt von

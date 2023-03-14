@@ -71,6 +71,10 @@ spleen festival Graz, spleen*trieb festival, Shopping Nord Graz, henx film produ
 
 Graz 2020
 
+Durada: 20 minuts (es poden fer versions més curtes o més llargues)
+
+
+
 ## Ressenyes de premsa
 
 ## "Una mirada al cel estelat. Per què fem el que fem? Què passa sense motiu, quins processos de la nostra vida segueixen lleis desconegudes? Shooting Stars i cometes desafia com pensem sobre l'atzar i les regles". Valentin Bayer, periodista.

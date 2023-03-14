@@ -80,4 +80,6 @@ La Manufacture, Lausanne
 
 2018
 
+Dauer: 15 Minuten
+
 <!--[![Snowshoeing / Geile Scheiße](https://i.vimeocdn.com/video/775684724_640.jpg)](https://player.vimeo.com/video/330582854)-->

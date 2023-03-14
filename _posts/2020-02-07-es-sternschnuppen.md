@@ -71,6 +71,9 @@ spleen festival Graz, spleen*trieb festival, Shopping Nord Graz, henx film produ
 
 Graz 2020
 
+Duración: 20 minutos (son posibles versiones más cortas o más largas)
+
+
 ## Reseñas de prensa
 
 ## "Una mirada al cielo estrellado. ¿Por qué hacemos lo que hacemos? ¿Qué ocurre sin motivo, qué procesos de nuestra vida siguen leyes desconocidas? Shooting Stars desafía nuestra idea del azar y sus reglas." Valentin Bayer, periodista.

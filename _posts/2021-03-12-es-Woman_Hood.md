@@ -88,6 +88,8 @@ Cámara: **Fabian Czernovsky**<br>
 Montaje & trailer: **Berta Monsó Purtí**<br>
 Graz 2021
 
+Duración: 60 minutos
+
 
 <br />
 

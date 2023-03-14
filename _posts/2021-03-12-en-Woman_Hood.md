@@ -85,6 +85,8 @@ Photos: **Clemens Nestroy, Edi Haberl**<br>
 
 Graz 2021
 
+Duration: 60 mins
+
 <br>
 
 ## With friendly support from

@@ -48,7 +48,7 @@ Una conferencia escenificada con Ursula Graber y su suegra catalana Eulàlia Pur
 
  Utilizan los dialectos de Estiria y Mallorca (y llevan Mallorca a Estiria, por así decirlo), además de las variantes estándar del alemán, del catalán y del castellano.
 
-
+La adición “Schwgrmttrtchtrsprchn” es una palabra alemana de la que se han eliminado las vocales. Es una imitación sonora que expresa cómo suena el alemán a los hablantes no nativos.
 
 *#lenguas #dialectos #lengua materna #identidad #multilingüismo #suegra #intercultural #gestos #lengua de movimiento #intergeneracional*
 
@@ -87,6 +87,8 @@ Fotos:   **Edi Haberl**<br>
 
 
 Estreno como parte del festival [newsOFFstyria](https://www.theaterland.at/2021/newsoffstyria-2.21/index.html) el 15 de septiembre de 2021 en Graz
+
+Duración: 60 minutos
 
 <br />
 

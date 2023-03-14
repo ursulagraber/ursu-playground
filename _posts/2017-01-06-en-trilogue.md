@@ -77,6 +77,8 @@ Artistic advise: Lisa Como
 Thanks to the Mumuth of the Graz University of Art Mumuth Graz
 2017
 
+Duration: 15 minutes
+
 
 <br>
 

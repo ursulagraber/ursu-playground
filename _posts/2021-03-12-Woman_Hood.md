@@ -85,7 +85,10 @@ Filmaufnahme: **Fabian Czernovsky**<br>
 Filmschnitt & Trailer: **Berta Monsó Purtí**<br>
 Graz 2021
 
+Dauer: 60 min
+
 <br>
+
 
 ## Mit freundlicher Unterstützung von
 

@@ -48,6 +48,8 @@ Una conferència escenificada amb Ursula Graber i la seva sogra catalana Eulàli
 
  Utilitzen els dialectes d'Estíria i Mallorca (i porten Mallorca a Estíria, per dir-ho així), a més de les variants  estàndard alemany, català i castellà.
 
+ L'addició "Schwgrmttrtchtrsprchn" és una paraula alemanya de la qual s'han eliminat les vocals. És una imitació sonora que expressa com sona l'alemany als parlants no nadius.
+
 
 
 *#llengües #dialectes #llengua materna #identitat #multilingüisme #sogra #intercultural #gestos #llengua de moviment #intergeneracional*
@@ -85,6 +87,8 @@ Fotos:   **Edi Haberl**<br>
 
 
 Estrena com a part del festival [newsOFFstyria](https://www.theaterland.at/2021/newsoffstyria-2.21/index.html) el 15 de setembre de 2021 a Graz
+
+Durada: 60 min
 
 <br />
 

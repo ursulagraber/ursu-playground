@@ -71,6 +71,8 @@ Consells artístics: Lisa Como
 
 Mumuth, Graz
 
+Durada: 15 minuts
+
 <br>
 
 ## Ressenya de premsa

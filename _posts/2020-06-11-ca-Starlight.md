@@ -88,6 +88,8 @@ Residència:	**raw matters (Wien)**<br>
 Fotos: 	**Edi Haberl, Clemens Nestroy**<br>
 Càmera i Tráiler: **Fabian Czernovsky**<br>
 
+Durada: 60 min
+
 <br />
 
 ## Amb el suport de:
