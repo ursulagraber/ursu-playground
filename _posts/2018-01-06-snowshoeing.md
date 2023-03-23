@@ -28,7 +28,7 @@ galleries:
     image: https://ursulagraber.files.wordpress.com/2021/12/28795925_1661689130563575_3667113536263290880_o.jpg?w=1024&fit=crop
     data-group: superworkshop
   - title: (c) Ursula Graber
-    image: https://ursulagraber.files.wordpress.com/2021/12/photo_2018-02-12_17-50-50.jpg?w=2500&fit=crop
+    image: https://ursulagraber.files.wordpress.com/2021/12/photo_2018-02-12_17-50-50.jpg?w=1024&fit=crop
     data-group: superworkshop
   - title: (c) Gregory Batardon
     image: https://ursulagraber.files.wordpress.com/2021/12/ursu-twist.jpg?w=1024&fit=crop

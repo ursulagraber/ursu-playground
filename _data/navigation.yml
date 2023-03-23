@@ -11,7 +11,7 @@ de:
    link: /gallery/
 -  name: Kontakt
    link: /contact/
--  name: Presse
+-  name: Pressestimmen
    link: /presse/
 ca:
 -  name: Home/Agenda
@@ -26,7 +26,7 @@ ca:
    link: /gallery-ca/
 -  name: Contacte
    link: /contact-ca/
--  name: Premsa
+-  name: Notes de Premsa
    link: /presse-ca/
 en:
 -  name: Home/Agenda
@@ -41,7 +41,7 @@ en:
    link: /gallery-en/
 -  name: Contact
    link: /contact-en/
--  name: Press
+-  name: Press comments
    link: /presse-en/
 es:
 -  name: Inicio/Agenda
