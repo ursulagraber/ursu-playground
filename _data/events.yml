@@ -124,11 +124,52 @@
   location-link: https://tanz-graz.at/termine-2/
   country: AT
 - date: 2023-01-30
-  end-date: 2022-02-10
+  end-date: 2023-02-10
   title: Residency
   location: Tanzhaus Graz
   location-link: https://www.tanzhausgraz.at/
   country: AT
+- date: 2023-05-27
+  title: Full House by eléctrico28
+  location: Riodebilles
+  location-link: https://www.electrico28.org/work/full-house-en/
+  country: ES
+- date: 2023-06-03
+  title: Proyecto X by Silere Arts
+  location: Toulouse, Festivale Exit
+  location-link: https://silerearts.com/proyectos/
+  country: FR
+- date: 2023-06-30
+  end-date: 2023-07-02
+  title: Workshop Tanz, Clown!
+  location: Pöllau, STMK
+  location-link: https://www.styriansummerart.at/kunstkurse/kunstkurse/tanz-clown-clowneske-choreographien-mit-ursula-graber
+  country: AT
+- date: 2023-07-07
+  title: Proyecto X by Silere Arts
+  location: Alès, Festivale Cratère Surface
+  location-link: https://silerearts.com/proyectos/
+  country: FR
+- date: 2023-07-08
+  title: Proyecto X by Silere Arts
+  location: Alès, Festivale Cratère Surface
+  location-link: https://silerearts.com/proyectos/
+  country: FR
+- date: 2023-07-28
+  title: Full House by eléctrico28
+  location: Ludwigshafen
+  location-link: https://www.electrico28.org/work/full-house-en/
+  country: DE
+- date: 2023-07-29
+  title: Full House by eléctrico28
+  location: Ludwigshafen
+  location-link: https://www.electrico28.org/work/full-house-en/
+  country: DE
+- date: 2023-07-30
+  title: Full House by eléctrico28
+  location: Ludwigshafen
+  location-link: https://www.electrico28.org/work/full-house-en/
+  country: DE
 - date: 2023-09-13
   title: Premiere MENTAL MUSCLE, in the frame of the festival NEWSoffSTYRIA
   location: outdoor, Graz citycenter
