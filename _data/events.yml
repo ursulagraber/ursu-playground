@@ -134,6 +134,16 @@
   location: Riodebitlles
   location-link: https://www.electrico28.org/work/full-house-en/
   country: ES
+- date: 2023-05-24
+  title: Proyecto X by Silere Arts
+  location: Valladolid, Festival TAC
+  location-link: https://tacva.org/
+  country: ES
+- date: 2023-05-25
+  title: Proyecto X by Silere Arts
+  location: Valladolid, Festival TAC
+  location-link: https://tacva.org/
+  country: ES
 - date: 2023-06-03
   title: Proyecto X by Silere Arts
   location: Toulouse, Festivale Exit
@@ -172,12 +182,16 @@
   country: DE
 - date: 2023-09-13
   title: Premiere MENTAL MUSCLE, in the frame of the festival NEWSoffSTYRIA
-  location: outdoor, Graz citycenter
+  location: Graz
   location-link: https://www.theaterland.at/2021/newsoffstyria-2.21/index.html
   country: AT
 - date: 2023-09-16
-  end-date: 2023-09-17
   title: MENTAL MUSCLE
-  location: outdoor, Graz citycenter
+  location: Graz
+  location-link: https://www.theaterland.at/2021/newsoffstyria-2.21/index.html
+  country: AT
+- date: 2023-09-17
+  title: MENTAL MUSCLE
+  location: Graz
   location-link: https://www.theaterland.at/2021/newsoffstyria-2.21/index.html
   country: AT
