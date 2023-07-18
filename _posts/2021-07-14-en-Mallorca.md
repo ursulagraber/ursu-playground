@@ -43,7 +43,7 @@ featured_video:
     id:
 ---
 
-A lecture performance with Ursula Graber and her Catalan mother-in-law Eulàlia Purtí about languages and dialects, identity and family relationships.
+A hybrid and multilingual performance with Ursula Graber and her Catalan mother-in-law Eulàlia Purtí about languages and dialects, identity and family relationships.
 
 The lecture performance uses the dialects of Styrian and Mallorquin (and brings Mallorca to Styria, so to speak) as well as the languages Standard German, Catalan and Spanish.
 

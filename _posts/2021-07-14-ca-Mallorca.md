@@ -43,8 +43,7 @@ featured_video:
     id:
 ---
 
-Una conferència escenificada amb Ursula Graber i la seva sogra catalana Eulàlia Purtí sobre llengües i dialectes, identitat i relacions familiars.
-
+Un espectacle híbrid i multilingüe amb Ursula Graber i la seva sogra catalana Eulàlia Purtí sobre llengües i dialectes, identitat i relacions familiars.
 
  Utilitzen els dialectes d'Estíria i Mallorca (i porten Mallorca a Estíria, per dir-ho així), a més de les variants  estàndard alemany, català i castellà.
 

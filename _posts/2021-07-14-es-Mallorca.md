@@ -43,10 +43,10 @@ featured_video:
     id:
 ---
 
-Una conferencia escenificada con Ursula Graber y su suegra catalana Eulàlia Purtí sobre lenguas y dialectos, identidad y relaciones familiares.
+Un espectáculo híbrido y multilingüe con Ursula Graber y su suegra catalana Eulàlia Purtí sobre lenguas y dialectos, identidad y relaciones familiares.
 
 
- Utilizan los dialectos de Estiria y Mallorca (y llevan Mallorca a Estiria, por así decirlo), además de las variantes estándar del alemán, del catalán y del castellano.
+Utilizan los dialectos de Estiria y Mallorca (y llevan Mallorca a Estiria, por así decirlo), además de las variantes estándar del alemán, del catalán y del castellano.
 
 La adición “Schwgrmttrtchtrsprchn” es una palabra alemana de la que se han eliminado las vocales. Es una imitación sonora que expresa cómo suena el alemán a los hablantes no nativos.
 
