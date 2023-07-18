@@ -187,16 +187,26 @@
   country: DE
 - date: 2023-09-13
   title: Premiere MENTAL MUSCLE, in the frame of the festival NEWSoffSTYRIA
-  location: Graz
+  location: Graz, Mariahilferplatz, 17h
   location-link: https://www.theaterland.at/2021/newsoffstyria-2.21/index.html
+  country: AT
+- date: 2023-09-14
+  title: MENTAL MUSCLE
+  location: Graz, Mariahilferplatz, 17h
+  location-link:
   country: AT
 - date: 2023-09-16
   title: MENTAL MUSCLE
-  location: Graz
-  location-link: https://www.theaterland.at/2021/newsoffstyria-2.21/index.html
+  location: Graz, Mariahilferplatz, 11h & 17h
+  location-link:
   country: AT
 - date: 2023-09-17
   title: MENTAL MUSCLE
-  location: Graz
-  location-link: https://www.theaterland.at/2021/newsoffstyria-2.21/index.html
+  location: Graz, Mariahilferplatz, 17h
+  location-link:
   country: AT
+- date: 2023-09-30
+  title: Mallorca a Estíria - SCHWGRMTTRTCHTRSPRCHN
+  location: Sala La Planeta, Girona, 20h
+  location-link: https://www.laplaneta.cat/
+  country: CAT
