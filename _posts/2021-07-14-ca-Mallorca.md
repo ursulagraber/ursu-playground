@@ -45,7 +45,7 @@ featured_video:
 
 Un espectacle híbrid i multilingüe amb Ursula Graber i la seva sogra catalana Eulàlia Purtí sobre llengües i dialectes, identitat i relacions familiars.
 
- Utilitzen els dialectes d'Estíria i Mallorca (i porten Mallorca a Estíria, per dir-ho així), a més de les variants  estàndard alemany, català i castellà.
+ Utilitzen els dialectes d'Estíria i Mallorca (i porten Mallorca a Estíria, per dir-ho així), a més de les variants  estàndard alemany i català.
 
  L'addició "Schwgrmttrtchtrsprchn" és una paraula alemanya de la qual s'han eliminat les vocals. És una imitació sonora que expressa com sona l'alemany als parlants no nadius.
 
