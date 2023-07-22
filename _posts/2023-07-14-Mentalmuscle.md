@@ -79,7 +79,7 @@ Mental Load heißt, an alles denken zu müssen – wer denkt daran? Mental Load 
 
 ## Credits
 
-Konzept, Performance: <b>Ursula Graber, Hanna Rohn</b> <br>
+Konzept, Performance: <b>Ursula Graber, [Hanna Rohn](http://www.hannarohn.com/)</b> <br>
 Outside Eye: <b>Alina Stockinger/eléctrico28</b> <br>
 Kostüm:	<b>Lisa Horvath</b> <br>
 Produktionsleitung: <b>Christina Vanek, Ursula Graber, Hanna Rohn</b> <br>
@@ -90,6 +90,8 @@ Video: <b>Fabian Czernovsky</b> <br>
 Dauer: 60 min
 
 Premiere im Rahmen des Festivals [NEWSoffSTYRIA](https://www.theaterland.at/2023/newsoffstyria-2.23/index.html) am 13. September 2023, Graz
+
+Schau dir auch [Hanna Rohns Website](http://www.hannarohn.com/) an!
 
 <br>
 
