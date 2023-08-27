@@ -214,3 +214,30 @@
   location: Sala La Planeta, Girona, 20h
   location-link: https://www.laplaneta.cat/
   country: CAT
+- date: 2023-11-04
+  end-date: 2023-11-12
+  title: Full House by eléctrico28
+  location: A Coruña & Lugo
+  location-link: http://www.electrico28.org/
+  country: ES
+- date: 2023-10-09
+  end-date: 2023-12-09
+  title: Residency @ Tanz*Hotel
+  location: Vienna
+  location-link: https://www.tanzhotel.at/de
+  country: AT
+- date: 2023-12-07
+  title: Work-in-progress Showing of Residency, 19h
+  location: Tanz*Hotel, Zirkusgasse 35, Vienna
+  location-link: https://www.tanzhotel.at/de
+  country: AT
+- date: 2023-12-08
+  title: Work-in-progress Showing of Residency, 19h
+  location: Tanz*Hotel, Zirkusgasse 35, Vienna
+  location-link: https://www.tanzhotel.at/de
+  country: AT
+- date: 2023-12-09
+  title: Work-in-progress Showing of Residency, 19h
+  location: Tanz*Hotel, Zirkusgasse 35, Vienna
+  location-link: https://www.tanzhotel.at/de
+  country: AT
