@@ -48,6 +48,11 @@ Mental Muscle - Ein performativer Walk von und mit Ursula Graber & [Hanna Rohn](
 
 Irgendwo zwischen Denkaufwand, Care-Arbeit und diffusem Risikobewusstsein – das ist Mental Load. Die Arbeit hinter den Kulissen. Oder auch: Gewichtheben für die Unsichtbarkeit. Eine zutiefst weibliche* Sportart. Aber wo Mental Load ist, müsste da nicht auch ein Mental Muscle sein?
 
+Tickets für die [Premiere hier erhältlich](https://www.theaterland.at/2023/reservierung/index.html?idmain=176&idtype=1346), für die [Folgevorstellungen bitte hier klicken](https://shop.ticketteer.com/ursula_graber_contemporary_dancer_choreographer/e/evt_64e4705c64cf15001ed8955b).
+
+
+
+
 *#MentalLoad #sichtbarmachen #Gefühlsarbeit #carework #unsichtbareArbeit #ständig&immer #Frauenarbeit #outdoorperformance #Spaziergang #Verantwortung*
 
 
@@ -70,7 +75,7 @@ Mental Load heißt, an alles denken zu müssen – wer denkt daran? Mental Load 
 	- So 17.09. 17:00   
 
   Lendviertel Graz, outdoor, Dauer ca. 60 Minuten   
-  Tickets für die Premiere [hier erhältlich](https://www.theaterland.at/2023/reservierung/index.html?idmain=176&idtype=1346), für die Folgevorstellungen alsbald.
+  Tickets für die [Premiere hier erhältlich](https://www.theaterland.at/2023/reservierung/index.html?idmain=176&idtype=1346), für die [Folgevorstellungen bitte hier klicken](https://shop.ticketteer.com/ursula_graber_contemporary_dancer_choreographer/e/evt_64e4705c64cf15001ed8955b).
 
 
 
@@ -90,6 +95,8 @@ Video: <b>Fabian Czernovsky</b> <br>
 Dauer: 60 min
 
 Premiere im Rahmen des Festivals [NEWSoffSTYRIA](https://www.theaterland.at/2023/newsoffstyria-2.23/index.html) am 13. September 2023, Graz
+
+  ------Tickets für die [Premiere hier erhältlich](https://www.theaterland.at/2023/reservierung/index.html?idmain=176&idtype=1346), für die [Folgevorstellungen bitte hier klicken](https://shop.ticketteer.com/ursula_graber_contemporary_dancer_choreographer/e/evt_64e4705c64cf15001ed8955b).------
 
 Schau dir auch [Hanna Rohns Website](http://www.hannarohn.com/) an!
 
