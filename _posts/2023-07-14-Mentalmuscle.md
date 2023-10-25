@@ -41,7 +41,7 @@ galleries:
 
 featured_video:
     title:
-    url:
+    url: https://www.youtube.com/embed/P5KRWhI-q4E?si=8AysZzpnM1PjJaeQ
     id:
 ---
 Mental Muscle - Ein performativer Walk von und mit Ursula Graber & [Hanna Rohn](http://www.hannarohn.com/)
