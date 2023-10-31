@@ -70,7 +70,6 @@ Mental Load means having to think of everything - who thinks of that? Mental Loa
 	- 17.09.23 17:00   
 
   Lendviertel Graz, outdoor, duration: 60 minutes   
-  Get [here](https://www.theaterland.at/2023/reservierung/index.html?idmain=176&idtype=1346) your tickets for the premiere. Tickets for the follow-up performances will be available soon.
 
 
 

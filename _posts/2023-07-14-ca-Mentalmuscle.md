@@ -69,7 +69,6 @@ En algun lloc entre l'esforç mental, la feina de cura i la consciència difusa 
 	- 17.09.23 17:00   
 
   Lendviertel Graz, al aire lliure, durada: 60 minuts   
-  Comprar [aquí](https://www.theaterland.at/2023/reservierung/index.html?idmain=176&idtype=1346) entrades per l'estrena. Les entrades per les actuacions posteriors seran disponibles aviat.
 
 
 

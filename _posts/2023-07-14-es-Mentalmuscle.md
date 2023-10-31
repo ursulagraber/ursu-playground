@@ -68,7 +68,7 @@ En algún lugar entre el esfuerzo mental, el trabajo emocional y la conciencia d
 	- 17.09.23 a las 17:00   
 
   Lendviertel Graz, al aire libre, duración: 60 minutos   
-  Compre [aquí](https://www.theaterland.at/2023/reservierung/index.html?idmain=176&idtype=1346) las entradas para el estreno. Las entradas para las actuaciones posteriores estarán disponibles próximamente.
+
 
 
 

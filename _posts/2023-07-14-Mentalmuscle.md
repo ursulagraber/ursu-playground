@@ -75,9 +75,7 @@ Mental Load heißt, an alles denken zu müssen – wer denkt daran? Mental Load 
 	- So 17.09. 17:00   
 
   Lendviertel Graz, outdoor, Dauer ca. 60 Minuten   
-  Tickets für die [Premiere hier erhältlich](https://www.theaterland.at/2023/reservierung/index.html?idmain=176&idtype=1346), für die [Folgevorstellungen bitte hier klicken](https://shop.ticketteer.com/ursula_graber_contemporary_dancer_choreographer/e/evt_64e4705c64cf15001ed8955b).
-
-
+  
 
 <!--plop-->
 
