@@ -24,16 +24,16 @@ cast:
   other:
 galleries:
 - title: (c) Edi Haberl
-  image: https://ursulagraber.files.wordpress.com/2023/07/presse3_foto-stadt20230406_0120.jpg?w=2000&fit=crop
+  image: https://ursulagraber.files.wordpress.com/2023/11/fotos-25.jpg
   data-group: superworkshop
 - title: (c) Edi Haberl
-  image: https://ursulagraber.files.wordpress.com/2023/07/foto-stadt20230406_0255.jpg?w=2000&fit=crop
+  image: https://ursulagraber.files.wordpress.com/2023/11/fotos-20.jpg
   data-group: superworkshop
 - title: (c) Edi Haberl
-  image: https://ursulagraber.files.wordpress.com/2023/07/foto-stadt20230406_0169_2023_mentalmuscle_cedihaberl_poster.jpg?w=2000&fit=crop
+  image: https://ursulagraber.files.wordpress.com/2023/11/fotos-87.jpg
   data-group: superworkshop
 - title: (c) Edi Haberl
-  image: https://ursulagraber.files.wordpress.com/2023/07/foto-stadt20230406_0142_postcard.jpg?w=2000&fit=crop
+  image: https://ursulagraber.files.wordpress.com/2023/11/fotos-75.jpg
   data-group: superworkshop
 
 
@@ -41,7 +41,7 @@ galleries:
 
 featured_video:
     title:
-    url: https://www.youtube.com/embed/P5KRWhI-q4E?si=8AysZzpnM1PjJaeQ
+    url: https://www.youtube.com/embed/DNwYl9wEYWo
     id:
 ---
 Mental Muscle - Ein performativer Walk von und mit Ursula Graber & [Hanna Rohn](http://www.hannarohn.com/)
@@ -75,7 +75,7 @@ Mental Load heißt, an alles denken zu müssen – wer denkt daran? Mental Load 
 	- So 17.09. 17:00   
 
   Lendviertel Graz, outdoor, Dauer ca. 60 Minuten   
-  
+
 
 <!--plop-->
 
