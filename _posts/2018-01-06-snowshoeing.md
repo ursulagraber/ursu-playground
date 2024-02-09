@@ -11,6 +11,8 @@ categories:
 lang: de
 ref: snowshoeing
 
+published: false
+
 featured_image: https://ursulagraber.files.wordpress.com/2019/04/28577317_1661689210563567_5089443036379742208_o1.jpg?w=500&fit=crop
 brief: Solo von Ursula Graber
 cast:
